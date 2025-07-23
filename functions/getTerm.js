@@ -3,7 +3,7 @@ const path = require("path");
 
 exports.handler = async function (event) {
   const term = event.queryStringParameters.term?.toLowerCase();
-  const filePath = path.resolve(__dirname, "terms.json");
+  const filePath = path.join(__dirname, "terms.json"); // ✅ Just "terms.json" now
 
   try {
     const raw = fs.readFileSync(filePath, "utf-8");
@@ -22,6 +22,7 @@ exports.handler = async function (event) {
       body: JSON.stringify(terms[term])
     };
   } catch (err) {
+    console.error("Function error:", err); // ✅ Helpful for logs in Netlify
     return {
       statusCode: 500,
       body: JSON.stringify({ error: "Server error" })
