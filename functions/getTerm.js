@@ -3,7 +3,7 @@ const path = require("path");
 
 exports.handler = async function (event) {
   const term = event.queryStringParameters.term?.toLowerCase();
-  const filePath = path.resolve(__dirname, "../data/terms.json");
+  const filePath = path.resolve(__dirname, "terms.json");
 
   try {
     const raw = fs.readFileSync(filePath, "utf-8");
