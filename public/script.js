@@ -34,7 +34,7 @@ document.getElementById("explainBtn").addEventListener("click", async () => {
 
         <hr class="info-separator" />
 
-        ${data.use_case ? `<div class="label"><stron>🛠️ Use Case: </strong>${data.use_case}</div>` : ""}
+        ${data.use_case ? `<div class="label"><strong>🛠️ Use Case: </strong>${data.use_case}</div>` : ""}
 
         ${data.jargon_score ? `
             <div class="label"><strong>📏 Jargon Score: </strong>

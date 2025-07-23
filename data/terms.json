@@ -1,24 +1,76 @@
 {
-  "mqtt": {
-    "eli5": "Imagine walkie-talkies for your smart home devices.",
-    "boss": "MQTT is a lightweight messaging protocol used in IoT to send and receive small data packets.",
-    "sysadmin": "MQTT is a lightweight pub/sub protocol ideal for unreliable networks, frequently used in home automation and industrial IoT.",
-    "emoji": "📡🔌📶🤖",
-    "categories": ["Smart Home", "IoT", "Networking"],
-    "related": ["coap", "zigbee", "http"],
-    "use_case": "Used to toggle lights and sensors via platforms like Home Assistant or Hubitat.",
-    "jargon_score": 3,
-    "level": "Intermediate"
-  },
   "dns": {
     "eli5": "DNS is like the internet's phone book. It helps your computer look up website names.",
     "boss": "DNS converts domain names into IP addresses so browsers know where to go.",
     "sysadmin": "DNS resolves hostnames to IPs using recursive resolvers and authoritative name servers.",
-    "emoji": "🌐🔍➡️💻",
-    "categories": ["Networking", "Infrastructure"],
-    "related": ["dhcp", "ip", "tls"],
-    "use_case": "Every time you go to a website, DNS figures out the IP behind the scenes.",
+    "emoji": "\ud83c\udf10\ud83d\udd0d\u27a1\ufe0f\ud83d\udcbb",
+    "categories": [
+      "Networking",
+      "Infrastructure"
+    ],
+    "related": [
+      "dhcp",
+      "ip",
+      "tls"
+    ],
+    "use_case": "Used every time you visit a website to resolve the domain name to an IP address.",
     "jargon_score": 2,
     "level": "Beginner"
+  },
+  "mqtt": {
+    "eli5": "Imagine walkie-talkies for your smart home devices.",
+    "boss": "MQTT is a lightweight messaging protocol used in IoT to send and receive small data packets.",
+    "sysadmin": "MQTT is a lightweight pub/sub protocol ideal for unreliable networks, frequently used in home automation and industrial IoT.",
+    "emoji": "\ud83d\udce1\ud83d\udd0c\ud83d\udcf6\ud83e\udd16",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Networking"
+    ],
+    "related": [
+      "coap",
+      "zigbee",
+      "http"
+    ],
+    "use_case": "Used to toggle lights and sensors via platforms like Home Assistant or Hubitat.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "api": {
+    "eli5": "APIs let apps talk to each other. Like a waiter between your app and a kitchen.",
+    "boss": "An API allows different software systems to communicate and share data.",
+    "sysadmin": "APIs expose defined endpoints over protocols like HTTP to allow structured data exchange between systems.",
+    "emoji": "\ud83c\udf7d\ufe0f\ud83d\udcf2\ud83d\udd17",
+    "categories": [
+      "Web",
+      "Development",
+      "Integration"
+    ],
+    "related": [
+      "rest",
+      "json",
+      "http"
+    ],
+    "use_case": "Used in every modern app to connect with payment gateways, maps, and services.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "dhcp": {
+    "eli5": "DHCP gives your devices their IP address automatically.",
+    "boss": "DHCP automatically assigns IP addresses to devices on a network.",
+    "sysadmin": "Dynamic Host Configuration Protocol leases IP addresses and configuration options from a DHCP server.",
+    "emoji": "\ud83d\udce6\ud83d\udce1\ud83d\udcbb",
+    "categories": [
+      "Networking",
+      "Infrastructure"
+    ],
+    "related": [
+      "dns",
+      "ip",
+      "mac address"
+    ],
+    "use_case": "Used by routers to assign IPs to home devices.",
+    "jargon_score": 3,
+    "level": "Intermediate"
   }
 }
