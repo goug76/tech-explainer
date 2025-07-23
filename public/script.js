@@ -34,14 +34,14 @@ document.getElementById("explainBtn").addEventListener("click", async () => {
                 </span>
             </div>` : ""}
         ${data.categories ? `<div class="label">📚 Categories:</div><p>${data.categories.join(", ")}</p>` : ""}
-        ${data.related ? `
-            <div class="label">🔗 Related Terms: 
-                ${data.related.map(term => `<button class="related-btn" data-term="${term}">${term}</button>`).join(" ")}
-            </div>
-        ` : ""}
         ${data.use_case ? `<div class="label">🛠️ Use Case:</div><p>${data.use_case}</p>` : ""}
         
         ${data.level ? `<div class="label">🎓 Complexity Level:</div><p>${data.level}</p>` : ""}
+        ${data.related ? `
+            <div class="label">🔗 Related Terms: 
+                <p>${data.related.map(term => `<button class="related-btn" data-term="${term}">${term}</button>`).join(" ")}</p>
+            </div>
+        ` : ""}
       </div>
     `;
     document.querySelectorAll(".related-btn").forEach(button => {
