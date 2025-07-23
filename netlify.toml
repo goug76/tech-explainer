@@ -1,6 +1,6 @@
 [build]
-  functions = "functions"
   publish = "public"
+  functions = "functions"
 
 [[functions]]
   name = "getTerm"
