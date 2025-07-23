@@ -1,0 +1,7 @@
+[build]
+  functions = "functions"
+  publish = "public"
+
+[[functions]]
+  name = "getTerm"
+  included_files = ["data/terms.json"]
