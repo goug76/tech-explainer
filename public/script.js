@@ -29,11 +29,10 @@ document.getElementById("explainBtn").addEventListener("click", async () => {
         <p>${data.emoji}</p>
         ${data.jargon_score ? `
             <div class="label">📏 Jargon Score: 
-            <p>
                 <span class="tooltip" title="${getJargonTooltip(data.jargon_score)}">
-                ${"★".repeat(data.jargon_score)}${"☆".repeat(5 - data.jargon_score)}
+                    ${"★".repeat(data.jargon_score)}${"☆".repeat(5 - data.jargon_score)}
                 </span>
-            </p></div>` : ""}
+            </div>` : ""}
         ${data.categories ? `<div class="label">📚 Categories:</div><p>${data.categories.join(", ")}</p>` : ""}
         ${data.related ? `<div class="label">🔗 Related Terms:</div><p>${data.related.join(", ")}</p>` : ""}
         ${data.use_case ? `<div class="label">🛠️ Use Case:</div><p>${data.use_case}</p>` : ""}
