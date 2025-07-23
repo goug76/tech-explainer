@@ -1,14 +1,24 @@
 {
   "mqtt": {
-    "eli5": "Imagine walkie-talkies for your smart home devices. They talk through a central base station.",
-    "boss": "MQTT is a lightweight messaging protocol used in IoT to efficiently send small updates from devices.",
-    "sysadmin": "MQTT (Message Queuing Telemetry Transport) is a pub/sub protocol ideal for constrained, low-bandwidth IoT networks.",
-    "emoji": "📡🔌📶🤖"
+    "eli5": "Imagine walkie-talkies for your smart home devices.",
+    "boss": "MQTT is a lightweight messaging protocol used in IoT to send and receive small data packets.",
+    "sysadmin": "MQTT is a lightweight pub/sub protocol ideal for unreliable networks, frequently used in home automation and industrial IoT.",
+    "emoji": "📡🔌📶🤖",
+    "categories": ["Smart Home", "IoT", "Networking"],
+    "related": ["coap", "zigbee", "http"],
+    "use_case": "Used to toggle lights and sensors via platforms like Home Assistant or Hubitat.",
+    "jargon_score": 3,
+    "level": "Intermediate"
   },
   "dns": {
-    "eli5": "DNS is like the phonebook of the internet — it helps your computer find websites.",
-    "boss": "DNS translates human-friendly domain names into IP addresses.",
-    "sysadmin": "DNS (Domain Name System) resolves domain names to IPs using recursive queries and record types like A, AAAA, MX, etc.",
-    "emoji": "🌐🔍➡️💻"
+    "eli5": "DNS is like the internet's phone book. It helps your computer look up website names.",
+    "boss": "DNS converts domain names into IP addresses so browsers know where to go.",
+    "sysadmin": "DNS resolves hostnames to IPs using recursive resolvers and authoritative name servers.",
+    "emoji": "🌐🔍➡️💻",
+    "categories": ["Networking", "Infrastructure"],
+    "related": ["dhcp", "ip", "tls"],
+    "use_case": "Every time you go to a website, DNS figures out the IP behind the scenes.",
+    "jargon_score": 2,
+    "level": "Beginner"
   }
 }
