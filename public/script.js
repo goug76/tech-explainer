@@ -27,11 +27,17 @@ document.getElementById("explainBtn").addEventListener("click", async () => {
 
         <div class="label">😹 Emoji Summary:</div>
         <p>${data.emoji}</p>
-
+        ${data.jargon_score ? `
+            <div class="label">📏 Jargon Score:</div>
+            <p>
+                <span class="tooltip" title="${getJargonTooltip(data.jargon_score)}">
+                ${"★".repeat(data.jargon_score)}${"☆".repeat(5 - data.jargon_score)}
+                </span>
+            </p>` : ""}
         ${data.categories ? `<div class="label">📚 Categories:</div><p>${data.categories.join(", ")}</p>` : ""}
         ${data.related ? `<div class="label">🔗 Related Terms:</div><p>${data.related.join(", ")}</p>` : ""}
         ${data.use_case ? `<div class="label">🛠️ Use Case:</div><p>${data.use_case}</p>` : ""}
-        ${data.jargon_score ? `<div class="label">📏 Jargon Score:</div><p>${"★".repeat(data.jargon_score)}</p>` : ""}
+        
         ${data.level ? `<div class="label">🎓 Complexity Level:</div><p>${data.level}</p>` : ""}
       </div>
     `;
@@ -39,3 +45,14 @@ document.getElementById("explainBtn").addEventListener("click", async () => {
     results.innerHTML = `<p>No explanation found for "${term}".</p>`;
   }
 });
+
+function getJargonTooltip(score) {
+  const messages = {
+    1: "Totally beginner-friendly.",
+    2: "Mild tech terms, mostly safe.",
+    3: "Tech-savvy folk preferred.",
+    4: "Now we're getting spicy.",
+    5: "Only your network engineer cousin gets this."
+  };
+  return messages[score] || "Tech lingo level unknown.";
+}
