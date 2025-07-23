@@ -16,36 +16,43 @@ document.getElementById("explainBtn").addEventListener("click", async () => {
     results.innerHTML = `
       <h2>${term.toUpperCase()}</h2>
       <div class="explanation">
-        <div class="label">🧒 Explain Like I’m 5:</div>
-        <p>${data.eli5}</p>
+        <div class="label"><strong>🧒 Explain Like I’m 5: </strong>
+            ${data.eli5}
+        </div>
 
-        <div class="label">💼 Explain to a Boss:</div>
-        <p>${data.boss}</p>
+        <div class="label"><strong>💼 Explain to a Boss: </strong>
+            ${data.boss}
+        </div>
 
-        <div class="label">🧑‍💻 Explain to a Sysadmin:</div>
-        <p>${data.sysadmin}</p>
+        <div class="label"><strong>🧑‍💻 Explain to a Sysadmin: </strong> 
+            ${data.sysadmin}
+        </div>
 
-        <div class="label">😹 Emoji Summary:</div>
-        <p>${data.emoji}</p>
+        <div class="label"><strong>😹 Emoji Summary: </strong>
+            ${data.emoji}
+        </div>
 
         <hr class="info-separator" />
-        
+
+        ${data.use_case ? `<div class="label"><stron>🛠️ Use Case: </strong>${data.use_case}</div>` : ""}
+
         ${data.jargon_score ? `
-            <div class="label">📏 Jargon Score: 
+            <div class="label"><strong>📏 Jargon Score: </strong>
                 <span class="tooltip" title="${getJargonTooltip(data.jargon_score)}">
                     ${"★".repeat(data.jargon_score)}${"☆".repeat(5 - data.jargon_score)}
                 </span>
             </div>` : ""}
+        
+        ${data.level ? `<div class="label"><strong>🎓 Complexity Level: </strong>${data.level}</div>` : ""}
+
         ${data.categories ? `
-            <div class="label">📚 Categories:
+            <div class="label"><strong>📚 Categories: </strong>
                 ${data.categories.map(cat => `<span class="category-tag">${cat}</span>`).join(" ")}
             </div>
         ` : ""}
-        ${data.use_case ? `<div class="label">🛠️ Use Case: ${data.use_case}</div>` : ""}
-        
-        ${data.level ? `<div class="label">🎓 Complexity Level: ${data.level}</div>` : ""}
+
         ${data.related ? `
-            <div class="label">🔗 Related Terms: 
+            <div class="label"><strong>🔗 Related Terms: </strong>
                 <p>${data.related.map(term => `<button class="related-btn" data-term="${term}">${term}</button>`).join(" ")}</p>
             </div>
         ` : ""}
