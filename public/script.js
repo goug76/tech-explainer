@@ -27,6 +27,9 @@ document.getElementById("explainBtn").addEventListener("click", async () => {
 
         <div class="label">😹 Emoji Summary:</div>
         <p>${data.emoji}</p>
+
+        <hr class="info-separator" />
+        
         ${data.jargon_score ? `
             <div class="label">📏 Jargon Score: 
                 <span class="tooltip" title="${getJargonTooltip(data.jargon_score)}">
@@ -38,9 +41,9 @@ document.getElementById("explainBtn").addEventListener("click", async () => {
                 ${data.categories.map(cat => `<span class="category-tag">${cat}</span>`).join(" ")}
             </div>
         ` : ""}
-        ${data.use_case ? `<div class="label">🛠️ Use Case:</div><p>${data.use_case}</p>` : ""}
+        ${data.use_case ? `<div class="label">🛠️ Use Case: ${data.use_case}</div>` : ""}
         
-        ${data.level ? `<div class="label">🎓 Complexity Level:</div><p>${data.level}</p>` : ""}
+        ${data.level ? `<div class="label">🎓 Complexity Level: ${data.level}</div>` : ""}
         ${data.related ? `
             <div class="label">🔗 Related Terms: 
                 <p>${data.related.map(term => `<button class="related-btn" data-term="${term}">${term}</button>`).join(" ")}</p>
