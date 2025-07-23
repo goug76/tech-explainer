@@ -44,6 +44,12 @@ document.getElementById("explainBtn").addEventListener("click", async () => {
         ${data.level ? `<div class="label">🎓 Complexity Level:</div><p>${data.level}</p>` : ""}
       </div>
     `;
+    document.querySelectorAll(".related-btn").forEach(button => {
+    button.addEventListener("click", () => {
+        document.getElementById("termInput").value = button.dataset.term;
+        document.getElementById("explainBtn").click();
+    });
+});
   } catch (err) {
     results.innerHTML = `<p>No explanation found for "${term}".</p>`;
   }
