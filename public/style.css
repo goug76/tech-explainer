@@ -48,3 +48,28 @@ button:hover {
   font-weight: bold;
   margin-top: 1rem;
 }
+
+.category-tag {
+  display: inline-block;
+  background-color: #dbeafe;
+  color: #1e3a8a;
+  border-radius: 12px;
+  padding: 0.25em 0.75em;
+  margin: 0.2em;
+  font-size: 0.9em;
+}
+
+.related-btn {
+  background-color: #e0f2f1;
+  border: 1px solid #00796b;
+  color: #004d40;
+  padding: 0.3em 0.8em;
+  border-radius: 8px;
+  margin: 0.2em;
+  cursor: pointer;
+  font-size: 0.9em;
+}
+
+.related-btn:hover {
+  background-color: #b2dfdb;
+}

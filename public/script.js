@@ -33,7 +33,11 @@ document.getElementById("explainBtn").addEventListener("click", async () => {
                     ${"★".repeat(data.jargon_score)}${"☆".repeat(5 - data.jargon_score)}
                 </span>
             </div>` : ""}
-        ${data.categories ? `<div class="label">📚 Categories:</div><p>${data.categories.join(", ")}</p>` : ""}
+        ${data.categories ? `
+            <div class="label">📚 Categories:
+                ${data.categories.map(cat => `<span class="category-tag">${cat}</span>`).join(" ")}
+            </div>
+        ` : ""}
         ${data.use_case ? `<div class="label">🛠️ Use Case:</div><p>${data.use_case}</p>` : ""}
         
         ${data.level ? `<div class="label">🎓 Complexity Level:</div><p>${data.level}</p>` : ""}
