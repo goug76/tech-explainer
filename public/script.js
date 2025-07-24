@@ -130,11 +130,7 @@ explainBtn.addEventListener("click", () => {
 
 function fetchAndDisplayTerm(term) {
   const data = termsData[term.toLowerCase()];
-  const shareSection = document.getElementById("shareButtons");
-
-  // Always hide first to reset
-  shareSection.style.display = "none";
-
+  
   if (!data) {
     results.innerHTML = `
       <p>No explanation found for "<strong>${term}</strong>".</p>
@@ -185,15 +181,22 @@ function fetchAndDisplayTerm(term) {
     </div>
   `;
 
-  // Always show if valid term
-  shareSection.style.display = "block";
-
+  // Generate share URLs
   const shareUrl = encodeURIComponent(`${window.location.origin}?term=${term}`);
   const shareText = encodeURIComponent(`Check out this explanation of "${term}" on ExplainThisTech!`);
 
-  document.getElementById("twitterShare").href = `https://twitter.com/intent/tweet?url=${shareUrl}&text=${shareText}`;
-  document.getElementById("facebookShare").href = `https://www.facebook.com/sharer/sharer.php?u=${shareUrl}`;
-  document.getElementById("redditShare").href = `https://www.reddit.com/submit?url=${shareUrl}&title=${shareText}`;
+  const twitterShare = document.getElementById("twitterShare");
+  const facebookShare = document.getElementById("facebookShare");
+  const redditShare = document.getElementById("redditShare");
+  const shareSection = document.getElementById("shareButtons");
+
+  if (twitterShare && facebookShare && redditShare && shareSection) {
+    twitterShare.href = `https://twitter.com/intent/tweet?url=${shareUrl}&text=${shareText}`;
+    facebookShare.href = `https://www.facebook.com/sharer/sharer.php?u=${shareUrl}`;
+    redditShare.href = `https://www.reddit.com/submit?url=${shareUrl}&title=${shareText}`;
+
+    shareSection.style.display = "block"; // Now safe to show
+  }
 
   document.querySelectorAll(".related-btn").forEach(button => {
     button.addEventListener("click", () => {
