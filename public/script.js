@@ -105,7 +105,7 @@ themeToggleIcon.addEventListener("click", () => {
 function setTheme(mode) {
   document.documentElement.setAttribute("data-theme", mode === "auto" ? getPreferredTheme() : mode);
   localStorage.setItem("theme", mode);
-  themeToggleIcon.src = icons[themes.indexOf(mode)];
+  themeToggleIcon.src = img/icons[themes.indexOf(mode)];
 }
 
 function getPreferredTheme() {
