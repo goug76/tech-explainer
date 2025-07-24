@@ -130,6 +130,10 @@ explainBtn.addEventListener("click", () => {
 
 function fetchAndDisplayTerm(term) {
   const data = termsData[term.toLowerCase()];
+  const shareSection = document.getElementById("shareButtons");
+
+  // Always hide first to reset
+  shareSection.style.display = "none";
 
   if (!data) {
     results.innerHTML = `
@@ -169,16 +173,15 @@ function fetchAndDisplayTerm(term) {
     </div>
   `;
 
-  // Generate share URLs
+  // Always show if valid term
+  shareSection.style.display = "block";
+
   const shareUrl = encodeURIComponent(`${window.location.origin}?term=${term}`);
   const shareText = encodeURIComponent(`Check out this explanation of "${term}" on ExplainThisTech!`);
 
   document.getElementById("twitterShare").href = `https://twitter.com/intent/tweet?url=${shareUrl}&text=${shareText}`;
   document.getElementById("facebookShare").href = `https://www.facebook.com/sharer/sharer.php?u=${shareUrl}`;
   document.getElementById("redditShare").href = `https://www.reddit.com/submit?url=${shareUrl}&title=${shareText}`;
-
-// Show share buttons
-document.getElementById("shareButtons").style.display = "block";
 
   document.querySelectorAll(".related-btn").forEach(button => {
     button.addEventListener("click", () => {
