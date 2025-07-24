@@ -79,3 +79,35 @@ function getJargonTooltip(score) {
   };
   return messages[score] || "Tech lingo level unknown.";
 }
+
+// Dark Mode
+const themes = ["auto", "light", "dark"];
+const icons = ["mode_icon_1.png", "mode_icon_2.png", "mode_icon_3.png"];
+let currentIndex = 0;
+
+const themeToggleIcon = document.getElementById("themeToggleIcon");
+
+// Load saved theme or auto
+const savedTheme = localStorage.getItem("theme");
+if (savedTheme) {
+  setTheme(savedTheme);
+  currentIndex = themes.indexOf(savedTheme);
+} else {
+  setTheme("auto");
+}
+
+themeToggleIcon.addEventListener("click", () => {
+  currentIndex = (currentIndex + 1) % themes.length;
+  const selectedTheme = themes[currentIndex];
+  setTheme(selectedTheme);
+});
+
+function setTheme(mode) {
+  document.documentElement.setAttribute("data-theme", mode === "auto" ? getPreferredTheme() : mode);
+  localStorage.setItem("theme", mode);
+  themeToggleIcon.src = icons[themes.indexOf(mode)];
+}
+
+function getPreferredTheme() {
+  return window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+}
