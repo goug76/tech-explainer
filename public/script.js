@@ -1,66 +1,61 @@
-// Fetch terms.json from public folder
+// Load and store the JSON terms
 let termsData = {};
-
-fetch('/data/terms.json')
+fetch("/data/terms.json")
   .then(res => res.json())
-  .then(data => {
-    termsData = data;
-    setupAutocomplete();
-  });
+  .then(data => termsData = data)
+  .catch(err => console.error("Error loading terms:", err));
 
-// Term explanation logic
-document.getElementById("explainBtn").addEventListener("click", async () => {
-  const term = document.getElementById("termInput").value.trim();
-  const results = document.getElementById("results");
+const explainBtn = document.getElementById("explainBtn");
+const termInput = document.getElementById("termInput");
+const results = document.getElementById("results");
+const suggestions = document.getElementById("suggestions");
+
+// Trigger explanation
+explainBtn.addEventListener("click", () => explainTerm(termInput.value.trim()));
+
+function explainTerm(term) {
+  const data = termsData[term.toLowerCase()];
   results.innerHTML = "";
 
-  if (!term) {
-    results.innerHTML = "<p>Please enter a tech term first.</p>";
+  if (!data) {
+    results.innerHTML = `<p>No explanation found for "${term}".</p>`;
     return;
   }
 
-  try {
-    const res = await fetch(`/.netlify/functions/getTerm?term=${term}`);
-    if (!res.ok) throw new Error("Not found");
-    const data = await res.json();
+  results.innerHTML = `
+    <h2>${term.toUpperCase()}</h2>
+    <div class="explanation">
+      <div class="label"><strong>🧒 Explain Like I’m 5: </strong>${data.eli5}</div>
+      <div class="label"><strong>💼 Explain to a Boss: </strong>${data.boss}</div>
+      <div class="label"><strong>🧑‍💻 Explain to a Sysadmin: </strong>${data.sysadmin}</div>
+      <div class="label"><strong>😹 Emoji Summary: </strong>${data.emoji}</div>
+      <hr class="info-separator" />
+      ${data.use_case ? `<div class="label"><strong>🛠️ Use Case: </strong>${data.use_case}</div>` : ""}
+      ${data.jargon_score ? `
+        <div class="label"><strong>📏 Jargon Score: </strong>
+          <span class="tooltip" title="${getJargonTooltip(data.jargon_score)}">
+            ${"★".repeat(data.jargon_score)}${"☆".repeat(5 - data.jargon_score)}
+          </span>
+        </div>` : ""}
+      ${data.level ? `<div class="label"><strong>🎓 Complexity Level: </strong>${data.level}</div>` : ""}
+      ${data.categories ? `
+        <div class="label"><strong>📚 Categories: </strong>
+          ${data.categories.map(cat => `<span class="category-tag">${cat}</span>`).join(" ")}
+        </div>` : ""}
+      ${data.related ? `
+        <div class="label"><strong>🔗 Related Terms: </strong>
+          <p>${data.related.map(term => `<button class="related-btn" data-term="${term}">${term}</button>`).join(" ")}</p>
+        </div>` : ""}
+    </div>
+  `;
 
-    results.innerHTML = `
-      <h2>${term.toUpperCase()}</h2>
-      <div class="explanation">
-        <div class="label"><strong>🧒 Explain Like I’m 5: </strong>${data.eli5}</div>
-        <div class="label"><strong>💼 Explain to a Boss: </strong>${data.boss}</div>
-        <div class="label"><strong>🧑‍💻 Explain to a Sysadmin: </strong>${data.sysadmin}</div>
-        <div class="label"><strong>😹 Emoji Summary: </strong>${data.emoji}</div>
-        <hr class="info-separator" />
-        ${data.use_case ? `<div class="label"><strong>🛠️ Use Case: </strong>${data.use_case}</div>` : ""}
-        ${data.jargon_score ? `
-          <div class="label"><strong>📏 Jargon Score: </strong>
-            <span class="tooltip" title="${getJargonTooltip(data.jargon_score)}">
-              ${"★".repeat(data.jargon_score)}${"☆".repeat(5 - data.jargon_score)}
-            </span>
-          </div>` : ""}
-        ${data.level ? `<div class="label"><strong>🎓 Complexity Level: </strong>${data.level}</div>` : ""}
-        ${data.categories ? `
-          <div class="label"><strong>📚 Categories: </strong>
-            ${data.categories.map(cat => `<span class="category-tag">${cat}</span>`).join(" ")}
-          </div>` : ""}
-        ${data.related ? `
-          <div class="label"><strong>🔗 Related Terms: </strong>
-            <p>${data.related.map(term => `<button class="related-btn" data-term="${term}">${term}</button>`).join(" ")}</p>
-          </div>` : ""}
-      </div>
-    `;
-
-    document.querySelectorAll(".related-btn").forEach(button => {
-      button.addEventListener("click", () => {
-        document.getElementById("termInput").value = button.dataset.term;
-        document.getElementById("explainBtn").click();
-      });
+  document.querySelectorAll(".related-btn").forEach(button => {
+    button.addEventListener("click", () => {
+      termInput.value = button.dataset.term;
+      explainBtn.click();
     });
-  } catch (err) {
-    results.innerHTML = `<p>No explanation found for "${term}".</p>`;
-  }
-});
+  });
+}
 
 function getJargonTooltip(score) {
   const messages = {
@@ -73,7 +68,7 @@ function getJargonTooltip(score) {
   return messages[score] || "Tech lingo level unknown.";
 }
 
-// Dark Mode Toggle
+// Theme Mode
 const themes = ["auto", "light", "dark"];
 const icons = ["mode_icon_1.png", "mode_icon_2.png", "mode_icon_3.png"];
 let currentIndex = 0;
@@ -106,40 +101,64 @@ function getPreferredTheme() {
 // Help Modal
 const helpBtn = document.getElementById("helpBtn");
 const helpModal = document.getElementById("helpModal");
-const closeModal = helpModal.querySelector(".close");
+const closeModal = helpModal?.querySelector(".close");
 
-helpBtn.addEventListener("click", () => helpModal.style.display = "block");
-closeModal.addEventListener("click", () => helpModal.style.display = "none");
+helpBtn?.addEventListener("click", () => helpModal.style.display = "block");
+closeModal?.addEventListener("click", () => helpModal.style.display = "none");
 window.addEventListener("click", (e) => {
   if (e.target === helpModal) helpModal.style.display = "none";
 });
 
-// Autocomplete Setup
-function setupAutocomplete() {
-  const termInput = document.getElementById("termInput");
-  const suggestions = document.getElementById("suggestions");
-  const termList = Object.keys(termsData);
+// Suggestions Logic
+let activeSuggestionIndex = -1;
+termInput.addEventListener("input", () => {
+  const input = termInput.value.toLowerCase();
+  suggestions.innerHTML = "";
+  activeSuggestionIndex = -1;
 
-  termInput.addEventListener("input", () => {
-    const input = termInput.value.toLowerCase();
-    suggestions.innerHTML = "";
-    if (!input) return (suggestions.style.display = "none");
+  if (!input) return suggestions.style.display = "none";
 
-    const matches = termList.filter(term => term.toLowerCase().includes(input)).slice(0, 5);
+  const matches = Object.keys(termsData)
+    .filter(term => term.toLowerCase().includes(input))
+    .slice(0, 5);
 
-    matches.forEach(match => {
-      const li = document.createElement("li");
-      li.textContent = match;
-      li.onclick = () => {
-        termInput.value = match;
-        suggestions.style.display = "none";
-        document.getElementById("explainBtn").click();
-      };
-      suggestions.appendChild(li);
-    });
-
-    suggestions.style.display = matches.length ? "block" : "none";
+  matches.forEach(match => {
+    const li = document.createElement("li");
+    li.textContent = match;
+    li.tabIndex = 0;
+    li.onclick = () => {
+      termInput.value = match;
+      suggestions.style.display = "none";
+      explainTerm(match);
+    };
+    suggestions.appendChild(li);
   });
 
-  termInput.addEventListener("blur", () => setTimeout(() => (suggestions.style.display = "none"), 100));
+  suggestions.style.display = matches.length ? "block" : "none";
+});
+
+termInput.addEventListener("keydown", (e) => {
+  const items = suggestions.querySelectorAll("li");
+  if (!items.length) return;
+
+  if (e.key === "ArrowDown") {
+    e.preventDefault();
+    activeSuggestionIndex = (activeSuggestionIndex + 1) % items.length;
+    updateActiveSuggestion(items);
+  } else if (e.key === "ArrowUp") {
+    e.preventDefault();
+    activeSuggestionIndex = (activeSuggestionIndex - 1 + items.length) % items.length;
+    updateActiveSuggestion(items);
+  } else if (e.key === "Enter" && activeSuggestionIndex > -1) {
+    e.preventDefault();
+    items[activeSuggestionIndex].click();
+  }
+});
+
+function updateActiveSuggestion(items) {
+  items.forEach((item, i) => {
+    item.classList.toggle("active", i === activeSuggestionIndex);
+  });
 }
+
+termInput.addEventListener("blur", () => setTimeout(() => suggestions.style.display = "none", 100));

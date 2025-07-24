@@ -253,6 +253,11 @@ hr.info-separator {
   transition: background-color 0.2s ease;
 }
 
+#suggestions li.active {
+  background-color: var(--accent-light, #ddd);
+  font-weight: 600;
+}
+
 #suggestions li:hover {
   background-color: var(--accent-color, #e0e0e0);
 }
