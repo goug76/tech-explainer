@@ -103,7 +103,11 @@ termInput.addEventListener("keydown", (e) => {
 
 function updateHighlight(items) {
   items.forEach((item, index) => {
-    item.classList.toggle("highlighted", index === selectedSuggestionIndex);
+    const isActive = index === selectedSuggestionIndex;
+    item.classList.toggle("highlighted", isActive);
+    if (isActive) {
+      termInput.value = item.textContent;
+    }
   });
 }
 
