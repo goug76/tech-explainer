@@ -97,6 +97,7 @@ termInput.addEventListener("keydown", (e) => {
     if (selectedSuggestionIndex > -1 && items[selectedSuggestionIndex]) {
       e.preventDefault();
       items[selectedSuggestionIndex].click();
+      suggestions.style.display = "none";
     } else {
       fetchAndDisplayTerm(termInput.value.trim());
       suggestions.style.display = "none";
