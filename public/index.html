@@ -9,9 +9,12 @@
 <body>
   <div id="container">
     <h1>🧠 Explain This Tech</h1>
-    <textarea id="termInput" rows="2" placeholder="Enter a tech term (e.g., DNS, MQTT)..."></textarea>
+    <p class="subtitle">Type a tech term and hit <strong>Enter</strong> to decode it</p>
+    <input type="text" id="termInput" placeholder="Enter a tech term (e.g., DNS, MQTT)..." autofocus
+      onkeydown="if(event.key === 'Enter') document.getElementById('explainBtn').click();" />
     <button id="explainBtn">Explain It</button>
-    <div id="results"></div>
+
+    <div id="results" class="fade-in"></div>
   </div>
   <script src="script.js"></script>
 </body>
