@@ -205,8 +205,15 @@ window.addEventListener("DOMContentLoaded", () => {
   const params = new URLSearchParams(window.location.search);
   const urlTerm = params.get("term");
 
-  if (urlTerm) {
-    termInput.value = urlTerm;
-    fetchAndDisplayTerm(urlTerm);
-  }
+  fetch("data/terms.json")
+    .then(res => res.json())
+    .then(data => {
+      termsData = data;
+      termList = Object.keys(data);
+
+      if (urlTerm) {
+        termInput.value = urlTerm;
+        fetchAndDisplayTerm(urlTerm);
+      }
+    });
 });
