@@ -1623,25 +1623,6 @@
     "jargon_score": 3,
     "level": "Intermediate"
   },
-  "dhcp": {
-    "eli5": "The internet's traffic cop that gives each device a unique address so they don't get lost.",
-    "boss": "DHCP (Dynamic Host Configuration Protocol) is a network management protocol that automatically assigns IP addresses to devices on a network.",
-    "sysadmin": "A network protocol that automates the assignment of IP addresses, subnet masks, default gateways, and other network configuration parameters to devices on a TCP/IP network.",
-    "emoji": "🚦🆔🌐🔌",
-    "categories": [
-      "Networking",
-      "Protocols",
-      "Infrastructure"
-    ],
-    "related": [
-      "ip",
-      "dns",
-      "tcp/ip"
-    ],
-    "use_case": "Automatically configuring network settings for new devices joining a network, simplifying network administration.",
-    "jargon_score": 2,
-    "level": "Beginner"
-  },
   "couchdb": {
     "eli5": "A special kind of database that stores information like a bunch of digital sticky notes, and it's really good at sharing them with other computers.",
     "boss": "Apache CouchDB is an open-source NoSQL document database that stores data in JSON-based documents and is designed for high availability and replication.",
