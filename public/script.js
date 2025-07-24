@@ -71,7 +71,7 @@ termInput.addEventListener("input", () => {
     const li = document.createElement("li");
     li.textContent = match;
     li.dataset.index = index;
-    li.addEventListener("click", () => {
+    li.addEventListener("mousedown", () => {
       termInput.value = match;
       suggestions.style.display = "none";
       fetchAndDisplayTerm(match);
