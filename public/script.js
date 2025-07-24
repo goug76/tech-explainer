@@ -166,19 +166,19 @@ function fetchAndDisplayTerm(term) {
         <div class="label"><strong>🔗 Related Terms: </strong>
           <p>${data.related.map(t => `<button class="related-btn" data-term="${t}">${t}</button>`).join(" ")}</p>
         </div>` : ""}
-    </div>
-    <div id="shareButtons" class="share-buttons">
-      <p><strong>📣 Share this explanation:</strong></p>
-      <a id="twitterShare" href="#" target="_blank" title="Share on X/Twitter">
-        <img src="img/x.svg" alt="Share on X" class="share-icon" />
-      </a>
-      <a id="facebookShare" href="#" target="_blank" title="Share on Facebook">
-        <img src="img/facebook.svg" alt="Share on Facebook" class="share-icon" />
-      </a>
-      <a id="redditShare" href="#" target="_blank" title="Share on Reddit">
-        <img src="img/reddit.svg" alt="Share on Reddit" class="share-icon" />
-      </a>
-    </div>
+        <div id="shareButtons" class="share-buttons">
+          <p><strong>📣 Share this explanation:</strong></p>
+          <a id="twitterShare" href="#" target="_blank" title="Share on X/Twitter">
+            <img src="img/x.svg" alt="Share on X" class="share-icon" />
+          </a>
+          <a id="facebookShare" href="#" target="_blank" title="Share on Facebook">
+            <img src="img/facebook.svg" alt="Share on Facebook" class="share-icon" />
+          </a>
+          <a id="redditShare" href="#" target="_blank" title="Share on Reddit">
+            <img src="img/reddit.svg" alt="Share on Reddit" class="share-icon" />
+          </a>
+        </div>
+    </div>    
   `;
 
   // Generate share URLs
