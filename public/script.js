@@ -131,3 +131,36 @@ window.addEventListener("click", (event) => {
     helpModal.style.display = "none";
   }
 });
+
+// Top 5 Suggestions
+const termInput = document.getElementById("termInput");
+const suggestions = document.getElementById("suggestions");
+
+// Load terms from JSON keys
+const termList = Object.keys(termsData);
+
+termInput.addEventListener("input", () => {
+  const input = termInput.value.toLowerCase();
+  suggestions.innerHTML = "";
+  if (!input) return (suggestions.style.display = "none");
+
+  const matches = termList
+    .filter(term => term.toLowerCase().includes(input))
+    .slice(0, 5); // limit to 5 suggestions
+
+  matches.forEach(match => {
+    const li = document.createElement("li");
+    li.textContent = match;
+    li.onclick = () => {
+      termInput.value = match;
+      suggestions.style.display = "none";
+      explainTerm(match);
+    };
+    suggestions.appendChild(li);
+  });
+
+  suggestions.style.display = matches.length ? "block" : "none";
+});
+
+// Hide suggestions on blur (small delay to allow click)
+termInput.addEventListener("blur", () => setTimeout(() => (suggestions.style.display = "none"), 100));

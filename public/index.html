@@ -36,7 +36,8 @@
     <p class="subtitle">Type a tech term and hit <strong>Enter</strong> to decode it</p>
 
     <input type="text" id="termInput" placeholder="Enter a tech term (e.g., DNS, MQTT)..." autofocus
-      onkeydown="if(event.key === 'Enter') document.getElementById('explainBtn').click();" />
+      onkeydown="if(event.key === 'Enter') document.getElementById('explainBtn').click();" autocomplete="off" />
+      <ul id="suggestions" class="suggestion-box"></ul>
     <button id="explainBtn">Explain It</button>
 
     <div id="results" class="fade-in"></div>

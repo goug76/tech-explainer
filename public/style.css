@@ -228,3 +228,30 @@ hr.info-separator {
 .modal-content .close:hover {
   color: #000;
 }
+
+/* Suggestion search list */
+
+#suggestions {
+  list-style: none;
+  padding: 0;
+  margin: 4px 0 0;
+  max-height: 150px;
+  overflow-y: auto;
+  border: 1px solid var(--border-color);
+  background: var(--background);
+  position: absolute;
+  z-index: 100;
+  width: 100%;
+  display: none;
+  border-radius: 4px;
+}
+
+#suggestions li {
+  padding: 8px 10px;
+  cursor: pointer;
+}
+
+#suggestions li:hover,
+#suggestions li.active {
+  background: var(--highlight-color);
+}
