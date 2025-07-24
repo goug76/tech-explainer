@@ -3,22 +3,60 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Explain This Tech</title>
+
+  <!-- 🔖 SEO Essentials -->
+  <title>Tech Term Explainer – Understand IoT, Networking, and Smart Home Jargon</title>
+  <meta name="description" content="Instantly decode tech jargon with this handy tool for understanding smart home, IoT, and networking terms like DNS, MQTT, Zigbee, and more." />
+  <meta name="keywords" content="tech explainer, smart home terms, IoT glossary, DNS, MQTT, Zigbee, Matter, Home Assistant, Thread, networking terms" />
+  <meta name="author" content="GougLab" />
+
+  <!-- 📱 Social Sharing -->
+  <meta property="og:title" content="Tech Term Explainer – Decode Smart Home & IoT Terms" />
+  <meta property="og:description" content="Easy-to-understand definitions for technical jargon. Perfect for smart home beginners and pros alike." />
+  <meta property="og:image" content="img/social-preview.png" />
+  <meta property="og:type" content="website" />
+
+  <!-- 🔖 Favicon -->
+  <link rel="icon" href="img/gouglab.ico" type="image/x-icon" />
+
+  <!-- 🎨 Styles -->
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
   <div id="container">
-      <div id="themeToggleContainer">
-        <img id="themeToggleIcon" src="img/mode_icon_1.png" alt="Theme Toggle" title="Toggle Theme" />
-      </div>
-    <h1>🧠 Explain This Tech</h1>
+    <!-- Theme Toggle & Help -->
+    <div id="topControls">
+      <img id="themeToggleIcon" src="img/mode_icon_1.png" alt="Toggle Theme" title="Toggle Theme" />
+      <button id="helpBtn" title="Help">
+        <img class="icons" src="img/help.png" alt="Help" />
+      </button>
+    </div>
+
+    <h1>🧠 Tech Term Explainer</h1>
     <p class="subtitle">Type a tech term and hit <strong>Enter</strong> to decode it</p>
+
     <input type="text" id="termInput" placeholder="Enter a tech term (e.g., DNS, MQTT)..." autofocus
       onkeydown="if(event.key === 'Enter') document.getElementById('explainBtn').click();" />
     <button id="explainBtn">Explain It</button>
 
     <div id="results" class="fade-in"></div>
+
+    <!-- 💡 Help Modal -->
+    <div id="helpModal" class="modal hidden">
+      <div class="modal-content">
+        <span class="close">&times;</span>
+        <h2>🔍 How to Use Tech Term Explainer</h2>
+        <p>Just type any tech term like <strong>MQTT</strong>, <strong>Zigbee</strong>, or <strong>DNS</strong> in the box above and hit <strong>Enter</strong>. You’ll get:</p>
+        <ul>
+          <li><strong>Simple explanations</strong> for all levels</li>
+          <li><strong>Related terms</strong> for deeper learning</li>
+          <li><strong>Real-world use cases</strong> (especially for smart homes)</li>
+        </ul>
+        <p>Works great for topics in networking, IoT, cybersecurity, and more!</p>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
   </div>
-  <script src="script.js"></script>
 </body>
 </html>

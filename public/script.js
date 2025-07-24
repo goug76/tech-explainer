@@ -111,3 +111,23 @@ function setTheme(mode) {
 function getPreferredTheme() {
   return window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
 }
+
+// Help Modal logic
+const helpBtn = document.getElementById("helpBtn");
+const helpModal = document.getElementById("helpModal");
+const closeModal = helpModal.querySelector(".close");
+
+helpBtn.addEventListener("click", () => {
+  helpModal.style.display = "block";
+});
+
+closeModal.addEventListener("click", () => {
+  helpModal.style.display = "none";
+});
+
+// Close on outside click
+window.addEventListener("click", (event) => {
+  if (event.target === helpModal) {
+    helpModal.style.display = "none";
+  }
+});
