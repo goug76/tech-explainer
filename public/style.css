@@ -232,26 +232,34 @@ hr.info-separator {
 /* Suggestion search list */
 
 #suggestions {
+  position: absolute;
+  background-color: var(--bg-secondary, #fff);
+  color: var(--text-primary, #000);
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  margin-top: 5px;
+  width: calc(100% - 40px);
+  max-width: 400px;
+  z-index: 1000;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
   list-style: none;
   padding: 0;
-  margin: 4px 0 0;
-  max-height: 150px;
-  overflow-y: auto;
-  border: 1px solid var(--border-color);
-  background: var(--background);
-  position: absolute;
-  z-index: 100;
-  width: 100%;
-  display: none;
-  border-radius: 4px;
+  overflow: hidden;
 }
 
 #suggestions li {
-  padding: 8px 10px;
+  padding: 10px 15px;
   cursor: pointer;
+  transition: background-color 0.2s ease;
 }
 
-#suggestions li:hover,
-#suggestions li.active {
-  background: var(--highlight-color);
+#suggestions li:hover {
+  background-color: var(--accent-color, #e0e0e0);
+}
+
+.search-wrapper {
+  position: relative;
+  display: inline-block;
+  width: 100%;
+  max-width: 400px;
 }
