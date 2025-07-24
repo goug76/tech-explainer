@@ -44,7 +44,7 @@ function explainTerm(term) {
         </div>` : ""}
       ${data.related ? `
         <div class="label"><strong>🔗 Related Terms: </strong>
-          <p>${data.related.map(term => `<button class="related-btn" data-term="${term}">${term}</button>`).join(" ")}</p>
+          ${data.related.map(term => `<button class="related-btn" data-term="${term}">${term}</button>`).join(" ")}
         </div>` : ""}
     </div>
   `;
