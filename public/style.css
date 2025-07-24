@@ -258,6 +258,12 @@ hr.info-separator {
   font-weight: 600;
 }
 
+#suggestions li.highlighted {
+  background-color: var(--accent-color, #007bff); /* fallback if --accent-color isn't set */
+  color: #fff;
+  cursor: pointer;
+}
+
 #suggestions li:hover {
   background-color: var(--accent-color, #e0e0e0);
 }

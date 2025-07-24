@@ -71,7 +71,7 @@ termInput.addEventListener("input", () => {
     const li = document.createElement("li");
     li.textContent = match;
     li.dataset.index = index;
-    li.addEventListener("mousedown", () => {
+    li.addEventListener("click", () => {
       termInput.value = match;
       suggestions.style.display = "none";
       fetchAndDisplayTerm(match);
@@ -96,7 +96,7 @@ termInput.addEventListener("keydown", (e) => {
   } else if (e.key === "Enter") {
     if (selectedSuggestionIndex > -1 && items[selectedSuggestionIndex]) {
       e.preventDefault();
-      items[selectedSuggestionIndex].click();
+      items[selectedSuggestionIndex].click(); // ✅ Triggers the same logic as mouse click
     }
   }
 });
