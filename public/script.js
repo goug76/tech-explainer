@@ -1,11 +1,21 @@
-// script.js
+// ================================
+// Elements
+// ================================
+const explainBtn = document.getElementById("explainBtn");
+const termInput = document.getElementById("termInput");
+const results = document.getElementById("results");
+const suggestions = document.getElementById("suggestions");
+const themeToggleIcon = document.getElementById("themeToggleIcon");
+const helpBtn = document.getElementById("helpBtn");
+const helpModal = document.getElementById("helpModal");
+const closeModal = helpModal?.querySelector(".close");
 
-// Theme toggle logic
+// ================================
+// Theme Toggle
+// ================================
 const themes = ["auto", "light", "dark"];
 const icons = ["mode_icon_1.png", "mode_icon_2.png", "mode_icon_3.png"];
 let currentIndex = 0;
-const themeToggleIcon = document.getElementById("themeToggleIcon");
-
 const savedTheme = localStorage.getItem("theme");
 if (savedTheme) {
   setTheme(savedTheme);
@@ -13,61 +23,54 @@ if (savedTheme) {
 } else {
   setTheme("auto");
 }
-
-themeToggleIcon.addEventListener("click", () => {
-  currentIndex = (currentIndex + 1) % themes.length;
-  const selectedTheme = themes[currentIndex];
-  setTheme(selectedTheme);
-});
-
 function setTheme(mode) {
   document.documentElement.setAttribute("data-theme", mode === "auto" ? getPreferredTheme() : mode);
   localStorage.setItem("theme", mode);
   themeToggleIcon.src = `img/${icons[themes.indexOf(mode)]}`;
 }
-
 function getPreferredTheme() {
   return window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
 }
+themeToggleIcon.addEventListener("click", () => {
+  currentIndex = (currentIndex + 1) % themes.length;
+  setTheme(themes[currentIndex]);
+});
 
+// ================================
 // Help Modal
-const helpBtn = document.getElementById("helpBtn");
-const helpModal = document.getElementById("helpModal");
-const closeModal = helpModal?.querySelector(".close");
-
-helpBtn?.addEventListener("click", () => helpModal.style.display = "block");
-closeModal?.addEventListener("click", () => helpModal.style.display = "none");
+// ================================
+helpBtn?.addEventListener("click", () => (helpModal.style.display = "block"));
+closeModal?.addEventListener("click", () => (helpModal.style.display = "none"));
 window.addEventListener("click", (e) => {
   if (e.target === helpModal) helpModal.style.display = "none";
 });
 
-// Autocomplete logic
-const termInput = document.getElementById("termInput");
-const suggestions = document.getElementById("suggestions");
-let selectedIndex = -1;
+// ================================
+// Autocomplete
+// ================================
+let termsData = {};
+let selectedSuggestionIndex = -1;
 
-// Fetch terms.json and initialize list
-let termList = [];
 fetch("data/terms.json")
-  .then((res) => res.json())
-  .then((data) => {
-    termList = Object.keys(data);
+  .then(res => res.json())
+  .then(data => {
+    termsData = data;
   });
 
 termInput.addEventListener("input", () => {
   const input = termInput.value.toLowerCase();
   suggestions.innerHTML = "";
-  selectedIndex = -1;
-
+  selectedSuggestionIndex = -1;
   if (!input) return (suggestions.style.display = "none");
 
-  const matches = termList.filter(term => term.toLowerCase().includes(input)).slice(0, 5);
+  const matches = Object.keys(termsData).filter(term => term.toLowerCase().includes(input)).slice(0, 5);
+  if (!matches.length) return (suggestions.style.display = "none");
 
-  matches.forEach((match) => {
+  matches.forEach((match, index) => {
     const li = document.createElement("li");
     li.textContent = match;
-    li.classList.add("suggestion-item");
     li.tabIndex = 0;
+    li.classList.add("suggestion-item");
     li.addEventListener("click", () => {
       termInput.value = match;
       suggestions.style.display = "none";
@@ -75,104 +78,84 @@ termInput.addEventListener("input", () => {
     });
     suggestions.appendChild(li);
   });
-
-  suggestions.style.display = matches.length ? "block" : "none";
+  suggestions.style.display = "block";
 });
 
 termInput.addEventListener("keydown", (e) => {
   const items = suggestions.querySelectorAll(".suggestion-item");
-  if (!items.length) return;
-
   if (e.key === "ArrowDown") {
-    selectedIndex = (selectedIndex + 1) % items.length;
-    updateHighlight(items);
     e.preventDefault();
+    selectedSuggestionIndex = (selectedSuggestionIndex + 1) % items.length;
+    updateSuggestionHighlight(items);
   } else if (e.key === "ArrowUp") {
-    selectedIndex = (selectedIndex - 1 + items.length) % items.length;
-    updateHighlight(items);
     e.preventDefault();
-  } else if (e.key === "Enter") {
-    if (selectedIndex >= 0 && items[selectedIndex]) {
-      termInput.value = items[selectedIndex].textContent;
-      suggestions.style.display = "none";
-      explainTerm(termInput.value);
-      e.preventDefault();
-    }
+    selectedSuggestionIndex = (selectedSuggestionIndex - 1 + items.length) % items.length;
+    updateSuggestionHighlight(items);
+  } else if (e.key === "Enter" && selectedSuggestionIndex >= 0) {
+    e.preventDefault();
+    items[selectedSuggestionIndex].click();
   }
 });
-
-function updateHighlight(items) {
+function updateSuggestionHighlight(items) {
   items.forEach((item, index) => {
-    item.classList.toggle("highlighted", index === selectedIndex);
+    item.classList.toggle("highlighted", index === selectedSuggestionIndex);
   });
 }
+termInput.addEventListener("blur", () => setTimeout(() => (suggestions.style.display = "none"), 150));
 
-termInput.addEventListener("blur", () => {
-  setTimeout(() => {
-    suggestions.style.display = "none";
-    selectedIndex = -1;
-  }, 100);
-});
+// ================================
+// Explain Logic
+// ================================
+explainBtn.addEventListener("click", () => explainTerm(termInput.value.trim()));
 
-// Main explain function
-const explainBtn = document.getElementById("explainBtn");
-const results = document.getElementById("results");
-
-explainBtn.addEventListener("click", () => {
-  const term = termInput.value.trim();
-  if (!term) {
-    results.innerHTML = "<p>Please enter a tech term first.</p>";
-    return;
-  }
-  explainTerm(term);
-});
-
-async function explainTerm(term) {
+function explainTerm(term) {
   results.innerHTML = "";
-  try {
-    const res = await fetch("data/terms.json");
-    const data = await res.json();
-    const explanation = data[term.toLowerCase()];
+  if (!term) return (results.innerHTML = "<p>Please enter a tech term first.</p>");
 
-    if (!explanation) {
-      results.innerHTML = `<p>No explanation found for "${term}".</p>`;
-      return;
-    }
-
+  const data = termsData[term.toLowerCase()];
+  if (!data) {
     results.innerHTML = `
       <h2>${term.toUpperCase()}</h2>
-      <div class="explanation">
-        <div class="label"><strong>🧒 Explain Like I’m 5: </strong>${explanation.eli5}</div>
-        <div class="label"><strong>💼 Explain to a Boss: </strong>${explanation.boss}</div>
-        <div class="label"><strong>🧑‍💻 Explain to a Sysadmin: </strong>${explanation.sysadmin}</div>
-        <div class="label"><strong>😹 Emoji Summary: </strong>${explanation.emoji}</div>
-        <hr class="info-separator" />
-        ${explanation.use_case ? `<div class="label"><strong>🛠️ Use Case: </strong>${explanation.use_case}</div>` : ""}
-        ${explanation.jargon_score ? `<div class="label"><strong>📏 Jargon Score: </strong><span class="tooltip" title="${getJargonTooltip(explanation.jargon_score)}">${"★".repeat(explanation.jargon_score)}${"☆".repeat(5 - explanation.jargon_score)}</span></div>` : ""}
-        ${explanation.level ? `<div class="label"><strong>🎓 Complexity Level: </strong>${explanation.level}</div>` : ""}
-        ${explanation.categories ? `<div class="label"><strong>📚 Categories: </strong>${explanation.categories.map(cat => `<span class="category-tag">${cat}</span>`).join(" ")}</div>` : ""}
-        ${explanation.related ? `<div class="label"><strong>🔗 Related Terms: </strong><p>${explanation.related.map(term => `<button class="related-btn" data-term="${term}">${term}</button>`).join(" ")}</p></div>` : ""}
-      </div>
+      <p>No explanation found for "${term}". 😢</p>
+      <p>Would you like to <button class="request-btn">Request this term</button>?</p>
     `;
-
-    document.querySelectorAll(".related-btn").forEach(button => {
-      button.addEventListener("click", () => {
-        termInput.value = button.dataset.term;
-        explainBtn.click();
-      });
-    });
-  } catch (err) {
-    results.innerHTML = `<p>Error loading explanation for "${term}".</p>`;
+    return;
   }
-}
 
+  results.innerHTML = `
+    <h2>${term.toUpperCase()}</h2>
+    <div class="explanation">
+      <div class="label"><strong>🧒 Explain Like I’m 5: </strong> ${data.eli5}</div>
+      <div class="label"><strong>💼 Explain to a Boss: </strong> ${data.boss}</div>
+      <div class="label"><strong>🧑‍💻 Explain to a Sysadmin: </strong> ${data.sysadmin}</div>
+      <div class="label"><strong>😹 Emoji Summary: </strong> ${data.emoji}</div>
+      <hr class="info-separator" />
+      ${data.use_case ? `<div class="label"><strong>🛠️ Use Case: </strong>${data.use_case}</div>` : ""}
+      ${data.jargon_score ? `<div class="label"><strong>📏 Jargon Score: </strong>
+        <span class="tooltip" title="${getJargonTooltip(data.jargon_score)}">
+        ${"★".repeat(data.jargon_score)}${"☆".repeat(5 - data.jargon_score)}</span></div>` : ""}
+      ${data.level ? `<div class="label"><strong>🎓 Complexity Level: </strong>${data.level}</div>` : ""}
+      ${data.categories ? `<div class="label"><strong>📚 Categories: </strong>
+        ${data.categories.map(cat => `<span class="category-tag">${cat}</span>`).join(" ")}</div>` : ""}
+      ${data.related ? `<div class="label"><strong>🔗 Related Terms: </strong>
+        ${data.related.map(term => `<button class="related-btn" data-term="${term}">${term}</button>`).join(" ")}</div>` : ""}
+    </div>
+  `;
+
+  document.querySelectorAll(".related-btn").forEach(btn => {
+    btn.addEventListener("click", () => {
+      termInput.value = btn.dataset.term;
+      explainBtn.click();
+    });
+  });
+}
 function getJargonTooltip(score) {
-  const messages = {
+  const tips = {
     1: "Totally beginner-friendly.",
     2: "Mild tech terms, mostly safe.",
     3: "Tech-savvy folk preferred.",
     4: "Now we're getting spicy.",
     5: "Only your network engineer cousin gets this."
   };
-  return messages[score] || "Tech lingo level unknown.";
+  return tips[score] || "Unknown jargon level.";
 }
