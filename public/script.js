@@ -96,7 +96,9 @@ termInput.addEventListener("keydown", (e) => {
   } else if (e.key === "Enter") {
     if (selectedSuggestionIndex > -1 && items[selectedSuggestionIndex]) {
       e.preventDefault();
-      items[selectedSuggestionIndex].click(); // ✅ Triggers the same logic as mouse click
+      items[selectedSuggestionIndex].click();
+    } else {
+      fetchAndDisplayTerm(termInput.value.trim());
       suggestions.style.display = "none";
     }
   }
