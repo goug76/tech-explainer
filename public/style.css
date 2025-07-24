@@ -20,11 +20,13 @@
 :root {
   --bg-color: #ffffff;
   --text-color: #222222;
+  --accent-color: #e9ecef;
 }
 
 [data-theme="dark"] {
   --bg-color: #121212;
   --text-color: #f0f0f0;
+  --accent-color: #2b2f33;
 }
 
 body {
@@ -53,7 +55,7 @@ body {
 h1 {
   font-size: 2rem;
   margin-bottom: 0.25rem;
-  color: #1f2937;
+  color: var(--text-color);
 }
 
 .subtitle {
@@ -119,7 +121,7 @@ button:active {
 .explanation {
   margin-top: 1.5rem;
   padding: 1rem;
-  background: #e9ecef;
+  background: var(--accent-color);
   border-left: 4px solid #007bff;
 }
 
