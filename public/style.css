@@ -274,3 +274,29 @@ hr.info-separator {
   width: 100%;
   max-width: 400px;
 }
+
+.share-buttons {
+  margin-top: 1rem;
+  padding-top: 0.5rem;
+  border-top: 1px solid var(--border-color);
+  display: flex;
+  gap: 0.75rem;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.share-buttons img.share-icon {
+  width: 28px;
+  height: 28px;
+  transition: transform 0.2s ease, filter 0.2s ease;
+  cursor: pointer;
+  filter: var(--icon-filter, none);
+}
+
+.share-buttons img.share-icon:hover {
+  transform: scale(1.2);
+}
+
+[data-theme="dark"] .share-buttons img.share-icon {
+  filter: brightness(0.8) invert(1);
+}

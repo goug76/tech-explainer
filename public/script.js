@@ -169,6 +169,18 @@ function fetchAndDisplayTerm(term) {
     </div>
   `;
 
+  // Generate share URLs
+  const shareUrl = encodeURIComponent(`${window.location.origin}?term=${term}`);
+  const shareText = encodeURIComponent(`Check out this explanation of "${term}" on ExplainThisTech!`);
+
+  document.getElementById("twitterShare").href = `https://twitter.com/intent/tweet?url=${shareUrl}&text=${shareText}`;
+  document.getElementById("facebookShare").href = `https://www.facebook.com/sharer/sharer.php?u=${shareUrl}`;
+  document.getElementById("linkedinShare").href = `https://www.linkedin.com/shareArticle?mini=true&url=${shareUrl}&title=${shareText}`;
+  document.getElementById("redditShare").href = `https://www.reddit.com/submit?url=${shareUrl}&title=${shareText}`;
+
+// Show share buttons
+document.getElementById("shareButtons").style.display = "block";
+
   document.querySelectorAll(".related-btn").forEach(button => {
     button.addEventListener("click", () => {
       termInput.value = button.dataset.term;
@@ -187,3 +199,14 @@ function getJargonTooltip(score) {
   };
   return messages[score] || "Tech lingo level unknown.";
 }
+
+// Auto-load term from URL ?term=mqtt
+window.addEventListener("DOMContentLoaded", () => {
+  const params = new URLSearchParams(window.location.search);
+  const urlTerm = params.get("term");
+
+  if (urlTerm) {
+    termInput.value = urlTerm;
+    fetchAndDisplayTerm(urlTerm);
+  }
+});
