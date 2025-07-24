@@ -175,7 +175,6 @@ function fetchAndDisplayTerm(term) {
 
   document.getElementById("twitterShare").href = `https://twitter.com/intent/tweet?url=${shareUrl}&text=${shareText}`;
   document.getElementById("facebookShare").href = `https://www.facebook.com/sharer/sharer.php?u=${shareUrl}`;
-  document.getElementById("linkedinShare").href = `https://www.linkedin.com/shareArticle?mini=true&url=${shareUrl}&title=${shareText}`;
   document.getElementById("redditShare").href = `https://www.reddit.com/submit?url=${shareUrl}&title=${shareText}`;
 
 // Show share buttons
