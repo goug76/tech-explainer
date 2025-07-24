@@ -167,7 +167,7 @@ function fetchAndDisplayTerm(term) {
           <p>${data.related.map(t => `<button class="related-btn" data-term="${t}">${t}</button>`).join(" ")}</p>
         </div>` : ""}
         <div id="shareButtons" class="share-buttons">
-          <p><strong>📣 Share this explanation:</strong></p>
+          <strong>📣 Share this explanation: </strong>
           <a id="twitterShare" href="#" target="_blank" title="Share on X/Twitter">
             <img src="img/x.svg" alt="Share on X" class="share-icon" />
           </a>
