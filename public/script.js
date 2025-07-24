@@ -126,11 +126,12 @@ termInput.addEventListener("input", () => {
     const li = document.createElement("li");
     li.textContent = match;
     li.tabIndex = 0;
-    li.onclick = () => {
+    li.addEventListener("mousedown", (e) => {
+      e.preventDefault(); // Prevent blur before click
       termInput.value = match;
       suggestions.style.display = "none";
       explainTerm(match);
-    };
+    });
     suggestions.appendChild(li);
   });
 
