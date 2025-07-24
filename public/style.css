@@ -301,3 +301,8 @@ hr.info-separator {
 [data-theme="dark"] .share-buttons img.share-icon {
   filter: brightness(0.8) invert(1);
 }
+
+.ad-container {
+  margin: 20px 0;
+  text-align: center;
+}
