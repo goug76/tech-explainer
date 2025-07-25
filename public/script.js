@@ -207,7 +207,7 @@ function fetchAndDisplayTerm(term) {
     facebookShare.href = `https://www.facebook.com/sharer/sharer.php?u=${shareUrl}`;
     redditShare.href = `https://www.reddit.com/submit?url=${shareUrl}&title=${shareText}`;
 
-    shareSection.style.display = "block"; // Now safe to show
+    shareSection.classList.remove("hidden");
   }
 
   document.querySelectorAll(".related-btn").forEach(button => {
