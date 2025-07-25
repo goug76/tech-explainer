@@ -179,7 +179,7 @@ function fetchAndDisplayTerm(term) {
         </div>` : ""}
       ${data.related ? `
         <div class="label"><strong>🔗 Related Terms: </strong>
-          <p>${data.related.map(t => `<button class="related-btn" data-term="${t}">${t}</button>`).join(" ")}</p>
+          ${data.related.map(t => `<button class="related-btn" data-term="${t}">${t}</button>`).join(" ")}
         </div>` : ""}
         <div id="shareButtons" class="share-buttons">
           <strong>📣 Share this explanation: </strong>
