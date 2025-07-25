@@ -35,31 +35,34 @@
     crossorigin="anonymous"></script>
 </head>
 <body>
-  <div id="container">
-    <!-- Theme Toggle & Help -->
-    <div id="topControls">
-      <img id="themeToggleIcon" src="img/mode_icon_1.png" alt="Toggle Theme" title="Toggle Theme" />
-      <button id="helpBtn" title="Help">
-        <img class="icons" src="img/help.png" alt="Help" />
-      </button>
-    </div>
+  <div class="wrapper">
+    <div id="container">
+      <!-- Theme Toggle & Help -->
+      <div id="topControls">
+        <img id="themeToggleIcon" src="img/mode_icon_1.png" alt="Toggle Theme" title="Toggle Theme" />
+        <button id="helpBtn" title="Help">
+          <img class="icons" src="img/help.png" alt="Help" />
+        </button>
+      </div>
 
-    <h1>🧠 Tech Decoded</h1>
-    <p class="subtitle">Type a tech term and hit <strong>Enter</strong> to decode it</p>
+      <h1>🧠 Tech Decoded</h1>
+      <p class="subtitle">Type a tech term and hit <strong>Enter</strong> to decode it</p>
 
-    <input type="text" id="termInput" placeholder="Enter a tech term (e.g., DNS, MQTT)..." autofocus
-      onkeydown="if(event.key === 'Enter') document.getElementById('explainBtn').click();" autocomplete="off" />
-    <ul id="suggestions" class="suggestion-box"></ul>
-    <button id="explainBtn">Explain It</button>
+      <input type="text" id="termInput" placeholder="Enter a tech term (e.g., DNS, MQTT)..." autofocus
+        onkeydown="if(event.key === 'Enter') document.getElementById('explainBtn').click();" autocomplete="off" />
+      <ul id="suggestions" class="suggestion-box"></ul>
+      <button id="explainBtn">Explain It</button>
 
-    <!-- RESULTS ONLY CONTAIN TERM OUTPUT -->
-    <div id="results" class="fade-in"></div>
+      <!-- RESULTS ONLY CONTAIN TERM OUTPUT -->
+      <div id="results" class="fade-in"></div>
 
-    <!-- Insert after explanation block -->
-    <div class="ad-container">
-      <!-- AdSense code will go here -->
-    </div><!-- END ad-container-->  
-  </div><!-- END container -->
+      <!-- Insert after explanation block -->
+      <div class="ad-container">
+        <!-- AdSense code will go here -->
+      </div><!-- END ad-container-->  
+    </div><!-- END container -->
+  </div>
+  
   
   <footer>    
     <!-- 💡 Help Modal -->
