@@ -1,11 +1,15 @@
-// === DOM Elements ===
+// ================================
+// DOM Elements
+// ================================
 const termInput = document.getElementById("termInput");
 const suggestions = document.getElementById("suggestions");
 const results = document.getElementById("results");
 const explainBtn = document.getElementById("explainBtn");
 const themeToggleIcon = document.getElementById("themeToggleIcon");
 
-// === Theme Toggle ===
+// ================================
+// Theme Toggle
+// ================================
 const themes = ["auto", "light", "dark"];
 const icons = ["mode_icon_1.png", "mode_icon_2.png", "mode_icon_3.png"];
 let currentIndex = 0;
@@ -34,7 +38,9 @@ function getPreferredTheme() {
   return window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
 }
 
-// === Help Modal Logic ===
+// ================================
+// Help Modal
+// ================================
 const helpBtn = document.getElementById("helpBtn");
 const helpModal = document.getElementById("helpModal");
 const closeModal = helpModal?.querySelector(".close");
@@ -45,7 +51,9 @@ window.addEventListener("click", e => {
   if (e.target === helpModal) helpModal.style.display = "none";
 });
 
-// === Suggestion Data ===
+// ================================
+// Suggestion Data
+// ================================
 let termsData = {};
 let selectedSuggestionIndex = -1;
 let termList = [];
@@ -57,7 +65,9 @@ fetch("data/terms.json")
     termList = Object.keys(data);
   });
 
-// === Autocomplete Suggestion Logic ===
+// ================================
+// Autocomplete Suggestion Logic
+// ================================
 termInput.addEventListener("input", () => {
   const input = termInput.value.toLowerCase();
   suggestions.innerHTML = "";
@@ -115,10 +125,14 @@ function updateHighlight(items) {
   });
 }
 
+// ================================
 // Hide suggestions on blur
+// ================================
 termInput.addEventListener("blur", () => setTimeout(() => (suggestions.style.display = "none"), 150));
 
-// === Explain Button Logic ===
+// ================================
+// Explain Button Logic
+// ================================
 explainBtn.addEventListener("click", () => {
   const term = termInput.value.trim().toLowerCase();
   if (!term) {
@@ -181,7 +195,12 @@ function fetchAndDisplayTerm(term) {
     </div>    
   `;
 
+  updateMetaTags(term, data.eli5);
+  injectSchema(term, data);
+  
+  // ================================
   // Generate share URLs
+  // ================================
   const shareUrl = encodeURIComponent(`${window.location.origin}?term=${term}`);
   const shareText = encodeURIComponent(`Check out this explanation of "${term}" on ExplainThisTech!`);
 
@@ -206,6 +225,9 @@ function fetchAndDisplayTerm(term) {
   });
 }
 
+// ================================
+// Jargon score tooltip
+// ================================
 function getJargonTooltip(score) {
   const messages = {
     1: "Totally beginner-friendly.",
@@ -217,7 +239,9 @@ function getJargonTooltip(score) {
   return messages[score] || "Tech lingo level unknown.";
 }
 
+// ================================
 // Auto-load term from URL ?term=mqtt
+// ================================
 window.addEventListener("DOMContentLoaded", () => {
   const params = new URLSearchParams(window.location.search);
   const urlTerm = params.get("term");
@@ -234,3 +258,47 @@ window.addEventListener("DOMContentLoaded", () => {
       }
     });
 });
+
+// ================================
+// Dynamic Title & Description
+// ================================
+function updateMetaTags(term, description) {
+  // Update title
+  document.title = `${term.toUpperCase()} | Tech Decoded`;
+
+  // Update meta description
+  let metaDesc = document.querySelector("meta[name='description']");
+  if (!metaDesc) {
+    metaDesc = document.createElement("meta");
+    metaDesc.setAttribute("name", "description");
+    document.head.appendChild(metaDesc);
+  }
+  metaDesc.setAttribute("content", description);
+}
+
+// ================================
+// Dynamic inject schema
+// ================================
+function injectSchema(term, data) {
+  // Remove old schema
+  const oldSchema = document.getElementById("term-schema");
+  if (oldSchema) oldSchema.remove();
+
+  const schema = {
+    "@context": "https://schema.org",
+    "@type": "TechArticle",
+    "name": term,
+    "description": data.eli5,
+    "about": data.categories || [],
+    "audience": {
+      "@type": "Audience",
+      "audienceType": data.level || "General"
+    }
+  };
+
+  const script = document.createElement("script");
+  script.type = "application/ld+json";
+  script.id = "term-schema";
+  script.innerText = JSON.stringify(schema);
+  document.head.appendChild(script);
+}
