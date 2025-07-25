@@ -58,13 +58,6 @@ let termsData = {};
 let selectedSuggestionIndex = -1;
 let termList = [];
 
-fetch("data/terms.json")
-  .then(res => res.json())
-  .then(data => {
-    termsData = data;
-    termList = Object.keys(data);
-  });
-
 // ================================
 // Autocomplete Suggestion Logic
 // ================================
@@ -252,6 +245,9 @@ window.addEventListener("DOMContentLoaded", () => {
       termsData = data;
       termList = Object.keys(data);
 
+      // 🧭 Generate crawlable sitemap links
+      generateSitemapLinks(termList);
+
       if (urlTerm) {
         termInput.value = urlTerm;
         fetchAndDisplayTerm(urlTerm);
@@ -301,4 +297,20 @@ function injectSchema(term, data) {
   script.id = "term-schema";
   script.innerText = JSON.stringify(schema);
   document.head.appendChild(script);
+}
+
+// ================================
+// Generate Sitemap Links
+// ================================
+function generateSitemapLinks(terms) {
+  const termLinksContainer = document.getElementById("termLinks");
+  if (!termLinksContainer) return;
+
+  terms.sort().forEach(term => {
+    const link = document.createElement("a");
+    link.href = `?term=${encodeURIComponent(term)}`;
+    link.textContent = term;
+    link.classList.add("sitemap-link");
+    termLinksContainer.appendChild(link);
+  });
 }
