@@ -325,6 +325,34 @@ hr.info-separator {
   text-decoration: underline;
   cursor: pointer;
 }
+/* Alphabet Filter */
+.alphabet-filter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 1rem;
+  justify-content: center;
+  font-family: sans-serif;
+}
+
+.alphabet-filter button {
+  padding: 6px 10px;
+  border: none;
+  background: #eee;
+  color: #333;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.alphabet-filter button.disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+.alphabet-filter button.active {
+  background-color: #007BFF;
+  color: white;
+}
 
 /* Google AdSense */
 .ad-container {

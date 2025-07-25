@@ -246,7 +246,8 @@ window.addEventListener("DOMContentLoaded", () => {
       termList = Object.keys(data);
 
       // 🧭 Generate crawlable sitemap links
-      generateSitemapLinks(termList);
+      setupAlphabetFilter(termList);
+      renderTermLinks(termList);  // Initial load = All
 
       if (urlTerm) {
         termInput.value = urlTerm;
@@ -312,5 +313,65 @@ function generateSitemapLinks(terms) {
     link.textContent = term;
     link.classList.add("sitemap-link");
     termLinksContainer.appendChild(link);
+  });
+}
+
+// =====================================
+// Alphabet Filter: A-Z + '*' for All
+// =====================================
+function setupAlphabetFilter(termList) {
+  const alphabetContainer = document.getElementById("alphabetFilter");
+  if (!alphabetContainer) return;
+
+  const grouped = groupTermsByLetter(termList);
+  const letters = ["*", ..."ABCDEFGHIJKLMNOPQRSTUVWXYZ"];
+
+  letters.forEach(letter => {
+    const button = document.createElement("button");
+    button.textContent = letter === "*" ? "*" : letter;
+
+    const hasTerms = letter === "*" || grouped[letter]?.length > 0;
+    if (!hasTerms) {
+      button.disabled = true;
+      button.classList.add("disabled");
+    }
+
+    button.addEventListener("click", () => {
+      document.querySelectorAll("#alphabetFilter button").forEach(btn => btn.classList.remove("active"));
+      button.classList.add("active");
+
+      const termsToShow = letter === "*" ? termList : grouped[letter] || [];
+      renderTermLinks(termsToShow);
+    });
+
+    alphabetContainer.appendChild(button);
+  });
+}
+
+// =====================================
+// Group terms alphabetically
+// =====================================
+function groupTermsByLetter(terms) {
+  return terms.reduce((acc, term) => {
+    const letter = term.charAt(0).toUpperCase();
+    if (!acc[letter]) acc[letter] = [];
+    acc[letter].push(term);
+    return acc;
+  }, {});
+}
+
+// =====================================
+// Renders links in #termLinks
+// =====================================
+function renderTermLinks(terms) {
+  const container = document.getElementById("termLinks");
+  container.innerHTML = "";
+
+  terms.sort().forEach(term => {
+    const link = document.createElement("a");
+    link.href = `?term=${encodeURIComponent(term)}`;
+    link.textContent = term;
+    link.classList.add("sitemap-link");
+    container.appendChild(link);
   });
 }
