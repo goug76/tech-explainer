@@ -45,10 +45,18 @@ const helpBtn = document.getElementById("helpBtn");
 const helpModal = document.getElementById("helpModal");
 const closeModal = helpModal?.querySelector(".close");
 
-helpBtn?.addEventListener("click", () => (helpModal.style.display = "block"));
-closeModal?.addEventListener("click", () => (helpModal.style.display = "none"));
+helpBtn?.addEventListener("click", () => {
+  helpModal.classList.remove("hidden");
+});
+
+closeModal?.addEventListener("click", () => {
+  helpModal.classList.add("hidden");
+});
+
 window.addEventListener("click", e => {
-  if (e.target === helpModal) helpModal.style.display = "none";
+  if (e.target === helpModal) {
+    helpModal.classList.add("hidden");
+  }
 });
 
 // ================================

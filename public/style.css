@@ -197,7 +197,6 @@ hr.info-separator {
 
 /* Modal */
 .modal {
-  display: none;
   position: fixed;
   z-index: 100;
   left: 0;
@@ -206,6 +205,9 @@ hr.info-separator {
   height: 100%;
   overflow: auto;
   background-color: rgba(0,0,0,0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 /* Modal Content */
