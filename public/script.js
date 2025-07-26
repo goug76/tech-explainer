@@ -8,6 +8,15 @@ const explainBtn = document.getElementById("explainBtn");
 const themeToggleIcon = document.getElementById("themeToggleIcon");
 
 // ================================
+// Alias Mapping
+// ================================
+const aliasMap = {
+  "z-wave": "zwave",
+  "wi-fi": "wifi",
+  "e-mail": "email"
+};
+
+// ================================
 // Theme Toggle
 // ================================
 const themes = ["auto", "light", "dark"];
@@ -146,7 +155,9 @@ explainBtn.addEventListener("click", () => {
 });
 
 function fetchAndDisplayTerm(term) {
-  const data = termsData[term.toLowerCase()];
+  const normalizedTerm = inputTerm.toLowerCase();
+  const actualTerm = aliasMap[normalizedTerm] || normalizedTerm;
+  const data = termsData[actualTerm];
   
   if (!data) {
     results.innerHTML = `
