@@ -358,3 +358,22 @@ hr.info-separator {
   background-color: #3b82f6;
   color: white;
 }
+
+/* Link colors for light and dark themes */
+a {
+  color: #1a0dab; /* default fallback for light mode */
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #0056b3;
+}
+
+/* Dark mode link overrides */
+[data-theme="dark"] a {
+  color: #66b2ff;
+}
+
+[data-theme="dark"] a:hover {
+  color: #3399ff;
+}
