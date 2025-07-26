@@ -95,6 +95,7 @@ input[type="text"] {
   font-size: 1rem;
   border: 2px solid #e5e7eb;
   border-radius: 8px;
+  margin: 5px;
   outline: none;
   transition: border-color 0.3s, box-shadow 0.3s;
 }

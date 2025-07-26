@@ -44,14 +44,15 @@
           <img class="icons" src="img/help.png" alt="Help" />
         </button>
       </div>
+      <section id="main">
+        <h1>🧠 Tech Decoded</h1>
+        <p class="subtitle">Type a tech term and hit <strong>Enter</strong> to decode it</p>
 
-      <h1>🧠 Tech Decoded</h1>
-      <p class="subtitle">Type a tech term and hit <strong>Enter</strong> to decode it</p>
-
-      <input type="text" id="termInput" placeholder="Enter a tech term (e.g., DNS, MQTT)..." autofocus
-        onkeydown="if(event.key === 'Enter') document.getElementById('explainBtn').click();" autocomplete="off" />
-      <ul id="suggestions" class="suggestion-box"></ul>
-      <button id="explainBtn">Explain It</button>
+        <input type="text" id="termInput" placeholder="Enter a tech term (e.g., DNS, MQTT)..." autofocus
+          onkeydown="if(event.key === 'Enter') document.getElementById('explainBtn').click();" autocomplete="off" />
+        <ul id="suggestions" class="suggestion-box"></ul>
+        <button id="explainBtn">Explain It</button>
+      </section>
 
       <!-- RESULTS ONLY CONTAIN TERM OUTPUT -->
       <div id="results" class="fade-in"></div>
@@ -61,7 +62,7 @@
         <!-- AdSense code will go here -->
       </div><!-- END ad-container-->  
     </div><!-- END container -->
-  </div>
+  </div><!-- END wrapper -->
   
   
   <footer>    
@@ -98,6 +99,7 @@
 
     <section id="sitemap">
       <h2>Glossary of Terms</h2>
+      <div id="categoryFilter" class="alphabet-filter"></div>
       <div id="alphabetFilter" class="alphabet-filter"></div>
       <div id="termLinks" class="sitemap-links"></div>
     </section>

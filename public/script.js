@@ -275,6 +275,7 @@ window.addEventListener("DOMContentLoaded", () => {
       }
 
       // 🧭 Generate crawlable sitemap links
+      setupCategoryFilter(termList);
       setupAlphabetFilter(termList);
       renderTermLinks(termList);  // Initial load = All
 
@@ -395,5 +396,43 @@ function renderTermLinks(terms) {
     }
 
     container.appendChild(link);
+  });
+}
+
+// =====================================
+// Category Filter: Starts with All
+// =====================================
+function setupCategoryFilter(allTerms) {
+  const categoryContainer = document.getElementById("categoryFilter");
+  if (!categoryContainer) return;
+
+  // Build category list
+  const categories = new Set();
+  for (const key in termsData) {
+    const cats = termsData[key]?.categories || [];
+    cats.forEach(cat => categories.add(cat));
+  }
+
+  const categoryList = ["All", ...Array.from(categories).sort()];
+
+  categoryList.forEach(category => {
+    const button = document.createElement("button");
+    button.textContent = category;
+    button.addEventListener("click", () => {
+      document.querySelectorAll("#categoryFilter button").forEach(btn => btn.classList.remove("active"));
+      button.classList.add("active");
+
+      const filtered = category === "All"
+        ? allTerms
+        : allTerms.filter(term => {
+            const resolved = aliasMap[term.toLowerCase()] || term.toLowerCase();
+            return termsData[resolved]?.categories?.includes(category);
+          });
+
+      setupAlphabetFilter(filtered); // regenerate A-Z for filtered category
+      renderTermLinks(filtered);     // show terms for category
+    });
+
+    categoryContainer.appendChild(button);
   });
 }
