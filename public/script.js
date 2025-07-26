@@ -472,7 +472,10 @@ function showTermComparison(termA, termB) {
   const dataA = termsData[resolvedA];
   const dataB = termsData[resolvedB];
 
+  console.log("Comparing:", { resolvedA, resolvedB, dataA, dataB });
+
   const container = document.getElementById("compareOutput");
+
   if (!dataA || !dataB) {
     container.innerHTML = `<p>Could not compare these terms.</p>`;
     container.classList.remove("hidden");
@@ -483,13 +486,13 @@ function showTermComparison(termA, termB) {
   container.innerHTML = `
     <div class="compare-columns">
       <div class="compare-box">
-        <h4>${termA.toUpperCase()}</h4>
+        <h4>${resolvedA.toUpperCase()}</h4>
         <p><strong>ELI5:</strong> ${dataA.eli5}</p>
         <p><strong>Boss:</strong> ${dataA.boss}</p>
         <p><strong>Sysadmin:</strong> ${dataA.sysadmin}</p>
       </div>
       <div class="compare-box">
-        <h4>${termB.toUpperCase()}</h4>
+        <h4>${resolvedB.toUpperCase()}</h4>
         <p><strong>ELI5:</strong> ${dataB.eli5}</p>
         <p><strong>Boss:</strong> ${dataB.boss}</p>
         <p><strong>Sysadmin:</strong> ${dataB.sysadmin}</p>
