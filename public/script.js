@@ -329,22 +329,6 @@ function injectSchema(term, data) {
   document.head.appendChild(script);
 }
 
-// ================================
-// Generate Sitemap Links
-// ================================
-function generateSitemapLinks(terms) {
-  const termLinksContainer = document.getElementById("termLinks");
-  if (!termLinksContainer) return;
-
-  terms.sort().forEach(term => {
-    const link = document.createElement("a");
-    link.href = `?term=${encodeURIComponent(term)}`;
-    link.textContent = term;
-    link.classList.add("sitemap-link");
-    termLinksContainer.appendChild(link);
-  });
-}
-
 // =====================================
 // Alphabet Filter: A-Z + '*' for All
 // =====================================
