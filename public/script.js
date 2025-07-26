@@ -155,9 +155,9 @@ explainBtn.addEventListener("click", () => {
 });
 
 function fetchAndDisplayTerm(term) {
-  const normalizedTerm = inputTerm.toLowerCase();
-  const actualTerm = aliasMap[normalizedTerm] || normalizedTerm;
-  const data = termsData[actualTerm];
+  const normalized = term.toLowerCase();
+  const resolvedKey = aliasMap[normalized] || normalized;
+  const data = termsData[resolvedKey];
   
   if (!data) {
     results.innerHTML = `
