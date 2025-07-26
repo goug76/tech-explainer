@@ -195,6 +195,8 @@ function fetchAndDisplayTerm(term) {
 
   // Insert Compare Section only if related terms exist
   if (data.related?.length) {
+    const relatedLabel = results.querySelector(".label:nth-last-of-type(1)");
+
     const compareSection = document.createElement("div");
     compareSection.className = "label";
     compareSection.innerHTML = `
@@ -202,8 +204,14 @@ function fetchAndDisplayTerm(term) {
       <div id="compareButtons" class="compare-buttons"></div>
       <div id="compareOutput" class="compare-output hidden"></div>
     `;
-    results.appendChild(compareSection);
-    renderCompareButtons(resolvedKey, data.related); // Make sure this is after it's in DOM
+
+    if (relatedLabel && relatedLabel.innerHTML.includes("Related Terms")) {
+      relatedLabel.insertAdjacentElement("afterend", compareSection);
+    } else {
+      results.appendChild(compareSection); // Fallback if Related Terms not found
+    }
+
+    renderCompareButtons(resolvedKey, data.related);
   }
 
   updateMetaTags(term, data.eli5);
