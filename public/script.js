@@ -98,10 +98,12 @@ termInput.addEventListener("keydown", (e) => {
 
   if (e.key === "ArrowDown") {
     e.preventDefault();
+    if (!items.length) return;
     selectedSuggestionIndex = (selectedSuggestionIndex + 1) % items.length;
     updateHighlight(items);
   } else if (e.key === "ArrowUp") {
     e.preventDefault();
+    if (!items.length) return;
     selectedSuggestionIndex = (selectedSuggestionIndex - 1 + items.length) % items.length;
     updateHighlight(items);
   } else if (e.key === "Enter") {
