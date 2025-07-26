@@ -205,7 +205,7 @@ function fetchAndDisplayTerm(term) {
   // Generate share URLs
   // ================================
   const shareUrl = encodeURIComponent(`${window.location.origin}?term=${term}`);
-  const shareText = encodeURIComponent(`Check out this explanation of "${term}" on ExplainThisTech!`);
+  const shareText = encodeURIComponent(`Check out this explanation of "${term}" on Tech Decoded!`);
 
   const twitterShare = document.getElementById("twitterShare");
   const facebookShare = document.getElementById("facebookShare");
