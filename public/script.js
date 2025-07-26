@@ -337,6 +337,9 @@ function setupAlphabetFilter(termList) {
   const alphabetContainer = document.getElementById("alphabetFilter");
   if (!alphabetContainer) return;
 
+  // ✅ Clear previous buttons before adding new ones
+  alphabetContainer.innerHTML = "";
+
   const grouped = groupTermsByLetter(termList);
   const letters = ["*", ..."ABCDEFGHIJKLMNOPQRSTUVWXYZ"];
 
@@ -404,6 +407,8 @@ function renderTermLinks(terms) {
 // =====================================
 function setupCategoryFilter(allTerms) {
   const categoryContainer = document.getElementById("categoryFilter");
+  categoryContainer.innerHTML = ""; // clear buttons on re-init
+
   if (!categoryContainer) return;
 
   // Build category list
@@ -419,7 +424,7 @@ function setupCategoryFilter(allTerms) {
     const button = document.createElement("button");
     button.textContent = category;
     button.addEventListener("click", () => {
-      document.querySelectorAll("#categoryFilter button").forEach(btn => btn.classList.remove("active"));
+      document.querySelectorAll(".category-filter button").forEach(btn => btn.classList.remove("active"));
       button.classList.add("active");
 
       const filtered = category === "All"
