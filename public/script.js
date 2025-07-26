@@ -381,10 +381,19 @@ function renderTermLinks(terms) {
   container.innerHTML = "";
 
   terms.sort().forEach(term => {
+    const normalized = term.toLowerCase();
+    const resolved = aliasMap[normalized] || normalized;
+    const data = termsData[resolved];
+
     const link = document.createElement("a");
     link.href = `?term=${encodeURIComponent(term)}`;
     link.textContent = term;
     link.classList.add("sitemap-link");
+
+    if (data?.eli5) {
+      link.title = data.eli5; // Set tooltip to ELI5 definition
+    }
+
     container.appendChild(link);
   });
 }
