@@ -198,7 +198,7 @@ function fetchAndDisplayTerm(term) {
       <div id="compareOutput" class="compare-output hidden"></div>
     `;
     results.appendChild(compareSection);
-    renderCompareButtons(resolvedKey, data.related);
+    renderCompareButtons(resolvedKey, data.related); // Make sure this is after it's in DOM
   }
 
   updateMetaTags(term, data.eli5);
@@ -472,9 +472,12 @@ function showTermComparison(termA, termB) {
   const dataA = termsData[resolvedA];
   const dataB = termsData[resolvedB];
 
-  console.log("Comparing:", { resolvedA, resolvedB, dataA, dataB });
-
   const container = document.getElementById("compareOutput");
+
+  if (!container) {
+    console.error("❌ compareOutput container missing from DOM");
+    return;
+  }
 
   if (!dataA || !dataB) {
     container.innerHTML = `<p>Could not compare these terms.</p>`;
@@ -483,6 +486,7 @@ function showTermComparison(termA, termB) {
   }
 
   container.classList.remove("hidden");
+  console.log("Compare container element:", container);
   container.innerHTML = `
     <div class="compare-columns">
       <div class="compare-box">
