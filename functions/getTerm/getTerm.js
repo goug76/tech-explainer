@@ -12,6 +12,7 @@ exports.handler = async function (event) {
     if (!term || !terms[term]) {
       return {
         statusCode: 404,
+        headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ error: "Term not found" })
       };
     }
@@ -25,6 +26,7 @@ exports.handler = async function (event) {
     console.error("Function error:", err); // ✅ Helpful for logs in Netlify
     return {
       statusCode: 500,
+      headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ error: "Server error" })
     };
   }
