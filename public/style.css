@@ -130,7 +130,8 @@ button:active {
   margin-top: 2rem;
   text-align: left;
   font-size: 0.95rem;
-  line-height: 1.6;
+  line-height: 1.6;  
+  max-width: 900px;
 }
 
 .fade-in {
