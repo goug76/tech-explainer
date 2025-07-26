@@ -264,7 +264,15 @@ window.addEventListener("DOMContentLoaded", () => {
     .then(res => res.json())
     .then(data => {
       termsData = data;
+      // Start with real term keys
       termList = Object.keys(data);
+
+      // Add aliases to termList (but not to termsData)
+      for (const alias in aliasMap) {
+        if (!termList.includes(alias)) {
+          termList.push(alias);
+        }
+      }
 
       // 🧭 Generate crawlable sitemap links
       setupAlphabetFilter(termList);
