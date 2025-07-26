@@ -447,6 +447,7 @@ function renderCompareButtons(baseTerm, relatedTerms) {
   if (!relatedTerms || relatedTerms.length === 0) return;
   console.log("Related terms:", relatedTerms);
   console.log("Valid terms:", relatedTerms.filter(t => termsData[aliasMap[t.toLowerCase()] || t.toLowerCase()]));
+  console.log("termsData keys:", Object.keys(termsData));
 
   relatedTerms
     .filter(t => {
