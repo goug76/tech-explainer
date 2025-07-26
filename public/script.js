@@ -445,6 +445,8 @@ function renderCompareButtons(baseTerm, relatedTerms) {
   output.classList.add("hidden");
 
   if (!relatedTerms || relatedTerms.length === 0) return;
+  console.log("Related terms:", relatedTerms);
+  console.log("Valid terms:", relatedTerms.filter(t => termsData[aliasMap[t.toLowerCase()] || t.toLowerCase()]));
 
   relatedTerms
     .filter(t => {
