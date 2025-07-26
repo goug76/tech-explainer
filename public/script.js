@@ -48,27 +48,6 @@ function getPreferredTheme() {
 }
 
 // ================================
-// Help Modal
-// ================================
-const helpBtn = document.getElementById("helpBtn");
-const helpModal = document.getElementById("helpModal");
-const closeModal = helpModal?.querySelector(".close");
-
-helpBtn?.addEventListener("click", () => {
-  helpModal.classList.remove("hidden");
-});
-
-closeModal?.addEventListener("click", () => {
-  helpModal.classList.add("hidden");
-});
-
-window.addEventListener("click", e => {
-  if (e.target === helpModal) {
-    helpModal.classList.add("hidden");
-  }
-});
-
-// ================================
 // Suggestion Data
 // ================================
 let termsData = {};
