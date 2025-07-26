@@ -178,6 +178,9 @@ function fetchAndDisplayTerm(term) {
         <div class="label"><strong>🔗 Related Terms: </strong>
           ${data.related.map(t => `<button class="related-btn" data-term="${t}">${t}</button>`).join(" ")}
         </div>` : ""}
+
+        <div id="comparePlaceholder"></div> <!-- ✅ INSERT THIS -->
+
         <div id="shareButtons" class="share-buttons">
           <strong>📣 Share this explanation: </strong>
           <a id="twitterShare" href="#" target="_blank" title="Share on X/Twitter">
@@ -195,8 +198,6 @@ function fetchAndDisplayTerm(term) {
 
   // Insert Compare Section only if related terms exist
   if (data.related?.length) {
-    const relatedLabel = results.querySelector(".label:nth-last-of-type(1)");
-
     const compareSection = document.createElement("div");
     compareSection.className = "label";
     compareSection.innerHTML = `
@@ -205,15 +206,15 @@ function fetchAndDisplayTerm(term) {
       <div id="compareOutput" class="compare-output hidden"></div>
     `;
 
-    if (relatedLabel && relatedLabel.innerHTML.includes("Related Terms")) {
-      relatedLabel.insertAdjacentElement("afterend", compareSection);
+    const placeholder = document.getElementById("comparePlaceholder");
+    if (placeholder) {
+      placeholder.replaceWith(compareSection);
     } else {
-      results.appendChild(compareSection); // Fallback if Related Terms not found
+      results.appendChild(compareSection);
     }
 
     renderCompareButtons(resolvedKey, data.related);
   }
-
   updateMetaTags(term, data.eli5);
   injectSchema(term, data);
   
