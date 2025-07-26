@@ -229,11 +229,14 @@ function fetchAndDisplayTerm(term) {
   }
 
   document.querySelectorAll(".related-btn").forEach(button => {
-    button.addEventListener("click", () => {
-      termInput.value = button.dataset.term;
-      explainBtn.click();
-    });
+  button.addEventListener("click", () => {
+    const term = button.dataset.term;
+    if (term) {
+      termInput.value = term;
+      fetchAndDisplayTerm(term);
+    }
   });
+});
 }
 
 // ================================
@@ -463,7 +466,7 @@ function renderCompareButtons(baseTerm, relatedTerms) {
       const btn = document.createElement("button");
       btn.type = "button"; // ✅ Add this line
       btn.textContent = `Compare with ${related}`;
-      btn.className = "related-btn";
+      btn.className = "compare-btn"; // ✅ Unique class for comparison
       btn.addEventListener("click", () => {
         showTermComparison(baseTerm, related);
       });
