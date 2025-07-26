@@ -458,8 +458,11 @@ function renderCompareButtons(baseTerm, relatedTerms) {
 }
 
 function showTermComparison(termA, termB) {
-  const dataA = termsData[aliasMap[termA] || termA];
-  const dataB = termsData[aliasMap[termB] || termB];
+  const resolvedA = aliasMap[termA] || termA;
+  const resolvedB = aliasMap[termB] || termB;
+
+  const dataA = termsData[resolvedA];
+  const dataB = termsData[resolvedB];
   const container = document.getElementById("compareOutput");
   if (!dataA || !dataB) return;
 
