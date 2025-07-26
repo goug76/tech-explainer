@@ -378,3 +378,30 @@ a:hover {
 [data-theme="dark"] a:hover {
   color: #3399ff;
 }
+
+/* Compare Terms */
+.compare-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.compare-output {
+  margin-top: 1rem;
+}
+
+.compare-columns {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.compare-box {
+  flex: 1 1 300px;
+  background: var(--accent-color);
+  border: 1px solid #ccc;
+  padding: 1rem;
+  border-radius: 8px;
+}

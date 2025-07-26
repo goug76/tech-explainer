@@ -188,6 +188,19 @@ function fetchAndDisplayTerm(term) {
     </div>    
   `;
 
+  // Insert Compare Section only if related terms exist
+  if (data.related?.length) {
+    const compareSection = document.createElement("div");
+    compareSection.className = "label";
+    compareSection.innerHTML = `
+      <strong>🔄 Compare With:</strong>
+      <div id="compareButtons" class="compare-buttons"></div>
+      <div id="compareOutput" class="compare-output hidden"></div>
+    `;
+    results.appendChild(compareSection);
+    renderCompareButtons(resolvedKey, data.related);
+  }
+
   updateMetaTags(term, data.eli5);
   injectSchema(term, data);
   
@@ -419,4 +432,52 @@ function setupCategoryFilter(allTerms) {
 
     categoryContainer.appendChild(button);
   });
+}
+
+// ================================
+// Compare Terms Feature
+// ================================
+function renderCompareButtons(baseTerm, relatedTerms) {
+  const container = document.getElementById("compareButtons");
+  const output = document.getElementById("compareOutput");
+  container.innerHTML = "";
+  output.innerHTML = "";
+  output.classList.add("hidden");
+
+  if (!relatedTerms || relatedTerms.length === 0) return;
+
+  relatedTerms.forEach(related => {
+    const btn = document.createElement("button");
+    btn.textContent = `Compare with ${related}`;
+    btn.className = "related-btn";
+    btn.addEventListener("click", () => {
+      showTermComparison(baseTerm, related);
+    });
+    container.appendChild(btn);
+  });
+}
+
+function showTermComparison(termA, termB) {
+  const dataA = termsData[aliasMap[termA] || termA];
+  const dataB = termsData[aliasMap[termB] || termB];
+  const container = document.getElementById("compareOutput");
+  if (!dataA || !dataB) return;
+
+  container.classList.remove("hidden");
+  container.innerHTML = `
+    <div class="compare-columns">
+      <div class="compare-box">
+        <h4>${termA.toUpperCase()}</h4>
+        <p><strong>ELI5:</strong> ${dataA.eli5}</p>
+        <p><strong>Boss:</strong> ${dataA.boss}</p>
+        <p><strong>Sysadmin:</strong> ${dataA.sysadmin}</p>
+      </div>
+      <div class="compare-box">
+        <h4>${termB.toUpperCase()}</h4>
+        <p><strong>ELI5:</strong> ${dataB.eli5}</p>
+        <p><strong>Boss:</strong> ${dataB.boss}</p>
+        <p><strong>Sysadmin:</strong> ${dataB.sysadmin}</p>
+      </div>
+    </div>
+  `;
 }
