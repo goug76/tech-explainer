@@ -1,9 +1,2 @@
 [build]
   publish = "public"
-  functions = "functions"
-
-[functions]
-  # This is the root functions config (optional defaults go here)
-
-[functions.getTerm]
-  included_files = ["data/terms.json"]
