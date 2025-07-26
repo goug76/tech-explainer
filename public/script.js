@@ -446,25 +446,35 @@ function renderCompareButtons(baseTerm, relatedTerms) {
 
   if (!relatedTerms || relatedTerms.length === 0) return;
 
-  relatedTerms.forEach(related => {
-    const btn = document.createElement("button");
-    btn.textContent = `Compare with ${related}`;
-    btn.className = "related-btn";
-    btn.addEventListener("click", () => {
-      showTermComparison(baseTerm, related);
+  relatedTerms
+    .filter(t => {
+      const key = aliasMap[t.toLowerCase()] || t.toLowerCase();
+      return termsData[key]; // ✅ Only include if it exists in the JSON
+    })
+    .forEach(related => {
+      const btn = document.createElement("button");
+      btn.textContent = `Compare with ${related}`;
+      btn.className = "related-btn";
+      btn.addEventListener("click", () => {
+        showTermComparison(baseTerm, related);
+      });
+      container.appendChild(btn);
     });
-    container.appendChild(btn);
-  });
 }
 
 function showTermComparison(termA, termB) {
-  const resolvedA = aliasMap[termA] || termA;
-  const resolvedB = aliasMap[termB] || termB;
+  const resolvedA = aliasMap[termA.toLowerCase()] || termA.toLowerCase();
+  const resolvedB = aliasMap[termB.toLowerCase()] || termB.toLowerCase();
 
   const dataA = termsData[resolvedA];
   const dataB = termsData[resolvedB];
+
   const container = document.getElementById("compareOutput");
-  if (!dataA || !dataB) return;
+  if (!dataA || !dataB) {
+    container.innerHTML = `<p>Could not compare these terms.</p>`;
+    container.classList.remove("hidden");
+    return;
+  }
 
   container.classList.remove("hidden");
   container.innerHTML = `
