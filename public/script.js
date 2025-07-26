@@ -134,6 +134,11 @@ explainBtn.addEventListener("click", () => {
 });
 
 function fetchAndDisplayTerm(term) {
+  if (!term || typeof term !== "string" || term.trim() === "") {
+    console.warn("⚠️ Invalid term passed to fetchAndDisplayTerm:", term);
+    return;
+  }
+
   const normalized = term.toLowerCase();
   const resolvedKey = aliasMap[normalized] || normalized;
   const data = termsData[resolvedKey];
@@ -456,6 +461,7 @@ function renderCompareButtons(baseTerm, relatedTerms) {
     })
     .forEach(related => {
       const btn = document.createElement("button");
+      btn.type = "button"; // ✅ Add this line
       btn.textContent = `Compare with ${related}`;
       btn.className = "related-btn";
       btn.addEventListener("click", () => {
