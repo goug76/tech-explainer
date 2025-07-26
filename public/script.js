@@ -282,7 +282,7 @@ function updateMetaTags(term, description) {
 }
 
 // ================================
-// Dynamic inject schema
+// Dynamically inject schema
 // ================================
 function injectSchema(term, data) {
   // Remove old schema
