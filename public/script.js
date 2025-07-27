@@ -227,7 +227,7 @@ function fetchAndDisplayTerm(term) {
         .map((r, i) => {
           const next = data.related[i + 1];
           if (!next) return "";
-          return `<a href="?compare=${r}-vs-${next}" class="sitemap-link">${r} vs ${next}</a>`;
+          return `<a href="#" class="sitemap-link" onclick="window.location.href='?compare=${r}-vs-${next}'">${r} vs ${next}</a>`;
         }).join(" | ")}
     `;
     compareOutput.insertAdjacentElement("afterend", suggestionSection);
