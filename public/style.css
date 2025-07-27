@@ -78,6 +78,10 @@ body {
   border-radius: 12px;
 }
 
+.main {
+  width: 100%;
+}
+
 h1 {
   font-size: 2rem;
   margin-bottom: 0.25rem;
