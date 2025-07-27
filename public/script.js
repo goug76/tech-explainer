@@ -215,6 +215,24 @@ function fetchAndDisplayTerm(term) {
 
     renderCompareButtons(resolvedKey, data.related);
   }
+
+  const compareOutput = document.getElementById("compareOutput");
+  if (compareOutput && data.related?.length > 1) {
+    const suggestionSection = document.createElement("div");
+    suggestionSection.className = "compare-suggestions";
+    suggestionSection.innerHTML = `
+      <strong>🧠 Try Comparing:</strong><br>
+      ${data.related
+        .filter((r, i, arr) => arr.length > i + 1) // ensure pair
+        .map((r, i) => {
+          const next = data.related[i + 1];
+          if (!next) return "";
+          return `<a href="?compare=${r}-vs-${next}" class="sitemap-link">${r} vs ${next}</a>`;
+        }).join(" | ")}
+    `;
+    compareOutput.insertAdjacentElement("afterend", suggestionSection);
+  }
+
   updateMetaTags(term, data.eli5);
   injectSchema(term, data);
   
@@ -228,6 +246,10 @@ function fetchAndDisplayTerm(term) {
   const facebookShare = document.getElementById("facebookShare");
   const redditShare = document.getElementById("redditShare");
   const shareSection = document.getElementById("shareButtons");
+
+  twitterShare.setAttribute("rel", "noopener noreferrer");
+  facebookShare.setAttribute("rel", "noopener noreferrer");
+  redditShare.setAttribute("rel", "noopener noreferrer");
 
   if (twitterShare && facebookShare && redditShare && shareSection) {
     twitterShare.href = `https://twitter.com/intent/tweet?url=${shareUrl}&text=${shareText}`;
