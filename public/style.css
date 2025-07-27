@@ -338,6 +338,7 @@ hr.info-separator {
   gap: 8px;
   margin-bottom: 1rem;
   justify-content: center;
+  max-width: 1200px;
 }
 
 .category-filter button:hover {
