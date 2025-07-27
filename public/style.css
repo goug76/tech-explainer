@@ -191,6 +191,8 @@ button:active {
   background: var(--accent-color);
   border-left: 4px solid #007bff;
   border-radius: 8px;
+  width: 100%;
+  box-sizing: border-box;
 }
 
 .label {
