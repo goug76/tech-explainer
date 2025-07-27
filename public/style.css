@@ -94,8 +94,6 @@ body {
 #container, #main {
   width: 100%;
   max-width: 900px;
-  min-width: unset; /* 🚫 Remove this restriction */
-  box-sizing: border-box;
 }
 
 #container {
@@ -142,11 +140,9 @@ input[type="text"] {
   padding: 0.75rem;
   font-size: 1rem;
   border: 2px solid #e5e7eb;
-  box-sizing: border-box;
   border-radius: 8px;
   margin: 5px 0;
   outline: none;
-  box-sizing: border-box;
   transition: border-color 0.3s, box-shadow 0.3s;
 }
 
@@ -166,7 +162,6 @@ input[type="text"]:focus {
 }
 
 button {
-  box-sizing: border-box;
   padding: 0.6rem 1.25rem;
   font-size: 1rem;
   background-color: #3b82f6;
@@ -218,7 +213,6 @@ button:active {
   line-height: 1.6;
   width: 100%;
   max-width: 900px;
-  box-sizing: border-box;
   overflow: visible; /* Allow content to expand */
 }
 
@@ -229,7 +223,6 @@ button:active {
   border-left: 4px solid #007bff;
   border-radius: 8px;
   width: 100%;
-  box-sizing: border-box;
 }
 
 .label {
@@ -369,7 +362,6 @@ hr.info-separator {
   text-align: left;
   position: relative;
   width: 100%;
-  box-sizing: border-box;
 }
 
 #suggestions {
@@ -382,7 +374,6 @@ hr.info-separator {
   border-radius: 8px;
   margin-top: 5px;
   z-index: 1000;
-  box-sizing: border-box;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
   list-style: none;
   padding: 0;
