@@ -291,6 +291,25 @@ window.addEventListener("DOMContentLoaded", () => {
   const params = new URLSearchParams(window.location.search);
   const urlTerm = params.get("term");
   const randomBtn = document.getElementById("randomBtn");
+  const compareParam = params.get("compare");
+
+  if (compareParam) {
+    const [termA, termB] = compareParam.toLowerCase().split("-vs-");
+    if (termA && termB) {
+      fetch("data/terms.json")
+        .then(res => res.json())
+        .then(data => {
+          termsData = data;
+          termList = Object.keys(data);
+          setupCategoryFilter(termList);
+          setupAlphabetFilter(termList);
+          renderTermLinks(termList);
+
+          showTermComparison(termA, termB);
+        });
+      return; // ✅ prevent double loading
+    }
+  }
 
   randomBtn.addEventListener("click", () => {
     const randomTerm = termList[Math.floor(Math.random() * termList.length)];
@@ -537,6 +556,7 @@ function showTermComparison(termA, termB) {
   console.log("Compare container element:", container);
   container.innerHTML = `
     <div class="compare-columns">
+      <h2>Comparing: ${resolvedA.toUpperCase()} vs ${resolvedB.toUpperCase()}</h2>
       <div class="compare-box">
         <h4>${resolvedA.toUpperCase()}</h4>
         <p><strong>ELI5:</strong> ${dataA.eli5}</p>
