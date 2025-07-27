@@ -85,7 +85,6 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  padding: 1rem;
 }
 
 .container {
@@ -93,7 +92,6 @@ body {
   max-width: 900px;
   min-width: 500px;
   text-align: center;
-  padding: 2rem;
   background: var(--bg-color);
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.05);
   border-radius: 12px;
