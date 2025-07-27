@@ -96,7 +96,6 @@ body {
   max-width: 900px;
   min-width: unset; /* 🚫 Remove this restriction */
   box-sizing: border-box;
-  padding: 1rem;
 }
 
 /* Apply min-width only on screens 640px and up */
