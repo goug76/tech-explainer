@@ -98,6 +98,17 @@ body {
   box-sizing: border-box;
 }
 
+#container {
+  text-align: center;
+  background: var(--bg-color);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.05);
+  border-radius: 12px;
+}
+
+#main {
+  text-align: center;
+}
+
 /* Apply min-width only on screens 640px and up */
 @media (min-width: 640px) {
   .container {
@@ -107,18 +118,6 @@ body {
   #main {
     min-width: 500px;
   }
-}
-
-#container {
-  width: 100%;
-  text-align: center;
-  background: var(--bg-color);
-  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.05);
-  border-radius: 12px;
-}
-
-#main {
-  text-align: center;
 }
 
 /* ===================
