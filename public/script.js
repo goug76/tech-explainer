@@ -268,6 +268,13 @@ function getJargonTooltip(score) {
 window.addEventListener("DOMContentLoaded", () => {
   const params = new URLSearchParams(window.location.search);
   const urlTerm = params.get("term");
+  const randomBtn = document.getElementById("randomBtn");
+
+  randomBtn.addEventListener("click", () => {
+    const randomTerm = termList[Math.floor(Math.random() * termList.length)];
+    termInput.value = randomTerm;
+    fetchAndDisplayTerm(randomTerm);
+  });
 
   fetch("data/terms.json")
     .then(res => res.json())
@@ -435,7 +442,7 @@ function setupCategoryFilter(allTerms) {
     button.className = "category-tag";
     button.addEventListener("click", () => {
       document.querySelectorAll(".category-filter button").forEach(btn => btn.classList.remove("active"));
-      button.classList.add("active");
+    button.classList.add("active");
 
       const filtered = category === "All"
         ? allTerms
