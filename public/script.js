@@ -221,14 +221,15 @@ function fetchAndDisplayTerm(term) {
     const suggestionSection = document.createElement("div");
     suggestionSection.className = "compare-suggestions";
     suggestionSection.innerHTML = `
-      <div class="label"><strong>🧠 Try Comparing:</strong><br></div>
+      <div class="label"><strong>🧠 Try Comparing:</strong>
       ${data.related
         .filter((r, i, arr) => arr.length > i + 1) // ensure pair
         .map((r, i) => {
           const next = data.related[i + 1];
           if (!next) return "";
           return `<button class="compare-suggest-btn" data-compare="${r}-vs-${next}">${r} vs ${next}</button>`;
-        }).join(" | ")}
+        }).join(" ")}
+      </div>
     `;
     compareOutput.insertAdjacentElement("afterend", suggestionSection);
   }
