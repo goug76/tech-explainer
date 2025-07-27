@@ -157,14 +157,16 @@ input[type="text"]:focus {
 }
 
 button {
+  box-sizing: border-box;
   padding: 0.6rem 1.25rem;
   font-size: 1rem;
   background-color: #3b82f6;
-  color: #fff;
+  color: white;
   border: none;
   border-radius: 8px;
   cursor: pointer;
   transition: background-color 0.3s, transform 0.2s;
+  width: 100%;
 }
 
 button:hover {
@@ -177,8 +179,10 @@ button:active {
 }
 
 .main-btn {
-  flex: 1 1 160px;  /* ✅ Minimum width 160px, grow if space allows */
-  max-width: 300px;
+  flex: 1 1 45%;  /* ✅ Minimum width 160px, grow if space allows */
+  max-width: 250px;
+  min-width: 120px;
+  width: 100%;
 }
 
 @media (max-width: 480px) {
