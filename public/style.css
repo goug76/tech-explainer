@@ -328,6 +328,7 @@ hr.info-separator {
 =================== */
 
 .search-wrapper {
+  text-align: left;
   position: relative;
   width: 100%;
   min-width: 500px;
