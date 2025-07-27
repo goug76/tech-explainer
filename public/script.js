@@ -290,52 +290,45 @@ function getJargonTooltip(score) {
 window.addEventListener("DOMContentLoaded", () => {
   const params = new URLSearchParams(window.location.search);
   const urlTerm = params.get("term");
-  const randomBtn = document.getElementById("randomBtn");
   const compareParam = params.get("compare");
 
-  if (compareParam) {
-    const [termA, termB] = compareParam.toLowerCase().split("-vs-");
-    if (termA && termB) {
-      fetch("data/terms.json")
-        .then(res => res.json())
-        .then(data => {
-          termsData = data;
-          termList = Object.keys(data);
-          setupCategoryFilter(termList);
-          setupAlphabetFilter(termList);
-          renderTermLinks(termList);
-
-          showTermComparison(termA, termB);
-        });
-      return; // ✅ prevent double loading
-    }
+  const randomBtn = document.getElementById("randomBtn");
+  if (randomBtn) {
+    randomBtn.addEventListener("click", () => {
+      const randomTerm = termList[Math.floor(Math.random() * termList.length)];
+      termInput.value = randomTerm;
+      fetchAndDisplayTerm(randomTerm);
+    });
   }
-
-  randomBtn.addEventListener("click", () => {
-    const randomTerm = termList[Math.floor(Math.random() * termList.length)];
-    termInput.value = randomTerm;
-    fetchAndDisplayTerm(randomTerm);
-  });
 
   fetch("data/terms.json")
     .then(res => res.json())
     .then(data => {
       termsData = data;
-      // Start with real term keys
       termList = Object.keys(data);
 
-      // Add aliases to termList (but not to termsData)
+      // Add aliases to termList
       for (const alias in aliasMap) {
         if (!termList.includes(alias)) {
           termList.push(alias);
         }
       }
 
-      // 🧭 Generate crawlable sitemap links
+      // Setup filters and sitemap
       setupCategoryFilter(termList);
       setupAlphabetFilter(termList);
-      renderTermLinks(termList);  // Initial load = All
+      renderTermLinks(termList);
 
+      // ✅ Comparison view
+      if (compareParam) {
+        const [termA, termB] = compareParam.toLowerCase().split("-vs-");
+        if (termA && termB) {
+          showTermComparison(termA, termB);
+          return; // ✅ Don't do anything else
+        }
+      }
+
+      // ✅ Normal term view
       if (urlTerm) {
         termInput.value = urlTerm;
         fetchAndDisplayTerm(urlTerm);
