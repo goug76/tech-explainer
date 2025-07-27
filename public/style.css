@@ -177,6 +177,21 @@ button:active {
   max-width: 300px;
 }
 
+@media (max-width: 480px) {
+  .btn-wrapper {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .main-btn {
+    width: 100%;
+  }
+
+  input[type="text"] {
+    font-size: 1rem;
+  }
+}
+
 /* ===================
    Results Section
 =================== */
