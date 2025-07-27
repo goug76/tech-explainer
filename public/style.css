@@ -87,22 +87,24 @@ body {
   min-height: 100vh;
 }
 
+.container, #main {
+  max-width: 600px;
+  width: 100%;
+  min-width: unset; /* 🚫 Remove this restriction */
+  box-sizing: border-box;
+  padding: 1rem;
+}
+
 .container {
   width: 100%;
-  max-width: 900px;
-  min-width: 500px;
   text-align: center;
   background: var(--bg-color);
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.05);
   border-radius: 12px;
-  box-sizing: border-box;
 }
 
 #main {
-  width: 100%;
-  min-width: 500px;
   text-align: center;
-  box-sizing: border-box;
 }
 
 /* ===================
@@ -145,8 +147,9 @@ input[type="text"]:focus {
   gap: 0.75rem;
   justify-content: center;
   align-items: center;
-  flex-wrap: wrap;
+  flex-wrap: wrap; /* ✅ Let buttons stack on narrow screens */
   margin-top: 1rem;
+  width: 100%;
 }
 
 button {
@@ -170,7 +173,8 @@ button:active {
 }
 
 .main-btn {
-  width: 50%;
+  flex: 1 1 160px;  /* ✅ Minimum width 160px, grow if space allows */
+  max-width: 300px;
 }
 
 /* ===================
