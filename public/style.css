@@ -5,6 +5,10 @@
   display: none !important;
 }
 
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
 /* ===================
    Theme Variables
 =================== */
@@ -351,7 +355,6 @@ hr.info-separator {
   text-align: left;
   position: relative;
   width: 100%;
-  min-width: 500px;
   box-sizing: border-box;
 }
 
