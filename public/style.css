@@ -329,7 +329,7 @@ hr.info-separator {
 .search-wrapper {
   position: relative;
   width: 100%;
-  max-width: 500px;
+  min-width: 500px;
   box-sizing: border-box;
 }
 
