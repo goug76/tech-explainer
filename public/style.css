@@ -65,7 +65,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  min-width: 50%;
+  min-width: 500px;
 }
 
 .container {
