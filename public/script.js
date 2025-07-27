@@ -401,7 +401,7 @@ function renderTermLinks(terms) {
     const link = document.createElement("a");
     link.href = `?term=${encodeURIComponent(term)}`;
     link.textContent = term;
-    link.classList.add("sitemap-link");
+    link.classList.add("related-btn");
 
     if (data?.eli5) {
       link.title = data.eli5; // Set tooltip to ELI5 definition
