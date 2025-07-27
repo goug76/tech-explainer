@@ -580,3 +580,18 @@ document.addEventListener("click", (e) => {
     }
   }
 });
+
+window.addEventListener("popstate", () => {
+  const params = new URLSearchParams(window.location.search);
+  const compareParam = params.get("compare");
+  const termParam = params.get("term");
+
+  if (compareParam) {
+    const [termA, termB] = compareParam.toLowerCase().split("-vs-");
+    if (termA && termB) showTermComparison(termA, termB);
+  } else if (termParam) {
+    fetchAndDisplayTerm(termParam.toLowerCase());
+  } else {
+    results.innerHTML = ""; // Or show a welcome message
+  }
+});
