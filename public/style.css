@@ -91,7 +91,7 @@ body {
   min-height: 100vh;
 }
 
-.container, #main {
+#container, #main {
   max-width: 600px;
   width: 100%;
   min-width: unset; /* 🚫 Remove this restriction */
@@ -110,7 +110,7 @@ body {
   }
 }
 
-.container {
+#container {
   width: 100%;
   text-align: center;
   background: var(--bg-color);
@@ -218,10 +218,10 @@ button:active {
   text-align: left;
   font-size: 0.95rem;
   line-height: 1.6;
-  overflow: auto;
   width: 100%;
   max-width: 900px;
   box-sizing: border-box;
+  overflow: visible; /* Allow content to expand */
 }
 
 .explanation {
@@ -245,7 +245,9 @@ hr.info-separator {
 }
 
 .fade-in {
+  opacity: 0;
   animation: fadeIn 0.8s ease-in-out forwards;
+  animation-fill-mode: both;
 }
 
 @keyframes fadeIn {
