@@ -548,8 +548,8 @@ function showTermComparison(termA, termB) {
   container.classList.remove("hidden");
   console.log("Compare container element:", container);
   container.innerHTML = `
-    <div class="compare-columns">
-      <h2>Comparing: ${resolvedA.toUpperCase()} vs ${resolvedB.toUpperCase()}</h2>
+    <h2>Comparing: ${resolvedA.toUpperCase()} vs ${resolvedB.toUpperCase()}</h2>
+    <div class="compare-columns">      
       <div class="compare-box">
         <h4>${resolvedA.toUpperCase()}</h4>
         <p><strong>ELI5:</strong> ${dataA.eli5}</p>
