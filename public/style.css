@@ -117,6 +117,10 @@ button {
   transition: background-color 0.3s, transform 0.2s;
 }
 
+button .main-btn {
+  width: 50%;
+}
+
 button:hover {
   background-color: #2563eb;
   transform: translateY(-1px);
