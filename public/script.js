@@ -227,7 +227,7 @@ function fetchAndDisplayTerm(term) {
         .map((r, i) => {
           const next = data.related[i + 1];
           if (!next) return "";
-          return `<a href="#" class="sitemap-link" onclick="window.location.href='?compare=${r}-vs-${next}'">${r} vs ${next}</a>`;
+          return `<button class="compare-suggest-btn" data-compare="${r}-vs-${next}">${r} vs ${next}</button>`;
         }).join(" | ")}
     `;
     compareOutput.insertAdjacentElement("afterend", suggestionSection);
@@ -565,3 +565,18 @@ function showTermComparison(termA, termB) {
     </div>
   `;
 }
+
+document.addEventListener("click", (e) => {
+  const btn = e.target.closest(".compare-suggest-btn");
+  if (btn) {
+    const compareValue = btn.dataset.compare;
+    if (compareValue && compareValue.includes("-vs-")) {
+      const [termA, termB] = compareValue.split("-vs-").map(t => t.toLowerCase());
+
+      showTermComparison(termA, termB);
+
+      // Update URL without reloading
+      history.pushState(null, "", `?compare=${termA}-vs-${termB}`);
+    }
+  }
+});
