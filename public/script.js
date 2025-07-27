@@ -315,6 +315,8 @@ window.addEventListener("DOMContentLoaded", () => {
         }
       }
 
+      showDailyTerm(data);
+
       // Setup filters and sitemap
       setupCategoryFilter(termList);
       setupAlphabetFilter(termList);
@@ -335,6 +337,40 @@ window.addEventListener("DOMContentLoaded", () => {
         fetchAndDisplayTerm(urlTerm);
       }
     });
+
+    // Daily Term
+    function getDailyHashKey() {
+      const now = new Date();
+      const yyyy = now.getFullYear();
+      const mm = now.getMonth() + 1;
+      const dd = now.getDate();
+      return `termOfDay-${yyyy}-${mm}-${dd}`;
+    }
+
+    function showDailyTerm(termsData) {
+      const key = getDailyHashKey();
+      let stored = localStorage.getItem(key);
+
+      if (!stored) {
+        const termKeys = Object.keys(termsData);
+        const randomKey = termKeys[Math.floor(Math.random() * termKeys.length)];
+        localStorage.setItem(key, randomKey);
+        stored = randomKey;
+      }
+
+      const data = termsData[stored];
+      const dailyTermDiv = document.getElementById("dailyTerm");
+
+      if (data && dailyTermDiv) {
+        dailyTermDiv.innerHTML = `
+          <h3><span class="term-emoji">${data.emoji || '📘'}</span> Term of the Day: <strong>${stored.toUpperCase()}</strong></h3>
+          <p class="term-explainer">${data.eli5}</p>
+          <button onclick="fetchAndDisplayTerm('${stored}')">Learn More</button>
+        `;
+        dailyTermDiv.classList.remove("hidden");
+      }
+    }
+
 });
 
 // ================================
