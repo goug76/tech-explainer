@@ -101,6 +101,7 @@ body {
 #main {
   width: 100%;
   min-width: 500px;
+  text-align: center;
   box-sizing: border-box;
 }
 
