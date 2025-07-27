@@ -201,7 +201,7 @@ function fetchAndDisplayTerm(term) {
     const compareSection = document.createElement("div");
     compareSection.className = "label";
     compareSection.innerHTML = `
-      <strong>🔄 Compare With:</strong>
+      <div class="label"><strong>🔄 Compare With:</strong></div>
       <div id="compareButtons" class="compare-buttons"></div>
       <div id="compareOutput" class="compare-output hidden"></div>
     `;
@@ -221,7 +221,7 @@ function fetchAndDisplayTerm(term) {
     const suggestionSection = document.createElement("div");
     suggestionSection.className = "compare-suggestions";
     suggestionSection.innerHTML = `
-      <strong>🧠 Try Comparing:</strong><br>
+      <div class="label"><strong>🧠 Try Comparing:</strong><br></div>
       ${data.related
         .filter((r, i, arr) => arr.length > i + 1) // ensure pair
         .map((r, i) => {
