@@ -201,8 +201,8 @@ function fetchAndDisplayTerm(term) {
     const compareSection = document.createElement("div");
     compareSection.className = "label";
     compareSection.innerHTML = `
-      <strong>🔄 Compare With: </strong>
-      <span id="compareButtons" class="compare-buttons"></span>
+      <strong>🔄 Compare With:</strong>
+      <div id="compareButtons" class="compare-buttons"></div>
       <div id="compareOutput" class="compare-output hidden"></div>
     `;
 
@@ -432,6 +432,7 @@ function setupCategoryFilter(allTerms) {
   categoryList.forEach(category => {
     const button = document.createElement("button");
     button.textContent = category;
+    button.className = "category-tag";
     button.addEventListener("click", () => {
       document.querySelectorAll(".category-filter button").forEach(btn => btn.classList.remove("active"));
       button.classList.add("active");
