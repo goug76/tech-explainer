@@ -293,21 +293,12 @@ window.addEventListener("DOMContentLoaded", () => {
   const randomBtn = document.getElementById("randomBtn");
   const compareParam = params.get("compare");
 
+  // Handle ?compare=termA-vs-termB after data is loaded
   if (compareParam) {
     const [termA, termB] = compareParam.toLowerCase().split("-vs-");
     if (termA && termB) {
-      fetch("data/terms.json")
-        .then(res => res.json())
-        .then(data => {
-          termsData = data;
-          termList = Object.keys(data);
-          setupCategoryFilter(termList);
-          setupAlphabetFilter(termList);
-          renderTermLinks(termList);
-
-          showTermComparison(termA, termB);
-        });
-      return; // ✅ prevent double loading
+      showTermComparison(termA, termB);
+      return;
     }
   }
 
