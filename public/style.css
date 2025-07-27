@@ -92,7 +92,7 @@ body {
 }
 
 #container, #main {
-  max-width: 600px;
+  max-width: 900px;
   width: 100%;
   min-width: unset; /* 🚫 Remove this restriction */
   box-sizing: border-box;
