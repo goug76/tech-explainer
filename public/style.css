@@ -205,10 +205,6 @@ hr.info-separator {
   border-top: 1px solid var(--border-color);
 }
 
-.fade-in {
-  opacity: 0;
-  animation: fadeIn 0.8s ease-in-out forwards;
-}
 /* ===================
    Sitemap
 =================== */
