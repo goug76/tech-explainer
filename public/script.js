@@ -201,8 +201,8 @@ function fetchAndDisplayTerm(term) {
     const compareSection = document.createElement("div");
     compareSection.className = "label";
     compareSection.innerHTML = `
-      <div class="label"><strong>🔄 Compare With:</strong></div>
-      <div id="compareButtons" class="compare-buttons"></div>
+      <div class="label"><strong>🔄 Compare With:</strong>
+      <div id="compareButtons" class="compare-buttons"></div></div>
       <div id="compareOutput" class="compare-output hidden"></div>
     `;
 
