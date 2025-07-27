@@ -333,6 +333,7 @@ hr.info-separator {
 
 /* Category Filter */
 .category-filter {
+  margin: 0 auto;
   display: flex;
   flex-wrap: wrap;
   gap: 8px;
