@@ -99,6 +99,17 @@ body {
   padding: 1rem;
 }
 
+/* Apply min-width only on screens 640px and up */
+@media (min-width: 640px) {
+  .container {
+    min-width: 500px;
+  }
+
+  #main {
+    min-width: 500px;
+  }
+}
+
 .container {
   width: 100%;
   text-align: center;
