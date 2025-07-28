@@ -1,0 +1,1402 @@
+{
+  "mklink": {
+    "eli5": "mklink is like a special rule, tool, or label that helps your computer organize, protect, or fix files.",
+    "boss": "mklink relates to file access, disk tools, mount options, or advanced storage features used to maintain healthy and efficient file systems.",
+    "sysadmin": "mklink refers to a filesystem-level permission, tuning utility, mount option, or feature used in managing performance, access control, and reliability of storage devices.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udd10\ud83d\udce6\ud83d\udcbe",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Storage",
+      "Security",
+      "CLI"
+    ],
+    "related": [
+      "mount",
+      "umask",
+      "icacls",
+      "journaling",
+      "mklink"
+    ],
+    "aliases": [
+      "mklink",
+      "MKLINK"
+    ],
+    "use_case": "A sysadmin uses mklink to set permissions, adjust mount behaviors, or recover a corrupted disk.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "icacls": {
+    "eli5": "icacls is like a special rule, tool, or label that helps your computer organize, protect, or fix files.",
+    "boss": "icacls relates to file access, disk tools, mount options, or advanced storage features used to maintain healthy and efficient file systems.",
+    "sysadmin": "icacls refers to a filesystem-level permission, tuning utility, mount option, or feature used in managing performance, access control, and reliability of storage devices.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udd10\ud83d\udce6\ud83d\udcbe",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Storage",
+      "Security",
+      "CLI"
+    ],
+    "related": [
+      "mount",
+      "umask",
+      "icacls",
+      "journaling",
+      "mklink"
+    ],
+    "aliases": [
+      "icacls",
+      "ICACLS"
+    ],
+    "use_case": "A sysadmin uses icacls to set permissions, adjust mount behaviors, or recover a corrupted disk.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "takeown": {
+    "eli5": "takeown is like a special rule, tool, or label that helps your computer organize, protect, or fix files.",
+    "boss": "takeown relates to file access, disk tools, mount options, or advanced storage features used to maintain healthy and efficient file systems.",
+    "sysadmin": "takeown refers to a filesystem-level permission, tuning utility, mount option, or feature used in managing performance, access control, and reliability of storage devices.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udd10\ud83d\udce6\ud83d\udcbe",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Storage",
+      "Security",
+      "CLI"
+    ],
+    "related": [
+      "mount",
+      "umask",
+      "icacls",
+      "journaling",
+      "mklink"
+    ],
+    "aliases": [
+      "takeown",
+      "TAKEOWN"
+    ],
+    "use_case": "A sysadmin uses takeown to set permissions, adjust mount behaviors, or recover a corrupted disk.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "get-acl": {
+    "eli5": "get-acl is like a special rule, tool, or label that helps your computer organize, protect, or fix files.",
+    "boss": "get-acl relates to file access, disk tools, mount options, or advanced storage features used to maintain healthy and efficient file systems.",
+    "sysadmin": "get-acl refers to a filesystem-level permission, tuning utility, mount option, or feature used in managing performance, access control, and reliability of storage devices.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udd10\ud83d\udce6\ud83d\udcbe",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Storage",
+      "Security",
+      "CLI"
+    ],
+    "related": [
+      "mount",
+      "umask",
+      "icacls",
+      "journaling",
+      "mklink"
+    ],
+    "aliases": [
+      "get-acl",
+      "GET-ACL"
+    ],
+    "use_case": "A sysadmin uses get-acl to set permissions, adjust mount behaviors, or recover a corrupted disk.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "set-acl": {
+    "eli5": "set-acl is like a special rule, tool, or label that helps your computer organize, protect, or fix files.",
+    "boss": "set-acl relates to file access, disk tools, mount options, or advanced storage features used to maintain healthy and efficient file systems.",
+    "sysadmin": "set-acl refers to a filesystem-level permission, tuning utility, mount option, or feature used in managing performance, access control, and reliability of storage devices.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udd10\ud83d\udce6\ud83d\udcbe",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Storage",
+      "Security",
+      "CLI"
+    ],
+    "related": [
+      "mount",
+      "umask",
+      "icacls",
+      "journaling",
+      "mklink"
+    ],
+    "aliases": [
+      "set-acl",
+      "SET-ACL"
+    ],
+    "use_case": "A sysadmin uses set-acl to set permissions, adjust mount behaviors, or recover a corrupted disk.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "filesystem tools": {
+    "eli5": "Filesystem Tools is like a special rule, tool, or label that helps your computer organize, protect, or fix files.",
+    "boss": "Filesystem Tools relates to file access, disk tools, mount options, or advanced storage features used to maintain healthy and efficient file systems.",
+    "sysadmin": "Filesystem Tools refers to a filesystem-level permission, tuning utility, mount option, or feature used in managing performance, access control, and reliability of storage devices.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udd10\ud83d\udce6\ud83d\udcbe",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Storage",
+      "Security",
+      "CLI"
+    ],
+    "related": [
+      "mount",
+      "umask",
+      "icacls",
+      "journaling",
+      "mklink"
+    ],
+    "aliases": [
+      "filesystem tools",
+      "FILESYSTEM TOOLS"
+    ],
+    "use_case": "A sysadmin uses Filesystem Tools to set permissions, adjust mount behaviors, or recover a corrupted disk.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "cfdisk": {
+    "eli5": "cfdisk is like a special rule, tool, or label that helps your computer organize, protect, or fix files.",
+    "boss": "cfdisk relates to file access, disk tools, mount options, or advanced storage features used to maintain healthy and efficient file systems.",
+    "sysadmin": "cfdisk refers to a filesystem-level permission, tuning utility, mount option, or feature used in managing performance, access control, and reliability of storage devices.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udd10\ud83d\udce6\ud83d\udcbe",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Storage",
+      "Security",
+      "CLI"
+    ],
+    "related": [
+      "mount",
+      "umask",
+      "icacls",
+      "journaling",
+      "mklink"
+    ],
+    "aliases": [
+      "cfdisk",
+      "CFDISK"
+    ],
+    "use_case": "A sysadmin uses cfdisk to set permissions, adjust mount behaviors, or recover a corrupted disk.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "gparted": {
+    "eli5": "gparted is like a special rule, tool, or label that helps your computer organize, protect, or fix files.",
+    "boss": "gparted relates to file access, disk tools, mount options, or advanced storage features used to maintain healthy and efficient file systems.",
+    "sysadmin": "gparted refers to a filesystem-level permission, tuning utility, mount option, or feature used in managing performance, access control, and reliability of storage devices.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udd10\ud83d\udce6\ud83d\udcbe",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Storage",
+      "Security",
+      "CLI"
+    ],
+    "related": [
+      "mount",
+      "umask",
+      "icacls",
+      "journaling",
+      "mklink"
+    ],
+    "aliases": [
+      "gparted",
+      "GPARTED"
+    ],
+    "use_case": "A sysadmin uses gparted to set permissions, adjust mount behaviors, or recover a corrupted disk.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "tune2fs": {
+    "eli5": "tune2fs is like a special rule, tool, or label that helps your computer organize, protect, or fix files.",
+    "boss": "tune2fs relates to file access, disk tools, mount options, or advanced storage features used to maintain healthy and efficient file systems.",
+    "sysadmin": "tune2fs refers to a filesystem-level permission, tuning utility, mount option, or feature used in managing performance, access control, and reliability of storage devices.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udd10\ud83d\udce6\ud83d\udcbe",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Storage",
+      "Security",
+      "CLI"
+    ],
+    "related": [
+      "mount",
+      "umask",
+      "icacls",
+      "journaling",
+      "mklink"
+    ],
+    "aliases": [
+      "tune2fs",
+      "TUNE2FS"
+    ],
+    "use_case": "A sysadmin uses tune2fs to set permissions, adjust mount behaviors, or recover a corrupted disk.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "e2label": {
+    "eli5": "e2label is like a special rule, tool, or label that helps your computer organize, protect, or fix files.",
+    "boss": "e2label relates to file access, disk tools, mount options, or advanced storage features used to maintain healthy and efficient file systems.",
+    "sysadmin": "e2label refers to a filesystem-level permission, tuning utility, mount option, or feature used in managing performance, access control, and reliability of storage devices.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udd10\ud83d\udce6\ud83d\udcbe",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Storage",
+      "Security",
+      "CLI"
+    ],
+    "related": [
+      "mount",
+      "umask",
+      "icacls",
+      "journaling",
+      "mklink"
+    ],
+    "aliases": [
+      "e2label",
+      "E2LABEL"
+    ],
+    "use_case": "A sysadmin uses e2label to set permissions, adjust mount behaviors, or recover a corrupted disk.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "resize2fs": {
+    "eli5": "resize2fs is like a special rule, tool, or label that helps your computer organize, protect, or fix files.",
+    "boss": "resize2fs relates to file access, disk tools, mount options, or advanced storage features used to maintain healthy and efficient file systems.",
+    "sysadmin": "resize2fs refers to a filesystem-level permission, tuning utility, mount option, or feature used in managing performance, access control, and reliability of storage devices.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udd10\ud83d\udce6\ud83d\udcbe",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Storage",
+      "Security",
+      "CLI"
+    ],
+    "related": [
+      "mount",
+      "umask",
+      "icacls",
+      "journaling",
+      "mklink"
+    ],
+    "aliases": [
+      "resize2fs",
+      "RESIZE2FS"
+    ],
+    "use_case": "A sysadmin uses resize2fs to set permissions, adjust mount behaviors, or recover a corrupted disk.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "labelctl": {
+    "eli5": "labelctl is like a special rule, tool, or label that helps your computer organize, protect, or fix files.",
+    "boss": "labelctl relates to file access, disk tools, mount options, or advanced storage features used to maintain healthy and efficient file systems.",
+    "sysadmin": "labelctl refers to a filesystem-level permission, tuning utility, mount option, or feature used in managing performance, access control, and reliability of storage devices.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udd10\ud83d\udce6\ud83d\udcbe",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Storage",
+      "Security",
+      "CLI"
+    ],
+    "related": [
+      "mount",
+      "umask",
+      "icacls",
+      "journaling",
+      "mklink"
+    ],
+    "aliases": [
+      "labelctl",
+      "LABELCTL"
+    ],
+    "use_case": "A sysadmin uses labelctl to set permissions, adjust mount behaviors, or recover a corrupted disk.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "mount.cifs": {
+    "eli5": "mount.cifs is like a special rule, tool, or label that helps your computer organize, protect, or fix files.",
+    "boss": "mount.cifs relates to file access, disk tools, mount options, or advanced storage features used to maintain healthy and efficient file systems.",
+    "sysadmin": "mount.cifs refers to a filesystem-level permission, tuning utility, mount option, or feature used in managing performance, access control, and reliability of storage devices.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udd10\ud83d\udce6\ud83d\udcbe",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Storage",
+      "Security",
+      "CLI"
+    ],
+    "related": [
+      "mount",
+      "umask",
+      "icacls",
+      "journaling",
+      "mklink"
+    ],
+    "aliases": [
+      "mount.cifs",
+      "MOUNT.CIFS"
+    ],
+    "use_case": "A sysadmin uses mount.cifs to set permissions, adjust mount behaviors, or recover a corrupted disk.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "mount.nfs": {
+    "eli5": "mount.nfs is like a special rule, tool, or label that helps your computer organize, protect, or fix files.",
+    "boss": "mount.nfs relates to file access, disk tools, mount options, or advanced storage features used to maintain healthy and efficient file systems.",
+    "sysadmin": "mount.nfs refers to a filesystem-level permission, tuning utility, mount option, or feature used in managing performance, access control, and reliability of storage devices.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udd10\ud83d\udce6\ud83d\udcbe",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Storage",
+      "Security",
+      "CLI"
+    ],
+    "related": [
+      "mount",
+      "umask",
+      "icacls",
+      "journaling",
+      "mklink"
+    ],
+    "aliases": [
+      "mount.nfs",
+      "MOUNT.NFS"
+    ],
+    "use_case": "A sysadmin uses mount.nfs to set permissions, adjust mount behaviors, or recover a corrupted disk.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "ntfsfix": {
+    "eli5": "ntfsfix is like a special rule, tool, or label that helps your computer organize, protect, or fix files.",
+    "boss": "ntfsfix relates to file access, disk tools, mount options, or advanced storage features used to maintain healthy and efficient file systems.",
+    "sysadmin": "ntfsfix refers to a filesystem-level permission, tuning utility, mount option, or feature used in managing performance, access control, and reliability of storage devices.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udd10\ud83d\udce6\ud83d\udcbe",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Storage",
+      "Security",
+      "CLI"
+    ],
+    "related": [
+      "mount",
+      "umask",
+      "icacls",
+      "journaling",
+      "mklink"
+    ],
+    "aliases": [
+      "ntfsfix",
+      "NTFSFIX"
+    ],
+    "use_case": "A sysadmin uses ntfsfix to set permissions, adjust mount behaviors, or recover a corrupted disk.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "mount options": {
+    "eli5": "Mount Options is like a special rule, tool, or label that helps your computer organize, protect, or fix files.",
+    "boss": "Mount Options relates to file access, disk tools, mount options, or advanced storage features used to maintain healthy and efficient file systems.",
+    "sysadmin": "Mount Options refers to a filesystem-level permission, tuning utility, mount option, or feature used in managing performance, access control, and reliability of storage devices.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udd10\ud83d\udce6\ud83d\udcbe",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Storage",
+      "Security",
+      "CLI"
+    ],
+    "related": [
+      "mount",
+      "umask",
+      "icacls",
+      "journaling",
+      "mklink"
+    ],
+    "aliases": [
+      "mount options",
+      "MOUNT OPTIONS"
+    ],
+    "use_case": "A sysadmin uses Mount Options to set permissions, adjust mount behaviors, or recover a corrupted disk.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "read-only": {
+    "eli5": "read-only is like a special rule, tool, or label that helps your computer organize, protect, or fix files.",
+    "boss": "read-only relates to file access, disk tools, mount options, or advanced storage features used to maintain healthy and efficient file systems.",
+    "sysadmin": "read-only refers to a filesystem-level permission, tuning utility, mount option, or feature used in managing performance, access control, and reliability of storage devices.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udd10\ud83d\udce6\ud83d\udcbe",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Storage",
+      "Security",
+      "CLI"
+    ],
+    "related": [
+      "mount",
+      "umask",
+      "icacls",
+      "journaling",
+      "mklink"
+    ],
+    "aliases": [
+      "read-only",
+      "READ-ONLY"
+    ],
+    "use_case": "A sysadmin uses read-only to set permissions, adjust mount behaviors, or recover a corrupted disk.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "read-write": {
+    "eli5": "read-write is like a special rule, tool, or label that helps your computer organize, protect, or fix files.",
+    "boss": "read-write relates to file access, disk tools, mount options, or advanced storage features used to maintain healthy and efficient file systems.",
+    "sysadmin": "read-write refers to a filesystem-level permission, tuning utility, mount option, or feature used in managing performance, access control, and reliability of storage devices.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udd10\ud83d\udce6\ud83d\udcbe",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Storage",
+      "Security",
+      "CLI"
+    ],
+    "related": [
+      "mount",
+      "umask",
+      "icacls",
+      "journaling",
+      "mklink"
+    ],
+    "aliases": [
+      "read-write",
+      "READ-WRITE"
+    ],
+    "use_case": "A sysadmin uses read-write to set permissions, adjust mount behaviors, or recover a corrupted disk.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "noatime": {
+    "eli5": "noatime is like a special rule, tool, or label that helps your computer organize, protect, or fix files.",
+    "boss": "noatime relates to file access, disk tools, mount options, or advanced storage features used to maintain healthy and efficient file systems.",
+    "sysadmin": "noatime refers to a filesystem-level permission, tuning utility, mount option, or feature used in managing performance, access control, and reliability of storage devices.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udd10\ud83d\udce6\ud83d\udcbe",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Storage",
+      "Security",
+      "CLI"
+    ],
+    "related": [
+      "mount",
+      "umask",
+      "icacls",
+      "journaling",
+      "mklink"
+    ],
+    "aliases": [
+      "noatime",
+      "NOATIME"
+    ],
+    "use_case": "A sysadmin uses noatime to set permissions, adjust mount behaviors, or recover a corrupted disk.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "relatime": {
+    "eli5": "relatime is like a special rule, tool, or label that helps your computer organize, protect, or fix files.",
+    "boss": "relatime relates to file access, disk tools, mount options, or advanced storage features used to maintain healthy and efficient file systems.",
+    "sysadmin": "relatime refers to a filesystem-level permission, tuning utility, mount option, or feature used in managing performance, access control, and reliability of storage devices.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udd10\ud83d\udce6\ud83d\udcbe",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Storage",
+      "Security",
+      "CLI"
+    ],
+    "related": [
+      "mount",
+      "umask",
+      "icacls",
+      "journaling",
+      "mklink"
+    ],
+    "aliases": [
+      "relatime",
+      "RELATIME"
+    ],
+    "use_case": "A sysadmin uses relatime to set permissions, adjust mount behaviors, or recover a corrupted disk.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "lazytime": {
+    "eli5": "lazytime is like a special rule, tool, or label that helps your computer organize, protect, or fix files.",
+    "boss": "lazytime relates to file access, disk tools, mount options, or advanced storage features used to maintain healthy and efficient file systems.",
+    "sysadmin": "lazytime refers to a filesystem-level permission, tuning utility, mount option, or feature used in managing performance, access control, and reliability of storage devices.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udd10\ud83d\udce6\ud83d\udcbe",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Storage",
+      "Security",
+      "CLI"
+    ],
+    "related": [
+      "mount",
+      "umask",
+      "icacls",
+      "journaling",
+      "mklink"
+    ],
+    "aliases": [
+      "lazytime",
+      "LAZYTIME"
+    ],
+    "use_case": "A sysadmin uses lazytime to set permissions, adjust mount behaviors, or recover a corrupted disk.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "sync": {
+    "eli5": "sync is like a special rule, tool, or label that helps your computer organize, protect, or fix files.",
+    "boss": "sync relates to file access, disk tools, mount options, or advanced storage features used to maintain healthy and efficient file systems.",
+    "sysadmin": "sync refers to a filesystem-level permission, tuning utility, mount option, or feature used in managing performance, access control, and reliability of storage devices.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udd10\ud83d\udce6\ud83d\udcbe",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Storage",
+      "Security",
+      "CLI"
+    ],
+    "related": [
+      "mount",
+      "umask",
+      "icacls",
+      "journaling",
+      "mklink"
+    ],
+    "aliases": [
+      "sync",
+      "SYNC"
+    ],
+    "use_case": "A sysadmin uses sync to set permissions, adjust mount behaviors, or recover a corrupted disk.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "async": {
+    "eli5": "async is like a special rule, tool, or label that helps your computer organize, protect, or fix files.",
+    "boss": "async relates to file access, disk tools, mount options, or advanced storage features used to maintain healthy and efficient file systems.",
+    "sysadmin": "async refers to a filesystem-level permission, tuning utility, mount option, or feature used in managing performance, access control, and reliability of storage devices.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udd10\ud83d\udce6\ud83d\udcbe",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Storage",
+      "Security",
+      "CLI"
+    ],
+    "related": [
+      "mount",
+      "umask",
+      "icacls",
+      "journaling",
+      "mklink"
+    ],
+    "aliases": [
+      "async",
+      "ASYNC"
+    ],
+    "use_case": "A sysadmin uses async to set permissions, adjust mount behaviors, or recover a corrupted disk.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "noexec": {
+    "eli5": "noexec is like a special rule, tool, or label that helps your computer organize, protect, or fix files.",
+    "boss": "noexec relates to file access, disk tools, mount options, or advanced storage features used to maintain healthy and efficient file systems.",
+    "sysadmin": "noexec refers to a filesystem-level permission, tuning utility, mount option, or feature used in managing performance, access control, and reliability of storage devices.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udd10\ud83d\udce6\ud83d\udcbe",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Storage",
+      "Security",
+      "CLI"
+    ],
+    "related": [
+      "mount",
+      "umask",
+      "icacls",
+      "journaling",
+      "mklink"
+    ],
+    "aliases": [
+      "noexec",
+      "NOEXEC"
+    ],
+    "use_case": "A sysadmin uses noexec to set permissions, adjust mount behaviors, or recover a corrupted disk.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "dev": {
+    "eli5": "dev is like a special rule, tool, or label that helps your computer organize, protect, or fix files.",
+    "boss": "dev relates to file access, disk tools, mount options, or advanced storage features used to maintain healthy and efficient file systems.",
+    "sysadmin": "dev refers to a filesystem-level permission, tuning utility, mount option, or feature used in managing performance, access control, and reliability of storage devices.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udd10\ud83d\udce6\ud83d\udcbe",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Storage",
+      "Security",
+      "CLI"
+    ],
+    "related": [
+      "mount",
+      "umask",
+      "icacls",
+      "journaling",
+      "mklink"
+    ],
+    "aliases": [
+      "dev",
+      "DEV"
+    ],
+    "use_case": "A sysadmin uses dev to set permissions, adjust mount behaviors, or recover a corrupted disk.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "nodev": {
+    "eli5": "nodev is like a special rule, tool, or label that helps your computer organize, protect, or fix files.",
+    "boss": "nodev relates to file access, disk tools, mount options, or advanced storage features used to maintain healthy and efficient file systems.",
+    "sysadmin": "nodev refers to a filesystem-level permission, tuning utility, mount option, or feature used in managing performance, access control, and reliability of storage devices.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udd10\ud83d\udce6\ud83d\udcbe",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Storage",
+      "Security",
+      "CLI"
+    ],
+    "related": [
+      "mount",
+      "umask",
+      "icacls",
+      "journaling",
+      "mklink"
+    ],
+    "aliases": [
+      "nodev",
+      "NODEV"
+    ],
+    "use_case": "A sysadmin uses nodev to set permissions, adjust mount behaviors, or recover a corrupted disk.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "suid": {
+    "eli5": "suid is like a special rule, tool, or label that helps your computer organize, protect, or fix files.",
+    "boss": "suid relates to file access, disk tools, mount options, or advanced storage features used to maintain healthy and efficient file systems.",
+    "sysadmin": "suid refers to a filesystem-level permission, tuning utility, mount option, or feature used in managing performance, access control, and reliability of storage devices.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udd10\ud83d\udce6\ud83d\udcbe",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Storage",
+      "Security",
+      "CLI"
+    ],
+    "related": [
+      "mount",
+      "umask",
+      "icacls",
+      "journaling",
+      "mklink"
+    ],
+    "aliases": [
+      "suid",
+      "SUID"
+    ],
+    "use_case": "A sysadmin uses suid to set permissions, adjust mount behaviors, or recover a corrupted disk.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "nosuid": {
+    "eli5": "nosuid is like a special rule, tool, or label that helps your computer organize, protect, or fix files.",
+    "boss": "nosuid relates to file access, disk tools, mount options, or advanced storage features used to maintain healthy and efficient file systems.",
+    "sysadmin": "nosuid refers to a filesystem-level permission, tuning utility, mount option, or feature used in managing performance, access control, and reliability of storage devices.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udd10\ud83d\udce6\ud83d\udcbe",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Storage",
+      "Security",
+      "CLI"
+    ],
+    "related": [
+      "mount",
+      "umask",
+      "icacls",
+      "journaling",
+      "mklink"
+    ],
+    "aliases": [
+      "nosuid",
+      "NOSUID"
+    ],
+    "use_case": "A sysadmin uses nosuid to set permissions, adjust mount behaviors, or recover a corrupted disk.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "permissions": {
+    "eli5": "Permissions is like a special rule, tool, or label that helps your computer organize, protect, or fix files.",
+    "boss": "Permissions relates to file access, disk tools, mount options, or advanced storage features used to maintain healthy and efficient file systems.",
+    "sysadmin": "Permissions refers to a filesystem-level permission, tuning utility, mount option, or feature used in managing performance, access control, and reliability of storage devices.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udd10\ud83d\udce6\ud83d\udcbe",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Storage",
+      "Security",
+      "CLI"
+    ],
+    "related": [
+      "mount",
+      "umask",
+      "icacls",
+      "journaling",
+      "mklink"
+    ],
+    "aliases": [
+      "permissions",
+      "PERMISSIONS"
+    ],
+    "use_case": "A sysadmin uses Permissions to set permissions, adjust mount behaviors, or recover a corrupted disk.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "owner": {
+    "eli5": "Owner is like a special rule, tool, or label that helps your computer organize, protect, or fix files.",
+    "boss": "Owner relates to file access, disk tools, mount options, or advanced storage features used to maintain healthy and efficient file systems.",
+    "sysadmin": "Owner refers to a filesystem-level permission, tuning utility, mount option, or feature used in managing performance, access control, and reliability of storage devices.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udd10\ud83d\udce6\ud83d\udcbe",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Storage",
+      "Security",
+      "CLI"
+    ],
+    "related": [
+      "mount",
+      "umask",
+      "icacls",
+      "journaling",
+      "mklink"
+    ],
+    "aliases": [
+      "owner",
+      "OWNER"
+    ],
+    "use_case": "A sysadmin uses Owner to set permissions, adjust mount behaviors, or recover a corrupted disk.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "others": {
+    "eli5": "Others is like a special rule, tool, or label that helps your computer organize, protect, or fix files.",
+    "boss": "Others relates to file access, disk tools, mount options, or advanced storage features used to maintain healthy and efficient file systems.",
+    "sysadmin": "Others refers to a filesystem-level permission, tuning utility, mount option, or feature used in managing performance, access control, and reliability of storage devices.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udd10\ud83d\udce6\ud83d\udcbe",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Storage",
+      "Security",
+      "CLI"
+    ],
+    "related": [
+      "mount",
+      "umask",
+      "icacls",
+      "journaling",
+      "mklink"
+    ],
+    "aliases": [
+      "others",
+      "OTHERS"
+    ],
+    "use_case": "A sysadmin uses Others to set permissions, adjust mount behaviors, or recover a corrupted disk.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "user id (uid)": {
+    "eli5": "User ID (UID) is like a special rule, tool, or label that helps your computer organize, protect, or fix files.",
+    "boss": "User ID (UID) relates to file access, disk tools, mount options, or advanced storage features used to maintain healthy and efficient file systems.",
+    "sysadmin": "User ID (UID) refers to a filesystem-level permission, tuning utility, mount option, or feature used in managing performance, access control, and reliability of storage devices.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udd10\ud83d\udce6\ud83d\udcbe",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Storage",
+      "Security",
+      "CLI"
+    ],
+    "related": [
+      "mount",
+      "umask",
+      "icacls",
+      "journaling",
+      "mklink"
+    ],
+    "aliases": [
+      "user id (uid)",
+      "USER ID (UID)"
+    ],
+    "use_case": "A sysadmin uses User ID (UID) to set permissions, adjust mount behaviors, or recover a corrupted disk.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "group id (gid)": {
+    "eli5": "Group ID (GID) is like a special rule, tool, or label that helps your computer organize, protect, or fix files.",
+    "boss": "Group ID (GID) relates to file access, disk tools, mount options, or advanced storage features used to maintain healthy and efficient file systems.",
+    "sysadmin": "Group ID (GID) refers to a filesystem-level permission, tuning utility, mount option, or feature used in managing performance, access control, and reliability of storage devices.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udd10\ud83d\udce6\ud83d\udcbe",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Storage",
+      "Security",
+      "CLI"
+    ],
+    "related": [
+      "mount",
+      "umask",
+      "icacls",
+      "journaling",
+      "mklink"
+    ],
+    "aliases": [
+      "group id (gid)",
+      "GROUP ID (GID)"
+    ],
+    "use_case": "A sysadmin uses Group ID (GID) to set permissions, adjust mount behaviors, or recover a corrupted disk.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "symbolic notation": {
+    "eli5": "symbolic notation is like a special rule, tool, or label that helps your computer organize, protect, or fix files.",
+    "boss": "symbolic notation relates to file access, disk tools, mount options, or advanced storage features used to maintain healthy and efficient file systems.",
+    "sysadmin": "symbolic notation refers to a filesystem-level permission, tuning utility, mount option, or feature used in managing performance, access control, and reliability of storage devices.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udd10\ud83d\udce6\ud83d\udcbe",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Storage",
+      "Security",
+      "CLI"
+    ],
+    "related": [
+      "mount",
+      "umask",
+      "icacls",
+      "journaling",
+      "mklink"
+    ],
+    "aliases": [
+      "symbolic notation",
+      "SYMBOLIC NOTATION"
+    ],
+    "use_case": "A sysadmin uses symbolic notation to set permissions, adjust mount behaviors, or recover a corrupted disk.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "default umask": {
+    "eli5": "default umask is like a special rule, tool, or label that helps your computer organize, protect, or fix files.",
+    "boss": "default umask relates to file access, disk tools, mount options, or advanced storage features used to maintain healthy and efficient file systems.",
+    "sysadmin": "default umask refers to a filesystem-level permission, tuning utility, mount option, or feature used in managing performance, access control, and reliability of storage devices.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udd10\ud83d\udce6\ud83d\udcbe",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Storage",
+      "Security",
+      "CLI"
+    ],
+    "related": [
+      "mount",
+      "umask",
+      "icacls",
+      "journaling",
+      "mklink"
+    ],
+    "aliases": [
+      "default umask",
+      "DEFAULT UMASK"
+    ],
+    "use_case": "A sysadmin uses default umask to set permissions, adjust mount behaviors, or recover a corrupted disk.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "filesystem features": {
+    "eli5": "Filesystem Features is like a special rule, tool, or label that helps your computer organize, protect, or fix files.",
+    "boss": "Filesystem Features relates to file access, disk tools, mount options, or advanced storage features used to maintain healthy and efficient file systems.",
+    "sysadmin": "Filesystem Features refers to a filesystem-level permission, tuning utility, mount option, or feature used in managing performance, access control, and reliability of storage devices.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udd10\ud83d\udce6\ud83d\udcbe",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Storage",
+      "Security",
+      "CLI"
+    ],
+    "related": [
+      "mount",
+      "umask",
+      "icacls",
+      "journaling",
+      "mklink"
+    ],
+    "aliases": [
+      "filesystem features",
+      "FILESYSTEM FEATURES"
+    ],
+    "use_case": "A sysadmin uses Filesystem Features to set permissions, adjust mount behaviors, or recover a corrupted disk.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "journaling": {
+    "eli5": "Journaling is like a special rule, tool, or label that helps your computer organize, protect, or fix files.",
+    "boss": "Journaling relates to file access, disk tools, mount options, or advanced storage features used to maintain healthy and efficient file systems.",
+    "sysadmin": "Journaling refers to a filesystem-level permission, tuning utility, mount option, or feature used in managing performance, access control, and reliability of storage devices.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udd10\ud83d\udce6\ud83d\udcbe",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Storage",
+      "Security",
+      "CLI"
+    ],
+    "related": [
+      "mount",
+      "umask",
+      "icacls",
+      "journaling",
+      "mklink"
+    ],
+    "aliases": [
+      "journaling",
+      "JOURNALING"
+    ],
+    "use_case": "A sysadmin uses Journaling to set permissions, adjust mount behaviors, or recover a corrupted disk.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "checksumming": {
+    "eli5": "Checksumming is like a special rule, tool, or label that helps your computer organize, protect, or fix files.",
+    "boss": "Checksumming relates to file access, disk tools, mount options, or advanced storage features used to maintain healthy and efficient file systems.",
+    "sysadmin": "Checksumming refers to a filesystem-level permission, tuning utility, mount option, or feature used in managing performance, access control, and reliability of storage devices.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udd10\ud83d\udce6\ud83d\udcbe",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Storage",
+      "Security",
+      "CLI"
+    ],
+    "related": [
+      "mount",
+      "umask",
+      "icacls",
+      "journaling",
+      "mklink"
+    ],
+    "aliases": [
+      "checksumming",
+      "CHECKSUMMING"
+    ],
+    "use_case": "A sysadmin uses Checksumming to set permissions, adjust mount behaviors, or recover a corrupted disk.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "deduplication": {
+    "eli5": "Deduplication is like a special rule, tool, or label that helps your computer organize, protect, or fix files.",
+    "boss": "Deduplication relates to file access, disk tools, mount options, or advanced storage features used to maintain healthy and efficient file systems.",
+    "sysadmin": "Deduplication refers to a filesystem-level permission, tuning utility, mount option, or feature used in managing performance, access control, and reliability of storage devices.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udd10\ud83d\udce6\ud83d\udcbe",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Storage",
+      "Security",
+      "CLI"
+    ],
+    "related": [
+      "mount",
+      "umask",
+      "icacls",
+      "journaling",
+      "mklink"
+    ],
+    "aliases": [
+      "deduplication",
+      "DEDUPLICATION"
+    ],
+    "use_case": "A sysadmin uses Deduplication to set permissions, adjust mount behaviors, or recover a corrupted disk.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "copy-on-write": {
+    "eli5": "Copy-on-Write is like a special rule, tool, or label that helps your computer organize, protect, or fix files.",
+    "boss": "Copy-on-Write relates to file access, disk tools, mount options, or advanced storage features used to maintain healthy and efficient file systems.",
+    "sysadmin": "Copy-on-Write refers to a filesystem-level permission, tuning utility, mount option, or feature used in managing performance, access control, and reliability of storage devices.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udd10\ud83d\udce6\ud83d\udcbe",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Storage",
+      "Security",
+      "CLI"
+    ],
+    "related": [
+      "mount",
+      "umask",
+      "icacls",
+      "journaling",
+      "mklink"
+    ],
+    "aliases": [
+      "copy-on-write",
+      "COPY-ON-WRITE"
+    ],
+    "use_case": "A sysadmin uses Copy-on-Write to set permissions, adjust mount behaviors, or recover a corrupted disk.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "subvolume": {
+    "eli5": "Subvolume is like a special rule, tool, or label that helps your computer organize, protect, or fix files.",
+    "boss": "Subvolume relates to file access, disk tools, mount options, or advanced storage features used to maintain healthy and efficient file systems.",
+    "sysadmin": "Subvolume refers to a filesystem-level permission, tuning utility, mount option, or feature used in managing performance, access control, and reliability of storage devices.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udd10\ud83d\udce6\ud83d\udcbe",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Storage",
+      "Security",
+      "CLI"
+    ],
+    "related": [
+      "mount",
+      "umask",
+      "icacls",
+      "journaling",
+      "mklink"
+    ],
+    "aliases": [
+      "subvolume",
+      "SUBVOLUME"
+    ],
+    "use_case": "A sysadmin uses Subvolume to set permissions, adjust mount behaviors, or recover a corrupted disk.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "quota": {
+    "eli5": "Quota is like a special rule, tool, or label that helps your computer organize, protect, or fix files.",
+    "boss": "Quota relates to file access, disk tools, mount options, or advanced storage features used to maintain healthy and efficient file systems.",
+    "sysadmin": "Quota refers to a filesystem-level permission, tuning utility, mount option, or feature used in managing performance, access control, and reliability of storage devices.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udd10\ud83d\udce6\ud83d\udcbe",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Storage",
+      "Security",
+      "CLI"
+    ],
+    "related": [
+      "mount",
+      "umask",
+      "icacls",
+      "journaling",
+      "mklink"
+    ],
+    "aliases": [
+      "quota",
+      "QUOTA"
+    ],
+    "use_case": "A sysadmin uses Quota to set permissions, adjust mount behaviors, or recover a corrupted disk.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "thin provisioning": {
+    "eli5": "Thin Provisioning is like a special rule, tool, or label that helps your computer organize, protect, or fix files.",
+    "boss": "Thin Provisioning relates to file access, disk tools, mount options, or advanced storage features used to maintain healthy and efficient file systems.",
+    "sysadmin": "Thin Provisioning refers to a filesystem-level permission, tuning utility, mount option, or feature used in managing performance, access control, and reliability of storage devices.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udd10\ud83d\udce6\ud83d\udcbe",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Storage",
+      "Security",
+      "CLI"
+    ],
+    "related": [
+      "mount",
+      "umask",
+      "icacls",
+      "journaling",
+      "mklink"
+    ],
+    "aliases": [
+      "thin provisioning",
+      "THIN PROVISIONING"
+    ],
+    "use_case": "A sysadmin uses Thin Provisioning to set permissions, adjust mount behaviors, or recover a corrupted disk.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "metadata server": {
+    "eli5": "Metadata Server is like a special rule, tool, or label that helps your computer organize, protect, or fix files.",
+    "boss": "Metadata Server relates to file access, disk tools, mount options, or advanced storage features used to maintain healthy and efficient file systems.",
+    "sysadmin": "Metadata Server refers to a filesystem-level permission, tuning utility, mount option, or feature used in managing performance, access control, and reliability of storage devices.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udd10\ud83d\udce6\ud83d\udcbe",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Storage",
+      "Security",
+      "CLI"
+    ],
+    "related": [
+      "mount",
+      "umask",
+      "icacls",
+      "journaling",
+      "mklink"
+    ],
+    "aliases": [
+      "metadata server",
+      "METADATA SERVER"
+    ],
+    "use_case": "A sysadmin uses Metadata Server to set permissions, adjust mount behaviors, or recover a corrupted disk.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "inline deduplication": {
+    "eli5": "Inline Deduplication is like a special rule, tool, or label that helps your computer organize, protect, or fix files.",
+    "boss": "Inline Deduplication relates to file access, disk tools, mount options, or advanced storage features used to maintain healthy and efficient file systems.",
+    "sysadmin": "Inline Deduplication refers to a filesystem-level permission, tuning utility, mount option, or feature used in managing performance, access control, and reliability of storage devices.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udd10\ud83d\udce6\ud83d\udcbe",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Storage",
+      "Security",
+      "CLI"
+    ],
+    "related": [
+      "mount",
+      "umask",
+      "icacls",
+      "journaling",
+      "mklink"
+    ],
+    "aliases": [
+      "inline deduplication",
+      "INLINE DEDUPLICATION"
+    ],
+    "use_case": "A sysadmin uses Inline Deduplication to set permissions, adjust mount behaviors, or recover a corrupted disk.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "inline compression": {
+    "eli5": "Inline Compression is like a special rule, tool, or label that helps your computer organize, protect, or fix files.",
+    "boss": "Inline Compression relates to file access, disk tools, mount options, or advanced storage features used to maintain healthy and efficient file systems.",
+    "sysadmin": "Inline Compression refers to a filesystem-level permission, tuning utility, mount option, or feature used in managing performance, access control, and reliability of storage devices.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udd10\ud83d\udce6\ud83d\udcbe",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Storage",
+      "Security",
+      "CLI"
+    ],
+    "related": [
+      "mount",
+      "umask",
+      "icacls",
+      "journaling",
+      "mklink"
+    ],
+    "aliases": [
+      "inline compression",
+      "INLINE COMPRESSION"
+    ],
+    "use_case": "A sysadmin uses Inline Compression to set permissions, adjust mount behaviors, or recover a corrupted disk.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "block size": {
+    "eli5": "Block Size is like a special rule, tool, or label that helps your computer organize, protect, or fix files.",
+    "boss": "Block Size relates to file access, disk tools, mount options, or advanced storage features used to maintain healthy and efficient file systems.",
+    "sysadmin": "Block Size refers to a filesystem-level permission, tuning utility, mount option, or feature used in managing performance, access control, and reliability of storage devices.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udd10\ud83d\udce6\ud83d\udcbe",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Storage",
+      "Security",
+      "CLI"
+    ],
+    "related": [
+      "mount",
+      "umask",
+      "icacls",
+      "journaling",
+      "mklink"
+    ],
+    "aliases": [
+      "block size",
+      "BLOCK SIZE"
+    ],
+    "use_case": "A sysadmin uses Block Size to set permissions, adjust mount behaviors, or recover a corrupted disk.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "cluster size": {
+    "eli5": "Cluster Size is like a special rule, tool, or label that helps your computer organize, protect, or fix files.",
+    "boss": "Cluster Size relates to file access, disk tools, mount options, or advanced storage features used to maintain healthy and efficient file systems.",
+    "sysadmin": "Cluster Size refers to a filesystem-level permission, tuning utility, mount option, or feature used in managing performance, access control, and reliability of storage devices.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udd10\ud83d\udce6\ud83d\udcbe",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Storage",
+      "Security",
+      "CLI"
+    ],
+    "related": [
+      "mount",
+      "umask",
+      "icacls",
+      "journaling",
+      "mklink"
+    ],
+    "aliases": [
+      "cluster size",
+      "CLUSTER SIZE"
+    ],
+    "use_case": "A sysadmin uses Cluster Size to set permissions, adjust mount behaviors, or recover a corrupted disk.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "filesystem errors": {
+    "eli5": "Filesystem Errors is like a special rule, tool, or label that helps your computer organize, protect, or fix files.",
+    "boss": "Filesystem Errors relates to file access, disk tools, mount options, or advanced storage features used to maintain healthy and efficient file systems.",
+    "sysadmin": "Filesystem Errors refers to a filesystem-level permission, tuning utility, mount option, or feature used in managing performance, access control, and reliability of storage devices.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udd10\ud83d\udce6\ud83d\udcbe",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Storage",
+      "Security",
+      "CLI"
+    ],
+    "related": [
+      "mount",
+      "umask",
+      "icacls",
+      "journaling",
+      "mklink"
+    ],
+    "aliases": [
+      "filesystem errors",
+      "FILESYSTEM ERRORS"
+    ],
+    "use_case": "A sysadmin uses Filesystem Errors to set permissions, adjust mount behaviors, or recover a corrupted disk.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "corrupted filesystem": {
+    "eli5": "Corrupted Filesystem is like a special rule, tool, or label that helps your computer organize, protect, or fix files.",
+    "boss": "Corrupted Filesystem relates to file access, disk tools, mount options, or advanced storage features used to maintain healthy and efficient file systems.",
+    "sysadmin": "Corrupted Filesystem refers to a filesystem-level permission, tuning utility, mount option, or feature used in managing performance, access control, and reliability of storage devices.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udd10\ud83d\udce6\ud83d\udcbe",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Storage",
+      "Security",
+      "CLI"
+    ],
+    "related": [
+      "mount",
+      "umask",
+      "icacls",
+      "journaling",
+      "mklink"
+    ],
+    "aliases": [
+      "corrupted filesystem",
+      "CORRUPTED FILESYSTEM"
+    ],
+    "use_case": "A sysadmin uses Corrupted Filesystem to set permissions, adjust mount behaviors, or recover a corrupted disk.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  }
+}

@@ -1,0 +1,1452 @@
+{
+  "database metrics": {
+    "eli5": "Database Metrics is like a recipe, rulebook, or storage bin that helps apps deal with data, time, or how things get built and updated.",
+    "boss": "Database Metrics is a modern concept or tool in cloud databases, DevOps pipelines, data governance, or time-series analytics aimed at improving automation, compliance, and scalability.",
+    "sysadmin": "Database Metrics refers to a metric, format, policy, or deployment methodology used in managing data integrity, cloud-native workflows, or continuous delivery and monitoring systems.",
+    "emoji": "\ud83e\uddec\ud83d\udd52\ud83d\ude80\ud83d\udcca",
+    "categories": [
+      "Database",
+      "Cloud",
+      "DevOps",
+      "Monitoring",
+      "Data Processing",
+      "Analytics",
+      "Privacy"
+    ],
+    "related": [
+      "ci/cd",
+      "cap theorem",
+      "parquet",
+      "supabase",
+      "data governance"
+    ],
+    "aliases": [
+      "database metrics",
+      "DATABASE METRICS"
+    ],
+    "use_case": "An engineer uses Database Metrics to store time-series data, ensure privacy, or automate software deployment in cloud-native environments.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "data format": {
+    "eli5": "Data Format is like a recipe, rulebook, or storage bin that helps apps deal with data, time, or how things get built and updated.",
+    "boss": "Data Format is a modern concept or tool in cloud databases, DevOps pipelines, data governance, or time-series analytics aimed at improving automation, compliance, and scalability.",
+    "sysadmin": "Data Format refers to a metric, format, policy, or deployment methodology used in managing data integrity, cloud-native workflows, or continuous delivery and monitoring systems.",
+    "emoji": "\ud83e\uddec\ud83d\udd52\ud83d\ude80\ud83d\udcca",
+    "categories": [
+      "Database",
+      "Cloud",
+      "DevOps",
+      "Monitoring",
+      "Data Processing",
+      "Analytics",
+      "Privacy"
+    ],
+    "related": [
+      "ci/cd",
+      "cap theorem",
+      "parquet",
+      "supabase",
+      "data governance"
+    ],
+    "aliases": [
+      "data format",
+      "DATA FORMAT"
+    ],
+    "use_case": "An engineer uses Data Format to store time-series data, ensure privacy, or automate software deployment in cloud-native environments.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "csv": {
+    "eli5": "CSV is like a recipe, rulebook, or storage bin that helps apps deal with data, time, or how things get built and updated.",
+    "boss": "CSV is a modern concept or tool in cloud databases, DevOps pipelines, data governance, or time-series analytics aimed at improving automation, compliance, and scalability.",
+    "sysadmin": "CSV refers to a metric, format, policy, or deployment methodology used in managing data integrity, cloud-native workflows, or continuous delivery and monitoring systems.",
+    "emoji": "\ud83e\uddec\ud83d\udd52\ud83d\ude80\ud83d\udcca",
+    "categories": [
+      "Database",
+      "Cloud",
+      "DevOps",
+      "Monitoring",
+      "Data Processing",
+      "Analytics",
+      "Privacy"
+    ],
+    "related": [
+      "ci/cd",
+      "cap theorem",
+      "parquet",
+      "supabase",
+      "data governance"
+    ],
+    "aliases": [
+      "csv",
+      "CSV"
+    ],
+    "use_case": "An engineer uses CSV to store time-series data, ensure privacy, or automate software deployment in cloud-native environments.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "jsonb": {
+    "eli5": "JSONB is like a recipe, rulebook, or storage bin that helps apps deal with data, time, or how things get built and updated.",
+    "boss": "JSONB is a modern concept or tool in cloud databases, DevOps pipelines, data governance, or time-series analytics aimed at improving automation, compliance, and scalability.",
+    "sysadmin": "JSONB refers to a metric, format, policy, or deployment methodology used in managing data integrity, cloud-native workflows, or continuous delivery and monitoring systems.",
+    "emoji": "\ud83e\uddec\ud83d\udd52\ud83d\ude80\ud83d\udcca",
+    "categories": [
+      "Database",
+      "Cloud",
+      "DevOps",
+      "Monitoring",
+      "Data Processing",
+      "Analytics",
+      "Privacy"
+    ],
+    "related": [
+      "ci/cd",
+      "cap theorem",
+      "parquet",
+      "supabase",
+      "data governance"
+    ],
+    "aliases": [
+      "jsonb",
+      "JSONB"
+    ],
+    "use_case": "An engineer uses JSONB to store time-series data, ensure privacy, or automate software deployment in cloud-native environments.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "parquet": {
+    "eli5": "Parquet is like a recipe, rulebook, or storage bin that helps apps deal with data, time, or how things get built and updated.",
+    "boss": "Parquet is a modern concept or tool in cloud databases, DevOps pipelines, data governance, or time-series analytics aimed at improving automation, compliance, and scalability.",
+    "sysadmin": "Parquet refers to a metric, format, policy, or deployment methodology used in managing data integrity, cloud-native workflows, or continuous delivery and monitoring systems.",
+    "emoji": "\ud83e\uddec\ud83d\udd52\ud83d\ude80\ud83d\udcca",
+    "categories": [
+      "Database",
+      "Cloud",
+      "DevOps",
+      "Monitoring",
+      "Data Processing",
+      "Analytics",
+      "Privacy"
+    ],
+    "related": [
+      "ci/cd",
+      "cap theorem",
+      "parquet",
+      "supabase",
+      "data governance"
+    ],
+    "aliases": [
+      "parquet",
+      "PARQUET"
+    ],
+    "use_case": "An engineer uses Parquet to store time-series data, ensure privacy, or automate software deployment in cloud-native environments.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "avro": {
+    "eli5": "Avro is like a recipe, rulebook, or storage bin that helps apps deal with data, time, or how things get built and updated.",
+    "boss": "Avro is a modern concept or tool in cloud databases, DevOps pipelines, data governance, or time-series analytics aimed at improving automation, compliance, and scalability.",
+    "sysadmin": "Avro refers to a metric, format, policy, or deployment methodology used in managing data integrity, cloud-native workflows, or continuous delivery and monitoring systems.",
+    "emoji": "\ud83e\uddec\ud83d\udd52\ud83d\ude80\ud83d\udcca",
+    "categories": [
+      "Database",
+      "Cloud",
+      "DevOps",
+      "Monitoring",
+      "Data Processing",
+      "Analytics",
+      "Privacy"
+    ],
+    "related": [
+      "ci/cd",
+      "cap theorem",
+      "parquet",
+      "supabase",
+      "data governance"
+    ],
+    "aliases": [
+      "avro",
+      "AVRO"
+    ],
+    "use_case": "An engineer uses Avro to store time-series data, ensure privacy, or automate software deployment in cloud-native environments.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "orc": {
+    "eli5": "ORC is like a recipe, rulebook, or storage bin that helps apps deal with data, time, or how things get built and updated.",
+    "boss": "ORC is a modern concept or tool in cloud databases, DevOps pipelines, data governance, or time-series analytics aimed at improving automation, compliance, and scalability.",
+    "sysadmin": "ORC refers to a metric, format, policy, or deployment methodology used in managing data integrity, cloud-native workflows, or continuous delivery and monitoring systems.",
+    "emoji": "\ud83e\uddec\ud83d\udd52\ud83d\ude80\ud83d\udcca",
+    "categories": [
+      "Database",
+      "Cloud",
+      "DevOps",
+      "Monitoring",
+      "Data Processing",
+      "Analytics",
+      "Privacy"
+    ],
+    "related": [
+      "ci/cd",
+      "cap theorem",
+      "parquet",
+      "supabase",
+      "data governance"
+    ],
+    "aliases": [
+      "orc",
+      "ORC"
+    ],
+    "use_case": "An engineer uses ORC to store time-series data, ensure privacy, or automate software deployment in cloud-native environments.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "cloud databases": {
+    "eli5": "Cloud Databases is like a recipe, rulebook, or storage bin that helps apps deal with data, time, or how things get built and updated.",
+    "boss": "Cloud Databases is a modern concept or tool in cloud databases, DevOps pipelines, data governance, or time-series analytics aimed at improving automation, compliance, and scalability.",
+    "sysadmin": "Cloud Databases refers to a metric, format, policy, or deployment methodology used in managing data integrity, cloud-native workflows, or continuous delivery and monitoring systems.",
+    "emoji": "\ud83e\uddec\ud83d\udd52\ud83d\ude80\ud83d\udcca",
+    "categories": [
+      "Database",
+      "Cloud",
+      "DevOps",
+      "Monitoring",
+      "Data Processing",
+      "Analytics",
+      "Privacy"
+    ],
+    "related": [
+      "ci/cd",
+      "cap theorem",
+      "parquet",
+      "supabase",
+      "data governance"
+    ],
+    "aliases": [
+      "cloud databases",
+      "CLOUD DATABASES"
+    ],
+    "use_case": "An engineer uses Cloud Databases to store time-series data, ensure privacy, or automate software deployment in cloud-native environments.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "aurora": {
+    "eli5": "Aurora is like a recipe, rulebook, or storage bin that helps apps deal with data, time, or how things get built and updated.",
+    "boss": "Aurora is a modern concept or tool in cloud databases, DevOps pipelines, data governance, or time-series analytics aimed at improving automation, compliance, and scalability.",
+    "sysadmin": "Aurora refers to a metric, format, policy, or deployment methodology used in managing data integrity, cloud-native workflows, or continuous delivery and monitoring systems.",
+    "emoji": "\ud83e\uddec\ud83d\udd52\ud83d\ude80\ud83d\udcca",
+    "categories": [
+      "Database",
+      "Cloud",
+      "DevOps",
+      "Monitoring",
+      "Data Processing",
+      "Analytics",
+      "Privacy"
+    ],
+    "related": [
+      "ci/cd",
+      "cap theorem",
+      "parquet",
+      "supabase",
+      "data governance"
+    ],
+    "aliases": [
+      "aurora",
+      "AURORA"
+    ],
+    "use_case": "An engineer uses Aurora to store time-series data, ensure privacy, or automate software deployment in cloud-native environments.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "cloud spanner": {
+    "eli5": "Cloud Spanner is like a recipe, rulebook, or storage bin that helps apps deal with data, time, or how things get built and updated.",
+    "boss": "Cloud Spanner is a modern concept or tool in cloud databases, DevOps pipelines, data governance, or time-series analytics aimed at improving automation, compliance, and scalability.",
+    "sysadmin": "Cloud Spanner refers to a metric, format, policy, or deployment methodology used in managing data integrity, cloud-native workflows, or continuous delivery and monitoring systems.",
+    "emoji": "\ud83e\uddec\ud83d\udd52\ud83d\ude80\ud83d\udcca",
+    "categories": [
+      "Database",
+      "Cloud",
+      "DevOps",
+      "Monitoring",
+      "Data Processing",
+      "Analytics",
+      "Privacy"
+    ],
+    "related": [
+      "ci/cd",
+      "cap theorem",
+      "parquet",
+      "supabase",
+      "data governance"
+    ],
+    "aliases": [
+      "cloud spanner",
+      "CLOUD SPANNER"
+    ],
+    "use_case": "An engineer uses Cloud Spanner to store time-series data, ensure privacy, or automate software deployment in cloud-native environments.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "firebase firestore": {
+    "eli5": "Firebase Firestore is like a recipe, rulebook, or storage bin that helps apps deal with data, time, or how things get built and updated.",
+    "boss": "Firebase Firestore is a modern concept or tool in cloud databases, DevOps pipelines, data governance, or time-series analytics aimed at improving automation, compliance, and scalability.",
+    "sysadmin": "Firebase Firestore refers to a metric, format, policy, or deployment methodology used in managing data integrity, cloud-native workflows, or continuous delivery and monitoring systems.",
+    "emoji": "\ud83e\uddec\ud83d\udd52\ud83d\ude80\ud83d\udcca",
+    "categories": [
+      "Database",
+      "Cloud",
+      "DevOps",
+      "Monitoring",
+      "Data Processing",
+      "Analytics",
+      "Privacy"
+    ],
+    "related": [
+      "ci/cd",
+      "cap theorem",
+      "parquet",
+      "supabase",
+      "data governance"
+    ],
+    "aliases": [
+      "firebase firestore",
+      "FIREBASE FIRESTORE"
+    ],
+    "use_case": "An engineer uses Firebase Firestore to store time-series data, ensure privacy, or automate software deployment in cloud-native environments.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "mongodb atlas": {
+    "eli5": "MongoDB Atlas is like a recipe, rulebook, or storage bin that helps apps deal with data, time, or how things get built and updated.",
+    "boss": "MongoDB Atlas is a modern concept or tool in cloud databases, DevOps pipelines, data governance, or time-series analytics aimed at improving automation, compliance, and scalability.",
+    "sysadmin": "MongoDB Atlas refers to a metric, format, policy, or deployment methodology used in managing data integrity, cloud-native workflows, or continuous delivery and monitoring systems.",
+    "emoji": "\ud83e\uddec\ud83d\udd52\ud83d\ude80\ud83d\udcca",
+    "categories": [
+      "Database",
+      "Cloud",
+      "DevOps",
+      "Monitoring",
+      "Data Processing",
+      "Analytics",
+      "Privacy"
+    ],
+    "related": [
+      "ci/cd",
+      "cap theorem",
+      "parquet",
+      "supabase",
+      "data governance"
+    ],
+    "aliases": [
+      "mongodb atlas",
+      "MONGODB ATLAS"
+    ],
+    "use_case": "An engineer uses MongoDB Atlas to store time-series data, ensure privacy, or automate software deployment in cloud-native environments.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "neon (postgres)": {
+    "eli5": "Neon (Postgres) is like a recipe, rulebook, or storage bin that helps apps deal with data, time, or how things get built and updated.",
+    "boss": "Neon (Postgres) is a modern concept or tool in cloud databases, DevOps pipelines, data governance, or time-series analytics aimed at improving automation, compliance, and scalability.",
+    "sysadmin": "Neon (Postgres) refers to a metric, format, policy, or deployment methodology used in managing data integrity, cloud-native workflows, or continuous delivery and monitoring systems.",
+    "emoji": "\ud83e\uddec\ud83d\udd52\ud83d\ude80\ud83d\udcca",
+    "categories": [
+      "Database",
+      "Cloud",
+      "DevOps",
+      "Monitoring",
+      "Data Processing",
+      "Analytics",
+      "Privacy"
+    ],
+    "related": [
+      "ci/cd",
+      "cap theorem",
+      "parquet",
+      "supabase",
+      "data governance"
+    ],
+    "aliases": [
+      "neon (postgres)",
+      "NEON (POSTGRES)"
+    ],
+    "use_case": "An engineer uses Neon (Postgres) to store time-series data, ensure privacy, or automate software deployment in cloud-native environments.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "planetscale (mysql)": {
+    "eli5": "PlanetScale (MySQL) is like a recipe, rulebook, or storage bin that helps apps deal with data, time, or how things get built and updated.",
+    "boss": "PlanetScale (MySQL) is a modern concept or tool in cloud databases, DevOps pipelines, data governance, or time-series analytics aimed at improving automation, compliance, and scalability.",
+    "sysadmin": "PlanetScale (MySQL) refers to a metric, format, policy, or deployment methodology used in managing data integrity, cloud-native workflows, or continuous delivery and monitoring systems.",
+    "emoji": "\ud83e\uddec\ud83d\udd52\ud83d\ude80\ud83d\udcca",
+    "categories": [
+      "Database",
+      "Cloud",
+      "DevOps",
+      "Monitoring",
+      "Data Processing",
+      "Analytics",
+      "Privacy"
+    ],
+    "related": [
+      "ci/cd",
+      "cap theorem",
+      "parquet",
+      "supabase",
+      "data governance"
+    ],
+    "aliases": [
+      "planetscale (mysql)",
+      "PLANETSCALE (MYSQL)"
+    ],
+    "use_case": "An engineer uses PlanetScale (MySQL) to store time-series data, ensure privacy, or automate software deployment in cloud-native environments.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "supabase": {
+    "eli5": "Supabase is like a recipe, rulebook, or storage bin that helps apps deal with data, time, or how things get built and updated.",
+    "boss": "Supabase is a modern concept or tool in cloud databases, DevOps pipelines, data governance, or time-series analytics aimed at improving automation, compliance, and scalability.",
+    "sysadmin": "Supabase refers to a metric, format, policy, or deployment methodology used in managing data integrity, cloud-native workflows, or continuous delivery and monitoring systems.",
+    "emoji": "\ud83e\uddec\ud83d\udd52\ud83d\ude80\ud83d\udcca",
+    "categories": [
+      "Database",
+      "Cloud",
+      "DevOps",
+      "Monitoring",
+      "Data Processing",
+      "Analytics",
+      "Privacy"
+    ],
+    "related": [
+      "ci/cd",
+      "cap theorem",
+      "parquet",
+      "supabase",
+      "data governance"
+    ],
+    "aliases": [
+      "supabase",
+      "SUPABASE"
+    ],
+    "use_case": "An engineer uses Supabase to store time-series data, ensure privacy, or automate software deployment in cloud-native environments.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "hasura": {
+    "eli5": "Hasura is like a recipe, rulebook, or storage bin that helps apps deal with data, time, or how things get built and updated.",
+    "boss": "Hasura is a modern concept or tool in cloud databases, DevOps pipelines, data governance, or time-series analytics aimed at improving automation, compliance, and scalability.",
+    "sysadmin": "Hasura refers to a metric, format, policy, or deployment methodology used in managing data integrity, cloud-native workflows, or continuous delivery and monitoring systems.",
+    "emoji": "\ud83e\uddec\ud83d\udd52\ud83d\ude80\ud83d\udcca",
+    "categories": [
+      "Database",
+      "Cloud",
+      "DevOps",
+      "Monitoring",
+      "Data Processing",
+      "Analytics",
+      "Privacy"
+    ],
+    "related": [
+      "ci/cd",
+      "cap theorem",
+      "parquet",
+      "supabase",
+      "data governance"
+    ],
+    "aliases": [
+      "hasura",
+      "HASURA"
+    ],
+    "use_case": "An engineer uses Hasura to store time-series data, ensure privacy, or automate software deployment in cloud-native environments.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "faunadb": {
+    "eli5": "FaunaDB is like a recipe, rulebook, or storage bin that helps apps deal with data, time, or how things get built and updated.",
+    "boss": "FaunaDB is a modern concept or tool in cloud databases, DevOps pipelines, data governance, or time-series analytics aimed at improving automation, compliance, and scalability.",
+    "sysadmin": "FaunaDB refers to a metric, format, policy, or deployment methodology used in managing data integrity, cloud-native workflows, or continuous delivery and monitoring systems.",
+    "emoji": "\ud83e\uddec\ud83d\udd52\ud83d\ude80\ud83d\udcca",
+    "categories": [
+      "Database",
+      "Cloud",
+      "DevOps",
+      "Monitoring",
+      "Data Processing",
+      "Analytics",
+      "Privacy"
+    ],
+    "related": [
+      "ci/cd",
+      "cap theorem",
+      "parquet",
+      "supabase",
+      "data governance"
+    ],
+    "aliases": [
+      "faunadb",
+      "FAUNADB"
+    ],
+    "use_case": "An engineer uses FaunaDB to store time-series data, ensure privacy, or automate software deployment in cloud-native environments.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "serverless database": {
+    "eli5": "Serverless Database is like a recipe, rulebook, or storage bin that helps apps deal with data, time, or how things get built and updated.",
+    "boss": "Serverless Database is a modern concept or tool in cloud databases, DevOps pipelines, data governance, or time-series analytics aimed at improving automation, compliance, and scalability.",
+    "sysadmin": "Serverless Database refers to a metric, format, policy, or deployment methodology used in managing data integrity, cloud-native workflows, or continuous delivery and monitoring systems.",
+    "emoji": "\ud83e\uddec\ud83d\udd52\ud83d\ude80\ud83d\udcca",
+    "categories": [
+      "Database",
+      "Cloud",
+      "DevOps",
+      "Monitoring",
+      "Data Processing",
+      "Analytics",
+      "Privacy"
+    ],
+    "related": [
+      "ci/cd",
+      "cap theorem",
+      "parquet",
+      "supabase",
+      "data governance"
+    ],
+    "aliases": [
+      "serverless database",
+      "SERVERLESS DATABASE"
+    ],
+    "use_case": "An engineer uses Serverless Database to store time-series data, ensure privacy, or automate software deployment in cloud-native environments.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "edge database": {
+    "eli5": "Edge Database is like a recipe, rulebook, or storage bin that helps apps deal with data, time, or how things get built and updated.",
+    "boss": "Edge Database is a modern concept or tool in cloud databases, DevOps pipelines, data governance, or time-series analytics aimed at improving automation, compliance, and scalability.",
+    "sysadmin": "Edge Database refers to a metric, format, policy, or deployment methodology used in managing data integrity, cloud-native workflows, or continuous delivery and monitoring systems.",
+    "emoji": "\ud83e\uddec\ud83d\udd52\ud83d\ude80\ud83d\udcca",
+    "categories": [
+      "Database",
+      "Cloud",
+      "DevOps",
+      "Monitoring",
+      "Data Processing",
+      "Analytics",
+      "Privacy"
+    ],
+    "related": [
+      "ci/cd",
+      "cap theorem",
+      "parquet",
+      "supabase",
+      "data governance"
+    ],
+    "aliases": [
+      "edge database",
+      "EDGE DATABASE"
+    ],
+    "use_case": "An engineer uses Edge Database to store time-series data, ensure privacy, or automate software deployment in cloud-native environments.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "globally distributed database": {
+    "eli5": "Globally Distributed Database is like a recipe, rulebook, or storage bin that helps apps deal with data, time, or how things get built and updated.",
+    "boss": "Globally Distributed Database is a modern concept or tool in cloud databases, DevOps pipelines, data governance, or time-series analytics aimed at improving automation, compliance, and scalability.",
+    "sysadmin": "Globally Distributed Database refers to a metric, format, policy, or deployment methodology used in managing data integrity, cloud-native workflows, or continuous delivery and monitoring systems.",
+    "emoji": "\ud83e\uddec\ud83d\udd52\ud83d\ude80\ud83d\udcca",
+    "categories": [
+      "Database",
+      "Cloud",
+      "DevOps",
+      "Monitoring",
+      "Data Processing",
+      "Analytics",
+      "Privacy"
+    ],
+    "related": [
+      "ci/cd",
+      "cap theorem",
+      "parquet",
+      "supabase",
+      "data governance"
+    ],
+    "aliases": [
+      "globally distributed database",
+      "GLOBALLY DISTRIBUTED DATABASE"
+    ],
+    "use_case": "An engineer uses Globally Distributed Database to store time-series data, ensure privacy, or automate software deployment in cloud-native environments.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "cap theorem": {
+    "eli5": "CAP Theorem is like a recipe, rulebook, or storage bin that helps apps deal with data, time, or how things get built and updated.",
+    "boss": "CAP Theorem is a modern concept or tool in cloud databases, DevOps pipelines, data governance, or time-series analytics aimed at improving automation, compliance, and scalability.",
+    "sysadmin": "CAP Theorem refers to a metric, format, policy, or deployment methodology used in managing data integrity, cloud-native workflows, or continuous delivery and monitoring systems.",
+    "emoji": "\ud83e\uddec\ud83d\udd52\ud83d\ude80\ud83d\udcca",
+    "categories": [
+      "Database",
+      "Cloud",
+      "DevOps",
+      "Monitoring",
+      "Data Processing",
+      "Analytics",
+      "Privacy"
+    ],
+    "related": [
+      "ci/cd",
+      "cap theorem",
+      "parquet",
+      "supabase",
+      "data governance"
+    ],
+    "aliases": [
+      "cap theorem",
+      "CAP THEOREM"
+    ],
+    "use_case": "An engineer uses CAP Theorem to store time-series data, ensure privacy, or automate software deployment in cloud-native environments.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "data governance": {
+    "eli5": "Data Governance is like a recipe, rulebook, or storage bin that helps apps deal with data, time, or how things get built and updated.",
+    "boss": "Data Governance is a modern concept or tool in cloud databases, DevOps pipelines, data governance, or time-series analytics aimed at improving automation, compliance, and scalability.",
+    "sysadmin": "Data Governance refers to a metric, format, policy, or deployment methodology used in managing data integrity, cloud-native workflows, or continuous delivery and monitoring systems.",
+    "emoji": "\ud83e\uddec\ud83d\udd52\ud83d\ude80\ud83d\udcca",
+    "categories": [
+      "Database",
+      "Cloud",
+      "DevOps",
+      "Monitoring",
+      "Data Processing",
+      "Analytics",
+      "Privacy"
+    ],
+    "related": [
+      "ci/cd",
+      "cap theorem",
+      "parquet",
+      "supabase",
+      "data governance"
+    ],
+    "aliases": [
+      "data governance",
+      "DATA GOVERNANCE"
+    ],
+    "use_case": "An engineer uses Data Governance to store time-series data, ensure privacy, or automate software deployment in cloud-native environments.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "data stewardship": {
+    "eli5": "Data Stewardship is like a recipe, rulebook, or storage bin that helps apps deal with data, time, or how things get built and updated.",
+    "boss": "Data Stewardship is a modern concept or tool in cloud databases, DevOps pipelines, data governance, or time-series analytics aimed at improving automation, compliance, and scalability.",
+    "sysadmin": "Data Stewardship refers to a metric, format, policy, or deployment methodology used in managing data integrity, cloud-native workflows, or continuous delivery and monitoring systems.",
+    "emoji": "\ud83e\uddec\ud83d\udd52\ud83d\ude80\ud83d\udcca",
+    "categories": [
+      "Database",
+      "Cloud",
+      "DevOps",
+      "Monitoring",
+      "Data Processing",
+      "Analytics",
+      "Privacy"
+    ],
+    "related": [
+      "ci/cd",
+      "cap theorem",
+      "parquet",
+      "supabase",
+      "data governance"
+    ],
+    "aliases": [
+      "data stewardship",
+      "DATA STEWARDSHIP"
+    ],
+    "use_case": "An engineer uses Data Stewardship to store time-series data, ensure privacy, or automate software deployment in cloud-native environments.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "data lineage": {
+    "eli5": "Data Lineage is like a recipe, rulebook, or storage bin that helps apps deal with data, time, or how things get built and updated.",
+    "boss": "Data Lineage is a modern concept or tool in cloud databases, DevOps pipelines, data governance, or time-series analytics aimed at improving automation, compliance, and scalability.",
+    "sysadmin": "Data Lineage refers to a metric, format, policy, or deployment methodology used in managing data integrity, cloud-native workflows, or continuous delivery and monitoring systems.",
+    "emoji": "\ud83e\uddec\ud83d\udd52\ud83d\ude80\ud83d\udcca",
+    "categories": [
+      "Database",
+      "Cloud",
+      "DevOps",
+      "Monitoring",
+      "Data Processing",
+      "Analytics",
+      "Privacy"
+    ],
+    "related": [
+      "ci/cd",
+      "cap theorem",
+      "parquet",
+      "supabase",
+      "data governance"
+    ],
+    "aliases": [
+      "data lineage",
+      "DATA LINEAGE"
+    ],
+    "use_case": "An engineer uses Data Lineage to store time-series data, ensure privacy, or automate software deployment in cloud-native environments.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "data catalog": {
+    "eli5": "Data Catalog is like a recipe, rulebook, or storage bin that helps apps deal with data, time, or how things get built and updated.",
+    "boss": "Data Catalog is a modern concept or tool in cloud databases, DevOps pipelines, data governance, or time-series analytics aimed at improving automation, compliance, and scalability.",
+    "sysadmin": "Data Catalog refers to a metric, format, policy, or deployment methodology used in managing data integrity, cloud-native workflows, or continuous delivery and monitoring systems.",
+    "emoji": "\ud83e\uddec\ud83d\udd52\ud83d\ude80\ud83d\udcca",
+    "categories": [
+      "Database",
+      "Cloud",
+      "DevOps",
+      "Monitoring",
+      "Data Processing",
+      "Analytics",
+      "Privacy"
+    ],
+    "related": [
+      "ci/cd",
+      "cap theorem",
+      "parquet",
+      "supabase",
+      "data governance"
+    ],
+    "aliases": [
+      "data catalog",
+      "DATA CATALOG"
+    ],
+    "use_case": "An engineer uses Data Catalog to store time-series data, ensure privacy, or automate software deployment in cloud-native environments.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "pii (personally identifiable information)": {
+    "eli5": "PII (Personally Identifiable Information) is like a recipe, rulebook, or storage bin that helps apps deal with data, time, or how things get built and updated.",
+    "boss": "PII (Personally Identifiable Information) is a modern concept or tool in cloud databases, DevOps pipelines, data governance, or time-series analytics aimed at improving automation, compliance, and scalability.",
+    "sysadmin": "PII (Personally Identifiable Information) refers to a metric, format, policy, or deployment methodology used in managing data integrity, cloud-native workflows, or continuous delivery and monitoring systems.",
+    "emoji": "\ud83e\uddec\ud83d\udd52\ud83d\ude80\ud83d\udcca",
+    "categories": [
+      "Database",
+      "Cloud",
+      "DevOps",
+      "Monitoring",
+      "Data Processing",
+      "Analytics",
+      "Privacy"
+    ],
+    "related": [
+      "ci/cd",
+      "cap theorem",
+      "parquet",
+      "supabase",
+      "data governance"
+    ],
+    "aliases": [
+      "pii (personally identifiable information)",
+      "PII (PERSONALLY IDENTIFIABLE INFORMATION)"
+    ],
+    "use_case": "An engineer uses PII (Personally Identifiable Information) to store time-series data, ensure privacy, or automate software deployment in cloud-native environments.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "gdpr compliance": {
+    "eli5": "GDPR Compliance is like a recipe, rulebook, or storage bin that helps apps deal with data, time, or how things get built and updated.",
+    "boss": "GDPR Compliance is a modern concept or tool in cloud databases, DevOps pipelines, data governance, or time-series analytics aimed at improving automation, compliance, and scalability.",
+    "sysadmin": "GDPR Compliance refers to a metric, format, policy, or deployment methodology used in managing data integrity, cloud-native workflows, or continuous delivery and monitoring systems.",
+    "emoji": "\ud83e\uddec\ud83d\udd52\ud83d\ude80\ud83d\udcca",
+    "categories": [
+      "Database",
+      "Cloud",
+      "DevOps",
+      "Monitoring",
+      "Data Processing",
+      "Analytics",
+      "Privacy"
+    ],
+    "related": [
+      "ci/cd",
+      "cap theorem",
+      "parquet",
+      "supabase",
+      "data governance"
+    ],
+    "aliases": [
+      "gdpr compliance",
+      "GDPR COMPLIANCE"
+    ],
+    "use_case": "An engineer uses GDPR Compliance to store time-series data, ensure privacy, or automate software deployment in cloud-native environments.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "time series concepts": {
+    "eli5": "Time Series Concepts is like a recipe, rulebook, or storage bin that helps apps deal with data, time, or how things get built and updated.",
+    "boss": "Time Series Concepts is a modern concept or tool in cloud databases, DevOps pipelines, data governance, or time-series analytics aimed at improving automation, compliance, and scalability.",
+    "sysadmin": "Time Series Concepts refers to a metric, format, policy, or deployment methodology used in managing data integrity, cloud-native workflows, or continuous delivery and monitoring systems.",
+    "emoji": "\ud83e\uddec\ud83d\udd52\ud83d\ude80\ud83d\udcca",
+    "categories": [
+      "Database",
+      "Cloud",
+      "DevOps",
+      "Monitoring",
+      "Data Processing",
+      "Analytics",
+      "Privacy"
+    ],
+    "related": [
+      "ci/cd",
+      "cap theorem",
+      "parquet",
+      "supabase",
+      "data governance"
+    ],
+    "aliases": [
+      "time series concepts",
+      "TIME SERIES CONCEPTS"
+    ],
+    "use_case": "An engineer uses Time Series Concepts to store time-series data, ensure privacy, or automate software deployment in cloud-native environments.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "retention policy": {
+    "eli5": "Retention Policy is like a recipe, rulebook, or storage bin that helps apps deal with data, time, or how things get built and updated.",
+    "boss": "Retention Policy is a modern concept or tool in cloud databases, DevOps pipelines, data governance, or time-series analytics aimed at improving automation, compliance, and scalability.",
+    "sysadmin": "Retention Policy refers to a metric, format, policy, or deployment methodology used in managing data integrity, cloud-native workflows, or continuous delivery and monitoring systems.",
+    "emoji": "\ud83e\uddec\ud83d\udd52\ud83d\ude80\ud83d\udcca",
+    "categories": [
+      "Database",
+      "Cloud",
+      "DevOps",
+      "Monitoring",
+      "Data Processing",
+      "Analytics",
+      "Privacy"
+    ],
+    "related": [
+      "ci/cd",
+      "cap theorem",
+      "parquet",
+      "supabase",
+      "data governance"
+    ],
+    "aliases": [
+      "retention policy",
+      "RETENTION POLICY"
+    ],
+    "use_case": "An engineer uses Retention Policy to store time-series data, ensure privacy, or automate software deployment in cloud-native environments.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "downsampling": {
+    "eli5": "Downsampling is like a recipe, rulebook, or storage bin that helps apps deal with data, time, or how things get built and updated.",
+    "boss": "Downsampling is a modern concept or tool in cloud databases, DevOps pipelines, data governance, or time-series analytics aimed at improving automation, compliance, and scalability.",
+    "sysadmin": "Downsampling refers to a metric, format, policy, or deployment methodology used in managing data integrity, cloud-native workflows, or continuous delivery and monitoring systems.",
+    "emoji": "\ud83e\uddec\ud83d\udd52\ud83d\ude80\ud83d\udcca",
+    "categories": [
+      "Database",
+      "Cloud",
+      "DevOps",
+      "Monitoring",
+      "Data Processing",
+      "Analytics",
+      "Privacy"
+    ],
+    "related": [
+      "ci/cd",
+      "cap theorem",
+      "parquet",
+      "supabase",
+      "data governance"
+    ],
+    "aliases": [
+      "downsampling",
+      "DOWNSAMPLING"
+    ],
+    "use_case": "An engineer uses Downsampling to store time-series data, ensure privacy, or automate software deployment in cloud-native environments.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "continuous query": {
+    "eli5": "Continuous Query is like a recipe, rulebook, or storage bin that helps apps deal with data, time, or how things get built and updated.",
+    "boss": "Continuous Query is a modern concept or tool in cloud databases, DevOps pipelines, data governance, or time-series analytics aimed at improving automation, compliance, and scalability.",
+    "sysadmin": "Continuous Query refers to a metric, format, policy, or deployment methodology used in managing data integrity, cloud-native workflows, or continuous delivery and monitoring systems.",
+    "emoji": "\ud83e\uddec\ud83d\udd52\ud83d\ude80\ud83d\udcca",
+    "categories": [
+      "Database",
+      "Cloud",
+      "DevOps",
+      "Monitoring",
+      "Data Processing",
+      "Analytics",
+      "Privacy"
+    ],
+    "related": [
+      "ci/cd",
+      "cap theorem",
+      "parquet",
+      "supabase",
+      "data governance"
+    ],
+    "aliases": [
+      "continuous query",
+      "CONTINUOUS QUERY"
+    ],
+    "use_case": "An engineer uses Continuous Query to store time-series data, ensure privacy, or automate software deployment in cloud-native environments.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "tag set": {
+    "eli5": "Tag Set is like a recipe, rulebook, or storage bin that helps apps deal with data, time, or how things get built and updated.",
+    "boss": "Tag Set is a modern concept or tool in cloud databases, DevOps pipelines, data governance, or time-series analytics aimed at improving automation, compliance, and scalability.",
+    "sysadmin": "Tag Set refers to a metric, format, policy, or deployment methodology used in managing data integrity, cloud-native workflows, or continuous delivery and monitoring systems.",
+    "emoji": "\ud83e\uddec\ud83d\udd52\ud83d\ude80\ud83d\udcca",
+    "categories": [
+      "Database",
+      "Cloud",
+      "DevOps",
+      "Monitoring",
+      "Data Processing",
+      "Analytics",
+      "Privacy"
+    ],
+    "related": [
+      "ci/cd",
+      "cap theorem",
+      "parquet",
+      "supabase",
+      "data governance"
+    ],
+    "aliases": [
+      "tag set",
+      "TAG SET"
+    ],
+    "use_case": "An engineer uses Tag Set to store time-series data, ensure privacy, or automate software deployment in cloud-native environments.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "measurement": {
+    "eli5": "Measurement is like a recipe, rulebook, or storage bin that helps apps deal with data, time, or how things get built and updated.",
+    "boss": "Measurement is a modern concept or tool in cloud databases, DevOps pipelines, data governance, or time-series analytics aimed at improving automation, compliance, and scalability.",
+    "sysadmin": "Measurement refers to a metric, format, policy, or deployment methodology used in managing data integrity, cloud-native workflows, or continuous delivery and monitoring systems.",
+    "emoji": "\ud83e\uddec\ud83d\udd52\ud83d\ude80\ud83d\udcca",
+    "categories": [
+      "Database",
+      "Cloud",
+      "DevOps",
+      "Monitoring",
+      "Data Processing",
+      "Analytics",
+      "Privacy"
+    ],
+    "related": [
+      "ci/cd",
+      "cap theorem",
+      "parquet",
+      "supabase",
+      "data governance"
+    ],
+    "aliases": [
+      "measurement",
+      "MEASUREMENT"
+    ],
+    "use_case": "An engineer uses Measurement to store time-series data, ensure privacy, or automate software deployment in cloud-native environments.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "influxql": {
+    "eli5": "InfluxQL is like a recipe, rulebook, or storage bin that helps apps deal with data, time, or how things get built and updated.",
+    "boss": "InfluxQL is a modern concept or tool in cloud databases, DevOps pipelines, data governance, or time-series analytics aimed at improving automation, compliance, and scalability.",
+    "sysadmin": "InfluxQL refers to a metric, format, policy, or deployment methodology used in managing data integrity, cloud-native workflows, or continuous delivery and monitoring systems.",
+    "emoji": "\ud83e\uddec\ud83d\udd52\ud83d\ude80\ud83d\udcca",
+    "categories": [
+      "Database",
+      "Cloud",
+      "DevOps",
+      "Monitoring",
+      "Data Processing",
+      "Analytics",
+      "Privacy"
+    ],
+    "related": [
+      "ci/cd",
+      "cap theorem",
+      "parquet",
+      "supabase",
+      "data governance"
+    ],
+    "aliases": [
+      "influxql",
+      "INFLUXQL"
+    ],
+    "use_case": "An engineer uses InfluxQL to store time-series data, ensure privacy, or automate software deployment in cloud-native environments.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "flux": {
+    "eli5": "Flux is like a recipe, rulebook, or storage bin that helps apps deal with data, time, or how things get built and updated.",
+    "boss": "Flux is a modern concept or tool in cloud databases, DevOps pipelines, data governance, or time-series analytics aimed at improving automation, compliance, and scalability.",
+    "sysadmin": "Flux refers to a metric, format, policy, or deployment methodology used in managing data integrity, cloud-native workflows, or continuous delivery and monitoring systems.",
+    "emoji": "\ud83e\uddec\ud83d\udd52\ud83d\ude80\ud83d\udcca",
+    "categories": [
+      "Database",
+      "Cloud",
+      "DevOps",
+      "Monitoring",
+      "Data Processing",
+      "Analytics",
+      "Privacy"
+    ],
+    "related": [
+      "ci/cd",
+      "cap theorem",
+      "parquet",
+      "supabase",
+      "data governance"
+    ],
+    "aliases": [
+      "flux",
+      "FLUX"
+    ],
+    "use_case": "An engineer uses Flux to store time-series data, ensure privacy, or automate software deployment in cloud-native environments.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "devops": {
+    "eli5": "DevOps is like a recipe, rulebook, or storage bin that helps apps deal with data, time, or how things get built and updated.",
+    "boss": "DevOps is a modern concept or tool in cloud databases, DevOps pipelines, data governance, or time-series analytics aimed at improving automation, compliance, and scalability.",
+    "sysadmin": "DevOps refers to a metric, format, policy, or deployment methodology used in managing data integrity, cloud-native workflows, or continuous delivery and monitoring systems.",
+    "emoji": "\ud83e\uddec\ud83d\udd52\ud83d\ude80\ud83d\udcca",
+    "categories": [
+      "Database",
+      "Cloud",
+      "DevOps",
+      "Monitoring",
+      "Data Processing",
+      "Analytics",
+      "Privacy"
+    ],
+    "related": [
+      "ci/cd",
+      "cap theorem",
+      "parquet",
+      "supabase",
+      "data governance"
+    ],
+    "aliases": [
+      "devops",
+      "DEVOPS"
+    ],
+    "use_case": "An engineer uses DevOps to store time-series data, ensure privacy, or automate software deployment in cloud-native environments.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "platform engineering": {
+    "eli5": "Platform Engineering is like a recipe, rulebook, or storage bin that helps apps deal with data, time, or how things get built and updated.",
+    "boss": "Platform Engineering is a modern concept or tool in cloud databases, DevOps pipelines, data governance, or time-series analytics aimed at improving automation, compliance, and scalability.",
+    "sysadmin": "Platform Engineering refers to a metric, format, policy, or deployment methodology used in managing data integrity, cloud-native workflows, or continuous delivery and monitoring systems.",
+    "emoji": "\ud83e\uddec\ud83d\udd52\ud83d\ude80\ud83d\udcca",
+    "categories": [
+      "Database",
+      "Cloud",
+      "DevOps",
+      "Monitoring",
+      "Data Processing",
+      "Analytics",
+      "Privacy"
+    ],
+    "related": [
+      "ci/cd",
+      "cap theorem",
+      "parquet",
+      "supabase",
+      "data governance"
+    ],
+    "aliases": [
+      "platform engineering",
+      "PLATFORM ENGINEERING"
+    ],
+    "use_case": "An engineer uses Platform Engineering to store time-series data, ensure privacy, or automate software deployment in cloud-native environments.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "site reliability engineering (sre)": {
+    "eli5": "Site Reliability Engineering (SRE) is like a recipe, rulebook, or storage bin that helps apps deal with data, time, or how things get built and updated.",
+    "boss": "Site Reliability Engineering (SRE) is a modern concept or tool in cloud databases, DevOps pipelines, data governance, or time-series analytics aimed at improving automation, compliance, and scalability.",
+    "sysadmin": "Site Reliability Engineering (SRE) refers to a metric, format, policy, or deployment methodology used in managing data integrity, cloud-native workflows, or continuous delivery and monitoring systems.",
+    "emoji": "\ud83e\uddec\ud83d\udd52\ud83d\ude80\ud83d\udcca",
+    "categories": [
+      "Database",
+      "Cloud",
+      "DevOps",
+      "Monitoring",
+      "Data Processing",
+      "Analytics",
+      "Privacy"
+    ],
+    "related": [
+      "ci/cd",
+      "cap theorem",
+      "parquet",
+      "supabase",
+      "data governance"
+    ],
+    "aliases": [
+      "site reliability engineering (sre)",
+      "SITE RELIABILITY ENGINEERING (SRE)"
+    ],
+    "use_case": "An engineer uses Site Reliability Engineering (SRE) to store time-series data, ensure privacy, or automate software deployment in cloud-native environments.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "shift left": {
+    "eli5": "Shift Left is like a recipe, rulebook, or storage bin that helps apps deal with data, time, or how things get built and updated.",
+    "boss": "Shift Left is a modern concept or tool in cloud databases, DevOps pipelines, data governance, or time-series analytics aimed at improving automation, compliance, and scalability.",
+    "sysadmin": "Shift Left refers to a metric, format, policy, or deployment methodology used in managing data integrity, cloud-native workflows, or continuous delivery and monitoring systems.",
+    "emoji": "\ud83e\uddec\ud83d\udd52\ud83d\ude80\ud83d\udcca",
+    "categories": [
+      "Database",
+      "Cloud",
+      "DevOps",
+      "Monitoring",
+      "Data Processing",
+      "Analytics",
+      "Privacy"
+    ],
+    "related": [
+      "ci/cd",
+      "cap theorem",
+      "parquet",
+      "supabase",
+      "data governance"
+    ],
+    "aliases": [
+      "shift left",
+      "SHIFT LEFT"
+    ],
+    "use_case": "An engineer uses Shift Left to store time-series data, ensure privacy, or automate software deployment in cloud-native environments.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "agile": {
+    "eli5": "Agile is like a recipe, rulebook, or storage bin that helps apps deal with data, time, or how things get built and updated.",
+    "boss": "Agile is a modern concept or tool in cloud databases, DevOps pipelines, data governance, or time-series analytics aimed at improving automation, compliance, and scalability.",
+    "sysadmin": "Agile refers to a metric, format, policy, or deployment methodology used in managing data integrity, cloud-native workflows, or continuous delivery and monitoring systems.",
+    "emoji": "\ud83e\uddec\ud83d\udd52\ud83d\ude80\ud83d\udcca",
+    "categories": [
+      "Database",
+      "Cloud",
+      "DevOps",
+      "Monitoring",
+      "Data Processing",
+      "Analytics",
+      "Privacy"
+    ],
+    "related": [
+      "ci/cd",
+      "cap theorem",
+      "parquet",
+      "supabase",
+      "data governance"
+    ],
+    "aliases": [
+      "agile",
+      "AGILE"
+    ],
+    "use_case": "An engineer uses Agile to store time-series data, ensure privacy, or automate software deployment in cloud-native environments.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "scrum": {
+    "eli5": "Scrum is like a recipe, rulebook, or storage bin that helps apps deal with data, time, or how things get built and updated.",
+    "boss": "Scrum is a modern concept or tool in cloud databases, DevOps pipelines, data governance, or time-series analytics aimed at improving automation, compliance, and scalability.",
+    "sysadmin": "Scrum refers to a metric, format, policy, or deployment methodology used in managing data integrity, cloud-native workflows, or continuous delivery and monitoring systems.",
+    "emoji": "\ud83e\uddec\ud83d\udd52\ud83d\ude80\ud83d\udcca",
+    "categories": [
+      "Database",
+      "Cloud",
+      "DevOps",
+      "Monitoring",
+      "Data Processing",
+      "Analytics",
+      "Privacy"
+    ],
+    "related": [
+      "ci/cd",
+      "cap theorem",
+      "parquet",
+      "supabase",
+      "data governance"
+    ],
+    "aliases": [
+      "scrum",
+      "SCRUM"
+    ],
+    "use_case": "An engineer uses Scrum to store time-series data, ensure privacy, or automate software deployment in cloud-native environments.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "kanban": {
+    "eli5": "Kanban is like a recipe, rulebook, or storage bin that helps apps deal with data, time, or how things get built and updated.",
+    "boss": "Kanban is a modern concept or tool in cloud databases, DevOps pipelines, data governance, or time-series analytics aimed at improving automation, compliance, and scalability.",
+    "sysadmin": "Kanban refers to a metric, format, policy, or deployment methodology used in managing data integrity, cloud-native workflows, or continuous delivery and monitoring systems.",
+    "emoji": "\ud83e\uddec\ud83d\udd52\ud83d\ude80\ud83d\udcca",
+    "categories": [
+      "Database",
+      "Cloud",
+      "DevOps",
+      "Monitoring",
+      "Data Processing",
+      "Analytics",
+      "Privacy"
+    ],
+    "related": [
+      "ci/cd",
+      "cap theorem",
+      "parquet",
+      "supabase",
+      "data governance"
+    ],
+    "aliases": [
+      "kanban",
+      "KANBAN"
+    ],
+    "use_case": "An engineer uses Kanban to store time-series data, ensure privacy, or automate software deployment in cloud-native environments.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "ci/cd (continuous integration / continuous deployment)": {
+    "eli5": "CI/CD (Continuous Integration / Continuous Deployment) is like a recipe, rulebook, or storage bin that helps apps deal with data, time, or how things get built and updated.",
+    "boss": "CI/CD (Continuous Integration / Continuous Deployment) is a modern concept or tool in cloud databases, DevOps pipelines, data governance, or time-series analytics aimed at improving automation, compliance, and scalability.",
+    "sysadmin": "CI/CD (Continuous Integration / Continuous Deployment) refers to a metric, format, policy, or deployment methodology used in managing data integrity, cloud-native workflows, or continuous delivery and monitoring systems.",
+    "emoji": "\ud83e\uddec\ud83d\udd52\ud83d\ude80\ud83d\udcca",
+    "categories": [
+      "Database",
+      "Cloud",
+      "DevOps",
+      "Monitoring",
+      "Data Processing",
+      "Analytics",
+      "Privacy"
+    ],
+    "related": [
+      "ci/cd",
+      "cap theorem",
+      "parquet",
+      "supabase",
+      "data governance"
+    ],
+    "aliases": [
+      "ci/cd (continuous integration / continuous deployment)",
+      "CI/CD (CONTINUOUS INTEGRATION / CONTINUOUS DEPLOYMENT)"
+    ],
+    "use_case": "An engineer uses CI/CD (Continuous Integration / Continuous Deployment) to store time-series data, ensure privacy, or automate software deployment in cloud-native environments.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "continuous delivery": {
+    "eli5": "Continuous Delivery is like a recipe, rulebook, or storage bin that helps apps deal with data, time, or how things get built and updated.",
+    "boss": "Continuous Delivery is a modern concept or tool in cloud databases, DevOps pipelines, data governance, or time-series analytics aimed at improving automation, compliance, and scalability.",
+    "sysadmin": "Continuous Delivery refers to a metric, format, policy, or deployment methodology used in managing data integrity, cloud-native workflows, or continuous delivery and monitoring systems.",
+    "emoji": "\ud83e\uddec\ud83d\udd52\ud83d\ude80\ud83d\udcca",
+    "categories": [
+      "Database",
+      "Cloud",
+      "DevOps",
+      "Monitoring",
+      "Data Processing",
+      "Analytics",
+      "Privacy"
+    ],
+    "related": [
+      "ci/cd",
+      "cap theorem",
+      "parquet",
+      "supabase",
+      "data governance"
+    ],
+    "aliases": [
+      "continuous delivery",
+      "CONTINUOUS DELIVERY"
+    ],
+    "use_case": "An engineer uses Continuous Delivery to store time-series data, ensure privacy, or automate software deployment in cloud-native environments.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "continuous deployment": {
+    "eli5": "Continuous Deployment is like a recipe, rulebook, or storage bin that helps apps deal with data, time, or how things get built and updated.",
+    "boss": "Continuous Deployment is a modern concept or tool in cloud databases, DevOps pipelines, data governance, or time-series analytics aimed at improving automation, compliance, and scalability.",
+    "sysadmin": "Continuous Deployment refers to a metric, format, policy, or deployment methodology used in managing data integrity, cloud-native workflows, or continuous delivery and monitoring systems.",
+    "emoji": "\ud83e\uddec\ud83d\udd52\ud83d\ude80\ud83d\udcca",
+    "categories": [
+      "Database",
+      "Cloud",
+      "DevOps",
+      "Monitoring",
+      "Data Processing",
+      "Analytics",
+      "Privacy"
+    ],
+    "related": [
+      "ci/cd",
+      "cap theorem",
+      "parquet",
+      "supabase",
+      "data governance"
+    ],
+    "aliases": [
+      "continuous deployment",
+      "CONTINUOUS DEPLOYMENT"
+    ],
+    "use_case": "An engineer uses Continuous Deployment to store time-series data, ensure privacy, or automate software deployment in cloud-native environments.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "continuous testing": {
+    "eli5": "Continuous Testing is like a recipe, rulebook, or storage bin that helps apps deal with data, time, or how things get built and updated.",
+    "boss": "Continuous Testing is a modern concept or tool in cloud databases, DevOps pipelines, data governance, or time-series analytics aimed at improving automation, compliance, and scalability.",
+    "sysadmin": "Continuous Testing refers to a metric, format, policy, or deployment methodology used in managing data integrity, cloud-native workflows, or continuous delivery and monitoring systems.",
+    "emoji": "\ud83e\uddec\ud83d\udd52\ud83d\ude80\ud83d\udcca",
+    "categories": [
+      "Database",
+      "Cloud",
+      "DevOps",
+      "Monitoring",
+      "Data Processing",
+      "Analytics",
+      "Privacy"
+    ],
+    "related": [
+      "ci/cd",
+      "cap theorem",
+      "parquet",
+      "supabase",
+      "data governance"
+    ],
+    "aliases": [
+      "continuous testing",
+      "CONTINUOUS TESTING"
+    ],
+    "use_case": "An engineer uses Continuous Testing to store time-series data, ensure privacy, or automate software deployment in cloud-native environments.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "continuous monitoring": {
+    "eli5": "Continuous Monitoring is like a recipe, rulebook, or storage bin that helps apps deal with data, time, or how things get built and updated.",
+    "boss": "Continuous Monitoring is a modern concept or tool in cloud databases, DevOps pipelines, data governance, or time-series analytics aimed at improving automation, compliance, and scalability.",
+    "sysadmin": "Continuous Monitoring refers to a metric, format, policy, or deployment methodology used in managing data integrity, cloud-native workflows, or continuous delivery and monitoring systems.",
+    "emoji": "\ud83e\uddec\ud83d\udd52\ud83d\ude80\ud83d\udcca",
+    "categories": [
+      "Database",
+      "Cloud",
+      "DevOps",
+      "Monitoring",
+      "Data Processing",
+      "Analytics",
+      "Privacy"
+    ],
+    "related": [
+      "ci/cd",
+      "cap theorem",
+      "parquet",
+      "supabase",
+      "data governance"
+    ],
+    "aliases": [
+      "continuous monitoring",
+      "CONTINUOUS MONITORING"
+    ],
+    "use_case": "An engineer uses Continuous Monitoring to store time-series data, ensure privacy, or automate software deployment in cloud-native environments.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "pipeline": {
+    "eli5": "Pipeline is like a recipe, rulebook, or storage bin that helps apps deal with data, time, or how things get built and updated.",
+    "boss": "Pipeline is a modern concept or tool in cloud databases, DevOps pipelines, data governance, or time-series analytics aimed at improving automation, compliance, and scalability.",
+    "sysadmin": "Pipeline refers to a metric, format, policy, or deployment methodology used in managing data integrity, cloud-native workflows, or continuous delivery and monitoring systems.",
+    "emoji": "\ud83e\uddec\ud83d\udd52\ud83d\ude80\ud83d\udcca",
+    "categories": [
+      "Database",
+      "Cloud",
+      "DevOps",
+      "Monitoring",
+      "Data Processing",
+      "Analytics",
+      "Privacy"
+    ],
+    "related": [
+      "ci/cd",
+      "cap theorem",
+      "parquet",
+      "supabase",
+      "data governance"
+    ],
+    "aliases": [
+      "pipeline",
+      "PIPELINE"
+    ],
+    "use_case": "An engineer uses Pipeline to store time-series data, ensure privacy, or automate software deployment in cloud-native environments.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "build pipeline": {
+    "eli5": "Build Pipeline is like a recipe, rulebook, or storage bin that helps apps deal with data, time, or how things get built and updated.",
+    "boss": "Build Pipeline is a modern concept or tool in cloud databases, DevOps pipelines, data governance, or time-series analytics aimed at improving automation, compliance, and scalability.",
+    "sysadmin": "Build Pipeline refers to a metric, format, policy, or deployment methodology used in managing data integrity, cloud-native workflows, or continuous delivery and monitoring systems.",
+    "emoji": "\ud83e\uddec\ud83d\udd52\ud83d\ude80\ud83d\udcca",
+    "categories": [
+      "Database",
+      "Cloud",
+      "DevOps",
+      "Monitoring",
+      "Data Processing",
+      "Analytics",
+      "Privacy"
+    ],
+    "related": [
+      "ci/cd",
+      "cap theorem",
+      "parquet",
+      "supabase",
+      "data governance"
+    ],
+    "aliases": [
+      "build pipeline",
+      "BUILD PIPELINE"
+    ],
+    "use_case": "An engineer uses Build Pipeline to store time-series data, ensure privacy, or automate software deployment in cloud-native environments.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "deployment pipeline": {
+    "eli5": "Deployment Pipeline is like a recipe, rulebook, or storage bin that helps apps deal with data, time, or how things get built and updated.",
+    "boss": "Deployment Pipeline is a modern concept or tool in cloud databases, DevOps pipelines, data governance, or time-series analytics aimed at improving automation, compliance, and scalability.",
+    "sysadmin": "Deployment Pipeline refers to a metric, format, policy, or deployment methodology used in managing data integrity, cloud-native workflows, or continuous delivery and monitoring systems.",
+    "emoji": "\ud83e\uddec\ud83d\udd52\ud83d\ude80\ud83d\udcca",
+    "categories": [
+      "Database",
+      "Cloud",
+      "DevOps",
+      "Monitoring",
+      "Data Processing",
+      "Analytics",
+      "Privacy"
+    ],
+    "related": [
+      "ci/cd",
+      "cap theorem",
+      "parquet",
+      "supabase",
+      "data governance"
+    ],
+    "aliases": [
+      "deployment pipeline",
+      "DEPLOYMENT PIPELINE"
+    ],
+    "use_case": "An engineer uses Deployment Pipeline to store time-series data, ensure privacy, or automate software deployment in cloud-native environments.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  }
+}

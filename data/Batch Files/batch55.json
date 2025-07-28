@@ -1,0 +1,1402 @@
+{
+  "child directory": {
+    "eli5": "Child Directory is like a command, folder, or tool your computer uses to organize files and know where things are.",
+    "boss": "Child Directory represents file system structures, supported formats, or system commands across Linux, Windows, and macOS used to navigate and manage data.",
+    "sysadmin": "Child Directory refers to a directory type, command-line utility, or filesystem type that helps manage how operating systems store, organize, and access files and devices.",
+    "emoji": "\ud83d\udcc2\ud83d\udcc1\ud83d\uddc2\ufe0f\ud83d\udcbb",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Mac",
+      "CLI",
+      "Storage"
+    ],
+    "related": [
+      "ext4",
+      "ntfs",
+      "cd",
+      "mkdir",
+      "apfs"
+    ],
+    "aliases": [
+      "child directory",
+      "CHILD DIRECTORY"
+    ],
+    "use_case": "A sysadmin uses Child Directory to mount drives, create directories, or move files across different operating systems.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "default directory": {
+    "eli5": "Default Directory is like a command, folder, or tool your computer uses to organize files and know where things are.",
+    "boss": "Default Directory represents file system structures, supported formats, or system commands across Linux, Windows, and macOS used to navigate and manage data.",
+    "sysadmin": "Default Directory refers to a directory type, command-line utility, or filesystem type that helps manage how operating systems store, organize, and access files and devices.",
+    "emoji": "\ud83d\udcc2\ud83d\udcc1\ud83d\uddc2\ufe0f\ud83d\udcbb",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Mac",
+      "CLI",
+      "Storage"
+    ],
+    "related": [
+      "ext4",
+      "ntfs",
+      "cd",
+      "mkdir",
+      "apfs"
+    ],
+    "aliases": [
+      "default directory",
+      "DEFAULT DIRECTORY"
+    ],
+    "use_case": "A sysadmin uses Default Directory to mount drives, create directories, or move files across different operating systems.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "temporary directory": {
+    "eli5": "Temporary Directory is like a command, folder, or tool your computer uses to organize files and know where things are.",
+    "boss": "Temporary Directory represents file system structures, supported formats, or system commands across Linux, Windows, and macOS used to navigate and manage data.",
+    "sysadmin": "Temporary Directory refers to a directory type, command-line utility, or filesystem type that helps manage how operating systems store, organize, and access files and devices.",
+    "emoji": "\ud83d\udcc2\ud83d\udcc1\ud83d\uddc2\ufe0f\ud83d\udcbb",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Mac",
+      "CLI",
+      "Storage"
+    ],
+    "related": [
+      "ext4",
+      "ntfs",
+      "cd",
+      "mkdir",
+      "apfs"
+    ],
+    "aliases": [
+      "temporary directory",
+      "TEMPORARY DIRECTORY"
+    ],
+    "use_case": "A sysadmin uses Temporary Directory to mount drives, create directories, or move files across different operating systems.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "linux filesystem types": {
+    "eli5": "Linux Filesystem Types is like a command, folder, or tool your computer uses to organize files and know where things are.",
+    "boss": "Linux Filesystem Types represents file system structures, supported formats, or system commands across Linux, Windows, and macOS used to navigate and manage data.",
+    "sysadmin": "Linux Filesystem Types refers to a directory type, command-line utility, or filesystem type that helps manage how operating systems store, organize, and access files and devices.",
+    "emoji": "\ud83d\udcc2\ud83d\udcc1\ud83d\uddc2\ufe0f\ud83d\udcbb",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Mac",
+      "CLI",
+      "Storage"
+    ],
+    "related": [
+      "ext4",
+      "ntfs",
+      "cd",
+      "mkdir",
+      "apfs"
+    ],
+    "aliases": [
+      "linux filesystem types",
+      "LINUX FILESYSTEM TYPES"
+    ],
+    "use_case": "A sysadmin uses Linux Filesystem Types to mount drives, create directories, or move files across different operating systems.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "ext2": {
+    "eli5": "ext2 is like a command, folder, or tool your computer uses to organize files and know where things are.",
+    "boss": "ext2 represents file system structures, supported formats, or system commands across Linux, Windows, and macOS used to navigate and manage data.",
+    "sysadmin": "ext2 refers to a directory type, command-line utility, or filesystem type that helps manage how operating systems store, organize, and access files and devices.",
+    "emoji": "\ud83d\udcc2\ud83d\udcc1\ud83d\uddc2\ufe0f\ud83d\udcbb",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Mac",
+      "CLI",
+      "Storage"
+    ],
+    "related": [
+      "ext4",
+      "ntfs",
+      "cd",
+      "mkdir",
+      "apfs"
+    ],
+    "aliases": [
+      "ext2",
+      "EXT2"
+    ],
+    "use_case": "A sysadmin uses ext2 to mount drives, create directories, or move files across different operating systems.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "ext3": {
+    "eli5": "ext3 is like a command, folder, or tool your computer uses to organize files and know where things are.",
+    "boss": "ext3 represents file system structures, supported formats, or system commands across Linux, Windows, and macOS used to navigate and manage data.",
+    "sysadmin": "ext3 refers to a directory type, command-line utility, or filesystem type that helps manage how operating systems store, organize, and access files and devices.",
+    "emoji": "\ud83d\udcc2\ud83d\udcc1\ud83d\uddc2\ufe0f\ud83d\udcbb",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Mac",
+      "CLI",
+      "Storage"
+    ],
+    "related": [
+      "ext4",
+      "ntfs",
+      "cd",
+      "mkdir",
+      "apfs"
+    ],
+    "aliases": [
+      "ext3",
+      "EXT3"
+    ],
+    "use_case": "A sysadmin uses ext3 to mount drives, create directories, or move files across different operating systems.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "reiserfs": {
+    "eli5": "reiserfs is like a command, folder, or tool your computer uses to organize files and know where things are.",
+    "boss": "reiserfs represents file system structures, supported formats, or system commands across Linux, Windows, and macOS used to navigate and manage data.",
+    "sysadmin": "reiserfs refers to a directory type, command-line utility, or filesystem type that helps manage how operating systems store, organize, and access files and devices.",
+    "emoji": "\ud83d\udcc2\ud83d\udcc1\ud83d\uddc2\ufe0f\ud83d\udcbb",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Mac",
+      "CLI",
+      "Storage"
+    ],
+    "related": [
+      "ext4",
+      "ntfs",
+      "cd",
+      "mkdir",
+      "apfs"
+    ],
+    "aliases": [
+      "reiserfs",
+      "REISERFS"
+    ],
+    "use_case": "A sysadmin uses reiserfs to mount drives, create directories, or move files across different operating systems.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "f2fs": {
+    "eli5": "f2fs is like a command, folder, or tool your computer uses to organize files and know where things are.",
+    "boss": "f2fs represents file system structures, supported formats, or system commands across Linux, Windows, and macOS used to navigate and manage data.",
+    "sysadmin": "f2fs refers to a directory type, command-line utility, or filesystem type that helps manage how operating systems store, organize, and access files and devices.",
+    "emoji": "\ud83d\udcc2\ud83d\udcc1\ud83d\uddc2\ufe0f\ud83d\udcbb",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Mac",
+      "CLI",
+      "Storage"
+    ],
+    "related": [
+      "ext4",
+      "ntfs",
+      "cd",
+      "mkdir",
+      "apfs"
+    ],
+    "aliases": [
+      "f2fs",
+      "F2FS"
+    ],
+    "use_case": "A sysadmin uses f2fs to mount drives, create directories, or move files across different operating systems.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "ntfs-3g": {
+    "eli5": "ntfs-3g is like a command, folder, or tool your computer uses to organize files and know where things are.",
+    "boss": "ntfs-3g represents file system structures, supported formats, or system commands across Linux, Windows, and macOS used to navigate and manage data.",
+    "sysadmin": "ntfs-3g refers to a directory type, command-line utility, or filesystem type that helps manage how operating systems store, organize, and access files and devices.",
+    "emoji": "\ud83d\udcc2\ud83d\udcc1\ud83d\uddc2\ufe0f\ud83d\udcbb",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Mac",
+      "CLI",
+      "Storage"
+    ],
+    "related": [
+      "ext4",
+      "ntfs",
+      "cd",
+      "mkdir",
+      "apfs"
+    ],
+    "aliases": [
+      "ntfs-3g",
+      "NTFS-3G"
+    ],
+    "use_case": "A sysadmin uses ntfs-3g to mount drives, create directories, or move files across different operating systems.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "procfs": {
+    "eli5": "procfs is like a command, folder, or tool your computer uses to organize files and know where things are.",
+    "boss": "procfs represents file system structures, supported formats, or system commands across Linux, Windows, and macOS used to navigate and manage data.",
+    "sysadmin": "procfs refers to a directory type, command-line utility, or filesystem type that helps manage how operating systems store, organize, and access files and devices.",
+    "emoji": "\ud83d\udcc2\ud83d\udcc1\ud83d\uddc2\ufe0f\ud83d\udcbb",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Mac",
+      "CLI",
+      "Storage"
+    ],
+    "related": [
+      "ext4",
+      "ntfs",
+      "cd",
+      "mkdir",
+      "apfs"
+    ],
+    "aliases": [
+      "procfs",
+      "PROCFS"
+    ],
+    "use_case": "A sysadmin uses procfs to mount drives, create directories, or move files across different operating systems.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "tmpfs": {
+    "eli5": "tmpfs is like a command, folder, or tool your computer uses to organize files and know where things are.",
+    "boss": "tmpfs represents file system structures, supported formats, or system commands across Linux, Windows, and macOS used to navigate and manage data.",
+    "sysadmin": "tmpfs refers to a directory type, command-line utility, or filesystem type that helps manage how operating systems store, organize, and access files and devices.",
+    "emoji": "\ud83d\udcc2\ud83d\udcc1\ud83d\uddc2\ufe0f\ud83d\udcbb",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Mac",
+      "CLI",
+      "Storage"
+    ],
+    "related": [
+      "ext4",
+      "ntfs",
+      "cd",
+      "mkdir",
+      "apfs"
+    ],
+    "aliases": [
+      "tmpfs",
+      "TMPFS"
+    ],
+    "use_case": "A sysadmin uses tmpfs to mount drives, create directories, or move files across different operating systems.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "sysfs": {
+    "eli5": "sysfs is like a command, folder, or tool your computer uses to organize files and know where things are.",
+    "boss": "sysfs represents file system structures, supported formats, or system commands across Linux, Windows, and macOS used to navigate and manage data.",
+    "sysadmin": "sysfs refers to a directory type, command-line utility, or filesystem type that helps manage how operating systems store, organize, and access files and devices.",
+    "emoji": "\ud83d\udcc2\ud83d\udcc1\ud83d\uddc2\ufe0f\ud83d\udcbb",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Mac",
+      "CLI",
+      "Storage"
+    ],
+    "related": [
+      "ext4",
+      "ntfs",
+      "cd",
+      "mkdir",
+      "apfs"
+    ],
+    "aliases": [
+      "sysfs",
+      "SYSFS"
+    ],
+    "use_case": "A sysadmin uses sysfs to mount drives, create directories, or move files across different operating systems.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "devtmpfs": {
+    "eli5": "devtmpfs is like a command, folder, or tool your computer uses to organize files and know where things are.",
+    "boss": "devtmpfs represents file system structures, supported formats, or system commands across Linux, Windows, and macOS used to navigate and manage data.",
+    "sysadmin": "devtmpfs refers to a directory type, command-line utility, or filesystem type that helps manage how operating systems store, organize, and access files and devices.",
+    "emoji": "\ud83d\udcc2\ud83d\udcc1\ud83d\uddc2\ufe0f\ud83d\udcbb",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Mac",
+      "CLI",
+      "Storage"
+    ],
+    "related": [
+      "ext4",
+      "ntfs",
+      "cd",
+      "mkdir",
+      "apfs"
+    ],
+    "aliases": [
+      "devtmpfs",
+      "DEVTMPFS"
+    ],
+    "use_case": "A sysadmin uses devtmpfs to mount drives, create directories, or move files across different operating systems.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "smbfs": {
+    "eli5": "smbfs is like a command, folder, or tool your computer uses to organize files and know where things are.",
+    "boss": "smbfs represents file system structures, supported formats, or system commands across Linux, Windows, and macOS used to navigate and manage data.",
+    "sysadmin": "smbfs refers to a directory type, command-line utility, or filesystem type that helps manage how operating systems store, organize, and access files and devices.",
+    "emoji": "\ud83d\udcc2\ud83d\udcc1\ud83d\uddc2\ufe0f\ud83d\udcbb",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Mac",
+      "CLI",
+      "Storage"
+    ],
+    "related": [
+      "ext4",
+      "ntfs",
+      "cd",
+      "mkdir",
+      "apfs"
+    ],
+    "aliases": [
+      "smbfs",
+      "SMBFS"
+    ],
+    "use_case": "A sysadmin uses smbfs to mount drives, create directories, or move files across different operating systems.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "iso9660": {
+    "eli5": "iso9660 is like a command, folder, or tool your computer uses to organize files and know where things are.",
+    "boss": "iso9660 represents file system structures, supported formats, or system commands across Linux, Windows, and macOS used to navigate and manage data.",
+    "sysadmin": "iso9660 refers to a directory type, command-line utility, or filesystem type that helps manage how operating systems store, organize, and access files and devices.",
+    "emoji": "\ud83d\udcc2\ud83d\udcc1\ud83d\uddc2\ufe0f\ud83d\udcbb",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Mac",
+      "CLI",
+      "Storage"
+    ],
+    "related": [
+      "ext4",
+      "ntfs",
+      "cd",
+      "mkdir",
+      "apfs"
+    ],
+    "aliases": [
+      "iso9660",
+      "ISO9660"
+    ],
+    "use_case": "A sysadmin uses iso9660 to mount drives, create directories, or move files across different operating systems.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "squashfs": {
+    "eli5": "squashfs is like a command, folder, or tool your computer uses to organize files and know where things are.",
+    "boss": "squashfs represents file system structures, supported formats, or system commands across Linux, Windows, and macOS used to navigate and manage data.",
+    "sysadmin": "squashfs refers to a directory type, command-line utility, or filesystem type that helps manage how operating systems store, organize, and access files and devices.",
+    "emoji": "\ud83d\udcc2\ud83d\udcc1\ud83d\uddc2\ufe0f\ud83d\udcbb",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Mac",
+      "CLI",
+      "Storage"
+    ],
+    "related": [
+      "ext4",
+      "ntfs",
+      "cd",
+      "mkdir",
+      "apfs"
+    ],
+    "aliases": [
+      "squashfs",
+      "SQUASHFS"
+    ],
+    "use_case": "A sysadmin uses squashfs to mount drives, create directories, or move files across different operating systems.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "windows filesystem types": {
+    "eli5": "Windows Filesystem Types is like a command, folder, or tool your computer uses to organize files and know where things are.",
+    "boss": "Windows Filesystem Types represents file system structures, supported formats, or system commands across Linux, Windows, and macOS used to navigate and manage data.",
+    "sysadmin": "Windows Filesystem Types refers to a directory type, command-line utility, or filesystem type that helps manage how operating systems store, organize, and access files and devices.",
+    "emoji": "\ud83d\udcc2\ud83d\udcc1\ud83d\uddc2\ufe0f\ud83d\udcbb",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Mac",
+      "CLI",
+      "Storage"
+    ],
+    "related": [
+      "ext4",
+      "ntfs",
+      "cd",
+      "mkdir",
+      "apfs"
+    ],
+    "aliases": [
+      "windows filesystem types",
+      "WINDOWS FILESYSTEM TYPES"
+    ],
+    "use_case": "A sysadmin uses Windows Filesystem Types to mount drives, create directories, or move files across different operating systems.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "cdfs (cd-rom file system)": {
+    "eli5": "CDFS (CD-ROM File System) is like a command, folder, or tool your computer uses to organize files and know where things are.",
+    "boss": "CDFS (CD-ROM File System) represents file system structures, supported formats, or system commands across Linux, Windows, and macOS used to navigate and manage data.",
+    "sysadmin": "CDFS (CD-ROM File System) refers to a directory type, command-line utility, or filesystem type that helps manage how operating systems store, organize, and access files and devices.",
+    "emoji": "\ud83d\udcc2\ud83d\udcc1\ud83d\uddc2\ufe0f\ud83d\udcbb",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Mac",
+      "CLI",
+      "Storage"
+    ],
+    "related": [
+      "ext4",
+      "ntfs",
+      "cd",
+      "mkdir",
+      "apfs"
+    ],
+    "aliases": [
+      "cdfs (cd-rom file system)",
+      "CDFS (CD-ROM FILE SYSTEM)"
+    ],
+    "use_case": "A sysadmin uses CDFS (CD-ROM File System) to mount drives, create directories, or move files across different operating systems.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "udf (universal disk format)": {
+    "eli5": "UDF (Universal Disk Format) is like a command, folder, or tool your computer uses to organize files and know where things are.",
+    "boss": "UDF (Universal Disk Format) represents file system structures, supported formats, or system commands across Linux, Windows, and macOS used to navigate and manage data.",
+    "sysadmin": "UDF (Universal Disk Format) refers to a directory type, command-line utility, or filesystem type that helps manage how operating systems store, organize, and access files and devices.",
+    "emoji": "\ud83d\udcc2\ud83d\udcc1\ud83d\uddc2\ufe0f\ud83d\udcbb",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Mac",
+      "CLI",
+      "Storage"
+    ],
+    "related": [
+      "ext4",
+      "ntfs",
+      "cd",
+      "mkdir",
+      "apfs"
+    ],
+    "aliases": [
+      "udf (universal disk format)",
+      "UDF (UNIVERSAL DISK FORMAT)"
+    ],
+    "use_case": "A sysadmin uses UDF (Universal Disk Format) to mount drives, create directories, or move files across different operating systems.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "mac filesystem types": {
+    "eli5": "Mac Filesystem Types is like a command, folder, or tool your computer uses to organize files and know where things are.",
+    "boss": "Mac Filesystem Types represents file system structures, supported formats, or system commands across Linux, Windows, and macOS used to navigate and manage data.",
+    "sysadmin": "Mac Filesystem Types refers to a directory type, command-line utility, or filesystem type that helps manage how operating systems store, organize, and access files and devices.",
+    "emoji": "\ud83d\udcc2\ud83d\udcc1\ud83d\uddc2\ufe0f\ud83d\udcbb",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Mac",
+      "CLI",
+      "Storage"
+    ],
+    "related": [
+      "ext4",
+      "ntfs",
+      "cd",
+      "mkdir",
+      "apfs"
+    ],
+    "aliases": [
+      "mac filesystem types",
+      "MAC FILESYSTEM TYPES"
+    ],
+    "use_case": "A sysadmin uses Mac Filesystem Types to mount drives, create directories, or move files across different operating systems.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "hfs+": {
+    "eli5": "HFS+ is like a command, folder, or tool your computer uses to organize files and know where things are.",
+    "boss": "HFS+ represents file system structures, supported formats, or system commands across Linux, Windows, and macOS used to navigate and manage data.",
+    "sysadmin": "HFS+ refers to a directory type, command-line utility, or filesystem type that helps manage how operating systems store, organize, and access files and devices.",
+    "emoji": "\ud83d\udcc2\ud83d\udcc1\ud83d\uddc2\ufe0f\ud83d\udcbb",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Mac",
+      "CLI",
+      "Storage"
+    ],
+    "related": [
+      "ext4",
+      "ntfs",
+      "cd",
+      "mkdir",
+      "apfs"
+    ],
+    "aliases": [
+      "hfs+",
+      "HFS+"
+    ],
+    "use_case": "A sysadmin uses HFS+ to mount drives, create directories, or move files across different operating systems.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "apfs": {
+    "eli5": "APFS is like a command, folder, or tool your computer uses to organize files and know where things are.",
+    "boss": "APFS represents file system structures, supported formats, or system commands across Linux, Windows, and macOS used to navigate and manage data.",
+    "sysadmin": "APFS refers to a directory type, command-line utility, or filesystem type that helps manage how operating systems store, organize, and access files and devices.",
+    "emoji": "\ud83d\udcc2\ud83d\udcc1\ud83d\uddc2\ufe0f\ud83d\udcbb",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Mac",
+      "CLI",
+      "Storage"
+    ],
+    "related": [
+      "ext4",
+      "ntfs",
+      "cd",
+      "mkdir",
+      "apfs"
+    ],
+    "aliases": [
+      "apfs",
+      "APFS"
+    ],
+    "use_case": "A sysadmin uses APFS to mount drives, create directories, or move files across different operating systems.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "commands (linux/unix)": {
+    "eli5": "Commands (Linux/Unix) is like a command, folder, or tool your computer uses to organize files and know where things are.",
+    "boss": "Commands (Linux/Unix) represents file system structures, supported formats, or system commands across Linux, Windows, and macOS used to navigate and manage data.",
+    "sysadmin": "Commands (Linux/Unix) refers to a directory type, command-line utility, or filesystem type that helps manage how operating systems store, organize, and access files and devices.",
+    "emoji": "\ud83d\udcc2\ud83d\udcc1\ud83d\uddc2\ufe0f\ud83d\udcbb",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Mac",
+      "CLI",
+      "Storage"
+    ],
+    "related": [
+      "ext4",
+      "ntfs",
+      "cd",
+      "mkdir",
+      "apfs"
+    ],
+    "aliases": [
+      "commands (linux/unix)",
+      "COMMANDS (LINUX/UNIX)"
+    ],
+    "use_case": "A sysadmin uses Commands (Linux/Unix) to mount drives, create directories, or move files across different operating systems.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "ls": {
+    "eli5": "ls is like a command, folder, or tool your computer uses to organize files and know where things are.",
+    "boss": "ls represents file system structures, supported formats, or system commands across Linux, Windows, and macOS used to navigate and manage data.",
+    "sysadmin": "ls refers to a directory type, command-line utility, or filesystem type that helps manage how operating systems store, organize, and access files and devices.",
+    "emoji": "\ud83d\udcc2\ud83d\udcc1\ud83d\uddc2\ufe0f\ud83d\udcbb",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Mac",
+      "CLI",
+      "Storage"
+    ],
+    "related": [
+      "ext4",
+      "ntfs",
+      "cd",
+      "mkdir",
+      "apfs"
+    ],
+    "aliases": [
+      "ls",
+      "LS"
+    ],
+    "use_case": "A sysadmin uses ls to mount drives, create directories, or move files across different operating systems.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "cd": {
+    "eli5": "cd is like a command, folder, or tool your computer uses to organize files and know where things are.",
+    "boss": "cd represents file system structures, supported formats, or system commands across Linux, Windows, and macOS used to navigate and manage data.",
+    "sysadmin": "cd refers to a directory type, command-line utility, or filesystem type that helps manage how operating systems store, organize, and access files and devices.",
+    "emoji": "\ud83d\udcc2\ud83d\udcc1\ud83d\uddc2\ufe0f\ud83d\udcbb",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Mac",
+      "CLI",
+      "Storage"
+    ],
+    "related": [
+      "ext4",
+      "ntfs",
+      "cd",
+      "mkdir",
+      "apfs"
+    ],
+    "aliases": [
+      "cd",
+      "CD"
+    ],
+    "use_case": "A sysadmin uses cd to mount drives, create directories, or move files across different operating systems.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "pwd": {
+    "eli5": "pwd is like a command, folder, or tool your computer uses to organize files and know where things are.",
+    "boss": "pwd represents file system structures, supported formats, or system commands across Linux, Windows, and macOS used to navigate and manage data.",
+    "sysadmin": "pwd refers to a directory type, command-line utility, or filesystem type that helps manage how operating systems store, organize, and access files and devices.",
+    "emoji": "\ud83d\udcc2\ud83d\udcc1\ud83d\uddc2\ufe0f\ud83d\udcbb",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Mac",
+      "CLI",
+      "Storage"
+    ],
+    "related": [
+      "ext4",
+      "ntfs",
+      "cd",
+      "mkdir",
+      "apfs"
+    ],
+    "aliases": [
+      "pwd",
+      "PWD"
+    ],
+    "use_case": "A sysadmin uses pwd to mount drives, create directories, or move files across different operating systems.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "mkdir": {
+    "eli5": "mkdir is like a command, folder, or tool your computer uses to organize files and know where things are.",
+    "boss": "mkdir represents file system structures, supported formats, or system commands across Linux, Windows, and macOS used to navigate and manage data.",
+    "sysadmin": "mkdir refers to a directory type, command-line utility, or filesystem type that helps manage how operating systems store, organize, and access files and devices.",
+    "emoji": "\ud83d\udcc2\ud83d\udcc1\ud83d\uddc2\ufe0f\ud83d\udcbb",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Mac",
+      "CLI",
+      "Storage"
+    ],
+    "related": [
+      "ext4",
+      "ntfs",
+      "cd",
+      "mkdir",
+      "apfs"
+    ],
+    "aliases": [
+      "mkdir",
+      "MKDIR"
+    ],
+    "use_case": "A sysadmin uses mkdir to mount drives, create directories, or move files across different operating systems.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "rmdir": {
+    "eli5": "rmdir is like a command, folder, or tool your computer uses to organize files and know where things are.",
+    "boss": "rmdir represents file system structures, supported formats, or system commands across Linux, Windows, and macOS used to navigate and manage data.",
+    "sysadmin": "rmdir refers to a directory type, command-line utility, or filesystem type that helps manage how operating systems store, organize, and access files and devices.",
+    "emoji": "\ud83d\udcc2\ud83d\udcc1\ud83d\uddc2\ufe0f\ud83d\udcbb",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Mac",
+      "CLI",
+      "Storage"
+    ],
+    "related": [
+      "ext4",
+      "ntfs",
+      "cd",
+      "mkdir",
+      "apfs"
+    ],
+    "aliases": [
+      "rmdir",
+      "RMDIR"
+    ],
+    "use_case": "A sysadmin uses rmdir to mount drives, create directories, or move files across different operating systems.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "rm": {
+    "eli5": "rm is like a command, folder, or tool your computer uses to organize files and know where things are.",
+    "boss": "rm represents file system structures, supported formats, or system commands across Linux, Windows, and macOS used to navigate and manage data.",
+    "sysadmin": "rm refers to a directory type, command-line utility, or filesystem type that helps manage how operating systems store, organize, and access files and devices.",
+    "emoji": "\ud83d\udcc2\ud83d\udcc1\ud83d\uddc2\ufe0f\ud83d\udcbb",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Mac",
+      "CLI",
+      "Storage"
+    ],
+    "related": [
+      "ext4",
+      "ntfs",
+      "cd",
+      "mkdir",
+      "apfs"
+    ],
+    "aliases": [
+      "rm",
+      "RM"
+    ],
+    "use_case": "A sysadmin uses rm to mount drives, create directories, or move files across different operating systems.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "mv": {
+    "eli5": "mv is like a command, folder, or tool your computer uses to organize files and know where things are.",
+    "boss": "mv represents file system structures, supported formats, or system commands across Linux, Windows, and macOS used to navigate and manage data.",
+    "sysadmin": "mv refers to a directory type, command-line utility, or filesystem type that helps manage how operating systems store, organize, and access files and devices.",
+    "emoji": "\ud83d\udcc2\ud83d\udcc1\ud83d\uddc2\ufe0f\ud83d\udcbb",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Mac",
+      "CLI",
+      "Storage"
+    ],
+    "related": [
+      "ext4",
+      "ntfs",
+      "cd",
+      "mkdir",
+      "apfs"
+    ],
+    "aliases": [
+      "mv",
+      "MV"
+    ],
+    "use_case": "A sysadmin uses mv to mount drives, create directories, or move files across different operating systems.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "cp": {
+    "eli5": "cp is like a command, folder, or tool your computer uses to organize files and know where things are.",
+    "boss": "cp represents file system structures, supported formats, or system commands across Linux, Windows, and macOS used to navigate and manage data.",
+    "sysadmin": "cp refers to a directory type, command-line utility, or filesystem type that helps manage how operating systems store, organize, and access files and devices.",
+    "emoji": "\ud83d\udcc2\ud83d\udcc1\ud83d\uddc2\ufe0f\ud83d\udcbb",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Mac",
+      "CLI",
+      "Storage"
+    ],
+    "related": [
+      "ext4",
+      "ntfs",
+      "cd",
+      "mkdir",
+      "apfs"
+    ],
+    "aliases": [
+      "cp",
+      "CP"
+    ],
+    "use_case": "A sysadmin uses cp to mount drives, create directories, or move files across different operating systems.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "touch": {
+    "eli5": "touch is like a command, folder, or tool your computer uses to organize files and know where things are.",
+    "boss": "touch represents file system structures, supported formats, or system commands across Linux, Windows, and macOS used to navigate and manage data.",
+    "sysadmin": "touch refers to a directory type, command-line utility, or filesystem type that helps manage how operating systems store, organize, and access files and devices.",
+    "emoji": "\ud83d\udcc2\ud83d\udcc1\ud83d\uddc2\ufe0f\ud83d\udcbb",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Mac",
+      "CLI",
+      "Storage"
+    ],
+    "related": [
+      "ext4",
+      "ntfs",
+      "cd",
+      "mkdir",
+      "apfs"
+    ],
+    "aliases": [
+      "touch",
+      "TOUCH"
+    ],
+    "use_case": "A sysadmin uses touch to mount drives, create directories, or move files across different operating systems.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "cat": {
+    "eli5": "cat is like a command, folder, or tool your computer uses to organize files and know where things are.",
+    "boss": "cat represents file system structures, supported formats, or system commands across Linux, Windows, and macOS used to navigate and manage data.",
+    "sysadmin": "cat refers to a directory type, command-line utility, or filesystem type that helps manage how operating systems store, organize, and access files and devices.",
+    "emoji": "\ud83d\udcc2\ud83d\udcc1\ud83d\uddc2\ufe0f\ud83d\udcbb",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Mac",
+      "CLI",
+      "Storage"
+    ],
+    "related": [
+      "ext4",
+      "ntfs",
+      "cd",
+      "mkdir",
+      "apfs"
+    ],
+    "aliases": [
+      "cat",
+      "CAT"
+    ],
+    "use_case": "A sysadmin uses cat to mount drives, create directories, or move files across different operating systems.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "more": {
+    "eli5": "more is like a command, folder, or tool your computer uses to organize files and know where things are.",
+    "boss": "more represents file system structures, supported formats, or system commands across Linux, Windows, and macOS used to navigate and manage data.",
+    "sysadmin": "more refers to a directory type, command-line utility, or filesystem type that helps manage how operating systems store, organize, and access files and devices.",
+    "emoji": "\ud83d\udcc2\ud83d\udcc1\ud83d\uddc2\ufe0f\ud83d\udcbb",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Mac",
+      "CLI",
+      "Storage"
+    ],
+    "related": [
+      "ext4",
+      "ntfs",
+      "cd",
+      "mkdir",
+      "apfs"
+    ],
+    "aliases": [
+      "more",
+      "MORE"
+    ],
+    "use_case": "A sysadmin uses more to mount drives, create directories, or move files across different operating systems.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "stat": {
+    "eli5": "stat is like a command, folder, or tool your computer uses to organize files and know where things are.",
+    "boss": "stat represents file system structures, supported formats, or system commands across Linux, Windows, and macOS used to navigate and manage data.",
+    "sysadmin": "stat refers to a directory type, command-line utility, or filesystem type that helps manage how operating systems store, organize, and access files and devices.",
+    "emoji": "\ud83d\udcc2\ud83d\udcc1\ud83d\uddc2\ufe0f\ud83d\udcbb",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Mac",
+      "CLI",
+      "Storage"
+    ],
+    "related": [
+      "ext4",
+      "ntfs",
+      "cd",
+      "mkdir",
+      "apfs"
+    ],
+    "aliases": [
+      "stat",
+      "STAT"
+    ],
+    "use_case": "A sysadmin uses stat to mount drives, create directories, or move files across different operating systems.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "locate": {
+    "eli5": "locate is like a command, folder, or tool your computer uses to organize files and know where things are.",
+    "boss": "locate represents file system structures, supported formats, or system commands across Linux, Windows, and macOS used to navigate and manage data.",
+    "sysadmin": "locate refers to a directory type, command-line utility, or filesystem type that helps manage how operating systems store, organize, and access files and devices.",
+    "emoji": "\ud83d\udcc2\ud83d\udcc1\ud83d\uddc2\ufe0f\ud83d\udcbb",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Mac",
+      "CLI",
+      "Storage"
+    ],
+    "related": [
+      "ext4",
+      "ntfs",
+      "cd",
+      "mkdir",
+      "apfs"
+    ],
+    "aliases": [
+      "locate",
+      "LOCATE"
+    ],
+    "use_case": "A sysadmin uses locate to mount drives, create directories, or move files across different operating systems.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "basename": {
+    "eli5": "basename is like a command, folder, or tool your computer uses to organize files and know where things are.",
+    "boss": "basename represents file system structures, supported formats, or system commands across Linux, Windows, and macOS used to navigate and manage data.",
+    "sysadmin": "basename refers to a directory type, command-line utility, or filesystem type that helps manage how operating systems store, organize, and access files and devices.",
+    "emoji": "\ud83d\udcc2\ud83d\udcc1\ud83d\uddc2\ufe0f\ud83d\udcbb",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Mac",
+      "CLI",
+      "Storage"
+    ],
+    "related": [
+      "ext4",
+      "ntfs",
+      "cd",
+      "mkdir",
+      "apfs"
+    ],
+    "aliases": [
+      "basename",
+      "BASENAME"
+    ],
+    "use_case": "A sysadmin uses basename to mount drives, create directories, or move files across different operating systems.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "dirname": {
+    "eli5": "dirname is like a command, folder, or tool your computer uses to organize files and know where things are.",
+    "boss": "dirname represents file system structures, supported formats, or system commands across Linux, Windows, and macOS used to navigate and manage data.",
+    "sysadmin": "dirname refers to a directory type, command-line utility, or filesystem type that helps manage how operating systems store, organize, and access files and devices.",
+    "emoji": "\ud83d\udcc2\ud83d\udcc1\ud83d\uddc2\ufe0f\ud83d\udcbb",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Mac",
+      "CLI",
+      "Storage"
+    ],
+    "related": [
+      "ext4",
+      "ntfs",
+      "cd",
+      "mkdir",
+      "apfs"
+    ],
+    "aliases": [
+      "dirname",
+      "DIRNAME"
+    ],
+    "use_case": "A sysadmin uses dirname to mount drives, create directories, or move files across different operating systems.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "realpath": {
+    "eli5": "realpath is like a command, folder, or tool your computer uses to organize files and know where things are.",
+    "boss": "realpath represents file system structures, supported formats, or system commands across Linux, Windows, and macOS used to navigate and manage data.",
+    "sysadmin": "realpath refers to a directory type, command-line utility, or filesystem type that helps manage how operating systems store, organize, and access files and devices.",
+    "emoji": "\ud83d\udcc2\ud83d\udcc1\ud83d\uddc2\ufe0f\ud83d\udcbb",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Mac",
+      "CLI",
+      "Storage"
+    ],
+    "related": [
+      "ext4",
+      "ntfs",
+      "cd",
+      "mkdir",
+      "apfs"
+    ],
+    "aliases": [
+      "realpath",
+      "REALPATH"
+    ],
+    "use_case": "A sysadmin uses realpath to mount drives, create directories, or move files across different operating systems.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "readlink": {
+    "eli5": "readlink is like a command, folder, or tool your computer uses to organize files and know where things are.",
+    "boss": "readlink represents file system structures, supported formats, or system commands across Linux, Windows, and macOS used to navigate and manage data.",
+    "sysadmin": "readlink refers to a directory type, command-line utility, or filesystem type that helps manage how operating systems store, organize, and access files and devices.",
+    "emoji": "\ud83d\udcc2\ud83d\udcc1\ud83d\uddc2\ufe0f\ud83d\udcbb",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Mac",
+      "CLI",
+      "Storage"
+    ],
+    "related": [
+      "ext4",
+      "ntfs",
+      "cd",
+      "mkdir",
+      "apfs"
+    ],
+    "aliases": [
+      "readlink",
+      "READLINK"
+    ],
+    "use_case": "A sysadmin uses readlink to mount drives, create directories, or move files across different operating systems.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "ln": {
+    "eli5": "ln is like a command, folder, or tool your computer uses to organize files and know where things are.",
+    "boss": "ln represents file system structures, supported formats, or system commands across Linux, Windows, and macOS used to navigate and manage data.",
+    "sysadmin": "ln refers to a directory type, command-line utility, or filesystem type that helps manage how operating systems store, organize, and access files and devices.",
+    "emoji": "\ud83d\udcc2\ud83d\udcc1\ud83d\uddc2\ufe0f\ud83d\udcbb",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Mac",
+      "CLI",
+      "Storage"
+    ],
+    "related": [
+      "ext4",
+      "ntfs",
+      "cd",
+      "mkdir",
+      "apfs"
+    ],
+    "aliases": [
+      "ln",
+      "LN"
+    ],
+    "use_case": "A sysadmin uses ln to mount drives, create directories, or move files across different operating systems.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "chgrp": {
+    "eli5": "chgrp is like a command, folder, or tool your computer uses to organize files and know where things are.",
+    "boss": "chgrp represents file system structures, supported formats, or system commands across Linux, Windows, and macOS used to navigate and manage data.",
+    "sysadmin": "chgrp refers to a directory type, command-line utility, or filesystem type that helps manage how operating systems store, organize, and access files and devices.",
+    "emoji": "\ud83d\udcc2\ud83d\udcc1\ud83d\uddc2\ufe0f\ud83d\udcbb",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Mac",
+      "CLI",
+      "Storage"
+    ],
+    "related": [
+      "ext4",
+      "ntfs",
+      "cd",
+      "mkdir",
+      "apfs"
+    ],
+    "aliases": [
+      "chgrp",
+      "CHGRP"
+    ],
+    "use_case": "A sysadmin uses chgrp to mount drives, create directories, or move files across different operating systems.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "lsattr": {
+    "eli5": "lsattr is like a command, folder, or tool your computer uses to organize files and know where things are.",
+    "boss": "lsattr represents file system structures, supported formats, or system commands across Linux, Windows, and macOS used to navigate and manage data.",
+    "sysadmin": "lsattr refers to a directory type, command-line utility, or filesystem type that helps manage how operating systems store, organize, and access files and devices.",
+    "emoji": "\ud83d\udcc2\ud83d\udcc1\ud83d\uddc2\ufe0f\ud83d\udcbb",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Mac",
+      "CLI",
+      "Storage"
+    ],
+    "related": [
+      "ext4",
+      "ntfs",
+      "cd",
+      "mkdir",
+      "apfs"
+    ],
+    "aliases": [
+      "lsattr",
+      "LSATTR"
+    ],
+    "use_case": "A sysadmin uses lsattr to mount drives, create directories, or move files across different operating systems.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "chattr": {
+    "eli5": "chattr is like a command, folder, or tool your computer uses to organize files and know where things are.",
+    "boss": "chattr represents file system structures, supported formats, or system commands across Linux, Windows, and macOS used to navigate and manage data.",
+    "sysadmin": "chattr refers to a directory type, command-line utility, or filesystem type that helps manage how operating systems store, organize, and access files and devices.",
+    "emoji": "\ud83d\udcc2\ud83d\udcc1\ud83d\uddc2\ufe0f\ud83d\udcbb",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Mac",
+      "CLI",
+      "Storage"
+    ],
+    "related": [
+      "ext4",
+      "ntfs",
+      "cd",
+      "mkdir",
+      "apfs"
+    ],
+    "aliases": [
+      "chattr",
+      "CHATTR"
+    ],
+    "use_case": "A sysadmin uses chattr to mount drives, create directories, or move files across different operating systems.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "commands (windows)": {
+    "eli5": "Commands (Windows) is like a command, folder, or tool your computer uses to organize files and know where things are.",
+    "boss": "Commands (Windows) represents file system structures, supported formats, or system commands across Linux, Windows, and macOS used to navigate and manage data.",
+    "sysadmin": "Commands (Windows) refers to a directory type, command-line utility, or filesystem type that helps manage how operating systems store, organize, and access files and devices.",
+    "emoji": "\ud83d\udcc2\ud83d\udcc1\ud83d\uddc2\ufe0f\ud83d\udcbb",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Mac",
+      "CLI",
+      "Storage"
+    ],
+    "related": [
+      "ext4",
+      "ntfs",
+      "cd",
+      "mkdir",
+      "apfs"
+    ],
+    "aliases": [
+      "commands (windows)",
+      "COMMANDS (WINDOWS)"
+    ],
+    "use_case": "A sysadmin uses Commands (Windows) to mount drives, create directories, or move files across different operating systems.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "dir": {
+    "eli5": "dir is like a command, folder, or tool your computer uses to organize files and know where things are.",
+    "boss": "dir represents file system structures, supported formats, or system commands across Linux, Windows, and macOS used to navigate and manage data.",
+    "sysadmin": "dir refers to a directory type, command-line utility, or filesystem type that helps manage how operating systems store, organize, and access files and devices.",
+    "emoji": "\ud83d\udcc2\ud83d\udcc1\ud83d\uddc2\ufe0f\ud83d\udcbb",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Mac",
+      "CLI",
+      "Storage"
+    ],
+    "related": [
+      "ext4",
+      "ntfs",
+      "cd",
+      "mkdir",
+      "apfs"
+    ],
+    "aliases": [
+      "dir",
+      "DIR"
+    ],
+    "use_case": "A sysadmin uses dir to mount drives, create directories, or move files across different operating systems.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "md": {
+    "eli5": "md is like a command, folder, or tool your computer uses to organize files and know where things are.",
+    "boss": "md represents file system structures, supported formats, or system commands across Linux, Windows, and macOS used to navigate and manage data.",
+    "sysadmin": "md refers to a directory type, command-line utility, or filesystem type that helps manage how operating systems store, organize, and access files and devices.",
+    "emoji": "\ud83d\udcc2\ud83d\udcc1\ud83d\uddc2\ufe0f\ud83d\udcbb",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Mac",
+      "CLI",
+      "Storage"
+    ],
+    "related": [
+      "ext4",
+      "ntfs",
+      "cd",
+      "mkdir",
+      "apfs"
+    ],
+    "aliases": [
+      "md",
+      "MD"
+    ],
+    "use_case": "A sysadmin uses md to mount drives, create directories, or move files across different operating systems.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "rd": {
+    "eli5": "rd is like a command, folder, or tool your computer uses to organize files and know where things are.",
+    "boss": "rd represents file system structures, supported formats, or system commands across Linux, Windows, and macOS used to navigate and manage data.",
+    "sysadmin": "rd refers to a directory type, command-line utility, or filesystem type that helps manage how operating systems store, organize, and access files and devices.",
+    "emoji": "\ud83d\udcc2\ud83d\udcc1\ud83d\uddc2\ufe0f\ud83d\udcbb",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Mac",
+      "CLI",
+      "Storage"
+    ],
+    "related": [
+      "ext4",
+      "ntfs",
+      "cd",
+      "mkdir",
+      "apfs"
+    ],
+    "aliases": [
+      "rd",
+      "RD"
+    ],
+    "use_case": "A sysadmin uses rd to mount drives, create directories, or move files across different operating systems.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "attrib": {
+    "eli5": "attrib is like a command, folder, or tool your computer uses to organize files and know where things are.",
+    "boss": "attrib represents file system structures, supported formats, or system commands across Linux, Windows, and macOS used to navigate and manage data.",
+    "sysadmin": "attrib refers to a directory type, command-line utility, or filesystem type that helps manage how operating systems store, organize, and access files and devices.",
+    "emoji": "\ud83d\udcc2\ud83d\udcc1\ud83d\uddc2\ufe0f\ud83d\udcbb",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Mac",
+      "CLI",
+      "Storage"
+    ],
+    "related": [
+      "ext4",
+      "ntfs",
+      "cd",
+      "mkdir",
+      "apfs"
+    ],
+    "aliases": [
+      "attrib",
+      "ATTRIB"
+    ],
+    "use_case": "A sysadmin uses attrib to mount drives, create directories, or move files across different operating systems.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "mountvol": {
+    "eli5": "mountvol is like a command, folder, or tool your computer uses to organize files and know where things are.",
+    "boss": "mountvol represents file system structures, supported formats, or system commands across Linux, Windows, and macOS used to navigate and manage data.",
+    "sysadmin": "mountvol refers to a directory type, command-line utility, or filesystem type that helps manage how operating systems store, organize, and access files and devices.",
+    "emoji": "\ud83d\udcc2\ud83d\udcc1\ud83d\uddc2\ufe0f\ud83d\udcbb",
+    "categories": [
+      "Filesystem",
+      "Linux",
+      "Windows",
+      "Mac",
+      "CLI",
+      "Storage"
+    ],
+    "related": [
+      "ext4",
+      "ntfs",
+      "cd",
+      "mkdir",
+      "apfs"
+    ],
+    "aliases": [
+      "mountvol",
+      "MOUNTVOL"
+    ],
+    "use_case": "A sysadmin uses mountvol to mount drives, create directories, or move files across different operating systems.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  }
+}

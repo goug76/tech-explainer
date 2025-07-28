@@ -1,0 +1,65 @@
+{
+  "canvasapi": {
+    "eli5": "The Canvas API is like a digital art board where websites can draw pictures and animations.",
+    "boss": "The Canvas API lets websites render graphics, charts, and games directly in the browser using JavaScript.",
+    "sysadmin": "Canvas API provides a 2D rendering context on a <canvas> HTML element, enabling pixel-level drawing and animations via JavaScript.",
+    "emoji": "\ud83d\uddbc\ufe0f\ud83c\udfa8\ud83d\udcca",
+    "categories": [
+      "Web",
+      "APIs"
+    ],
+    "related": [
+      "WebGL",
+      "SVG",
+      "HTML5"
+    ],
+    "aliases": [
+      "HTML Canvas"
+    ],
+    "use_case": "Used by game devs to render dynamic scenes in browser-based games.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "webgl": {
+    "eli5": "WebGL turns your browser into a tiny video game engine that can show 3D graphics.",
+    "boss": "WebGL is a web standard for rendering interactive 2D and 3D graphics without needing plugins.",
+    "sysadmin": "WebGL is a JavaScript API that interfaces with the GPU to render 3D graphics using OpenGL ES in web browsers.",
+    "emoji": "\ud83d\udd79\ufe0f\ud83e\uddf1\ud83e\udde0",
+    "categories": [
+      "Web",
+      "APIs"
+    ],
+    "related": [
+      "Canvas API",
+      "GPU",
+      "Three.js"
+    ],
+    "aliases": [
+      "Web Graphics Library"
+    ],
+    "use_case": "Used to render 3D models in a browser-based CAD viewer.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "svg": {
+    "eli5": "SVG is like drawing with lines and shapes that stay sharp no matter how much you zoom in.",
+    "boss": "SVG (Scalable Vector Graphics) is a format for rendering crisp, resolution-independent images on the web.",
+    "sysadmin": "SVG uses XML markup to define vector shapes (like paths and circles), making it ideal for logos, icons, and animations.",
+    "emoji": "\ud83d\udd3a\ud83d\udcd0\ud83d\udd8c\ufe0f",
+    "categories": [
+      "Web",
+      "Graphics"
+    ],
+    "related": [
+      "Canvas API",
+      "HTML",
+      "CSS"
+    ],
+    "aliases": [
+      "Scalable Vector Graphics"
+    ],
+    "use_case": "Used to create animated web icons that scale perfectly on all devices.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  }
+}

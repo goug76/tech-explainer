@@ -1,0 +1,196 @@
+{
+  "daemonset": {
+    "eli5": "A DaemonSet makes sure every computer in a group runs the same background helper.",
+    "boss": "A DaemonSet in Kubernetes ensures a copy of a specific pod runs on every node (or select nodes).",
+    "sysadmin": "DaemonSets deploy one pod per node, often used for cluster-wide agents like log collectors or monitoring tools (e.g., Fluent Bit).",
+    "emoji": "\ud83d\udc7b\ud83d\udce1\ud83e\udde9",
+    "categories": [
+      "Virtualization",
+      "Kubernetes",
+      "Automation"
+    ],
+    "related": [
+      "StatefulSet",
+      "Pod",
+      "Fluent Bit"
+    ],
+    "aliases": [],
+    "use_case": "Used to run a log collection agent like Filebeat on every Kubernetes node.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "statefulset": {
+    "eli5": "A StatefulSet gives each computer its own name and memory, so they remember things even after a nap.",
+    "boss": "StatefulSets manage persistent, unique, and ordered pods in Kubernetes\u2014ideal for databases and storage services.",
+    "sysadmin": "StatefulSets ensure stable network identities and persistent storage for each pod instance, useful for apps like PostgreSQL or Cassandra.",
+    "emoji": "\ud83d\udcbe\ud83d\udd01\ud83c\udff7\ufe0f",
+    "categories": [
+      "Kubernetes",
+      "Storage"
+    ],
+    "related": [
+      "Persistent Volume",
+      "Pod",
+      "Service"
+    ],
+    "aliases": [],
+    "use_case": "Used to deploy a Redis cluster where each instance needs stable storage and identity.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "service": {
+    "eli5": "A Service is like a receptionist that knows where to find the person you want to talk to.",
+    "boss": "A Kubernetes Service exposes a set of pods to the network, allowing access by name or IP.",
+    "sysadmin": "Kubernetes Services abstract access to one or more pods via stable DNS names and load balancing. Types include ClusterIP, NodePort, and LoadBalancer.",
+    "emoji": "\u260e\ufe0f\ud83d\udcde\ud83d\udd17",
+    "categories": [
+      "Kubernetes",
+      "Networking"
+    ],
+    "related": [
+      "Ingress",
+      "Pod",
+      "LoadBalancer"
+    ],
+    "aliases": [],
+    "use_case": "Used to expose a group of app pods internally within the Kubernetes cluster.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "ingress": {
+    "eli5": "Ingress is like the front door to your house\u2014it lets guests in and shows them where to go.",
+    "boss": "Ingress is a Kubernetes component that manages external access to services, usually over HTTP/S.",
+    "sysadmin": "Ingress defines routing rules, TLS termination, and URL path mapping for incoming requests to services inside a Kubernetes cluster.",
+    "emoji": "\ud83d\udeaa\ud83c\udf10\ud83d\udd00",
+    "categories": [
+      "Kubernetes",
+      "Networking"
+    ],
+    "related": [
+      "Service",
+      "LoadBalancer",
+      "Ingress Controller"
+    ],
+    "aliases": [],
+    "use_case": "Used to route traffic from the internet to different web apps inside a cluster via NGINX Ingress Controller.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "loadbalancer": {
+    "eli5": "A LoadBalancer is like a traffic cop that makes sure no one road gets too crowded.",
+    "boss": "A LoadBalancer distributes incoming traffic across multiple servers to improve performance and reliability.",
+    "sysadmin": "In Kubernetes, a LoadBalancer service type provisions an external IP and forwards requests to backend pods through cloud or bare-metal integrations.",
+    "emoji": "\u2696\ufe0f\ud83c\udf10\ud83d\udea6",
+    "categories": [
+      "Kubernetes",
+      "Networking",
+      "Infrastructure"
+    ],
+    "related": [
+      "Service",
+      "Ingress",
+      "HAProxy"
+    ],
+    "aliases": [],
+    "use_case": "Used to expose a production API server to internet traffic with high availability.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "persistent_volume": {
+    "eli5": "A Persistent Volume is like a backpack your app can take with it so it never loses its homework.",
+    "boss": "A Persistent Volume (PV) in Kubernetes is a piece of storage available to pods even after restarts.",
+    "sysadmin": "PV is a cluster resource representing storage (e.g., NFS, iSCSI) managed independently from the pod lifecycle, enabling durable storage in Kubernetes.",
+    "emoji": "\ud83c\udf92\ud83d\udcbe\ud83d\udd17",
+    "categories": [
+      "Kubernetes",
+      "Storage"
+    ],
+    "related": [
+      "StatefulSet",
+      "PVC",
+      "StorageClass"
+    ],
+    "aliases": [
+      "PV"
+    ],
+    "use_case": "Used to store user data for a database running in Kubernetes.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "configmap": {
+    "eli5": "A ConfigMap is like a folder of notes your app can read for instructions.",
+    "boss": "A ConfigMap stores configuration data separately from application code in Kubernetes.",
+    "sysadmin": "Kubernetes ConfigMaps let you define environment variables, command-line arguments, or config files injected into pods at runtime.",
+    "emoji": "\ud83d\uddc2\ufe0f\ud83e\uddfe\ud83d\udcc4",
+    "categories": [
+      "Kubernetes",
+      "Configuration Management"
+    ],
+    "related": [
+      "Secret",
+      "Pod",
+      "Deployment"
+    ],
+    "aliases": [],
+    "use_case": "Used to pass non-sensitive app settings like environment names to containers.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "secret": {
+    "eli5": "A Secret is like a locked diary that only your app knows how to read.",
+    "boss": "A Secret is used in Kubernetes to store sensitive data like passwords and keys securely.",
+    "sysadmin": "Secrets encode and restrict access to sensitive information like API keys and TLS certs within Kubernetes, minimizing exposure.",
+    "emoji": "\ud83d\udd10\ud83d\udce6\ud83e\udde9",
+    "categories": [
+      "Kubernetes",
+      "Security"
+    ],
+    "related": [
+      "ConfigMap",
+      "Pod",
+      "TLS"
+    ],
+    "aliases": [],
+    "use_case": "Used to store database passwords and mount them as environment variables in pods.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "helm": {
+    "eli5": "Helm is like an app store for Kubernetes that helps you install things easily.",
+    "boss": "Helm is a Kubernetes package manager that simplifies deployment and management of applications.",
+    "sysadmin": "Helm uses versioned 'charts' to define, install, and upgrade Kubernetes resources with templating and values files.",
+    "emoji": "\u26f5\ud83d\udce6\ud83d\udcca",
+    "categories": [
+      "Kubernetes",
+      "DevOps"
+    ],
+    "related": [
+      "Kustomize",
+      "Chart",
+      "Deployment"
+    ],
+    "aliases": [],
+    "use_case": "Used to install and configure Prometheus and Grafana with a single command.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "kustomize": {
+    "eli5": "Kustomize is like adding stickers and notes to your app setup without changing the original instructions.",
+    "boss": "Kustomize is a Kubernetes tool that lets you customize YAML manifests without modifying the original files.",
+    "sysadmin": "Kustomize supports declarative configuration overlaying and composition using patches and base/overlay directory structures.",
+    "emoji": "\ud83e\udde9\ud83d\udcdd\ud83d\udee0\ufe0f",
+    "categories": [
+      "Kubernetes",
+      "DevOps"
+    ],
+    "related": [
+      "Helm",
+      "ConfigMap",
+      "Deployment"
+    ],
+    "aliases": [],
+    "use_case": "Used to manage different environments (dev, prod) using overlays without duplicating manifests.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  }
+}

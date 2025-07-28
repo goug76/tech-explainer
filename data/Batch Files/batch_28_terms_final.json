@@ -1,0 +1,204 @@
+{
+  "restic": {
+    "eli5": "Restic is like a smart backpack that remembers what you packed, so you only carry new stuff next time.",
+    "boss": "Restic is a secure and efficient command-line backup tool that supports deduplication and encryption.",
+    "sysadmin": "Restic is a fast, encrypted, deduplicating backup program written in Go, compatible with various storage backends like S3, B2, and local disks.",
+    "emoji": "\ud83c\udf92\ud83d\udd10\ud83d\udcc1",
+    "categories": [
+      "Backup",
+      "CLI",
+      "Storage"
+    ],
+    "related": [
+      "Duplicati",
+      "UrBackup",
+      "BorgBackup"
+    ],
+    "aliases": [],
+    "use_case": "Used to back up home server directories to a cloud bucket with AES encryption.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "duplicati": {
+    "eli5": "Duplicati is like a friendly robot that zips your stuff and hides it before putting it in the cloud.",
+    "boss": "Duplicati is a user-friendly backup tool that encrypts, compresses, and sends backups to various cloud storage services.",
+    "sysadmin": "Duplicati is a cross-platform backup client with a web UI, supporting scheduling, compression, and encrypted backups to cloud or local storage.",
+    "emoji": "\ud83e\udd16\ud83d\udce6\ud83d\udd12",
+    "categories": [
+      "Backup",
+      "Cloud",
+      "Storage"
+    ],
+    "related": [
+      "Restic",
+      "UrBackup",
+      "Amazon S3"
+    ],
+    "aliases": [],
+    "use_case": "Used to schedule encrypted daily backups of important documents to Google Drive.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "urbackup": {
+    "eli5": "UrBackup is like a time machine for your computers that saves everything in case you mess up.",
+    "boss": "UrBackup is an open-source backup solution for disk images and file backups over the network.",
+    "sysadmin": "UrBackup combines image-based and file backups with web-based management and restore capabilities for Linux and Windows systems.",
+    "emoji": "\ud83d\udd52\ud83d\udcbd\ud83d\udda5\ufe0f",
+    "categories": [
+      "Backup",
+      "Self-hosting"
+    ],
+    "related": [
+      "Proxmox Backup Server",
+      "Restic",
+      "Timeshift"
+    ],
+    "aliases": [],
+    "use_case": "Used to back up multiple Windows PCs to a central Linux server with easy recovery.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "proxmox_backup_server": {
+    "eli5": "It\u2019s a special Proxmox buddy that remembers your entire computer setup so you can rewind if something breaks.",
+    "boss": "Proxmox Backup Server is a dedicated backup system for virtual machines, containers, and host data in Proxmox environments.",
+    "sysadmin": "PBS offers incremental, deduplicated, encrypted backups for VMs and CTs managed by Proxmox VE, supporting fast restoration and remote storage.",
+    "emoji": "\ud83e\udde0\ud83d\uddb4\u267b\ufe0f",
+    "categories": [
+      "Backup",
+      "Virtualization",
+      "Self-hosting"
+    ],
+    "related": [
+      "Proxmox",
+      "UrBackup",
+      "ZFS Snapshot"
+    ],
+    "aliases": [
+      "PBS"
+    ],
+    "use_case": "Used to schedule daily backups of virtual machines running on Proxmox VE.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "timeshift": {
+    "eli5": "Timeshift is like a save button for your computer that you can click to go back if something breaks.",
+    "boss": "Timeshift is a Linux system restore tool that lets you roll back to a previous working state.",
+    "sysadmin": "Timeshift uses RSYNC or BTRFS snapshots to create incremental system-level backups, excluding user data by default.",
+    "emoji": "\ud83d\udd79\ufe0f\ud83d\udcf8\ud83e\uddf0",
+    "categories": [
+      "Backup",
+      "Linux"
+    ],
+    "related": [
+      "ZFS Snapshot",
+      "UrBackup",
+      "Restic"
+    ],
+    "aliases": [],
+    "use_case": "Used to roll back a Linux system after a bad kernel update or package install.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "duckdns": {
+    "eli5": "DuckDNS is like a name tag for your house that updates every time your address changes.",
+    "boss": "DuckDNS is a free dynamic DNS service that maps changing home IPs to a consistent domain name.",
+    "sysadmin": "DuckDNS provides dynamic DNS using simple scripts or clients to update public IPs, enabling external access to home servers.",
+    "emoji": "\ud83e\udd86\ud83c\udfe0\ud83c\udf0d",
+    "categories": [
+      "DNS",
+      "Networking",
+      "Self-hosting"
+    ],
+    "related": [
+      "No-IP",
+      "DDNS",
+      "Router Port Forwarding"
+    ],
+    "aliases": [],
+    "use_case": "Used to access a home Plex server remotely via a stable domain name.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "no_ip": {
+    "eli5": "No-IP is like a service that gives your house a friendly name so people can visit even if your address changes.",
+    "boss": "No-IP provides dynamic DNS services that link your changing IP to a consistent domain name.",
+    "sysadmin": "No-IP allows automatic updates of DNS records for dynamic IP addresses through a client or router integration.",
+    "emoji": "\ud83d\udd01\ud83c\udf10\ud83c\udfe1",
+    "categories": [
+      "DNS",
+      "Networking"
+    ],
+    "related": [
+      "DuckDNS",
+      "Dynamic DNS (DDNS)",
+      "Router"
+    ],
+    "aliases": [],
+    "use_case": "Used to make a home VPN accessible from the internet without a static IP.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "namecheap_dns": {
+    "eli5": "Namecheap DNS is like a contact list for websites made by Namecheap.",
+    "boss": "Namecheap DNS is the DNS hosting service provided by Namecheap to manage domain records like A, CNAME, and TXT.",
+    "sysadmin": "Namecheap DNS allows domain owners to configure and manage DNS zones through their dashboard or API.",
+    "emoji": "\ud83d\udcc7\ud83c\udf10\ud83d\udcbb",
+    "categories": [
+      "DNS",
+      "Web"
+    ],
+    "related": [
+      "Route53",
+      "DuckDNS",
+      "No-IP"
+    ],
+    "aliases": [],
+    "use_case": "Used to point a domain to a home server or external app through A and CNAME records.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "route53": {
+    "eli5": "Route53 is Amazon\u2019s address book for finding websites and services quickly.",
+    "boss": "Route53 is AWS\u2019s scalable domain name system that manages DNS records and routing with high reliability.",
+    "sysadmin": "Amazon Route53 is a highly available and scalable DNS web service with support for routing policies, health checks, and domain registration.",
+    "emoji": "\ud83d\udee3\ufe0f\ud83d\udccd\u2601\ufe0f",
+    "categories": [
+      "DNS",
+      "Cloud",
+      "Web"
+    ],
+    "related": [
+      "Namecheap DNS",
+      "DuckDNS",
+      "AWS"
+    ],
+    "aliases": [
+      "Amazon Route 53"
+    ],
+    "use_case": "Used to manage domains and health-checked failover routing for cloud services.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "henet": {
+    "eli5": "HE.net is like a tunnel that helps your old internet talk with new technology.",
+    "boss": "HE.net provides free IPv6 tunnels and DNS hosting for networking enthusiasts and professionals.",
+    "sysadmin": "Hurricane Electric (HE.net) offers free IPv6 tunnel broker services, DNS management, and BGP tools for dual-stack testing and adoption.",
+    "emoji": "\ud83c\udf29\ufe0f\ud83c\udf10\ud83d\udce1",
+    "categories": [
+      "DNS",
+      "Networking"
+    ],
+    "related": [
+      "Route53",
+      "IPv6",
+      "Tunnel Broker"
+    ],
+    "aliases": [
+      "HE.net",
+      "Hurricane Electric"
+    ],
+    "use_case": "Used to add IPv6 support to a home network using their tunnel broker.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  }
+}

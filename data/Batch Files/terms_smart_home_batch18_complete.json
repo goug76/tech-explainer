@@ -1,0 +1,69 @@
+{
+  "workstation": {
+    "eli5": "A workstation is a super-powered computer made for serious work, not games.",
+    "boss": "A workstation is a high-performance desktop computer built for professional workloads like design, CAD, or software development.",
+    "sysadmin": "Workstations feature ECC RAM, multi-core CPUs, GPUs, and ISV-certified hardware tailored for demanding tasks and reliability.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83d\udee0\ufe0f\ud83d\udcca",
+    "categories": [
+      "Hardware",
+      "Enterprise"
+    ],
+    "related": [
+      "Server",
+      "Desktop",
+      "GPU"
+    ],
+    "aliases": [
+      "Pro Workstation",
+      "Engineering Workstation"
+    ],
+    "use_case": "Used by engineers for 3D modeling and rendering large CAD files.",
+    "jargon_score": 2,
+    "level": "Intermediate"
+  },
+  "thinclient": {
+    "eli5": "A thin client is a tiny computer that depends on a big one to do the heavy lifting.",
+    "boss": "Thin clients are minimal hardware devices that connect to a centralized server or virtual desktop to perform tasks.",
+    "sysadmin": "Thin clients boot into remote desktop environments using RDP, ICA, or VDI, minimizing local processing and improving manageability.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83d\udd17\ud83d\udcbc",
+    "categories": [
+      "Hardware",
+      "Enterprise",
+      "Cloud"
+    ],
+    "related": [
+      "Workstation",
+      "Server",
+      "VDI"
+    ],
+    "aliases": [
+      "Zero Client",
+      "Remote Client"
+    ],
+    "use_case": "Used in call centers to provide access to apps without needing full PCs.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "ruggedlaptop": {
+    "eli5": "A rugged laptop is like a normal one wearing armor\u2014it\u2019s tough and works in hard places.",
+    "boss": "Rugged laptops are durable computers designed to withstand extreme environments, shocks, water, and dust.",
+    "sysadmin": "These laptops meet MIL-STD-810 or IP ratings, often used in field work, with reinforced chassis, sealed ports, and sunlight-readable screens.",
+    "emoji": "\ud83d\udcbc\ud83e\ude96\ud83c\udf27\ufe0f",
+    "categories": [
+      "Hardware",
+      "Enterprise"
+    ],
+    "related": [
+      "Laptop",
+      "Tablet",
+      "Military Grade"
+    ],
+    "aliases": [
+      "Tough Laptop",
+      "Field Laptop"
+    ],
+    "use_case": "Used by utility technicians and first responders in outdoor or industrial settings.",
+    "jargon_score": 2,
+    "level": "Intermediate"
+  }
+}

@@ -1,243 +1,2201 @@
-﻿acme
-adguard
-alertmanager
+﻿#!/bin/bash
+%appdata%
+%programfiles%
+%systemroot%
+%temp%
+%windir%
+.bat
+.cmd
+.dll
+.exe
+.ini
+.iso
+.log
+.msi
+.msu
+.ovpn file
+.ps1
+.reg
+.sys
+.vbs
+.wg file
+.wim
+/bin
+/dev
+/dev/loop0
+/dev/null
+/dev/random
+/dev/sda
+/dev/zero
+/etc
+/home
+/lib
+/lib64
+/lost+found
+/media
+/mnt
+/opt
+/proc
+/proc/cpuinfo
+/proc/meminfo
+/root
+/run
+/sbin
+/sys
+/tmp
+/usr
+/var
+1nf
+2fa / mfa
+2nf
+3des (triple des)
+3nf
+7z
+absolute path
+access denied
+access internal resources
+access time
+accessibility
+accessibility_a11y
+acid properties
+action center
+activation
+active directory (ad)
+active directory discovery
+active directory-based activation
+active/passive firewall pair
+active_directory
+add printer wizard
+add_to_home_screen
+administrative user
+administrator
+admx templates
+adr (automatic deployment rule)
+advertisement status
+aes (advanced encryption standard)
+aes-256
+afs
+agile
+agile manifesto
+ah (authentication header)
+airqualitysensor
+akamai kona
+alerting
+algo vpn
+alias
+allowedips
+alpine_image
+alter
+alternate data stream (ads)
+always-on vpn
+amazon aurora
+amazon efs
+amazon rds
+amazonalexa
 anacron
-ansible
+anonymity vs privacy
+ant
+anti-malware policy
 apache
-api
-arduino
-aria2
-aruba
+apfs
+api & automation
+app installer
+apparmor
+appdiscovery.log
+appdynamics
+appimage
+applehomekit
+application catalog point
+application control
+application deployment
+application evaluation cycle
+application log
+application model
+application reliability
+applocker
+apropos
+apt
+aqara
+arangodb
+argocd
+argon2
+arguments ($1, $2)
+arlo
+arp
+artifact repository
+artifacts
+asana
+asset intelligence
+asset intelligence sync point
+asymmetricencryption
+async
+asynchronous replication
 at
-attic
+atop
+at-rest encryption
+attrib
+audit & access logs
+audit policy
+audit trails
+auditd
+aufs
+augustsmartlock
+aurora
+authentication failure
+authentication_infrastructure
+automate everything
+automation
+automount
+autoprefixer
+auto-reconnect
+avoid global conditions overuse
+avro
 awk
-axel
+aws client vpn
+aws cloudformation
+aws kms
+aws lambda
+aws network firewall
+aws secrets manager
+aws site-to-site vpn
+aws waf
+azure ad discovery
+azure ad join
+azure file sync
+azure files
+azure firewall
+azure functions
+azure key vault
+azure point-to-site vpn
+azure repos
+azure sql
+azure vpn gateway
+background tasks
+background_sync
+backlog
 backup
-badblocks
-baobab
-bind
+backup & sync
+backup and restore
+backup tools
+bad sectors
+bamboo
+bandwidth throttling
+bare_metal
+barracuda firewall
+base properties
+base32
+base58
+base64
+baseline version
+basename
+bash
+bash script
+bashrc
+bastion_host
+batch script
+bazarr
+bc
+bcnf
+beegfs
+best practices
+beyondcorp
+binary repository
+bind_mount
+bing_webmaster_tools
+biometric authentication
+bios boot
+bitlocker
+bitlocker recovery key
+bitwarden
+blake2
+blameless postmortem
 blkid
-blocky
+block
+block cipher
+block device
+block size
+blocked port
+blowfish
+bluetoothlowenergyble
+bonjour
+bookstack
+boot image
+boot parameters
+boot partition
+boot sector
+bootloader
 borg
-btop
-btrfs
-byobu
-caddy
-certbot
-certificate
-chef
-cisco
-cloudberry
-cloudflare
-cloudformation
+boundary group
+boxes
+brew (linuxbrew)
+bridge-utils
+broken pxe boot
+browser vpn
+build artifact
+build cache
+build number
+build pipeline
+build systems & tools
+built-in reports
+bypass geo-restrictions
+bypass isp throttling
+bzip2
+c:\program files
+c:\programdata
+c:\temp
+c:\users
+c:\windows
+cal
+candidate key
+canvasapi
+cap theorem
+cargo
+cas.log
+case statement
+cassandra
+cat
+cbc (cipher block chaining)
+ccmsetup.log
+cd
+cdfs (cd-rom file system)
+cdp (cloud distribution point)
+ceilingfanmodule
+central administration site (cas)
+cephfs
+certificate chain
+certificate revocation list (crl)
+certificate-based authentication
+certifiedethicalhackerceh
+cfb (cipher feedback)
+cfdisk
+cgroups
+chacha20
+change control
+change data capture (cdc)
+change failure rate
+change time
+changelog
+chaos engineering
+character device
+chatops
+chattr
+check constraint
+check point
+check point vpn
+checkpoint
+checksum
+checksumming
+chgrp
+child directory
+chkdsk
+chkrootkit
+chmod
+chocolatey
+chosen ciphertext attack
+chosen plaintext attack
+chown
+chroot
+ci/cd (continuous integration / continuous deployment)
+ci/cd metrics
+ci/cd tools
+cim
+cinnamon
+cipher
+cipher mode
+cipher suite
+ciphertext
+cisco anyconnect
+cisco asa
+cisco meraki
+clamav
+clang
+cli tools
+cli_command_line_interface
+clickup
+client actions
+client agent
+client center for configmgr
+client health
+client installation
+client logs
+client not reporting
+client push
+client settings
+client status
+client status reporting
+clientless vpn
+client-to-site vpn
+closed port
+cloud & hybrid
+cloud attach
+cloud databases
+cloud distribution point
+cloud filesystems
+cloud image
+cloud management
+cloud native firewall
+cloud pc
+cloud platforms
+cloud spanner
+cloud vpn features
+cloud_infrastructure
+cloud_region
+cloud-based firewalls
+cloudflare access
+cloudflare magic wan
+cloudflare waf
+cloudflare warp
+cluster
+cluster size
+clustered filesystems
+clustered firewall
+clustered index
+cm console
+cm db
+cm_xxx
+cmake
+cmd (command prompt)
+cmg (cloud management gateway)
+cmpivot
+cmtrace
+co/co2sensor
 coap
-containerd
+code 0x80004005
+code quality
+code signing
+collaboration
+collaboration & workflows
+collections
+collections limit
+collision attack
+column
+columnar database
+column-level encryption
+co-managed workloads
+co-management
+command_line
+commands (linux/unix)
+commands (windows)
+commit hash
+common criteria
+common firewall protocols
+common firewall tools
+compatibility & virtualization
+compatibility assessment
+compatibility mode
+compliance
+compliance & standards
+compliance evaluation
+compliance percentage
+compliance policy (intune)
+compliance settings
+component services (dcomcnfg)
+component status
+composite key
+comptiasecurity+
+computer management
+config as code
+configmap
+configmgr
+configuration baseline
+configuration item (ci)
+configurationmanager.psd1
+connection log
+connection logs
+connection metrics
+connection pooling
+connection refused
+connection string
+constraint
+consul
+contactsensor
+container
+container orchestration
+container scanning
+containers
+content library
+content monitoring
+content package
+content stuck in progress
+contenttransfermanager.log
+context menu
+continuous delivery
+continuous deployment
+continuous monitoring
+continuous query
+continuous testing
+contrast_ratio
+control panel
+controlled folder access
+copy
+copy-on-write
+core cal
+corrupted filesystem
+cost-based optimization
+couchbase
 couchdb
-cron
-crowdsec
+cp
+cpio
+create
+creation time
+credential guard
+credential manager
+cron job
+cross join
+crosssiterequestforgerycsrf
+cryptanalysis
+cryptographic key
+cryptographically secure rng (csprng)
+cryptography
+cryptsetup
+csf (configserver security & firewall)
+csr (certificate signing request)
+csrf
+csv
+cte (common table expression)
+ctr (counter mode)
+cumulative update
+cups
 curl
+current branch (cb)
+current directory
+cursor
+curve25519
+custom mof
+custom reports
+custom role
 cut
-dd-wrt
+cwecommonweaknessenumeration
+cyberghost
+cylinder
+daemonset
+dashboards
+dast (dynamic application security testing)
+data catalog
+data cleansing
+data federation
+data format
+data governance
+data integration
+data lake
+data lineage
+data logging
+data mart
+data masking
+data migration
+data replication
+data sovereignty
+data stewardship
+data transformation
+data warehouse
+data_center_cooling
+database
+database authentication
+database engine
+database metrics
+database schema
+database server
+database table
+datadog
+datatransferservice.log
+date
+db maintenance plan
+db maintenance tasks
+dbeaver
+dbms
+dcl (data control language)
+dcm.log
+dd
+ddl (data definition language)
+deadlock
+debugfs
+declarative configuration
+deduplication
+default constraint
+default directory
+default umask
+defender atp integration
+defender av policy
+defrag
+defragmenter
+del
+delete
+deluge
+denormalization
+deny by default
+dependencies
+dependency management
+dependency pinning
+deployment frequency
+deployment monitoring
+deployment pipeline
+deployment share
+deployment type
+der format
+des (data encryption standard)
+desired state
+desktop background
+detection method
+dev
+dev environment
+development tools
+device collection
+device manager
+device node
+devicediscovery
+devicegrouping
+devicemapper
+devops
+devops culture
+devtmpfs
 df
-dhcp
-dns
-docker
+dgraph
+dhclient
+dictionary attack
+diff
+diffie-hellman
+diffie-hellman (dh)
+digital identity
+digital license
+dir
+directory
+directory structure
+dirname
+discord
+discovery methods
+disk & storage
+disk cleanup
+disk label
+disk layout
+disk management
+disk management (windows)
+disk partition
+disk quota
+disk utilities
+diskpart
+disks (gnome)
+dism
+dism /online /cleanup-image
+display manager (dm)
+distinct
+distributed database
+distribution point (dp)
+diy_nas
+dmesg
+dml (data manipulation language)
+dmzdemilitarizedzone
+dnf
+dns leak protection
+dns resolution failure
+docker registry
+document store
+domain
+domain controller
+domain join
 domoticz
+donâ€™t overuse hardware inventory
+dora metrics
+double vpn
+downsampling
+dp status
+dpkg
+drbd
+driver automation tool (scconfigmgr)
+driver injection
+driver package
+drop
+dropbox fuse
+dropped tunnel
+dtls
 du
-duplicacy
+duckdns
 duplicati
 duplicity
+dvi
+dynamic ports
 dynamodb
-elasticsearch
+dynatrace
+e2label
+ecb (electronic codebook)
+ecdh (elliptic curve diffie-hellman)
+ecdsa (elliptic curve digital signature algorithm)
+ecobee
+ecryptfs
+ed25519
+edge database
+edge firewall
+efi system partition (esp)
+efk stack (fluentd or fluent bit)
+elevated prompt
+elgamal
+elk stack (elasticsearch, logstash, kibana)
+elliptic curve
+elliptic curve diffie-hellman (ecdh)
+elt (extract, load, transform)
 emacs
-emby
-envoy
+embedded database
+encfs
+encoding vs encryption
+encrypted payloads
+encrypted volume
+encryption algorithm
+encryption standard
+endpoint
+endpoint analytics
+endpoint manager suite
+endpointprotectionplatformepp
+end-to-end encryption (e2ee)
+end-to-end test (e2e)
+energymonitoring
+enrollment point
+enterprise vpns
+entity framework
+entropy
+entrypoint
+env
+envelope encryption
+environment variables
+environments
+envoy proxy
+epic
+error code
+esp (encapsulating security payload)
 esphome
-ettercap
+etl (extract, transform, load)
+etw (event tracing for windows)
+eufy
+event viewer
+event-driven architecture
+ewelink
+except
+exclude collection
+exclusive lock
+exe installer
+execmgr.log
+execute
+execution plan
+exfat
+expect
+expired certificate
+explain analyze
+exploit protection
+explorer.exe
+export
+expressvpn
+ext2
+ext3
 ext4
-fail2ban
-fd
+extended attributes
+extended partition
+external hdd
+extundelete
+f2fs
+f5 big-ip
+failed ts step
+fallback boundary
+fallback status point (fsp)
+fan_controller
+fat32
+faunadb
 fdisk
+feature branch
+feature flags
+feature update
+feedback loops
+field
+fifo
+file
+file access logs
+file associations
+file attribute
+file collection
+file compression & archiving
+file descriptor
+file explorer
+file extension
+file extensions
+file handle
+file history
+file permissions
+file properties
+file system hierarchy standard (fhs)
+file system tools
+file system type
+file types
+filesystem
+filesystem encryption
+filesystem errors
+filesystem features
+filesystem mount namespace
+filesystem tools
+filevault
+filter keys
 find
-firewall
+fips 140-2
+firebase firestore
+firebase realtime database
+firestore
+firewall & network protection
+firewall & vpn
+firewall and vpn compatibility
+firewall baseline
+firewall bypass techniques
+firewall evasion
+firewall failover
+firewall interference
+firewall log
+firewall policy template
+firewall rules (gcp)
+firewall rules for vpn
+firewall test
+firewall troubleshooting
+firewall vendors
+firewall-as-a-service (fwaas)
 firewalld
-fortinet
+fish
+five eyes / fourteen eyes
+flatpak
+floodlightcamera
+flux
+focus_ring
+foreign key
+forensics & recovery
+forest
+forticlient
+fortinet forticlient
+fortinet fortigate
+forwarded events
+free
+freelan
+fsck
+fsmo roles
 fstab
-ftp
-fuser
+fsutil
+full join
+full table scan
+full tunnel
+full-disk encryption
+function
+function as a service (faas)
+functions
+g++
+game day
+garagedooropener
+gcc
+gcm (galois/counter mode)
+gdm
+gdpr compliance
+gdpr encryption requirements
+gecync
+geofencing
+geo-ip blocking
+get-acl
+get-cmdevice
+getmac
+gfs2
 git
 github
-gitlab
-glances
-grafana
-graphql
+github action schedule
+global catalog
+global conditions
+globally distributed database
+globalprotect (palo alto)
+gnome
+go modules
+google cloud firewall
+google cloud functions
+google cloud ha vpn
+google cloud kms
+google cloud sql
+google cloud vpn
+google filestore
+google_search_console
+googlehome
+govee
+gparted
+gpg
+gpg (gnu privacy guard)
+gpo (group policy object)
+gpo startup script
+gpresult
+gpt
+gpt (guid partition table)
+gpupdate
+gradle
+grant
+graph database
+grc shieldsup
+gre (generic routing encapsulation)
 grep
-gufw
-haproxy
-hardware-raid
-hdparm
+group by
+group discovery
+group id (gid)
+group policy
+group policy editor (gpedit.msc)
+groupadd
+grub
+grub2
+guest account
+gufw (gui for ufw)
+gui tools
+ha heartbeat
+hamachi
+handshake timeout
+hard link
+hardware inventory
+hardware inventory cycle
+hash function
+hashicorp vault
+hasura
+having
+headscale
+healthcheck
+heartbeat discovery
+hedgedoc
+heidisql
 helm
+helm chart repository
+henet
+hfs+
+hibernate
+hidden file
+high availability
+high availability (ha)
+high contrast
+high performance
+hipaa encryption compliance
+history
+hkdf
+hmac
+hmac (hash-based message authentication code)
+home_lab
 homeassistant
-homekit
-homelab
-htop
-http
+homebridge
+homegroup (deprecated)
+home-to-cloud tunnel
+homomorphic encryption
+honeycomb
+honeywellhome
+horizontal scaling
+hostapd
+hostname
+hostnamectl
+hot_aisle_cold_aisle
+hotfix
+hotfix rollup
+hotplug
+hsts_http_strict_transport_security
 httpie
-https
+hub-and-spoke
 hubitat
-hyper-v
-ids
-iftop
-influxdb
+humiditysensor
+hybrid azure ad
+hybrid firewall/ids
+hybrid join
+hybrid_cloud
+hypervisor
+i/o error
+ibm db2
+icacls
+icmp
+id
+identity-aware proxy (iap)
+identity-based policies
+ids/ips integration
+ifttt
+igmp
+ikev1
+ikev2
+ikev2/ipsec
+image
+image capture
+image deployment
+image signing
+img file
+imperva waf
+import-module
+include collection
+in-console update
+incremental update
+index
+index fragmentation
+index scan
+index seek
+indoorcamera
+influxql
+info
+infraredirblaster
+infrastructure
+infrastructure master
+infrastructure_as_code_iac
+ingress
+ingress gateway
+init container
+initialization vector (iv)
+inline compression
+inline deduplication
+inline mode
+inner join
+inode
+in-place upgrade
+insert
+insmod
+install behavior
+installable_app
 insteon
+integration services
+integration test
+interactive_shell
+intercomsystem
+intermediate certificate
+internal firewall
+internetgateway
+intersect
+in-transit encryption
+intune
+intune integration
+intune mdm
+intune-managed devices
+inventory
+inventory class
+inventory cycle
+invoke-cmclientaction
 iobroker
+iostat
 iotop
 ip
-ipsec
+ip addr
+ip leak
+ip link
+ip route
+ipfw
+ipsec nat-t
+ipsec vpn
 iptables
-istio
-jellyfin
+ipv6 leak protection
+ipv6concepts
+irblaster
+irhub
+ise (integrated scripting environment)
+iso file
+iso mount
+iso/iec 27001
+iso/iec 27001 controls
+iso9660
+isolation level
+it_infrastructure
+ivpn
+jackett
+jaeger
+jdbc
+jenkins timer trigger
+jfrog artifactory
+jira
+job
+job scheduling
+join
+joplin_server
+journalctl
+journaling
 jq
-json
-key-pair
-kibana
-kodi
-kubernetes
-kvm
-letsencrypt
+jsonb
+jump_server
+junction point
+juniper srx
+juniper vpn
+jwe (encrypted jwt)
+jwk (json web key)
+jwks (key set)
+jws (signed jwt)
+kaizen
+kanban
+kb article
+kde plasma
+kerberos
+kernel module
+kernel panic
+key derivation function (kdf)
+key escrow
+key exchange
+key generation
+key length
+key pair
+key rotation
+key size
+key splitting
+key vault
+key wrapping
+key_management_system_kms
+keyboard
+keyring
+keyspace
+key-value store
+kill switch
+kill switch failure
+kms (key management service)
+knative
+known issues
+known_hosts
+kubernetes admission controller
+kubernetes cronjob
+kubernetes network policy
+kubernetesnetworkpolicy
+kustomize
+l2tp
+l2tp/ipsec
+label
+labelctl
+lan
+lanpolling
+layer5session
+layer6presentation
+layer7application
+layered security
+lazytime
+ld
+ldap authentication
+ldd
+lead time for changes
+leaksensor
+left join
+legacy package model
+legal & regulatory
+levellock
+lgpo
+libraries
+libreswan
+libsodium
+libvirt
+license tracking
+licensing
+lidarr
+lifx
+lightdm
+lightsensor
+lightweight protocol
+limit client actions
+link_aggregation
+linting
+linux desktops (des)
+linux filesystem types
+linux kernel concepts
+litespeed
+ln
+loadbalancer
+local security policy
+local_domain
+local_tld
+locale
 locate
-logstash
+locationservices.log
+locking
+log aggregation
+log analysis
+log files
+logging & monitoring
+logging & tracing
+logical block addressing (lba)
+logical partition
+logical volume
+login_shell
+logon script
+logon scripts
+logs
+logs directory
+loop device
+loopback mount
+loopback processing
+loops
+lora
+lost+found
+lp
+lpr
+lpstat
+ls
+lsa (local security authority)
+lsass.exe
+lsattr
 lsblk
+lsmod
 lsof
+luks (linux unified key setup)
+lustre
+lutron
+lvcreate
 lvm
-masscan
+lvm (logical volume manager)
+lxde
+lxqt
+lz4
+mac (message authentication code)
+mac filesystem types
+machine policy retrieval
+macvlan
+magnifier
+maintenance window
+mak (multiple activation key)
+make
+makefile
+malicious vpn providers
+man pages
+management point (mp)
+management point status
+mandatory profile
+mapped drive
+master-slave replication
+mate
+materialized view
 matter
+maven
+mbr
+mbr (master boot record)
+md
 mdadm
-memcached
-meraki
-micro
-micropython
-mongodb
+mdns
+mdt (microsoft deployment toolkit)
+measurement
+mecm (microsoft endpoint configuration manager)
+media deployment
+mesh vpn
+message digest
+message id
+message viewer
+metadata
+metadata server
+metasploit
+metrics
+mfa
+microsoft 365
+microsoft configuration manager
+microsoft defender antivirus
+microsoft endpoint manager
+migration / upgrade
+mini_pc
+misc terms
+misc tools
+mkdir
+mkfs
+mklink
+mobile vpn
+mocking
+modetrigger
+modification time
+modprobe
+modsecurity
+modules
+monday.com
+mongodb atlas
+mongodb compass
+mongoexport
+mongosh
+monitor content library size
+monitoring
+monitoring & tuning
+monolithic kernel
+monorepo
+more
+motionsensor
 mount
+mount failure
+mount options
+mount point
+mount table
+mount.cifs
+mount.nfs
+mounting devices
+mountvol
+move
+mp not responding
+mpcontrol.log
+mpls vpn
 mqtt
-mtr
-mysql
+msi
+msu
+mtbf (mean time between failures)
+mttd (mean time to detect)
+mttr (mean time to recovery)
+mtu
+mtumaximumtransmissionunit
+mullvad
+multi_arch_image
+multi_cloud
+multicast osd
+multi-hop vpn
+multi-master
+multi-model database
+multi-stage build
+mutual authentication
+mutual tls (mtls)
+mv
+myq
+mysql cli
+mysqldump
+nacl (networking and cryptography library)
+namecheap_dns
+namespaces
 nano
-nas
-ncdu
+nanoleaf
+narrator
+nat misconfiguration
+nbtstat
 nebula
-neovim
-netcat
-netdata
-nethogs
-netstat
-nextcloud
-nextdns
+neo4j
+neon (postgres)
+nest
+netmaker
+netplan
+netsh
+netsh advfirewall
+network discovery
+network drives
+network printer
+network security posture
+network_mode
+networked filesystems
+new relic
+new-cmapplication
+newsql
+nexus repository
+nfc
+nfcchip
+nfctags
+nfs (network file system)
+nfs share
 nftables
-nginx
-nmap
-node-exporter
-nohup
+nic_teaming
+nist firewall guidelines
+nist recommendations
+nmap scan
+nmcli
+no_ip
+noatime
+nodered
+nodev
+noexec
+no-logs policy
+nonce
+non-clustered index
+non-relational database
+non-repudiation
+nordvpn
+normalization
+nosql
+nosql database
+nosuid
+not null
+notification center
+nsa suite b
+nsg (azure network security group)
+ntfs
+ntfs-3g
+ntfsfix
+ntlm
+ntuser.dat
+nuc_next_unit_of_computing
+nuki
+nzbget
+obfuscated server
+obfuscation
+object database
+observability
+occupancysensor
+ocfs2
+oci format
+oci registry
+ocsp (online certificate status protocol)
+octal notation
+odbc
+oem key
+oem_license
+ofb (output feedback)
+offline files
+olap (online analytical processing)
+oltp (online transaction processing)
+ombi
+onedrive
+onedrive for business
+one-way function
+on-screen keyboard
+open policy agent (opa)
+open port
+openfaas
 openhab
-openrc
-openthread
-openvpn
-opnsense
-ossec
-owncloud
+openssl
+openvpn connect
+openvpn server
+operating system deployment (osd)
+optimistic locking
+optional update
+oracle database
+orc
+order by
+orm (object relational mapping)
+orphaned inode
+osd (operating system deployment)
+osdcomputername
+others
+ou (organizational unit)
+out of band service point
+outdoorcamera
+outline vpn
+overlay mount
+overlayfs
+overtheairotaupdates
+owasp
+owasptop10
+owner
+p2p file sharing
+package & build tools
+package distribution
+package id
+package management
+package manager
+package repository
+package status
+packet drop
+pacman
+padding
+palo alto globalprotect
+pam (pluggable authentication modules)
+papertrail
+parameterized query
+parent directory
+parquet
 parted
-pathping
-pfsense
-pihole
-ping
-plex
-podman
-portainer
-postgresql
-postman
-powerdns
-prometheus
-proxmox
+partition
+partition by
+partition table
+partition types
+partitioning
+passwd
+patch
+patch my pc
+patch tuesday
+path
+pax
+pbkdf2
+pci dss firewall requirements
+pdc emulator
+pem format
+perfect forward secrecy (pfs)
+performance factors
+performance monitor
+perimeter firewall
+permissions
+permissions_policy
+perms required
+persistent_volume
+persistentkeepalive
+pessimistic locking
+petcamera
+pf (packet filter)
+pg_basebackup
+pg_dump
+pg_stat_statements
+pgadmin
+pgbadger
+pgbouncer
+pgp (pretty good privacy)
+philipshue
+photorec
+phpmyadmin
+physical volume
+pii (personally identifiable information)
+pin
+ping blocking
+pip
+pipeline
+pivot root
+pivpn
+pkg-config
+pki (public key infrastructure)
+plaintext
+planetscale (mysql)
+platform engineering
+playbooks
+pod firewall
+poetry
+point-in-time recovery (pitr)
+policy as code
+policy decision point
+policy enforcement point
+policyagent.log
+port blocking
+port forwarding for vpn
+port scan detection
+port scanning
+port_mapping
+ports
+postcss
+post-quantum cryptography
+power management
+power_and_cooling
+power_budget
+powerconsumption
+powermetering
+powershell
+powershell & automation
+powershell core
+powershell script
+pptp
+pptp (point-to-point tunneling protocol)
+pre-image attack
+prepared statement
+presencedetection
+prestage content
+preup / postup
+preview environments
+primary key
+primary partition
+primary site
+primary-secondary
+print management
+print spooler
+printer driver
+printer queue
+printer.conf
+printing
+prisma
+private internet access (pia)
+private key
+private network tunnels
+private package registry
+private_cloud
+privatekey
+privatelink
+privilegeescalation
+privileges
+processes & logs
+processes & services
+procfs
+product key
+production
+production environment
+profile
+program
+prometheus exporter
+protocol obfuscation
+protonvpn
+proxmox_backup_server
+proxy
+proxysql
+pseudo-random number generator (prng)
+psk (pre-shared key)
+psql
+psremoting
+public key
+public_cloud
+publickey
+pull distribution point
+pulse secure
 pulumi
-puppet
-raid
-rancher
-rclone
-redis
-resilio
-rest
+pvcreate
+pwd
+pxe_server
+pxe-enabled dp
+qbittorrent
+qcow2
+qos for vpn
+qosqualityofservice
+quantum cryptography
+query cache
+query hint
+query optimizer
+query plan
+query profiler
+query rule
+quick access
+quick assist
+quota
+rack_cooling
+rackmount_server
+radius authentication
+raid array
+rainbow table
+random number generator (rng)
+rank
+rar
+rba security model
+rba viewer
+rc4
+rc5
+rc6
+rd
+rdbms (relational database management system)
+rdcman
+rdp
+read
+read committed
+read replica
+read uncommitted
+readlink
+read-only
+read-only filesystem
+read-write
+realpath
+realvnc integration
+rebase
+record
+recovery partition
+recursive permissions
+redaction
+redis-cli
+redis-dump
+redundant_psu
+referrer_policy
+refresh schedule
+refs
+registry editor (regedit)
+regression testing
+regular file
+reiserfs
+relatime
+relational database
+relative path
+release candidate
+release date
+release management
+release notes
+reliability monitor
+remediation script
+remote assistance
+remote backend
+remote control
+remote desktop
+remote desktop protocol
+remote execution & access
+remote powershell
+remote server admin
+remote state
+remote support center
+remote tools
+remote work
+remotecodeexecutionrce
+reparse point
+repeatable read
+report builder
+reporting
+reporting services point
+requirement rules
+reset this pc
+resilience engineering
+resize2fs
+resource monitor
+restapi
+restart client
 restic
-ripgrep
-rsync
-san
-scp
-screen
-seafile
+retention policy
+rethinkdb
+retrospective
+return code
+revisions
+revoke
+rfradiofrequency
+rid master
+right click tools
+right join
+ring
+ripemd
+rkhunter
+rm
+rmdir
+rmm (remote monitoring & management)
+rmmod
+roaming profile
+robocopy
+robots_txt
+role-based administration
+rollback
+rollbacks
+roombasedautomation
+root certificate
+root directory
+route
+route53
+router vpn
+routine
+row
+row lock
+row_number
+row-level security
+rpm
+rsa
+rsop (resultant set of policy)
+rsyslog
+rtorrent
+ruggedlaptop
+rule conflict
+rule documentation
+rule review
+run as administrator
+run dialog
+run scripts feature
+runas
+runbooks
+s3fs
+saas firewall
+sabnzbd
+salt
+samba share
+saml
+sar
+sast (static application security testing)
+savepoint
+sbom (software bill of materials)
+sccm (configmgr / mecm)
+sccm (system center configuration manager)
+sccm 2012
+sccm power bi dashboard
+sccm roles
+sccm toolkit
+sccm tools
+sccm versions
+scene
+scheduled scripts
+scheduled task
+schema
+schlageencode
+scoop
+screen_reader
+scripting
+scripting & automation
+scrum
+scrypt
+sddm
+secondary site
+secret
+secrets injection
+secrets management
+sector
+secure erase
+secure public wi-fi
+secure_headers
+security
+security & compliance
+security as code
+security event
+security filtering
+security groups (aws)
+security log
+security policy
+security scope
+securitycertifications
 sed
-sftp
-smartctl
-smartd
+select
+self-hosted vpn
+selfhosting
+selinux
+semantic versioning
+sentry
+seq
+sequelize
+serializable
+server logs
+serverless database
+service
+service host
+service manager
+service mesh
+service mesh policy (istio)
+services.exe
+services.msc
+servicing stack
+set-acl
+setgid
+settings app
+setuid
+sfc /scannow
+sh
+sha-1
+sha-2
+sha-256
+sha-3
+sha-512
+shadow file
+sharding
+shared lock
+shell extensions
+shell_prompt
+shell_script
+shelly
+shift left
+shredding
+side channel attack
+side-by-side migration
+sidecar container
+siem integration
+signed message
+site
+site boundary
+site code
+site reliability engineering (sre)
+site server
+site status
+sitemap_xml
+slack
+slmgr
+slow query log
+slow replication
+smart card
+smart status
+smartbulb
+smartcamera
+smartdimmer
+smartdisplay
+smartdoorbell
+smartfancontroller
+smartlock
+smartoutlet
+smartplug
+smartscreen
+smartsensor
+smartspeaker
+smartswitch
+smartthermostat
 smartthings
-smb
-softether
-solr
+smarttv
+smbfs
+smoothwall
+smsts.log
+snap
+snapshot volume
+socialengineeringtoolkitset
+socket
+softether vpn
+software center
+software inventory
+software inventory cycle
+software metering
+software title
+software update point (sup)
+sonicwall
+sonicwall mobile connect
 sonoff
-sophos
-sqlite
+sophos xg
+sort
+source control
+spans
+sparse file
+special files
+special use cases
+speech recognition
+spla
+split tunnel enforcement
+split_dns
+spooler service
+sprint
+sql (structured query language)
+sql developer
+sql injection
+sql query
+sql query performance
+sql server
+sqlalchemy
+sqlcmd
+sqlite browser
+sqlite3
+squashfs
+sre golden signals
+srp (software restriction policy)
 ss
-ssh
+ssh encryption
+sshd
+sshfs
 ssl
-subnet
-suricata
-svn
-switch
-syncthing
-systemd
-systemd-timer
-sysvinit
-tailscale
+ssl (secure sockets layer)
+ssl/tls vpn
+sso
+sso (single sign-on)
+ssrs (sql server reporting services)
+sstp (secure socket tunneling protocol)
+staging
+staging environment
+standard user
+stand-up
+start menu
+starttls
+startup performance
+stat
+state message
+state migration point
+state migration point (smp)
+statefulset
+statelessaddressautoconfigurationslaac
+statfs
+static_route
+statistics
+status messages
+stealth mode
+sticky bit
+sticky keys
+stored procedure
+strace
+stream cipher
+streaming content abroad
+strip
+strongswan
+subnetscloud
+subquery
+subresource_integrity_sri
+subvolume
+success code
+successful write
+sucuri firewall
+sudoers
+suid
+sup (software update point)
+supabase
+supersedence
+surfshark
+surrogate key
+svchost.exe
+svg
+swap
+swap partition
+swapfile
+switchbot
+symbolic link
+symbolic notation
+symlink
+symmetricencryption
+sync
+synchronous replication
+sysctl
+sysfs
+syslog output
+sysprep
+system configuration (msconfig)
+system directories
+system discovery
+system idle process
+system information (msinfo32)
+system log
+system monitoring
+system restore
+system tray
+systemd timers
+table lock
+tableplus
+tag
+tag set
+tailwindcss
+takeown
+tamper protection
+tap mode
+tar
+task manager
+task scheduler
+task sequence
+taskbar
 tasmota
-tcpdump
-telegraf
-telnet
-terraform
+tautulli
+tcl (transaction control language)
+teamcity
+technical preview
+tee
+tempdb
+temperaturesensor
+temporary directory
+tenant attach
+test automation
+test coverage
+test environment
+test runner
+testdisk
+testing
+testing & hardening
+thanos
+thermal_envelope
+thin pool
+thin provisioning
+thinclient
 thread
-tinc
-tls
-tmux
-top
-tr
-traceroute
-traefik
-trunk
-tshark
-tuya-convert
+time
+time series concepts
+timeout
+time-series database
+timeshift
+timing attack
+tink (google)
+tls (transport layer security)
+tls certificate
+tls error
+tls handshake
+tls_termination_proxy
+tmpfs
+toad
+toil reduction
+tokenization
+toml
+tor over vpn
+touch
+tplinkkasa
+tracert
+traces
+track
+traffic shaping
+transaction
+transparent encryption
+travis ci
+tree
+trello
+trigger
+troubleshooting vpn
+truecrypt (deprecated)
+truncate
+trunk-based development
+trust relationship
+ts step
+ts variable
+tun/tap device
+tune2fs
+tunnel interface
+tunnelbear
+tunnelblick
+tunneling
+tuple
+tuya
+twofish
+uac (user account control)
+uat (user acceptance testing)
+udf (universal disk format)
+udp port 51820
+udp vs tcp
+uefi boot
 ufw
+ufw (uncomplicated firewall)
+umask
 umount
-unbound
-unifi
-unison
-upstart
+unattend.xml
+uninstall program
+union
+union mount
+uniq
+unique constraint
+unique index
+unit test
+unmount
+untangle ng firewall
+unzip
+update
+update deployment evaluation
+update group
+update scan cycle
+updatesdeployment.log
+upgrade readiness
+upgrade task sequence
+uptime
+urbackup
+usage logs
+usb drive
+usbcdisplay
+use incremental updates
+use peer cache for bandwidth
+user account
+user affinity
+user authentication
+user cal
+user collection
+user discovery
+user id (uid)
+user identity awareness
+user policy retrieval
+user profile
+user rights assignment
+user roles
+user state
+user story
+useradd
+usermod
+username/password
+usmt (user state migration tool)
+uuid
+v_views
+variables
+vault_hashicorp
+vaultwarden
+veracrypt
+version control system (vcs)
+version_control
+versioning
+vertical scaling
+vfat
+vgcreate
+vhd / vhdx
+vibrationsensor
+victoriametrics
+view
 vim
-vlan
-vmware
-vnstat
-vpn
-wazuh
+virsh
+virt-install
+virt-manager
+virtual filesystem (vfs)
+virtual ip (vip)
+virtualization
+viscosity
+vmstat
+voiceassistant
+volume
+volume group
+volume licensing
+volume management
+volume shadow copy
+vpcvirtualprivatecloud
+vpn (virtual private network)
+vpn acceleration
+vpn alternatives
+vpn app
+vpn appliance
+vpn authentication
+vpn authentication methods
+vpn bans
+vpn bridging
+vpn bypass
+vpn client
+vpn clients
+vpn cloudhub
+vpn compatibility
+vpn concentrator
+vpn configuration file
+vpn connection
+vpn encryption
+vpn extension
+vpn features
+vpn gateway
+vpn in china
+vpn in uae
+vpn integration
+vpn kill switch (iptables)
+vpn legality by country
+vpn log retention
+vpn logging & monitoring
+vpn logs
+vpn on devices
+vpn on opnsense
+vpn on pfsense
+vpn passthrough
+vpn profile
+vpn protocols
+vpn security concerns
+vpn server
+vpn session
+vpn tools & servers
+vpn topologies
+vpn tunnel
+vpn use cases
+vpn vendors / providers
+vs code server
+vulnerable protocol (e.g. pptp)
+vultr
+w
+wan
+wasabi-fuse
+watch
+watchguard
+watershutoffvalve
+wayland
+wdac (windows defender application control)
+web application firewalls (waf)
+webgl
 webhook
+webrtc leak
+well-known ports
 wget
-whereis
-which
-wireguard
-wireshark
+wg-quick
+whatis
+where
+who
+whoami
+wide column store
+wifi
+wiki_js
+wim file
+window function
+windows
+windows 10
+windows 11
+windows 365
+windows autopilot
+windows catalog
+windows defender
+windows defender firewall
+windows e3 / e5
+windows explorer
+windows filesystem types
+windows firewall management
+windows hello
+windows insider program
+windows installer
+windows logs
+windows os
+windows search
+windows security
+windows server
+windows servicing
+windows shell
+windows terminal
+windows themes
+windows update
+windows update for business
+windscribe
+winget
+winlogon.exe
+winpe
+winpe (preinstallation environment)
+winre (windows recovery environment)
+wireguard app
+wireguard server
+wireguard specific terms
+wireguard udp ports
+wlan
+wmi
+wmi corruption
+wmi filtering
+wmi namespace
+wmi query
+workgroup
+working directory
+workstation
+wql query
+write
+wsl (windows subsystem for linux)
+wsl2
+wsus (windows server update services)
+wsus cleanup tool
+wsus db
+wsus integration
+wuahandler.log
+wufb
+wyze
+x.509
+x.509 certificate
+x11
+xargs
+xattr
+xcopy
+xfce
 xfs
-xml
-xmlstarlet
-yaml
+xinput
+xor encryption
+xrandr
+xts
+xz
+yaleassurelock
+yes
 yq
-zellij
-zerotier
-zfs
+yum
+zeek (formerly bro)
+zero trust firewall
+zero trust networking
+zero-knowledge encryption
+zfs dataset
+zfs pool
+zfs volume
 zigbee
-zmap
+zigbeemodule
+zip
+zsh
+zstd
 zwave
+zwavemodule
+zypper

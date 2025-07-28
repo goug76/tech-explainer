@@ -1,0 +1,1402 @@
+{
+  "build artifact": {
+    "eli5": "Build Artifact is like a label, box, or helper robot that helps programmers build, test, ship, and watch over their apps.",
+    "boss": "Build Artifact is part of the DevOps and observability ecosystem, including version control, deployment pipelines, artifact storage, and application performance monitoring.",
+    "sysadmin": "Build Artifact refers to a DevOps practice, CI/CD tool, artifact repository, observability platform, or container orchestration method used to manage software delivery and reliability.",
+    "emoji": "\ud83d\udce6\u2699\ufe0f\ud83d\udd01\ud83d\udc40",
+    "categories": [
+      "DevOps",
+      "Version Control",
+      "Monitoring",
+      "Cloud",
+      "Automation",
+      "Infrastructure"
+    ],
+    "related": [
+      "travis ci",
+      "artifact repository",
+      "mtls",
+      "argoCD",
+      "datadog"
+    ],
+    "aliases": [
+      "build artifact",
+      "BUILD ARTIFACT"
+    ],
+    "use_case": "A DevOps engineer uses Build Artifact to automate builds, monitor deployments, or manage containerized infrastructure securely.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "source control": {
+    "eli5": "Source Control is like a label, box, or helper robot that helps programmers build, test, ship, and watch over their apps.",
+    "boss": "Source Control is part of the DevOps and observability ecosystem, including version control, deployment pipelines, artifact storage, and application performance monitoring.",
+    "sysadmin": "Source Control refers to a DevOps practice, CI/CD tool, artifact repository, observability platform, or container orchestration method used to manage software delivery and reliability.",
+    "emoji": "\ud83d\udce6\u2699\ufe0f\ud83d\udd01\ud83d\udc40",
+    "categories": [
+      "DevOps",
+      "Version Control",
+      "Monitoring",
+      "Cloud",
+      "Automation",
+      "Infrastructure"
+    ],
+    "related": [
+      "travis ci",
+      "artifact repository",
+      "mtls",
+      "argoCD",
+      "datadog"
+    ],
+    "aliases": [
+      "source control",
+      "SOURCE CONTROL"
+    ],
+    "use_case": "A DevOps engineer uses Source Control to automate builds, monitor deployments, or manage containerized infrastructure securely.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "version control system (vcs)": {
+    "eli5": "Version Control System (VCS) is like a label, box, or helper robot that helps programmers build, test, ship, and watch over their apps.",
+    "boss": "Version Control System (VCS) is part of the DevOps and observability ecosystem, including version control, deployment pipelines, artifact storage, and application performance monitoring.",
+    "sysadmin": "Version Control System (VCS) refers to a DevOps practice, CI/CD tool, artifact repository, observability platform, or container orchestration method used to manage software delivery and reliability.",
+    "emoji": "\ud83d\udce6\u2699\ufe0f\ud83d\udd01\ud83d\udc40",
+    "categories": [
+      "DevOps",
+      "Version Control",
+      "Monitoring",
+      "Cloud",
+      "Automation",
+      "Infrastructure"
+    ],
+    "related": [
+      "travis ci",
+      "artifact repository",
+      "mtls",
+      "argoCD",
+      "datadog"
+    ],
+    "aliases": [
+      "version control system (vcs)",
+      "VERSION CONTROL SYSTEM (VCS)"
+    ],
+    "use_case": "A DevOps engineer uses Version Control System (VCS) to automate builds, monitor deployments, or manage containerized infrastructure securely.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "azure repos": {
+    "eli5": "Azure Repos is like a label, box, or helper robot that helps programmers build, test, ship, and watch over their apps.",
+    "boss": "Azure Repos is part of the DevOps and observability ecosystem, including version control, deployment pipelines, artifact storage, and application performance monitoring.",
+    "sysadmin": "Azure Repos refers to a DevOps practice, CI/CD tool, artifact repository, observability platform, or container orchestration method used to manage software delivery and reliability.",
+    "emoji": "\ud83d\udce6\u2699\ufe0f\ud83d\udd01\ud83d\udc40",
+    "categories": [
+      "DevOps",
+      "Version Control",
+      "Monitoring",
+      "Cloud",
+      "Automation",
+      "Infrastructure"
+    ],
+    "related": [
+      "travis ci",
+      "artifact repository",
+      "mtls",
+      "argoCD",
+      "datadog"
+    ],
+    "aliases": [
+      "azure repos",
+      "AZURE REPOS"
+    ],
+    "use_case": "A DevOps engineer uses Azure Repos to automate builds, monitor deployments, or manage containerized infrastructure securely.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "rebase": {
+    "eli5": "Rebase is like a label, box, or helper robot that helps programmers build, test, ship, and watch over their apps.",
+    "boss": "Rebase is part of the DevOps and observability ecosystem, including version control, deployment pipelines, artifact storage, and application performance monitoring.",
+    "sysadmin": "Rebase refers to a DevOps practice, CI/CD tool, artifact repository, observability platform, or container orchestration method used to manage software delivery and reliability.",
+    "emoji": "\ud83d\udce6\u2699\ufe0f\ud83d\udd01\ud83d\udc40",
+    "categories": [
+      "DevOps",
+      "Version Control",
+      "Monitoring",
+      "Cloud",
+      "Automation",
+      "Infrastructure"
+    ],
+    "related": [
+      "travis ci",
+      "artifact repository",
+      "mtls",
+      "argoCD",
+      "datadog"
+    ],
+    "aliases": [
+      "rebase",
+      "REBASE"
+    ],
+    "use_case": "A DevOps engineer uses Rebase to automate builds, monitor deployments, or manage containerized infrastructure securely.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "tag": {
+    "eli5": "Tag is like a label, box, or helper robot that helps programmers build, test, ship, and watch over their apps.",
+    "boss": "Tag is part of the DevOps and observability ecosystem, including version control, deployment pipelines, artifact storage, and application performance monitoring.",
+    "sysadmin": "Tag refers to a DevOps practice, CI/CD tool, artifact repository, observability platform, or container orchestration method used to manage software delivery and reliability.",
+    "emoji": "\ud83d\udce6\u2699\ufe0f\ud83d\udd01\ud83d\udc40",
+    "categories": [
+      "DevOps",
+      "Version Control",
+      "Monitoring",
+      "Cloud",
+      "Automation",
+      "Infrastructure"
+    ],
+    "related": [
+      "travis ci",
+      "artifact repository",
+      "mtls",
+      "argoCD",
+      "datadog"
+    ],
+    "aliases": [
+      "tag",
+      "TAG"
+    ],
+    "use_case": "A DevOps engineer uses Tag to automate builds, monitor deployments, or manage containerized infrastructure securely.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "commit hash": {
+    "eli5": "Commit Hash is like a label, box, or helper robot that helps programmers build, test, ship, and watch over their apps.",
+    "boss": "Commit Hash is part of the DevOps and observability ecosystem, including version control, deployment pipelines, artifact storage, and application performance monitoring.",
+    "sysadmin": "Commit Hash refers to a DevOps practice, CI/CD tool, artifact repository, observability platform, or container orchestration method used to manage software delivery and reliability.",
+    "emoji": "\ud83d\udce6\u2699\ufe0f\ud83d\udd01\ud83d\udc40",
+    "categories": [
+      "DevOps",
+      "Version Control",
+      "Monitoring",
+      "Cloud",
+      "Automation",
+      "Infrastructure"
+    ],
+    "related": [
+      "travis ci",
+      "artifact repository",
+      "mtls",
+      "argoCD",
+      "datadog"
+    ],
+    "aliases": [
+      "commit hash",
+      "COMMIT HASH"
+    ],
+    "use_case": "A DevOps engineer uses Commit Hash to automate builds, monitor deployments, or manage containerized infrastructure securely.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "monorepo": {
+    "eli5": "Monorepo is like a label, box, or helper robot that helps programmers build, test, ship, and watch over their apps.",
+    "boss": "Monorepo is part of the DevOps and observability ecosystem, including version control, deployment pipelines, artifact storage, and application performance monitoring.",
+    "sysadmin": "Monorepo refers to a DevOps practice, CI/CD tool, artifact repository, observability platform, or container orchestration method used to manage software delivery and reliability.",
+    "emoji": "\ud83d\udce6\u2699\ufe0f\ud83d\udd01\ud83d\udc40",
+    "categories": [
+      "DevOps",
+      "Version Control",
+      "Monitoring",
+      "Cloud",
+      "Automation",
+      "Infrastructure"
+    ],
+    "related": [
+      "travis ci",
+      "artifact repository",
+      "mtls",
+      "argoCD",
+      "datadog"
+    ],
+    "aliases": [
+      "monorepo",
+      "MONOREPO"
+    ],
+    "use_case": "A DevOps engineer uses Monorepo to automate builds, monitor deployments, or manage containerized infrastructure securely.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "feature branch": {
+    "eli5": "Feature Branch is like a label, box, or helper robot that helps programmers build, test, ship, and watch over their apps.",
+    "boss": "Feature Branch is part of the DevOps and observability ecosystem, including version control, deployment pipelines, artifact storage, and application performance monitoring.",
+    "sysadmin": "Feature Branch refers to a DevOps practice, CI/CD tool, artifact repository, observability platform, or container orchestration method used to manage software delivery and reliability.",
+    "emoji": "\ud83d\udce6\u2699\ufe0f\ud83d\udd01\ud83d\udc40",
+    "categories": [
+      "DevOps",
+      "Version Control",
+      "Monitoring",
+      "Cloud",
+      "Automation",
+      "Infrastructure"
+    ],
+    "related": [
+      "travis ci",
+      "artifact repository",
+      "mtls",
+      "argoCD",
+      "datadog"
+    ],
+    "aliases": [
+      "feature branch",
+      "FEATURE BRANCH"
+    ],
+    "use_case": "A DevOps engineer uses Feature Branch to automate builds, monitor deployments, or manage containerized infrastructure securely.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "trunk-based development": {
+    "eli5": "Trunk-Based Development is like a label, box, or helper robot that helps programmers build, test, ship, and watch over their apps.",
+    "boss": "Trunk-Based Development is part of the DevOps and observability ecosystem, including version control, deployment pipelines, artifact storage, and application performance monitoring.",
+    "sysadmin": "Trunk-Based Development refers to a DevOps practice, CI/CD tool, artifact repository, observability platform, or container orchestration method used to manage software delivery and reliability.",
+    "emoji": "\ud83d\udce6\u2699\ufe0f\ud83d\udd01\ud83d\udc40",
+    "categories": [
+      "DevOps",
+      "Version Control",
+      "Monitoring",
+      "Cloud",
+      "Automation",
+      "Infrastructure"
+    ],
+    "related": [
+      "travis ci",
+      "artifact repository",
+      "mtls",
+      "argoCD",
+      "datadog"
+    ],
+    "aliases": [
+      "trunk-based development",
+      "TRUNK-BASED DEVELOPMENT"
+    ],
+    "use_case": "A DevOps engineer uses Trunk-Based Development to automate builds, monitor deployments, or manage containerized infrastructure securely.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "ci/cd tools": {
+    "eli5": "CI/CD Tools is like a label, box, or helper robot that helps programmers build, test, ship, and watch over their apps.",
+    "boss": "CI/CD Tools is part of the DevOps and observability ecosystem, including version control, deployment pipelines, artifact storage, and application performance monitoring.",
+    "sysadmin": "CI/CD Tools refers to a DevOps practice, CI/CD tool, artifact repository, observability platform, or container orchestration method used to manage software delivery and reliability.",
+    "emoji": "\ud83d\udce6\u2699\ufe0f\ud83d\udd01\ud83d\udc40",
+    "categories": [
+      "DevOps",
+      "Version Control",
+      "Monitoring",
+      "Cloud",
+      "Automation",
+      "Infrastructure"
+    ],
+    "related": [
+      "travis ci",
+      "artifact repository",
+      "mtls",
+      "argoCD",
+      "datadog"
+    ],
+    "aliases": [
+      "ci/cd tools",
+      "CI/CD TOOLS"
+    ],
+    "use_case": "A DevOps engineer uses CI/CD Tools to automate builds, monitor deployments, or manage containerized infrastructure securely.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "travis ci": {
+    "eli5": "Travis CI is like a label, box, or helper robot that helps programmers build, test, ship, and watch over their apps.",
+    "boss": "Travis CI is part of the DevOps and observability ecosystem, including version control, deployment pipelines, artifact storage, and application performance monitoring.",
+    "sysadmin": "Travis CI refers to a DevOps practice, CI/CD tool, artifact repository, observability platform, or container orchestration method used to manage software delivery and reliability.",
+    "emoji": "\ud83d\udce6\u2699\ufe0f\ud83d\udd01\ud83d\udc40",
+    "categories": [
+      "DevOps",
+      "Version Control",
+      "Monitoring",
+      "Cloud",
+      "Automation",
+      "Infrastructure"
+    ],
+    "related": [
+      "travis ci",
+      "artifact repository",
+      "mtls",
+      "argoCD",
+      "datadog"
+    ],
+    "aliases": [
+      "travis ci",
+      "TRAVIS CI"
+    ],
+    "use_case": "A DevOps engineer uses Travis CI to automate builds, monitor deployments, or manage containerized infrastructure securely.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "teamcity": {
+    "eli5": "TeamCity is like a label, box, or helper robot that helps programmers build, test, ship, and watch over their apps.",
+    "boss": "TeamCity is part of the DevOps and observability ecosystem, including version control, deployment pipelines, artifact storage, and application performance monitoring.",
+    "sysadmin": "TeamCity refers to a DevOps practice, CI/CD tool, artifact repository, observability platform, or container orchestration method used to manage software delivery and reliability.",
+    "emoji": "\ud83d\udce6\u2699\ufe0f\ud83d\udd01\ud83d\udc40",
+    "categories": [
+      "DevOps",
+      "Version Control",
+      "Monitoring",
+      "Cloud",
+      "Automation",
+      "Infrastructure"
+    ],
+    "related": [
+      "travis ci",
+      "artifact repository",
+      "mtls",
+      "argoCD",
+      "datadog"
+    ],
+    "aliases": [
+      "teamcity",
+      "TEAMCITY"
+    ],
+    "use_case": "A DevOps engineer uses TeamCity to automate builds, monitor deployments, or manage containerized infrastructure securely.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "bamboo": {
+    "eli5": "Bamboo is like a label, box, or helper robot that helps programmers build, test, ship, and watch over their apps.",
+    "boss": "Bamboo is part of the DevOps and observability ecosystem, including version control, deployment pipelines, artifact storage, and application performance monitoring.",
+    "sysadmin": "Bamboo refers to a DevOps practice, CI/CD tool, artifact repository, observability platform, or container orchestration method used to manage software delivery and reliability.",
+    "emoji": "\ud83d\udce6\u2699\ufe0f\ud83d\udd01\ud83d\udc40",
+    "categories": [
+      "DevOps",
+      "Version Control",
+      "Monitoring",
+      "Cloud",
+      "Automation",
+      "Infrastructure"
+    ],
+    "related": [
+      "travis ci",
+      "artifact repository",
+      "mtls",
+      "argoCD",
+      "datadog"
+    ],
+    "aliases": [
+      "bamboo",
+      "BAMBOO"
+    ],
+    "use_case": "A DevOps engineer uses Bamboo to automate builds, monitor deployments, or manage containerized infrastructure securely.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "argocd": {
+    "eli5": "ArgoCD is like a label, box, or helper robot that helps programmers build, test, ship, and watch over their apps.",
+    "boss": "ArgoCD is part of the DevOps and observability ecosystem, including version control, deployment pipelines, artifact storage, and application performance monitoring.",
+    "sysadmin": "ArgoCD refers to a DevOps practice, CI/CD tool, artifact repository, observability platform, or container orchestration method used to manage software delivery and reliability.",
+    "emoji": "\ud83d\udce6\u2699\ufe0f\ud83d\udd01\ud83d\udc40",
+    "categories": [
+      "DevOps",
+      "Version Control",
+      "Monitoring",
+      "Cloud",
+      "Automation",
+      "Infrastructure"
+    ],
+    "related": [
+      "travis ci",
+      "artifact repository",
+      "mtls",
+      "argoCD",
+      "datadog"
+    ],
+    "aliases": [
+      "argocd",
+      "ARGOCD"
+    ],
+    "use_case": "A DevOps engineer uses ArgoCD to automate builds, monitor deployments, or manage containerized infrastructure securely.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "artifacts": {
+    "eli5": "Artifacts is like a label, box, or helper robot that helps programmers build, test, ship, and watch over their apps.",
+    "boss": "Artifacts is part of the DevOps and observability ecosystem, including version control, deployment pipelines, artifact storage, and application performance monitoring.",
+    "sysadmin": "Artifacts refers to a DevOps practice, CI/CD tool, artifact repository, observability platform, or container orchestration method used to manage software delivery and reliability.",
+    "emoji": "\ud83d\udce6\u2699\ufe0f\ud83d\udd01\ud83d\udc40",
+    "categories": [
+      "DevOps",
+      "Version Control",
+      "Monitoring",
+      "Cloud",
+      "Automation",
+      "Infrastructure"
+    ],
+    "related": [
+      "travis ci",
+      "artifact repository",
+      "mtls",
+      "argoCD",
+      "datadog"
+    ],
+    "aliases": [
+      "artifacts",
+      "ARTIFACTS"
+    ],
+    "use_case": "A DevOps engineer uses Artifacts to automate builds, monitor deployments, or manage containerized infrastructure securely.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "artifact repository": {
+    "eli5": "Artifact Repository is like a label, box, or helper robot that helps programmers build, test, ship, and watch over their apps.",
+    "boss": "Artifact Repository is part of the DevOps and observability ecosystem, including version control, deployment pipelines, artifact storage, and application performance monitoring.",
+    "sysadmin": "Artifact Repository refers to a DevOps practice, CI/CD tool, artifact repository, observability platform, or container orchestration method used to manage software delivery and reliability.",
+    "emoji": "\ud83d\udce6\u2699\ufe0f\ud83d\udd01\ud83d\udc40",
+    "categories": [
+      "DevOps",
+      "Version Control",
+      "Monitoring",
+      "Cloud",
+      "Automation",
+      "Infrastructure"
+    ],
+    "related": [
+      "travis ci",
+      "artifact repository",
+      "mtls",
+      "argoCD",
+      "datadog"
+    ],
+    "aliases": [
+      "artifact repository",
+      "ARTIFACT REPOSITORY"
+    ],
+    "use_case": "A DevOps engineer uses Artifact Repository to automate builds, monitor deployments, or manage containerized infrastructure securely.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "binary repository": {
+    "eli5": "Binary Repository is like a label, box, or helper robot that helps programmers build, test, ship, and watch over their apps.",
+    "boss": "Binary Repository is part of the DevOps and observability ecosystem, including version control, deployment pipelines, artifact storage, and application performance monitoring.",
+    "sysadmin": "Binary Repository refers to a DevOps practice, CI/CD tool, artifact repository, observability platform, or container orchestration method used to manage software delivery and reliability.",
+    "emoji": "\ud83d\udce6\u2699\ufe0f\ud83d\udd01\ud83d\udc40",
+    "categories": [
+      "DevOps",
+      "Version Control",
+      "Monitoring",
+      "Cloud",
+      "Automation",
+      "Infrastructure"
+    ],
+    "related": [
+      "travis ci",
+      "artifact repository",
+      "mtls",
+      "argoCD",
+      "datadog"
+    ],
+    "aliases": [
+      "binary repository",
+      "BINARY REPOSITORY"
+    ],
+    "use_case": "A DevOps engineer uses Binary Repository to automate builds, monitor deployments, or manage containerized infrastructure securely.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "nexus repository": {
+    "eli5": "Nexus Repository is like a label, box, or helper robot that helps programmers build, test, ship, and watch over their apps.",
+    "boss": "Nexus Repository is part of the DevOps and observability ecosystem, including version control, deployment pipelines, artifact storage, and application performance monitoring.",
+    "sysadmin": "Nexus Repository refers to a DevOps practice, CI/CD tool, artifact repository, observability platform, or container orchestration method used to manage software delivery and reliability.",
+    "emoji": "\ud83d\udce6\u2699\ufe0f\ud83d\udd01\ud83d\udc40",
+    "categories": [
+      "DevOps",
+      "Version Control",
+      "Monitoring",
+      "Cloud",
+      "Automation",
+      "Infrastructure"
+    ],
+    "related": [
+      "travis ci",
+      "artifact repository",
+      "mtls",
+      "argoCD",
+      "datadog"
+    ],
+    "aliases": [
+      "nexus repository",
+      "NEXUS REPOSITORY"
+    ],
+    "use_case": "A DevOps engineer uses Nexus Repository to automate builds, monitor deployments, or manage containerized infrastructure securely.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "jfrog artifactory": {
+    "eli5": "JFrog Artifactory is like a label, box, or helper robot that helps programmers build, test, ship, and watch over their apps.",
+    "boss": "JFrog Artifactory is part of the DevOps and observability ecosystem, including version control, deployment pipelines, artifact storage, and application performance monitoring.",
+    "sysadmin": "JFrog Artifactory refers to a DevOps practice, CI/CD tool, artifact repository, observability platform, or container orchestration method used to manage software delivery and reliability.",
+    "emoji": "\ud83d\udce6\u2699\ufe0f\ud83d\udd01\ud83d\udc40",
+    "categories": [
+      "DevOps",
+      "Version Control",
+      "Monitoring",
+      "Cloud",
+      "Automation",
+      "Infrastructure"
+    ],
+    "related": [
+      "travis ci",
+      "artifact repository",
+      "mtls",
+      "argoCD",
+      "datadog"
+    ],
+    "aliases": [
+      "jfrog artifactory",
+      "JFROG ARTIFACTORY"
+    ],
+    "use_case": "A DevOps engineer uses JFrog Artifactory to automate builds, monitor deployments, or manage containerized infrastructure securely.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "docker registry": {
+    "eli5": "Docker Registry is like a label, box, or helper robot that helps programmers build, test, ship, and watch over their apps.",
+    "boss": "Docker Registry is part of the DevOps and observability ecosystem, including version control, deployment pipelines, artifact storage, and application performance monitoring.",
+    "sysadmin": "Docker Registry refers to a DevOps practice, CI/CD tool, artifact repository, observability platform, or container orchestration method used to manage software delivery and reliability.",
+    "emoji": "\ud83d\udce6\u2699\ufe0f\ud83d\udd01\ud83d\udc40",
+    "categories": [
+      "DevOps",
+      "Version Control",
+      "Monitoring",
+      "Cloud",
+      "Automation",
+      "Infrastructure"
+    ],
+    "related": [
+      "travis ci",
+      "artifact repository",
+      "mtls",
+      "argoCD",
+      "datadog"
+    ],
+    "aliases": [
+      "docker registry",
+      "DOCKER REGISTRY"
+    ],
+    "use_case": "A DevOps engineer uses Docker Registry to automate builds, monitor deployments, or manage containerized infrastructure securely.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "oci registry": {
+    "eli5": "OCI Registry is like a label, box, or helper robot that helps programmers build, test, ship, and watch over their apps.",
+    "boss": "OCI Registry is part of the DevOps and observability ecosystem, including version control, deployment pipelines, artifact storage, and application performance monitoring.",
+    "sysadmin": "OCI Registry refers to a DevOps practice, CI/CD tool, artifact repository, observability platform, or container orchestration method used to manage software delivery and reliability.",
+    "emoji": "\ud83d\udce6\u2699\ufe0f\ud83d\udd01\ud83d\udc40",
+    "categories": [
+      "DevOps",
+      "Version Control",
+      "Monitoring",
+      "Cloud",
+      "Automation",
+      "Infrastructure"
+    ],
+    "related": [
+      "travis ci",
+      "artifact repository",
+      "mtls",
+      "argoCD",
+      "datadog"
+    ],
+    "aliases": [
+      "oci registry",
+      "OCI REGISTRY"
+    ],
+    "use_case": "A DevOps engineer uses OCI Registry to automate builds, monitor deployments, or manage containerized infrastructure securely.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "pulumi": {
+    "eli5": "Pulumi is like a label, box, or helper robot that helps programmers build, test, ship, and watch over their apps.",
+    "boss": "Pulumi is part of the DevOps and observability ecosystem, including version control, deployment pipelines, artifact storage, and application performance monitoring.",
+    "sysadmin": "Pulumi refers to a DevOps practice, CI/CD tool, artifact repository, observability platform, or container orchestration method used to manage software delivery and reliability.",
+    "emoji": "\ud83d\udce6\u2699\ufe0f\ud83d\udd01\ud83d\udc40",
+    "categories": [
+      "DevOps",
+      "Version Control",
+      "Monitoring",
+      "Cloud",
+      "Automation",
+      "Infrastructure"
+    ],
+    "related": [
+      "travis ci",
+      "artifact repository",
+      "mtls",
+      "argoCD",
+      "datadog"
+    ],
+    "aliases": [
+      "pulumi",
+      "PULUMI"
+    ],
+    "use_case": "A DevOps engineer uses Pulumi to automate builds, monitor deployments, or manage containerized infrastructure securely.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "aws cloudformation": {
+    "eli5": "AWS CloudFormation is like a label, box, or helper robot that helps programmers build, test, ship, and watch over their apps.",
+    "boss": "AWS CloudFormation is part of the DevOps and observability ecosystem, including version control, deployment pipelines, artifact storage, and application performance monitoring.",
+    "sysadmin": "AWS CloudFormation refers to a DevOps practice, CI/CD tool, artifact repository, observability platform, or container orchestration method used to manage software delivery and reliability.",
+    "emoji": "\ud83d\udce6\u2699\ufe0f\ud83d\udd01\ud83d\udc40",
+    "categories": [
+      "DevOps",
+      "Version Control",
+      "Monitoring",
+      "Cloud",
+      "Automation",
+      "Infrastructure"
+    ],
+    "related": [
+      "travis ci",
+      "artifact repository",
+      "mtls",
+      "argoCD",
+      "datadog"
+    ],
+    "aliases": [
+      "aws cloudformation",
+      "AWS CLOUDFORMATION"
+    ],
+    "use_case": "A DevOps engineer uses AWS CloudFormation to automate builds, monitor deployments, or manage containerized infrastructure securely.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "declarative configuration": {
+    "eli5": "Declarative Configuration is like a label, box, or helper robot that helps programmers build, test, ship, and watch over their apps.",
+    "boss": "Declarative Configuration is part of the DevOps and observability ecosystem, including version control, deployment pipelines, artifact storage, and application performance monitoring.",
+    "sysadmin": "Declarative Configuration refers to a DevOps practice, CI/CD tool, artifact repository, observability platform, or container orchestration method used to manage software delivery and reliability.",
+    "emoji": "\ud83d\udce6\u2699\ufe0f\ud83d\udd01\ud83d\udc40",
+    "categories": [
+      "DevOps",
+      "Version Control",
+      "Monitoring",
+      "Cloud",
+      "Automation",
+      "Infrastructure"
+    ],
+    "related": [
+      "travis ci",
+      "artifact repository",
+      "mtls",
+      "argoCD",
+      "datadog"
+    ],
+    "aliases": [
+      "declarative configuration",
+      "DECLARATIVE CONFIGURATION"
+    ],
+    "use_case": "A DevOps engineer uses Declarative Configuration to automate builds, monitor deployments, or manage containerized infrastructure securely.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "inventory": {
+    "eli5": "Inventory is like a label, box, or helper robot that helps programmers build, test, ship, and watch over their apps.",
+    "boss": "Inventory is part of the DevOps and observability ecosystem, including version control, deployment pipelines, artifact storage, and application performance monitoring.",
+    "sysadmin": "Inventory refers to a DevOps practice, CI/CD tool, artifact repository, observability platform, or container orchestration method used to manage software delivery and reliability.",
+    "emoji": "\ud83d\udce6\u2699\ufe0f\ud83d\udd01\ud83d\udc40",
+    "categories": [
+      "DevOps",
+      "Version Control",
+      "Monitoring",
+      "Cloud",
+      "Automation",
+      "Infrastructure"
+    ],
+    "related": [
+      "travis ci",
+      "artifact repository",
+      "mtls",
+      "argoCD",
+      "datadog"
+    ],
+    "aliases": [
+      "inventory",
+      "INVENTORY"
+    ],
+    "use_case": "A DevOps engineer uses Inventory to automate builds, monitor deployments, or manage containerized infrastructure securely.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "multi-stage build": {
+    "eli5": "Multi-Stage Build is like a label, box, or helper robot that helps programmers build, test, ship, and watch over their apps.",
+    "boss": "Multi-Stage Build is part of the DevOps and observability ecosystem, including version control, deployment pipelines, artifact storage, and application performance monitoring.",
+    "sysadmin": "Multi-Stage Build refers to a DevOps practice, CI/CD tool, artifact repository, observability platform, or container orchestration method used to manage software delivery and reliability.",
+    "emoji": "\ud83d\udce6\u2699\ufe0f\ud83d\udd01\ud83d\udc40",
+    "categories": [
+      "DevOps",
+      "Version Control",
+      "Monitoring",
+      "Cloud",
+      "Automation",
+      "Infrastructure"
+    ],
+    "related": [
+      "travis ci",
+      "artifact repository",
+      "mtls",
+      "argoCD",
+      "datadog"
+    ],
+    "aliases": [
+      "multi-stage build",
+      "MULTI-STAGE BUILD"
+    ],
+    "use_case": "A DevOps engineer uses Multi-Stage Build to automate builds, monitor deployments, or manage containerized infrastructure securely.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "oci format": {
+    "eli5": "OCI Format is like a label, box, or helper robot that helps programmers build, test, ship, and watch over their apps.",
+    "boss": "OCI Format is part of the DevOps and observability ecosystem, including version control, deployment pipelines, artifact storage, and application performance monitoring.",
+    "sysadmin": "OCI Format refers to a DevOps practice, CI/CD tool, artifact repository, observability platform, or container orchestration method used to manage software delivery and reliability.",
+    "emoji": "\ud83d\udce6\u2699\ufe0f\ud83d\udd01\ud83d\udc40",
+    "categories": [
+      "DevOps",
+      "Version Control",
+      "Monitoring",
+      "Cloud",
+      "Automation",
+      "Infrastructure"
+    ],
+    "related": [
+      "travis ci",
+      "artifact repository",
+      "mtls",
+      "argoCD",
+      "datadog"
+    ],
+    "aliases": [
+      "oci format",
+      "OCI FORMAT"
+    ],
+    "use_case": "A DevOps engineer uses OCI Format to automate builds, monitor deployments, or manage containerized infrastructure securely.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "container orchestration": {
+    "eli5": "Container Orchestration is like a label, box, or helper robot that helps programmers build, test, ship, and watch over their apps.",
+    "boss": "Container Orchestration is part of the DevOps and observability ecosystem, including version control, deployment pipelines, artifact storage, and application performance monitoring.",
+    "sysadmin": "Container Orchestration refers to a DevOps practice, CI/CD tool, artifact repository, observability platform, or container orchestration method used to manage software delivery and reliability.",
+    "emoji": "\ud83d\udce6\u2699\ufe0f\ud83d\udd01\ud83d\udc40",
+    "categories": [
+      "DevOps",
+      "Version Control",
+      "Monitoring",
+      "Cloud",
+      "Automation",
+      "Infrastructure"
+    ],
+    "related": [
+      "travis ci",
+      "artifact repository",
+      "mtls",
+      "argoCD",
+      "datadog"
+    ],
+    "aliases": [
+      "container orchestration",
+      "CONTAINER ORCHESTRATION"
+    ],
+    "use_case": "A DevOps engineer uses Container Orchestration to automate builds, monitor deployments, or manage containerized infrastructure securely.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "job": {
+    "eli5": "Job is like a label, box, or helper robot that helps programmers build, test, ship, and watch over their apps.",
+    "boss": "Job is part of the DevOps and observability ecosystem, including version control, deployment pipelines, artifact storage, and application performance monitoring.",
+    "sysadmin": "Job refers to a DevOps practice, CI/CD tool, artifact repository, observability platform, or container orchestration method used to manage software delivery and reliability.",
+    "emoji": "\ud83d\udce6\u2699\ufe0f\ud83d\udd01\ud83d\udc40",
+    "categories": [
+      "DevOps",
+      "Version Control",
+      "Monitoring",
+      "Cloud",
+      "Automation",
+      "Infrastructure"
+    ],
+    "related": [
+      "travis ci",
+      "artifact repository",
+      "mtls",
+      "argoCD",
+      "datadog"
+    ],
+    "aliases": [
+      "job",
+      "JOB"
+    ],
+    "use_case": "A DevOps engineer uses Job to automate builds, monitor deployments, or manage containerized infrastructure securely.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "init container": {
+    "eli5": "Init Container is like a label, box, or helper robot that helps programmers build, test, ship, and watch over their apps.",
+    "boss": "Init Container is part of the DevOps and observability ecosystem, including version control, deployment pipelines, artifact storage, and application performance monitoring.",
+    "sysadmin": "Init Container refers to a DevOps practice, CI/CD tool, artifact repository, observability platform, or container orchestration method used to manage software delivery and reliability.",
+    "emoji": "\ud83d\udce6\u2699\ufe0f\ud83d\udd01\ud83d\udc40",
+    "categories": [
+      "DevOps",
+      "Version Control",
+      "Monitoring",
+      "Cloud",
+      "Automation",
+      "Infrastructure"
+    ],
+    "related": [
+      "travis ci",
+      "artifact repository",
+      "mtls",
+      "argoCD",
+      "datadog"
+    ],
+    "aliases": [
+      "init container",
+      "INIT CONTAINER"
+    ],
+    "use_case": "A DevOps engineer uses Init Container to automate builds, monitor deployments, or manage containerized infrastructure securely.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "sidecar container": {
+    "eli5": "Sidecar Container is like a label, box, or helper robot that helps programmers build, test, ship, and watch over their apps.",
+    "boss": "Sidecar Container is part of the DevOps and observability ecosystem, including version control, deployment pipelines, artifact storage, and application performance monitoring.",
+    "sysadmin": "Sidecar Container refers to a DevOps practice, CI/CD tool, artifact repository, observability platform, or container orchestration method used to manage software delivery and reliability.",
+    "emoji": "\ud83d\udce6\u2699\ufe0f\ud83d\udd01\ud83d\udc40",
+    "categories": [
+      "DevOps",
+      "Version Control",
+      "Monitoring",
+      "Cloud",
+      "Automation",
+      "Infrastructure"
+    ],
+    "related": [
+      "travis ci",
+      "artifact repository",
+      "mtls",
+      "argoCD",
+      "datadog"
+    ],
+    "aliases": [
+      "sidecar container",
+      "SIDECAR CONTAINER"
+    ],
+    "use_case": "A DevOps engineer uses Sidecar Container to automate builds, monitor deployments, or manage containerized infrastructure securely.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "service mesh": {
+    "eli5": "Service Mesh is like a label, box, or helper robot that helps programmers build, test, ship, and watch over their apps.",
+    "boss": "Service Mesh is part of the DevOps and observability ecosystem, including version control, deployment pipelines, artifact storage, and application performance monitoring.",
+    "sysadmin": "Service Mesh refers to a DevOps practice, CI/CD tool, artifact repository, observability platform, or container orchestration method used to manage software delivery and reliability.",
+    "emoji": "\ud83d\udce6\u2699\ufe0f\ud83d\udd01\ud83d\udc40",
+    "categories": [
+      "DevOps",
+      "Version Control",
+      "Monitoring",
+      "Cloud",
+      "Automation",
+      "Infrastructure"
+    ],
+    "related": [
+      "travis ci",
+      "artifact repository",
+      "mtls",
+      "argoCD",
+      "datadog"
+    ],
+    "aliases": [
+      "service mesh",
+      "SERVICE MESH"
+    ],
+    "use_case": "A DevOps engineer uses Service Mesh to automate builds, monitor deployments, or manage containerized infrastructure securely.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "consul": {
+    "eli5": "Consul is like a label, box, or helper robot that helps programmers build, test, ship, and watch over their apps.",
+    "boss": "Consul is part of the DevOps and observability ecosystem, including version control, deployment pipelines, artifact storage, and application performance monitoring.",
+    "sysadmin": "Consul refers to a DevOps practice, CI/CD tool, artifact repository, observability platform, or container orchestration method used to manage software delivery and reliability.",
+    "emoji": "\ud83d\udce6\u2699\ufe0f\ud83d\udd01\ud83d\udc40",
+    "categories": [
+      "DevOps",
+      "Version Control",
+      "Monitoring",
+      "Cloud",
+      "Automation",
+      "Infrastructure"
+    ],
+    "related": [
+      "travis ci",
+      "artifact repository",
+      "mtls",
+      "argoCD",
+      "datadog"
+    ],
+    "aliases": [
+      "consul",
+      "CONSUL"
+    ],
+    "use_case": "A DevOps engineer uses Consul to automate builds, monitor deployments, or manage containerized infrastructure securely.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "envoy proxy": {
+    "eli5": "Envoy Proxy is like a label, box, or helper robot that helps programmers build, test, ship, and watch over their apps.",
+    "boss": "Envoy Proxy is part of the DevOps and observability ecosystem, including version control, deployment pipelines, artifact storage, and application performance monitoring.",
+    "sysadmin": "Envoy Proxy refers to a DevOps practice, CI/CD tool, artifact repository, observability platform, or container orchestration method used to manage software delivery and reliability.",
+    "emoji": "\ud83d\udce6\u2699\ufe0f\ud83d\udd01\ud83d\udc40",
+    "categories": [
+      "DevOps",
+      "Version Control",
+      "Monitoring",
+      "Cloud",
+      "Automation",
+      "Infrastructure"
+    ],
+    "related": [
+      "travis ci",
+      "artifact repository",
+      "mtls",
+      "argoCD",
+      "datadog"
+    ],
+    "aliases": [
+      "envoy proxy",
+      "ENVOY PROXY"
+    ],
+    "use_case": "A DevOps engineer uses Envoy Proxy to automate builds, monitor deployments, or manage containerized infrastructure securely.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "mutual tls (mtls)": {
+    "eli5": "Mutual TLS (mTLS) is like a label, box, or helper robot that helps programmers build, test, ship, and watch over their apps.",
+    "boss": "Mutual TLS (mTLS) is part of the DevOps and observability ecosystem, including version control, deployment pipelines, artifact storage, and application performance monitoring.",
+    "sysadmin": "Mutual TLS (mTLS) refers to a DevOps practice, CI/CD tool, artifact repository, observability platform, or container orchestration method used to manage software delivery and reliability.",
+    "emoji": "\ud83d\udce6\u2699\ufe0f\ud83d\udd01\ud83d\udc40",
+    "categories": [
+      "DevOps",
+      "Version Control",
+      "Monitoring",
+      "Cloud",
+      "Automation",
+      "Infrastructure"
+    ],
+    "related": [
+      "travis ci",
+      "artifact repository",
+      "mtls",
+      "argoCD",
+      "datadog"
+    ],
+    "aliases": [
+      "mutual tls (mtls)",
+      "MUTUAL TLS (MTLS)"
+    ],
+    "use_case": "A DevOps engineer uses Mutual TLS (mTLS) to automate builds, monitor deployments, or manage containerized infrastructure securely.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "ingress gateway": {
+    "eli5": "Ingress Gateway is like a label, box, or helper robot that helps programmers build, test, ship, and watch over their apps.",
+    "boss": "Ingress Gateway is part of the DevOps and observability ecosystem, including version control, deployment pipelines, artifact storage, and application performance monitoring.",
+    "sysadmin": "Ingress Gateway refers to a DevOps practice, CI/CD tool, artifact repository, observability platform, or container orchestration method used to manage software delivery and reliability.",
+    "emoji": "\ud83d\udce6\u2699\ufe0f\ud83d\udd01\ud83d\udc40",
+    "categories": [
+      "DevOps",
+      "Version Control",
+      "Monitoring",
+      "Cloud",
+      "Automation",
+      "Infrastructure"
+    ],
+    "related": [
+      "travis ci",
+      "artifact repository",
+      "mtls",
+      "argoCD",
+      "datadog"
+    ],
+    "aliases": [
+      "ingress gateway",
+      "INGRESS GATEWAY"
+    ],
+    "use_case": "A DevOps engineer uses Ingress Gateway to automate builds, monitor deployments, or manage containerized infrastructure securely.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "observability": {
+    "eli5": "Observability is like a label, box, or helper robot that helps programmers build, test, ship, and watch over their apps.",
+    "boss": "Observability is part of the DevOps and observability ecosystem, including version control, deployment pipelines, artifact storage, and application performance monitoring.",
+    "sysadmin": "Observability refers to a DevOps practice, CI/CD tool, artifact repository, observability platform, or container orchestration method used to manage software delivery and reliability.",
+    "emoji": "\ud83d\udce6\u2699\ufe0f\ud83d\udd01\ud83d\udc40",
+    "categories": [
+      "DevOps",
+      "Version Control",
+      "Monitoring",
+      "Cloud",
+      "Automation",
+      "Infrastructure"
+    ],
+    "related": [
+      "travis ci",
+      "artifact repository",
+      "mtls",
+      "argoCD",
+      "datadog"
+    ],
+    "aliases": [
+      "observability",
+      "OBSERVABILITY"
+    ],
+    "use_case": "A DevOps engineer uses Observability to automate builds, monitor deployments, or manage containerized infrastructure securely.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "traffic shaping": {
+    "eli5": "Traffic Shaping is like a label, box, or helper robot that helps programmers build, test, ship, and watch over their apps.",
+    "boss": "Traffic Shaping is part of the DevOps and observability ecosystem, including version control, deployment pipelines, artifact storage, and application performance monitoring.",
+    "sysadmin": "Traffic Shaping refers to a DevOps practice, CI/CD tool, artifact repository, observability platform, or container orchestration method used to manage software delivery and reliability.",
+    "emoji": "\ud83d\udce6\u2699\ufe0f\ud83d\udd01\ud83d\udc40",
+    "categories": [
+      "DevOps",
+      "Version Control",
+      "Monitoring",
+      "Cloud",
+      "Automation",
+      "Infrastructure"
+    ],
+    "related": [
+      "travis ci",
+      "artifact repository",
+      "mtls",
+      "argoCD",
+      "datadog"
+    ],
+    "aliases": [
+      "traffic shaping",
+      "TRAFFIC SHAPING"
+    ],
+    "use_case": "A DevOps engineer uses Traffic Shaping to automate builds, monitor deployments, or manage containerized infrastructure securely.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "thanos": {
+    "eli5": "Thanos is like a label, box, or helper robot that helps programmers build, test, ship, and watch over their apps.",
+    "boss": "Thanos is part of the DevOps and observability ecosystem, including version control, deployment pipelines, artifact storage, and application performance monitoring.",
+    "sysadmin": "Thanos refers to a DevOps practice, CI/CD tool, artifact repository, observability platform, or container orchestration method used to manage software delivery and reliability.",
+    "emoji": "\ud83d\udce6\u2699\ufe0f\ud83d\udd01\ud83d\udc40",
+    "categories": [
+      "DevOps",
+      "Version Control",
+      "Monitoring",
+      "Cloud",
+      "Automation",
+      "Infrastructure"
+    ],
+    "related": [
+      "travis ci",
+      "artifact repository",
+      "mtls",
+      "argoCD",
+      "datadog"
+    ],
+    "aliases": [
+      "thanos",
+      "THANOS"
+    ],
+    "use_case": "A DevOps engineer uses Thanos to automate builds, monitor deployments, or manage containerized infrastructure securely.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "victoriametrics": {
+    "eli5": "VictoriaMetrics is like a label, box, or helper robot that helps programmers build, test, ship, and watch over their apps.",
+    "boss": "VictoriaMetrics is part of the DevOps and observability ecosystem, including version control, deployment pipelines, artifact storage, and application performance monitoring.",
+    "sysadmin": "VictoriaMetrics refers to a DevOps practice, CI/CD tool, artifact repository, observability platform, or container orchestration method used to manage software delivery and reliability.",
+    "emoji": "\ud83d\udce6\u2699\ufe0f\ud83d\udd01\ud83d\udc40",
+    "categories": [
+      "DevOps",
+      "Version Control",
+      "Monitoring",
+      "Cloud",
+      "Automation",
+      "Infrastructure"
+    ],
+    "related": [
+      "travis ci",
+      "artifact repository",
+      "mtls",
+      "argoCD",
+      "datadog"
+    ],
+    "aliases": [
+      "victoriametrics",
+      "VICTORIAMETRICS"
+    ],
+    "use_case": "A DevOps engineer uses VictoriaMetrics to automate builds, monitor deployments, or manage containerized infrastructure securely.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "jaeger": {
+    "eli5": "Jaeger is like a label, box, or helper robot that helps programmers build, test, ship, and watch over their apps.",
+    "boss": "Jaeger is part of the DevOps and observability ecosystem, including version control, deployment pipelines, artifact storage, and application performance monitoring.",
+    "sysadmin": "Jaeger refers to a DevOps practice, CI/CD tool, artifact repository, observability platform, or container orchestration method used to manage software delivery and reliability.",
+    "emoji": "\ud83d\udce6\u2699\ufe0f\ud83d\udd01\ud83d\udc40",
+    "categories": [
+      "DevOps",
+      "Version Control",
+      "Monitoring",
+      "Cloud",
+      "Automation",
+      "Infrastructure"
+    ],
+    "related": [
+      "travis ci",
+      "artifact repository",
+      "mtls",
+      "argoCD",
+      "datadog"
+    ],
+    "aliases": [
+      "jaeger",
+      "JAEGER"
+    ],
+    "use_case": "A DevOps engineer uses Jaeger to automate builds, monitor deployments, or manage containerized infrastructure securely.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "honeycomb": {
+    "eli5": "Honeycomb is like a label, box, or helper robot that helps programmers build, test, ship, and watch over their apps.",
+    "boss": "Honeycomb is part of the DevOps and observability ecosystem, including version control, deployment pipelines, artifact storage, and application performance monitoring.",
+    "sysadmin": "Honeycomb refers to a DevOps practice, CI/CD tool, artifact repository, observability platform, or container orchestration method used to manage software delivery and reliability.",
+    "emoji": "\ud83d\udce6\u2699\ufe0f\ud83d\udd01\ud83d\udc40",
+    "categories": [
+      "DevOps",
+      "Version Control",
+      "Monitoring",
+      "Cloud",
+      "Automation",
+      "Infrastructure"
+    ],
+    "related": [
+      "travis ci",
+      "artifact repository",
+      "mtls",
+      "argoCD",
+      "datadog"
+    ],
+    "aliases": [
+      "honeycomb",
+      "HONEYCOMB"
+    ],
+    "use_case": "A DevOps engineer uses Honeycomb to automate builds, monitor deployments, or manage containerized infrastructure securely.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "new relic": {
+    "eli5": "New Relic is like a label, box, or helper robot that helps programmers build, test, ship, and watch over their apps.",
+    "boss": "New Relic is part of the DevOps and observability ecosystem, including version control, deployment pipelines, artifact storage, and application performance monitoring.",
+    "sysadmin": "New Relic refers to a DevOps practice, CI/CD tool, artifact repository, observability platform, or container orchestration method used to manage software delivery and reliability.",
+    "emoji": "\ud83d\udce6\u2699\ufe0f\ud83d\udd01\ud83d\udc40",
+    "categories": [
+      "DevOps",
+      "Version Control",
+      "Monitoring",
+      "Cloud",
+      "Automation",
+      "Infrastructure"
+    ],
+    "related": [
+      "travis ci",
+      "artifact repository",
+      "mtls",
+      "argoCD",
+      "datadog"
+    ],
+    "aliases": [
+      "new relic",
+      "NEW RELIC"
+    ],
+    "use_case": "A DevOps engineer uses New Relic to automate builds, monitor deployments, or manage containerized infrastructure securely.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "datadog": {
+    "eli5": "Datadog is like a label, box, or helper robot that helps programmers build, test, ship, and watch over their apps.",
+    "boss": "Datadog is part of the DevOps and observability ecosystem, including version control, deployment pipelines, artifact storage, and application performance monitoring.",
+    "sysadmin": "Datadog refers to a DevOps practice, CI/CD tool, artifact repository, observability platform, or container orchestration method used to manage software delivery and reliability.",
+    "emoji": "\ud83d\udce6\u2699\ufe0f\ud83d\udd01\ud83d\udc40",
+    "categories": [
+      "DevOps",
+      "Version Control",
+      "Monitoring",
+      "Cloud",
+      "Automation",
+      "Infrastructure"
+    ],
+    "related": [
+      "travis ci",
+      "artifact repository",
+      "mtls",
+      "argoCD",
+      "datadog"
+    ],
+    "aliases": [
+      "datadog",
+      "DATADOG"
+    ],
+    "use_case": "A DevOps engineer uses Datadog to automate builds, monitor deployments, or manage containerized infrastructure securely.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "appdynamics": {
+    "eli5": "AppDynamics is like a label, box, or helper robot that helps programmers build, test, ship, and watch over their apps.",
+    "boss": "AppDynamics is part of the DevOps and observability ecosystem, including version control, deployment pipelines, artifact storage, and application performance monitoring.",
+    "sysadmin": "AppDynamics refers to a DevOps practice, CI/CD tool, artifact repository, observability platform, or container orchestration method used to manage software delivery and reliability.",
+    "emoji": "\ud83d\udce6\u2699\ufe0f\ud83d\udd01\ud83d\udc40",
+    "categories": [
+      "DevOps",
+      "Version Control",
+      "Monitoring",
+      "Cloud",
+      "Automation",
+      "Infrastructure"
+    ],
+    "related": [
+      "travis ci",
+      "artifact repository",
+      "mtls",
+      "argoCD",
+      "datadog"
+    ],
+    "aliases": [
+      "appdynamics",
+      "APPDYNAMICS"
+    ],
+    "use_case": "A DevOps engineer uses AppDynamics to automate builds, monitor deployments, or manage containerized infrastructure securely.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "dynatrace": {
+    "eli5": "Dynatrace is like a label, box, or helper robot that helps programmers build, test, ship, and watch over their apps.",
+    "boss": "Dynatrace is part of the DevOps and observability ecosystem, including version control, deployment pipelines, artifact storage, and application performance monitoring.",
+    "sysadmin": "Dynatrace refers to a DevOps practice, CI/CD tool, artifact repository, observability platform, or container orchestration method used to manage software delivery and reliability.",
+    "emoji": "\ud83d\udce6\u2699\ufe0f\ud83d\udd01\ud83d\udc40",
+    "categories": [
+      "DevOps",
+      "Version Control",
+      "Monitoring",
+      "Cloud",
+      "Automation",
+      "Infrastructure"
+    ],
+    "related": [
+      "travis ci",
+      "artifact repository",
+      "mtls",
+      "argoCD",
+      "datadog"
+    ],
+    "aliases": [
+      "dynatrace",
+      "DYNATRACE"
+    ],
+    "use_case": "A DevOps engineer uses Dynatrace to automate builds, monitor deployments, or manage containerized infrastructure securely.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "log aggregation": {
+    "eli5": "Log Aggregation is like a label, box, or helper robot that helps programmers build, test, ship, and watch over their apps.",
+    "boss": "Log Aggregation is part of the DevOps and observability ecosystem, including version control, deployment pipelines, artifact storage, and application performance monitoring.",
+    "sysadmin": "Log Aggregation refers to a DevOps practice, CI/CD tool, artifact repository, observability platform, or container orchestration method used to manage software delivery and reliability.",
+    "emoji": "\ud83d\udce6\u2699\ufe0f\ud83d\udd01\ud83d\udc40",
+    "categories": [
+      "DevOps",
+      "Version Control",
+      "Monitoring",
+      "Cloud",
+      "Automation",
+      "Infrastructure"
+    ],
+    "related": [
+      "travis ci",
+      "artifact repository",
+      "mtls",
+      "argoCD",
+      "datadog"
+    ],
+    "aliases": [
+      "log aggregation",
+      "LOG AGGREGATION"
+    ],
+    "use_case": "A DevOps engineer uses Log Aggregation to automate builds, monitor deployments, or manage containerized infrastructure securely.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "traces": {
+    "eli5": "Traces is like a label, box, or helper robot that helps programmers build, test, ship, and watch over their apps.",
+    "boss": "Traces is part of the DevOps and observability ecosystem, including version control, deployment pipelines, artifact storage, and application performance monitoring.",
+    "sysadmin": "Traces refers to a DevOps practice, CI/CD tool, artifact repository, observability platform, or container orchestration method used to manage software delivery and reliability.",
+    "emoji": "\ud83d\udce6\u2699\ufe0f\ud83d\udd01\ud83d\udc40",
+    "categories": [
+      "DevOps",
+      "Version Control",
+      "Monitoring",
+      "Cloud",
+      "Automation",
+      "Infrastructure"
+    ],
+    "related": [
+      "travis ci",
+      "artifact repository",
+      "mtls",
+      "argoCD",
+      "datadog"
+    ],
+    "aliases": [
+      "traces",
+      "TRACES"
+    ],
+    "use_case": "A DevOps engineer uses Traces to automate builds, monitor deployments, or manage containerized infrastructure securely.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "spans": {
+    "eli5": "Spans is like a label, box, or helper robot that helps programmers build, test, ship, and watch over their apps.",
+    "boss": "Spans is part of the DevOps and observability ecosystem, including version control, deployment pipelines, artifact storage, and application performance monitoring.",
+    "sysadmin": "Spans refers to a DevOps practice, CI/CD tool, artifact repository, observability platform, or container orchestration method used to manage software delivery and reliability.",
+    "emoji": "\ud83d\udce6\u2699\ufe0f\ud83d\udd01\ud83d\udc40",
+    "categories": [
+      "DevOps",
+      "Version Control",
+      "Monitoring",
+      "Cloud",
+      "Automation",
+      "Infrastructure"
+    ],
+    "related": [
+      "travis ci",
+      "artifact repository",
+      "mtls",
+      "argoCD",
+      "datadog"
+    ],
+    "aliases": [
+      "spans",
+      "SPANS"
+    ],
+    "use_case": "A DevOps engineer uses Spans to automate builds, monitor deployments, or manage containerized infrastructure securely.",
+    "jargon_score": 5,
+    "level": "Expert"
+  }
+}

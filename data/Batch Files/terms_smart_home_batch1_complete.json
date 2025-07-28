@@ -1,0 +1,1208 @@
+{
+  "homeassistant": {
+    "eli5": "Imagine a super smart butler that connects all your gadgets and follows your rules\u2014like turning on lights when you get home.",
+    "boss": "Home Assistant is an open-source smart home platform that allows users to automate, monitor, and control devices locally without relying on the cloud.",
+    "sysadmin": "Home Assistant is a Python-based, extensible smart home automation platform with support for MQTT, REST, WebSockets, and hundreds of integrations, typically deployed on Raspberry Pi, Docker, or VM.",
+    "emoji": "\ud83c\udfe0\ud83e\udd16\ud83d\udca1",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Open Source",
+      "Automation"
+    ],
+    "related": [
+      "Hubitat",
+      "SmartThings",
+      "Node-RED",
+      "MQTT",
+      "ESPHome"
+    ],
+    "aliases": [
+      "HA",
+      "home assistant"
+    ],
+    "use_case": "Used to automate smart lighting, HVAC, and security systems with privacy-focused local control.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "hubitat": {
+    "eli5": "Think of Hubitat like a brain for your smart home that works even when the internet is down.",
+    "boss": "Hubitat is a local-first smart home hub that focuses on automation reliability and privacy by operating without constant cloud dependency.",
+    "sysadmin": "Hubitat Elevation is a Java-based automation hub that supports Zigbee, Z-Wave, and LAN integrations with rule logic handled locally via Groovy-based apps.",
+    "emoji": "\ud83e\udde0\ud83c\udfe0\ud83d\udd0c",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Automation",
+      "Open Source"
+    ],
+    "related": [
+      "Home Assistant",
+      "SmartThings",
+      "Zigbee",
+      "Z-Wave"
+    ],
+    "aliases": [
+      "Hubitat Elevation"
+    ],
+    "use_case": "Used to run automation like motion-based lighting with 100% local processing.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "smartthings": {
+    "eli5": "SmartThings is like a remote control for all your smart gadgets\u2014on your phone.",
+    "boss": "SmartThings is Samsung's cloud-based smart home platform for connecting, monitoring, and automating devices via a central app.",
+    "sysadmin": "SmartThings offers a cloud-centric ecosystem with device integration through its API, supporting Zigbee, Z-Wave, and Wi-Fi devices, with automation logic defined via SmartApps or Routines.",
+    "emoji": "\ud83d\udcf1\ud83c\udfe1\ud83d\udce1",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Automation"
+    ],
+    "related": [
+      "Hubitat",
+      "Home Assistant",
+      "Samsung",
+      "Zigbee"
+    ],
+    "aliases": [
+      "Samsung SmartThings"
+    ],
+    "use_case": "Used to control smart bulbs, thermostats, and door locks from a single mobile app.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "applehomekit": {
+    "eli5": "HomeKit is like Apple\u2019s own magic wand to control your smart home using Siri.",
+    "boss": "Apple HomeKit is a secure smart home platform that allows users to control and automate devices through the Apple ecosystem.",
+    "sysadmin": "HomeKit is Apple's framework for home automation, using the HAP protocol over local networks, with strict device certification requirements and support for Siri voice control.",
+    "emoji": "\ud83c\udf4e\ud83c\udfe1\ud83d\udde3\ufe0f",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Apple Ecosystem",
+      "Privacy"
+    ],
+    "related": [
+      "Homebridge",
+      "Matter",
+      "Thread",
+      "Siri"
+    ],
+    "aliases": [
+      "HomeKit",
+      "Apple Home",
+      "Apple HomeKit"
+    ],
+    "use_case": "Used to set up scenes like 'Good Night' to turn off lights and lock doors using Siri.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "googlehome": {
+    "eli5": "Google Home is like a talking helper that listens and controls your smart home when you ask it.",
+    "boss": "Google Home is a voice-controlled smart home platform integrated with Google Assistant, enabling control and automation of smart devices via voice and app.",
+    "sysadmin": "Google Home leverages Google Assistant\u2019s AI and cloud APIs to integrate with smart devices over Wi-Fi, providing automation via routines and voice commands.",
+    "emoji": "\ud83c\udfa4\ud83c\udfe1\ud83e\udde0",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Automation"
+    ],
+    "related": [
+      "Google Assistant",
+      "Nest",
+      "Matter",
+      "Wi-Fi"
+    ],
+    "aliases": [
+      "Google Assistant",
+      "Nest Hub",
+      "Google Nest"
+    ],
+    "use_case": "Used to say 'Hey Google, turn on the lights' and have your smart bulbs respond.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "amazonalexa": {
+    "eli5": "Alexa is like a genie in a speaker that listens and helps with things like lights and music.",
+    "boss": "Amazon Alexa is a voice-controlled virtual assistant that integrates with smart home devices for hands-free control and automation.",
+    "sysadmin": "Alexa is Amazon\u2019s cloud-based voice assistant platform, providing device control via Alexa Skills API, smart home endpoints, and Routines.",
+    "emoji": "\ud83d\udde3\ufe0f\ud83d\udce6\ud83c\udfe1",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Automation"
+    ],
+    "related": [
+      "Google Home",
+      "Apple HomeKit",
+      "IFTTT",
+      "Echo"
+    ],
+    "aliases": [
+      "Alexa",
+      "Amazon Echo"
+    ],
+    "use_case": "Used to create routines like turning on the lights and reading the weather when you say 'Good morning.'",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "matter": {
+    "eli5": "Matter is like a common language that helps smart devices from different brands talk to each other.",
+    "boss": "Matter is a new industry-wide smart home standard aimed at improving compatibility, reliability, and security across ecosystems.",
+    "sysadmin": "Matter is an IP-based application layer protocol built on IPv6 and Bluetooth LE, designed to unify device interoperability over Thread, Ethernet, and Wi-Fi.",
+    "emoji": "\ud83e\udde9\ud83c\udf10\ud83d\udd17",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Protocols"
+    ],
+    "related": [
+      "Thread",
+      "Zigbee",
+      "HomeKit",
+      "Google Home"
+    ],
+    "aliases": [
+      "Project CHIP"
+    ],
+    "use_case": "Used to connect a smart bulb that works with Apple, Google, and Alexa out of the box.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "thread": {
+    "eli5": "Thread is like a whisper network where smart devices quietly talk to each other without needing the internet.",
+    "boss": "Thread is a wireless mesh protocol designed for secure, low-power smart home device communication.",
+    "sysadmin": "Thread is an IPv6-based mesh networking protocol using 802.15.4 radios, designed for low-latency, secure, and self-healing smart home networks.",
+    "emoji": "\ud83e\uddf5\ud83d\udcf6\ud83c\udf10",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Networking",
+      "Protocols"
+    ],
+    "related": [
+      "Matter",
+      "Zigbee",
+      "LoRa",
+      "Bluetooth LE"
+    ],
+    "aliases": [
+      "Thread Network"
+    ],
+    "use_case": "Used to keep motion sensors connected and responsive even if Wi-Fi goes down.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "zigbee": {
+    "eli5": "Zigbee is like a secret club where smart devices pass notes to each other through the air.",
+    "boss": "Zigbee is a wireless mesh protocol used for low-power smart home communication between devices like lights and sensors.",
+    "sysadmin": "Zigbee operates on IEEE 802.15.4 in the 2.4GHz band, forming a low-power, self-healing mesh network ideal for smart home automation.",
+    "emoji": "\ud83d\udce1\ud83d\udc1d\ud83c\udfe0",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Protocols",
+      "Networking"
+    ],
+    "related": [
+      "Z-Wave",
+      "Thread",
+      "Hubitat",
+      "Philips Hue"
+    ],
+    "aliases": [
+      "ZigBee",
+      "zigbee"
+    ],
+    "use_case": "Used to connect smart plugs and bulbs that can still talk to each other if the hub goes offline.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "zwave": {
+    "eli5": "Z-Wave is like walkie-talkies for your smart home devices\u2014talking in their own quiet way.",
+    "boss": "Z-Wave is a wireless communication protocol for smart home devices, focused on low power usage and reliability.",
+    "sysadmin": "Z-Wave is a sub-GHz mesh protocol (around 800\u2013900 MHz), offering interoperability between certified devices, with routing handled by the controller.",
+    "emoji": "\ud83d\udcf6\ud83d\udcfb\ud83d\udd01",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Protocols",
+      "Networking"
+    ],
+    "related": [
+      "Zigbee",
+      "Thread",
+      "Hubitat",
+      "Insteon"
+    ],
+    "aliases": [
+      "Z-Wave",
+      "zwave"
+    ],
+    "use_case": "Used for connecting door locks, thermostats, and sensors with long battery life and local control.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "bluetoothlowenergyble": {
+    "eli5": "It's like a tiny walkie-talkie in your phone or gadget that sips battery and talks short distances.",
+    "boss": "Bluetooth Low Energy (BLE) is a power-efficient wireless protocol for short-range communication, used in smart home sensors and wearables.",
+    "sysadmin": "BLE is a wireless personal area network technology built into Bluetooth 4.0+ using GATT profiles and operating in the 2.4GHz ISM band, optimized for periodic data transmission.",
+    "emoji": "\ud83d\udd0b\ud83d\udcf6\ud83d\udcf1",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Protocols",
+      "Networking"
+    ],
+    "related": [
+      "Thread",
+      "Zigbee",
+      "Wi-Fi",
+      "NFC"
+    ],
+    "aliases": [
+      "BLE",
+      "Bluetooth LE",
+      "Bluetooth Low Energy"
+    ],
+    "use_case": "Used in smart locks to let your phone unlock the door when you're nearby.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "wifi": {
+    "eli5": "Wi-Fi is like invisible internet strings that connect your phone, TV, and smart gadgets to the web.",
+    "boss": "Wi-Fi is the most common wireless networking standard for connecting smart devices to the internet and local networks.",
+    "sysadmin": "Wi-Fi operates on IEEE 802.11 standards across 2.4GHz, 5GHz, and 6GHz bands, with common use in IoT for cloud communication and high-bandwidth device access.",
+    "emoji": "\ud83d\udce1\ud83d\udcf6\ud83c\udf10",
+    "categories": [
+      "Smart Home",
+      "Networking",
+      "IoT"
+    ],
+    "related": [
+      "BLE",
+      "Ethernet",
+      "Zigbee",
+      "Thread"
+    ],
+    "aliases": [
+      "WiFi",
+      "wifi",
+      "802.11"
+    ],
+    "use_case": "Used by smart cameras to stream video feeds to your phone over the internet.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "lora": {
+    "eli5": "LoRa is like a super loud whisper\u2014it goes really far but doesn't say much.",
+    "boss": "LoRa is a long-range, low-power wireless protocol used for wide-area IoT communications with low data rates.",
+    "sysadmin": "LoRa (Long Range) uses sub-GHz ISM bands with Chirp Spread Spectrum modulation, ideal for low-bandwidth, long-distance communication in smart agriculture and sensors.",
+    "emoji": "\ud83d\udce1\ud83c\udf04\ud83d\udef0\ufe0f",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Protocols",
+      "Networking"
+    ],
+    "related": [
+      "LoRaWAN",
+      "Zigbee",
+      "Thread",
+      "BLE"
+    ],
+    "aliases": [
+      "LoRa",
+      "LoRaWAN"
+    ],
+    "use_case": "Used to monitor moisture levels in soil from sensors placed acres apart.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "infraredirblaster": {
+    "eli5": "It's like a TV remote glued to your wall that can push the buttons for you.",
+    "boss": "IR Blasters allow smart systems to control traditional devices like TVs and AC units by mimicking infrared remote signals.",
+    "sysadmin": "IR (Infrared) blasters emit modulated IR signals matching remote control protocols, enabling integration of legacy IR-only devices into smart home systems.",
+    "emoji": "\ud83d\udcfa\ud83d\udce1\ud83d\udd79\ufe0f",
+    "categories": [
+      "Smart Home",
+      "IoT"
+    ],
+    "related": [
+      "RF",
+      "SwitchBot",
+      "Remote Control",
+      "Tuya"
+    ],
+    "aliases": [
+      "IR Blaster",
+      "Infrared",
+      "IR"
+    ],
+    "use_case": "Used to control an older air conditioner through a smart assistant.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "rfradiofrequency": {
+    "eli5": "RF is like a walkie-talkie signal that lets smart gadgets talk wirelessly.",
+    "boss": "Radio Frequency (RF) is used in many wireless smart home devices for basic control, often without needing Wi-Fi.",
+    "sysadmin": "RF in smart homes often refers to 315MHz or 433MHz signals used for simple on/off remote control systems and garage doors, without a standard protocol.",
+    "emoji": "\ud83d\udcfb\ud83d\udcf6\ud83d\udce1",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Protocols"
+    ],
+    "related": [
+      "IR",
+      "433MHz",
+      "Z-Wave",
+      "RFID"
+    ],
+    "aliases": [
+      "RF",
+      "Radio Frequency"
+    ],
+    "use_case": "Used to wirelessly control motorized blinds or RF outlets.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "nfc": {
+    "eli5": "NFC is like a magic sticker that tells your phone what to do when it gets close.",
+    "boss": "Near Field Communication (NFC) enables short-range wireless communication for actions like tap-to-activate or identify.",
+    "sysadmin": "NFC operates at 13.56 MHz and supports peer-to-peer and tag-reader modes for proximity-based triggers, using ISO/IEC 14443 protocols.",
+    "emoji": "\ud83d\udcf1\ud83c\udfaf\ud83d\udcb3",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Security"
+    ],
+    "related": [
+      "BLE",
+      "RFID",
+      "NFC Tags",
+      "Automation"
+    ],
+    "aliases": [
+      "Near Field Communication",
+      "NFC"
+    ],
+    "use_case": "Used to trigger a smart routine when your phone taps an NFC tag at your desk.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "nfctags": {
+    "eli5": "They're like stickers that tell your phone to do something when touched.",
+    "boss": "NFC Tags are passive chips that trigger predefined actions on phones or smart systems when tapped.",
+    "sysadmin": "NFC Tags contain writable data using NDEF format and are powered by electromagnetic induction from the reading device.",
+    "emoji": "\ud83c\udff7\ufe0f\ud83d\udcf2\u26a1",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Automation"
+    ],
+    "related": [
+      "NFC",
+      "BLE",
+      "QR Codes",
+      "Home Assistant"
+    ],
+    "aliases": [
+      "NFC Tag",
+      "Near Field Tags"
+    ],
+    "use_case": "Used to trigger Home Assistant scenes like \u2018leave home\u2019 with a phone tap.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "mqtt": {
+    "eli5": "MQTT is like passing notes between gadgets using a shared mailbox.",
+    "boss": "MQTT is a lightweight messaging protocol that allows smart devices to communicate via a publish/subscribe model.",
+    "sysadmin": "MQTT (Message Queuing Telemetry Transport) uses a broker to route messages between clients over TCP/IP with low overhead, ideal for IoT.",
+    "emoji": "\ud83d\udcec\ud83d\udce1\ud83d\udcac",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Protocols",
+      "Automation"
+    ],
+    "related": [
+      "Home Assistant",
+      "ESPHome",
+      "Node-RED",
+      "CoAP"
+    ],
+    "aliases": [
+      "MQ Telemetry Transport"
+    ],
+    "use_case": "Used by sensors to report temperature updates to Home Assistant.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "coap": {
+    "eli5": "CoAP is like a simplified web for gadgets to talk in tiny messages.",
+    "boss": "CoAP is a lightweight protocol that enables smart devices to exchange data over constrained networks.",
+    "sysadmin": "CoAP (Constrained Application Protocol) is a UDP-based RESTful protocol designed for low-power IoT, using confirmable and non-confirmable messages.",
+    "emoji": "\ud83d\udce8\ud83d\udcf1\ud83d\udcc9",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Protocols"
+    ],
+    "related": [
+      "MQTT",
+      "REST API",
+      "Thread",
+      "Zigbee"
+    ],
+    "aliases": [
+      "Constrained Application Protocol"
+    ],
+    "use_case": "Used by smart sensors to send state updates efficiently on battery power.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "restapi": {
+    "eli5": "It\u2019s like a universal plug that lets one program ask another to do something.",
+    "boss": "A REST API allows different systems to communicate using simple web requests\u2014essential for integrations.",
+    "sysadmin": "REST APIs use HTTP methods (GET, POST, PUT, DELETE) and JSON payloads for stateless, scalable web communication between clients and servers.",
+    "emoji": "\ud83d\udd0c\ud83c\udf10\ud83d\udce5",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "APIs",
+      "Web"
+    ],
+    "related": [
+      "Webhook",
+      "MQTT",
+      "JSON",
+      "HTTP"
+    ],
+    "aliases": [
+      "RESTful API",
+      "REST"
+    ],
+    "use_case": "Used by Home Assistant to get the status of a smart lock from another service.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "webhook": {
+    "eli5": "It\u2019s like a digital doorbell that rings when something happens, letting other gadgets know.",
+    "boss": "A Webhook is a simple HTTP callback triggered by events to automate interactions between services.",
+    "sysadmin": "Webhooks are user-defined HTTP callbacks that are triggered by events, enabling one-way data push without polling\u2014commonly used in smart home automations.",
+    "emoji": "\ud83d\udeaa\ud83d\udd14\ud83c\udf10",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "APIs",
+      "Automation"
+    ],
+    "related": [
+      "REST API",
+      "MQTT",
+      "Node-RED",
+      "IFTTT"
+    ],
+    "aliases": [
+      "Web hook",
+      "HTTP callback"
+    ],
+    "use_case": "Used to notify Home Assistant when your garage door opens via an external app.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "nodered": {
+    "eli5": "Node-RED is like building with smart LEGO blocks to make your gadgets work together.",
+    "boss": "Node-RED is a visual programming tool for wiring together smart devices and APIs to create automations.",
+    "sysadmin": "Node-RED is a flow-based development tool built on Node.js, enabling event-driven integrations using JavaScript nodes and JSON logic.",
+    "emoji": "\ud83d\udd27\ud83e\uddf1\ud83d\udcca",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Automation",
+      "Programming"
+    ],
+    "related": [
+      "Home Assistant",
+      "MQTT",
+      "Webhook",
+      "ESPHome"
+    ],
+    "aliases": [
+      "Node RED",
+      "node-red"
+    ],
+    "use_case": "Used to create a visual flow that turns on lights when motion is detected and it\u2019s after sunset.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "esphome": {
+    "eli5": "It\u2019s like giving tiny computers their own smart home brains using simple instructions.",
+    "boss": "ESPHome lets you turn ESP-based boards into smart devices that integrate with platforms like Home Assistant.",
+    "sysadmin": "ESPHome compiles YAML configuration into C++ firmware for ESP32/ESP8266 boards, enabling native Home Assistant integration via MQTT or API.",
+    "emoji": "\ud83d\udcf2\ud83e\udde0\ud83d\udee0\ufe0f",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Programming",
+      "Automation"
+    ],
+    "related": [
+      "Tasmota",
+      "MQTT",
+      "Node-RED",
+      "ESP32"
+    ],
+    "aliases": [
+      "ESP Home"
+    ],
+    "use_case": "Used to program a temperature sensor that reports data to Home Assistant.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "tasmota": {
+    "eli5": "Tasmota is like giving your smart plug a new brain so it listens to you, not the cloud.",
+    "boss": "Tasmota is custom firmware for ESP8266/ESP32-based devices, allowing local control without vendor cloud services.",
+    "sysadmin": "Tasmota is an open-source firmware that supports MQTT, HTTP, and serial interfaces, enabling local control of smart devices via commands and rules.",
+    "emoji": "\ud83d\udd0c\ud83e\udde0\ud83d\udd79\ufe0f",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Open Source",
+      "Automation"
+    ],
+    "related": [
+      "ESPHome",
+      "MQTT",
+      "Sonoff",
+      "Tuya"
+    ],
+    "aliases": [
+      "Sonoff-Tasmota",
+      "Tasmota Firmware"
+    ],
+    "use_case": "Used to flash a Wi-Fi smart switch to work with Home Assistant over MQTT.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "tuya": {
+    "eli5": "Tuya is like a magic cloud that powers lots of cheap smart gadgets.",
+    "boss": "Tuya is a smart device platform and cloud ecosystem used by many white-labeled smart home brands.",
+    "sysadmin": "Tuya provides cloud APIs and SDKs for OEMs to connect devices to its IoT PaaS, using Wi-Fi/BLE and the Tuya Smart app.",
+    "emoji": "\u2601\ufe0f\ud83d\udca1\ud83d\udcf1",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Cloud"
+    ],
+    "related": [
+      "eWeLink",
+      "Tasmota",
+      "SmartThings",
+      "MQTT"
+    ],
+    "aliases": [
+      "Tuya Smart",
+      "Tuya Cloud"
+    ],
+    "use_case": "Used to control a rebranded smart plug via the Tuya mobile app or API.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "ewelink": {
+    "eli5": "eWeLink is like a remote control app for smart gadgets made by Sonoff and friends.",
+    "boss": "eWeLink is a cloud platform and app that controls Sonoff smart devices and others using the eWeLink ecosystem.",
+    "sysadmin": "eWeLink integrates with smart devices using proprietary APIs over cloud and LAN, often requiring custom firmware or reverse engineering for local control.",
+    "emoji": "\ud83d\udcf1\u2601\ufe0f\ud83e\uddf2",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Cloud"
+    ],
+    "related": [
+      "Sonoff",
+      "Tuya",
+      "Tasmota",
+      "Home Assistant"
+    ],
+    "aliases": [
+      "eWeLink App",
+      "ewelink"
+    ],
+    "use_case": "Used to control Sonoff switches and bulbs remotely via cloud.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "ifttt": {
+    "eli5": "IFTTT is like a magic recipe book\u2014\u2018If this happens, then do that.\u2019",
+    "boss": "IFTTT is a cloud automation service that connects different apps and devices using simple triggers and actions.",
+    "sysadmin": "IFTTT (If This Then That) uses cloud-based webhooks and service integrations to bridge devices and apps across APIs with no-code logic.",
+    "emoji": "\ud83d\udcd8\ud83e\udde9\u26a1",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Cloud",
+      "Automation"
+    ],
+    "related": [
+      "Webhook",
+      "REST API",
+      "Google Home",
+      "Amazon Alexa"
+    ],
+    "aliases": [
+      "If This Then That"
+    ],
+    "use_case": "Used to turn on porch lights when your Ring doorbell detects motion.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "insteon": {
+    "eli5": "Insteon is like a special walkie-talkie club that uses both power wires and radio to talk.",
+    "boss": "Insteon is a hybrid smart home communication protocol that combines powerline and RF for reliability.",
+    "sysadmin": "Insteon uses dual-mesh networking, combining 915 MHz RF and powerline signaling, managed via a proprietary protocol and dedicated hubs.",
+    "emoji": "\ud83d\udd0c\ud83d\udcf6\ud83c\udfe0",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Protocols"
+    ],
+    "related": [
+      "Z-Wave",
+      "X10",
+      "Hubitat",
+      "Home Assistant"
+    ],
+    "aliases": [
+      "Insteon Protocol",
+      "Insteon Hub"
+    ],
+    "use_case": "Used to control lights in a house where wireless coverage is spotty.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "homebridge": {
+    "eli5": "It\u2019s like a translator that helps gadgets speak Apple\u2019s smart home language.",
+    "boss": "Homebridge is a software bridge that lets non-HomeKit devices work with Apple\u2019s smart home ecosystem.",
+    "sysadmin": "Homebridge is a Node.js server with plugin architecture that emulates the HomeKit API, exposing devices to Apple Home.",
+    "emoji": "\ud83c\udf09\ud83c\udf4e\ud83d\udd27",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Open Source"
+    ],
+    "related": [
+      "HomeKit",
+      "Apple Home",
+      "Node.js",
+      "Home Assistant"
+    ],
+    "aliases": [
+      "Home Bridge",
+      "homebridge"
+    ],
+    "use_case": "Used to make a Nest thermostat controllable from the Apple Home app.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "domoticz": {
+    "eli5": "Domoticz is like an old-school control panel that talks to your smart home stuff.",
+    "boss": "Domoticz is a lightweight open-source platform to monitor and control smart home devices.",
+    "sysadmin": "Domoticz runs on Linux/Windows with support for Z-Wave, MQTT, and RESTful APIs, offering a web UI and scripting for automation.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83c\udfe1\ud83d\udcca",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Open Source",
+      "Automation"
+    ],
+    "related": [
+      "Home Assistant",
+      "OpenHAB",
+      "MQTT",
+      "Z-Wave"
+    ],
+    "aliases": [
+      "Domoticz Controller"
+    ],
+    "use_case": "Used to monitor temperatures and automate heating in a Raspberry Pi home lab.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "iobroker": {
+    "eli5": "ioBroker is like a big toolbox to make all your smart stuff work together.",
+    "boss": "ioBroker is a powerful open-source platform for integrating and managing diverse smart home systems.",
+    "sysadmin": "ioBroker is a JavaScript-based IoT framework with an adapter model supporting MQTT, Zigbee, Modbus, and many APIs with a central object model for data exchange.",
+    "emoji": "\ud83e\uddf0\ud83d\udd0c\ud83c\udfe0",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Open Source",
+      "Automation"
+    ],
+    "related": [
+      "Home Assistant",
+      "Domoticz",
+      "Node-RED",
+      "MQTT"
+    ],
+    "aliases": [
+      "io Broker"
+    ],
+    "use_case": "Used to centralize control of Z-Wave, Zigbee, and Tuya devices under one interface.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "openhab": {
+    "eli5": "OpenHAB is like a home conductor making sure every smart gadget plays its part.",
+    "boss": "OpenHAB is a vendor-neutral, open-source smart home platform with strong support for automation and customization.",
+    "sysadmin": "OpenHAB is a Java-based automation framework with rule engines, bindings for over 300 technologies, and UIs built on Eclipse SmartHome.",
+    "emoji": "\ud83c\udfbc\ud83c\udfe0\ud83c\udf9b\ufe0f",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Open Source",
+      "Automation"
+    ],
+    "related": [
+      "Home Assistant",
+      "Domoticz",
+      "MQTT",
+      "Z-Wave"
+    ],
+    "aliases": [
+      "OpenHAB",
+      "openHAB"
+    ],
+    "use_case": "Used to create complex, cross-platform automations like weather-based irrigation.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "shelly": {
+    "eli5": "Shelly is like a little switch you hide behind your wall switch to make it smart.",
+    "boss": "Shelly devices are Wi-Fi-enabled smart relays and sensors designed for DIY home automation.",
+    "sysadmin": "Shelly modules support REST API, MQTT, and mDNS over Wi-Fi, and can be integrated via cloud or local network with or without firmware flashing.",
+    "emoji": "\ud83e\uddf1\ud83d\udca1\ud83d\udcf6",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Open Source"
+    ],
+    "related": [
+      "Sonoff",
+      "Tasmota",
+      "ESPHome",
+      "MQTT"
+    ],
+    "aliases": [
+      "Shelly Devices",
+      "Shelly Cloud"
+    ],
+    "use_case": "Used to turn an existing wall light switch into a smart one without replacing the faceplate.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "sonoff": {
+    "eli5": "Sonoff makes simple plugs and switches that let you control stuff from your phone.",
+    "boss": "Sonoff is a popular brand of low-cost smart switches and plugs, often used with custom firmware for local control.",
+    "sysadmin": "Sonoff devices use ESP8266/ESP32 chips, compatible with eWeLink cloud and flashable with Tasmota or ESPHome for MQTT integration.",
+    "emoji": "\ud83d\udd0c\ud83d\udcf2\ud83d\udca1",
+    "categories": [
+      "Smart Home",
+      "IoT"
+    ],
+    "related": [
+      "Tasmota",
+      "eWeLink",
+      "ESPHome",
+      "Shelly"
+    ],
+    "aliases": [
+      "Sonoff Devices"
+    ],
+    "use_case": "Used to automate lights and fans in a budget-friendly smart home setup.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "wyze": {
+    "eli5": "Wyze makes smart gadgets that are simple and cheap, like a smart home starter pack.",
+    "boss": "Wyze offers affordable smart home products like cameras, lights, and plugs with app-based control.",
+    "sysadmin": "Wyze devices connect over Wi-Fi and integrate with Alexa/Google Home, offering limited third-party API access and cloud dependency.",
+    "emoji": "\ud83d\udcf7\ud83d\udca1\ud83d\udcb0",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Cloud"
+    ],
+    "related": [
+      "Ring",
+      "TP-Link Kasa",
+      "Eufy",
+      "Tuya"
+    ],
+    "aliases": [
+      "Wyze Labs"
+    ],
+    "use_case": "Used to set up low-cost security cameras that notify you on motion.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "ring": {
+    "eli5": "Ring is a smart doorbell that shows you who\u2019s knocking\u2014even when you're not home.",
+    "boss": "Ring makes smart security products like video doorbells and cameras with cloud-based recording and alerts.",
+    "sysadmin": "Ring uses Wi-Fi for streaming and cloud APIs for notification; limited local control, tightly integrated with Amazon Alexa.",
+    "emoji": "\ud83d\udd14\ud83d\udcf9\ud83c\udfe0",
+    "categories": [
+      "Smart Home",
+      "Security",
+      "Cloud"
+    ],
+    "related": [
+      "Wyze",
+      "Eufy",
+      "Alexa",
+      "IFTTT"
+    ],
+    "aliases": [
+      "Ring Doorbell"
+    ],
+    "use_case": "Used to receive live video and alerts when someone rings the doorbell or triggers motion.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "eufy": {
+    "eli5": "Eufy makes gadgets that help keep your home safe and clean, like cameras and robot vacuums.",
+    "boss": "Eufy offers smart home security and cleaning products with app control and some local storage options.",
+    "sysadmin": "Eufy devices support Wi-Fi and Bluetooth, integrate with Google and Alexa, and offer RTSP/local storage on select models.",
+    "emoji": "\ud83e\udd16\ud83d\udcf7\ud83e\uddf9",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Security"
+    ],
+    "related": [
+      "Ring",
+      "Wyze",
+      "Alexa",
+      "HomeKit"
+    ],
+    "aliases": [
+      "Eufy Security",
+      "EufyCam"
+    ],
+    "use_case": "Used to set up wireless security cameras with optional local recording.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "arlo": {
+    "eli5": "Arlo is like a set of smart eyes that keep watch around your house.",
+    "boss": "Arlo is a wireless security camera brand with mobile access and cloud-based alerts.",
+    "sysadmin": "Arlo cameras use proprietary APIs over Wi-Fi and cellular, with cloud-based storage and integrations with Alexa and Google Home.",
+    "emoji": "\ud83d\udc41\ufe0f\ud83d\udce1\ud83d\udd10",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Security",
+      "Cloud"
+    ],
+    "related": [
+      "Ring",
+      "Eufy",
+      "Home Assistant",
+      "Google Home"
+    ],
+    "aliases": [
+      "Arlo Cameras"
+    ],
+    "use_case": "Used to monitor driveways and send alerts when motion is detected.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "tplinkkasa": {
+    "eli5": "Kasa is TP-Link\u2019s smart plug that lets you turn things on or off from your phone.",
+    "boss": "TP-Link Kasa is a smart device brand for plugs, bulbs, and switches with app and voice control.",
+    "sysadmin": "Kasa devices communicate via Wi-Fi and proprietary APIs, with limited third-party integration and optional Home Assistant support via local polling.",
+    "emoji": "\ud83d\udcf2\ud83d\udca1\ud83d\udd0c",
+    "categories": [
+      "Smart Home",
+      "IoT"
+    ],
+    "related": [
+      "Wyze",
+      "Tuya",
+      "Sonoff",
+      "Alexa"
+    ],
+    "aliases": [
+      "TP-Link Kasa",
+      "Kasa Smart"
+    ],
+    "use_case": "Used to control lamps and fans remotely via app or voice assistant.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "philipshue": {
+    "eli5": "Philips Hue is like mood lighting that changes with your phone or voice.",
+    "boss": "Philips Hue offers premium smart lighting with app control, scenes, and automation via Zigbee or Bluetooth.",
+    "sysadmin": "Hue uses Zigbee protocol through a bridge (or Bluetooth), integrates with major platforms and has local API endpoints for advanced users.",
+    "emoji": "\ud83d\udca1\ud83c\udfa8\ud83d\udcf6",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Lighting"
+    ],
+    "related": [
+      "Zigbee",
+      "Home Assistant",
+      "Alexa",
+      "Hue Bridge"
+    ],
+    "aliases": [
+      "Hue",
+      "Philips Hue Lights"
+    ],
+    "use_case": "Used to create dynamic lighting scenes for mornings, movies, or holidays.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "lutron": {
+    "eli5": "Lutron lets you dim lights or open blinds with a button or your voice.",
+    "boss": "Lutron is a smart lighting and shade control system known for reliability and low-latency performance.",
+    "sysadmin": "Lutron uses proprietary Clear Connect RF and integrates with systems like HomeKit and SmartThings via a bridge or hub.",
+    "emoji": "\ud83d\udd79\ufe0f\ud83c\udfe0\ud83c\udf9b\ufe0f",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Lighting"
+    ],
+    "related": [
+      "Philips Hue",
+      "SmartThings",
+      "HomeKit",
+      "Alexa"
+    ],
+    "aliases": [
+      "Lutron Caseta",
+      "Lutron RA2"
+    ],
+    "use_case": "Used to dim lights and control blinds with reliable low-lag response.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "lifx": {
+    "eli5": "LIFX bulbs are smart lights you can control without needing a hub.",
+    "boss": "LIFX offers Wi-Fi smart bulbs with vivid color and direct app or voice control.",
+    "sysadmin": "LIFX bulbs operate over Wi-Fi with local API and cloud control; they support LAN discovery, HTTP API, and integration with Home Assistant.",
+    "emoji": "\ud83d\udca1\ud83c\udf08\ud83d\udcf1",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Lighting"
+    ],
+    "related": [
+      "Philips Hue",
+      "Kasa",
+      "Alexa",
+      "Google Home"
+    ],
+    "aliases": [
+      "LIFX Bulbs",
+      "LIFX Lights"
+    ],
+    "use_case": "Used to create colorful ambient lighting that syncs with music or scenes.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "govee": {
+    "eli5": "Govee makes fun lights that dance with music and match your vibe.",
+    "boss": "Govee is a smart lighting brand offering colorful LED strips and fixtures with app-based control.",
+    "sysadmin": "Govee products typically use BLE or Wi-Fi with cloud APIs and limited local control; some support integration via community-developed APIs.",
+    "emoji": "\ud83c\udfb6\ud83c\udf08\ud83d\udce6",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Lighting"
+    ],
+    "related": [
+      "LIFX",
+      "Philips Hue",
+      "Alexa",
+      "Tuya"
+    ],
+    "aliases": [
+      "Govee Lights",
+      "Govee Home"
+    ],
+    "use_case": "Used to install music-reactive LED strips for gaming rooms or home theaters.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "nanoleaf": {
+    "eli5": "Nanoleaf lights snap together like puzzle pieces and light up your wall.",
+    "boss": "Nanoleaf creates smart, decorative lighting panels that can be controlled via app or voice.",
+    "sysadmin": "Nanoleaf panels support Thread, Wi-Fi, and Matter for integration with HomeKit, Alexa, and Google Home, with open APIs for automation.",
+    "emoji": "\ud83e\udde9\ud83d\udca1\ud83c\udfa8",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Lighting"
+    ],
+    "related": [
+      "LIFX",
+      "Philips Hue",
+      "Matter",
+      "Thread"
+    ],
+    "aliases": [
+      "Nanoleaf Panels",
+      "Nanoleaf Shapes"
+    ],
+    "use_case": "Used to build a custom LED wall design that reacts to sound or scenes.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "switchbot": {
+    "eli5": "SwitchBot pushes buttons for you, like a tiny robot finger.",
+    "boss": "SwitchBot offers gadgets that automate physical button presses and curtain movement without rewiring.",
+    "sysadmin": "SwitchBot uses BLE and optional hubs to send commands to actuators via cloud or local APIs; some devices support IR as well.",
+    "emoji": "\ud83e\udd16\ud83d\uddb2\ufe0f\ud83d\udcf2",
+    "categories": [
+      "Smart Home",
+      "IoT"
+    ],
+    "related": [
+      "IR Blaster",
+      "Home Assistant",
+      "Alexa",
+      "Bluetooth"
+    ],
+    "aliases": [
+      "Switch Bot"
+    ],
+    "use_case": "Used to press a coffee machine\u2019s physical button every morning on a schedule.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "aqara": {
+    "eli5": "Aqara makes lots of little sensors that help your smart home react to stuff.",
+    "boss": "Aqara provides a wide range of smart sensors and controllers that work with Zigbee and Matter.",
+    "sysadmin": "Aqara devices use Zigbee and Thread, compatible with their hubs and third-party platforms like HomeKit and Zigbee2MQTT.",
+    "emoji": "\ud83e\uddf2\ud83d\udeaa\ud83d\udce1",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Security"
+    ],
+    "related": [
+      "Zigbee",
+      "HomeKit",
+      "Xiaomi",
+      "Home Assistant"
+    ],
+    "aliases": [
+      "Aqara Sensors",
+      "Aqara Home"
+    ],
+    "use_case": "Used to trigger automations like turning on lights when motion is detected.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "gecync": {
+    "eli5": "GE Cync makes smart lights and plugs that play nice with apps and voice.",
+    "boss": "GE Cync is a smart home product line for lighting and power control with app and voice support.",
+    "sysadmin": "Cync devices connect over Wi-Fi or Bluetooth, offering cloud-based control and limited local integrations.",
+    "emoji": "\ud83d\udca1\ud83d\udd0c\ud83c\udfa4",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Lighting"
+    ],
+    "related": [
+      "Philips Hue",
+      "TP-Link Kasa",
+      "LIFX",
+      "Alexa"
+    ],
+    "aliases": [
+      "Cync by GE",
+      "GE Lighting"
+    ],
+    "use_case": "Used to voice-control room lights using Alexa or Google Home.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "ecobee": {
+    "eli5": "Ecobee is a smart thermostat that learns your habits to save energy.",
+    "boss": "Ecobee makes smart thermostats and sensors for home energy efficiency and automation.",
+    "sysadmin": "Ecobee devices support Wi-Fi, HomeKit, and API access, using occupancy and temperature sensors for smart HVAC control.",
+    "emoji": "\ud83c\udf21\ufe0f\ud83c\udfe0\ud83d\udcc9",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Energy"
+    ],
+    "related": [
+      "Nest",
+      "Home Assistant",
+      "Alexa",
+      "IFTTT"
+    ],
+    "aliases": [
+      "Ecobee Thermostat"
+    ],
+    "use_case": "Used to automatically adjust the temperature when no one is home.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "nest": {
+    "eli5": "Nest learns when you\u2019re home and keeps your house comfy and energy-saving.",
+    "boss": "Nest offers smart thermostats, cameras, and alarms with learning features and Google integration.",
+    "sysadmin": "Nest devices connect via Wi-Fi, integrate with Google Home, and formerly used the now-deprecated Works with Nest API.",
+    "emoji": "\ud83d\udd25\u2744\ufe0f\ud83d\udcf9",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Energy",
+      "Security"
+    ],
+    "related": [
+      "Ecobee",
+      "Google Home",
+      "IFTTT",
+      "Matter"
+    ],
+    "aliases": [
+      "Google Nest"
+    ],
+    "use_case": "Used to automatically adjust heating and cooling based on routines and presence.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "honeywellhome": {
+    "eli5": "Honeywell Home helps your thermostat, camera, and sensors work smarter together.",
+    "boss": "Honeywell Home provides smart climate and security products for residential automation.",
+    "sysadmin": "Honeywell Home devices integrate via Wi-Fi, Z-Wave, and cloud APIs, supporting voice assistants and third-party platforms.",
+    "emoji": "\ud83c\udfe0\ud83c\udf2c\ufe0f\ud83d\udd10",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Energy",
+      "Security"
+    ],
+    "related": [
+      "Ecobee",
+      "Nest",
+      "Home Assistant",
+      "IFTTT"
+    ],
+    "aliases": [
+      "Honeywell Thermostat",
+      "Honeywell"
+    ],
+    "use_case": "Used to control home temperature and receive alerts from motion sensors.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  }
+}

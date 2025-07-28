@@ -1,0 +1,22 @@
+Use Incremental Updates
+Avoid Global Conditions Overuse
+Don’t Overuse Hardware Inventory
+Use Peer Cache for Bandwidth
+Monitor Content Library Size
+DB Maintenance Plan
+Limit Client Actions
+Migration / Upgrade
+In-Place Upgrade
+Side-by-Side Migration
+Upgrade Readiness
+Upgrade Task Sequence
+Windows Servicing
+Compatibility Assessment
+Defender AV Policy
+Defender ATP Integration
+Anti-Malware Policy
+Client Status Reporting
+Windows Firewall Management
+Startup Performance
+Application Reliability
+Cloud Management

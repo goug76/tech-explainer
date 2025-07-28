@@ -1,0 +1,170 @@
+{
+  "installable_app": {
+    "eli5": "It\u2019s like saving a favorite toy to your room so you can play with it anytime\u2014even without the internet.",
+    "boss": "An installable app is a web or hybrid application users can add to their device homescreen for quick access and offline use.",
+    "sysadmin": "An installable app leverages Web App Manifests and service workers to function like native apps, supporting offline access and local caching.",
+    "emoji": "\ud83d\udcf2\ud83d\udcbe\ud83d\udce1",
+    "categories": [
+      "Web",
+      "Smart Home"
+    ],
+    "related": [
+      "Add to Home Screen",
+      "Web App Manifest",
+      "App Shell"
+    ],
+    "aliases": [
+      "Progressive Web App",
+      "PWA"
+    ],
+    "use_case": "Used by e-commerce sites to let users install their store app directly from the browser.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "add_to_home_screen": {
+    "eli5": "It\u2019s like pinning a shortcut on your phone so you don\u2019t have to search for your favorite site.",
+    "boss": "\u2018Add to Home Screen\u2019 is a browser feature that lets users create a shortcut to a web app on their mobile device.",
+    "sysadmin": "Triggered by manifest-compliant PWAs, this feature prompts users to install the app as a homescreen shortcut with offline access via service workers.",
+    "emoji": "\u2795\ud83c\udfe0\ud83d\udcf1",
+    "categories": [
+      "Web",
+      "Smart Home"
+    ],
+    "related": [
+      "Installable App",
+      "Web App Manifest",
+      "App Shell"
+    ],
+    "aliases": [],
+    "use_case": "Used by news sites to allow users to launch their web app like a native app.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "background_sync": {
+    "eli5": "It\u2019s like mailing your letter after you\u2019ve already left the house\u2014you don\u2019t have to wait for the mailman.",
+    "boss": "Background Sync allows web apps to defer actions like form submissions until the user has a stable internet connection.",
+    "sysadmin": "A service worker API that lets websites schedule synchronization tasks (like sending data) when connectivity resumes.",
+    "emoji": "\ud83d\udce1\ud83d\udcec\u23f3",
+    "categories": [
+      "Web",
+      "Smart Home"
+    ],
+    "related": [
+      "Service Worker",
+      "Installable App",
+      "Offline Support"
+    ],
+    "aliases": [],
+    "use_case": "Used to queue form submissions or chat messages when offline and retry when back online.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "home_lab": {
+    "eli5": "A home lab is like your own tech playground where you try out gadgets and software.",
+    "boss": "A home lab is a self-hosted environment used for learning, testing, and prototyping software or infrastructure setups.",
+    "sysadmin": "A home lab typically includes virtualization platforms, NAS, networking gear, and containers for running services in a self-contained test environment.",
+    "emoji": "\ud83c\udfe0\ud83e\uddea\ud83d\udda5\ufe0f",
+    "categories": [
+      "Infrastructure",
+      "Self-hosting",
+      "Learning"
+    ],
+    "related": [
+      "Proxmox",
+      "Docker",
+      "VMware ESXi",
+      "Mini PC"
+    ],
+    "aliases": [
+      "homelab",
+      "personal lab"
+    ],
+    "use_case": "Used to test Dockerized app stacks before deploying them to production servers.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "rackmount_server": {
+    "eli5": "It\u2019s like a big metal drawer full of computers that slides into a tech shelf.",
+    "boss": "A rackmount server is a high-density server designed to fit into standardized data center racks.",
+    "sysadmin": "Rackmount servers (1U, 2U, etc.) are enterprise-grade hardware optimized for space efficiency, remote management, and performance in rack enclosures.",
+    "emoji": "\ud83d\uddc4\ufe0f\ud83d\udda5\ufe0f\ud83d\udcf6",
+    "categories": [
+      "Infrastructure",
+      "Self-hosting",
+      "Storage"
+    ],
+    "related": [
+      "Home Lab",
+      "Proxmox",
+      "NAS",
+      "Virtualization"
+    ],
+    "aliases": [],
+    "use_case": "Used in home labs or data centers to host VMs and network services.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "mini_pc": {
+    "eli5": "It\u2019s like a tiny computer that does almost everything a big one can.",
+    "boss": "A Mini PC is a compact, energy-efficient computer often used in home labs, media centers, or light desktop tasks.",
+    "sysadmin": "Mini PCs provide small form-factor computing with varying performance capabilities\u2014often used as low-power servers or test nodes.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83d\udce6\u26a1",
+    "categories": [
+      "Infrastructure",
+      "Self-hosting"
+    ],
+    "related": [
+      "NUC",
+      "Home Lab",
+      "DIY NAS"
+    ],
+    "aliases": [],
+    "use_case": "Used as a dedicated server for Docker containers in a home lab.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "nuc_next_unit_of_computing": {
+    "eli5": "A NUC is like a strong, tiny brain in a box.",
+    "boss": "Intel's NUC is a small but powerful Mini PC ideal for home labs, media centers, and edge computing.",
+    "sysadmin": "The Next Unit of Computing (NUC) is Intel\u2019s compact PC design featuring upgradable components and strong CPU options in a small chassis.",
+    "emoji": "\ud83e\udde0\ud83d\udcbb\ud83d\udccf",
+    "categories": [
+      "Infrastructure",
+      "Self-hosting"
+    ],
+    "related": [
+      "Mini PC",
+      "Home Lab",
+      "DIY NAS"
+    ],
+    "aliases": [
+      "Intel NUC"
+    ],
+    "use_case": "Used as a virtualization node in space-constrained home server setups.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "diy_nas": {
+    "eli5": "It\u2019s like building your own digital treasure chest to keep all your stuff safe.",
+    "boss": "A DIY NAS is a custom-built network storage solution, offering control over hardware and software for backups and media.",
+    "sysadmin": "DIY NAS setups involve assembling PC components and installing storage OS like TrueNAS or UnRAID for file sharing, redundancy, and media access.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udcbe\ud83c\udf10",
+    "categories": [
+      "Storage",
+      "Self-hosting",
+      "Backup"
+    ],
+    "related": [
+      "ZFS",
+      "RAID",
+      "Home Lab",
+      "External Drive"
+    ],
+    "aliases": [
+      "Build Your Own NAS"
+    ],
+    "use_case": "Used to store and stream media files using Plex and SMB shares.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  }
+}

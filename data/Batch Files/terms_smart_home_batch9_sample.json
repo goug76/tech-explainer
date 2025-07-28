@@ -1,0 +1,67 @@
+{
+  "vpcvirtualprivatecloud": {
+    "eli5": "A VPC is like your own private neighborhood in the cloud where your devices can talk safely.",
+    "boss": "A Virtual Private Cloud (VPC) isolates your cloud resources in a logically separated network with full control over IP ranges and routing.",
+    "sysadmin": "VPCs enable users to define subnets, route tables, security groups, and internet/NAT gateways within a dedicated private space in the cloud.",
+    "emoji": "\u2601\ufe0f\ud83d\udd12\ud83c\udfd8\ufe0f",
+    "categories": [
+      "Cloud",
+      "Networking"
+    ],
+    "related": [
+      "Subnets",
+      "Internet Gateway",
+      "NAT Gateway",
+      "Direct Connect"
+    ],
+    "aliases": [
+      "Virtual Private Cloud"
+    ],
+    "use_case": "Used to isolate web servers from databases in a secure cloud environment.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "subnetscloud": {
+    "eli5": "Cloud subnets are like rooms in your cloud house\u2014each one has its own purpose and rules.",
+    "boss": "Subnets divide your VPC into smaller segments, separating resources by role, access, or environment.",
+    "sysadmin": "Cloud subnets define ranges of IP addresses within a VPC, assigned as public or private based on routing and security needs.",
+    "emoji": "\ud83d\udcd0\ud83d\udce6\ud83d\udce1",
+    "categories": [
+      "Cloud",
+      "Networking"
+    ],
+    "related": [
+      "VPC",
+      "Route Table",
+      "Security Groups"
+    ],
+    "aliases": [
+      "Cloud Subnets"
+    ],
+    "use_case": "Used to create separate environments for frontend and backend servers in a cloud app.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "internetgateway": {
+    "eli5": "An internet gateway is the cloud\u2019s front door that lets your stuff go online.",
+    "boss": "An Internet Gateway provides your cloud-based resources with a path to access the internet.",
+    "sysadmin": "Internet Gateways attach to VPCs to route public traffic between cloud resources and the internet using public IPs and NAT.",
+    "emoji": "\ud83c\udf10\ud83d\udeaa\u2601\ufe0f",
+    "categories": [
+      "Cloud",
+      "Networking"
+    ],
+    "related": [
+      "VPC",
+      "Elastic IP",
+      "NAT Gateway"
+    ],
+    "aliases": [
+      "IGW",
+      "Cloud Internet Gateway"
+    ],
+    "use_case": "Used to allow a public EC2 instance to connect to and serve the internet.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  }
+}

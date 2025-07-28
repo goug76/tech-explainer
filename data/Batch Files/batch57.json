@@ -1,0 +1,1374 @@
+{
+  "bad sectors": {
+    "eli5": "Bad Sectors is like a part of your computer's storage puzzle\u2014it helps organize, fix, or share files.",
+    "boss": "Bad Sectors is related to partitions, volume management, filesystem health, or network/cloud-based storage used to ensure data is structured, accessible, and resilient.",
+    "sysadmin": "Bad Sectors refers to a disk structure, partition type, filesystem error, or remote/cloud filesystem used in managing persistent storage and recovering from disk failures.",
+    "emoji": "\ud83e\uddf1\ud83d\udcbe\ud83d\udd17\ud83d\udce1",
+    "categories": [
+      "Filesystem",
+      "Storage",
+      "Infrastructure",
+      "Linux",
+      "Cloud",
+      "Backup"
+    ],
+    "related": [
+      "gpt",
+      "lost+found",
+      "lvm",
+      "zfs pool",
+      "nfs"
+    ],
+    "aliases": [
+      "bad sectors",
+      "BAD SECTORS"
+    ],
+    "use_case": "A sysadmin uses Bad Sectors to recover data, configure disks, or mount network/cloud-based file systems.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "mount failure": {
+    "eli5": "Mount Failure is like a part of your computer's storage puzzle\u2014it helps organize, fix, or share files.",
+    "boss": "Mount Failure is related to partitions, volume management, filesystem health, or network/cloud-based storage used to ensure data is structured, accessible, and resilient.",
+    "sysadmin": "Mount Failure refers to a disk structure, partition type, filesystem error, or remote/cloud filesystem used in managing persistent storage and recovering from disk failures.",
+    "emoji": "\ud83e\uddf1\ud83d\udcbe\ud83d\udd17\ud83d\udce1",
+    "categories": [
+      "Filesystem",
+      "Storage",
+      "Infrastructure",
+      "Linux",
+      "Cloud",
+      "Backup"
+    ],
+    "related": [
+      "gpt",
+      "lost+found",
+      "lvm",
+      "zfs pool",
+      "nfs"
+    ],
+    "aliases": [
+      "mount failure",
+      "MOUNT FAILURE"
+    ],
+    "use_case": "A sysadmin uses Mount Failure to recover data, configure disks, or mount network/cloud-based file systems.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "i/o error": {
+    "eli5": "I/O Error is like a part of your computer's storage puzzle\u2014it helps organize, fix, or share files.",
+    "boss": "I/O Error is related to partitions, volume management, filesystem health, or network/cloud-based storage used to ensure data is structured, accessible, and resilient.",
+    "sysadmin": "I/O Error refers to a disk structure, partition type, filesystem error, or remote/cloud filesystem used in managing persistent storage and recovering from disk failures.",
+    "emoji": "\ud83e\uddf1\ud83d\udcbe\ud83d\udd17\ud83d\udce1",
+    "categories": [
+      "Filesystem",
+      "Storage",
+      "Infrastructure",
+      "Linux",
+      "Cloud",
+      "Backup"
+    ],
+    "related": [
+      "gpt",
+      "lost+found",
+      "lvm",
+      "zfs pool",
+      "nfs"
+    ],
+    "aliases": [
+      "i/o error",
+      "I/O ERROR"
+    ],
+    "use_case": "A sysadmin uses I/O Error to recover data, configure disks, or mount network/cloud-based file systems.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "read-only filesystem": {
+    "eli5": "Read-Only Filesystem is like a part of your computer's storage puzzle\u2014it helps organize, fix, or share files.",
+    "boss": "Read-Only Filesystem is related to partitions, volume management, filesystem health, or network/cloud-based storage used to ensure data is structured, accessible, and resilient.",
+    "sysadmin": "Read-Only Filesystem refers to a disk structure, partition type, filesystem error, or remote/cloud filesystem used in managing persistent storage and recovering from disk failures.",
+    "emoji": "\ud83e\uddf1\ud83d\udcbe\ud83d\udd17\ud83d\udce1",
+    "categories": [
+      "Filesystem",
+      "Storage",
+      "Infrastructure",
+      "Linux",
+      "Cloud",
+      "Backup"
+    ],
+    "related": [
+      "gpt",
+      "lost+found",
+      "lvm",
+      "zfs pool",
+      "nfs"
+    ],
+    "aliases": [
+      "read-only filesystem",
+      "READ-ONLY FILESYSTEM"
+    ],
+    "use_case": "A sysadmin uses Read-Only Filesystem to recover data, configure disks, or mount network/cloud-based file systems.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "orphaned inode": {
+    "eli5": "Orphaned Inode is like a part of your computer's storage puzzle\u2014it helps organize, fix, or share files.",
+    "boss": "Orphaned Inode is related to partitions, volume management, filesystem health, or network/cloud-based storage used to ensure data is structured, accessible, and resilient.",
+    "sysadmin": "Orphaned Inode refers to a disk structure, partition type, filesystem error, or remote/cloud filesystem used in managing persistent storage and recovering from disk failures.",
+    "emoji": "\ud83e\uddf1\ud83d\udcbe\ud83d\udd17\ud83d\udce1",
+    "categories": [
+      "Filesystem",
+      "Storage",
+      "Infrastructure",
+      "Linux",
+      "Cloud",
+      "Backup"
+    ],
+    "related": [
+      "gpt",
+      "lost+found",
+      "lvm",
+      "zfs pool",
+      "nfs"
+    ],
+    "aliases": [
+      "orphaned inode",
+      "ORPHANED INODE"
+    ],
+    "use_case": "A sysadmin uses Orphaned Inode to recover data, configure disks, or mount network/cloud-based file systems.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "lost+found": {
+    "eli5": "Lost+found is like a part of your computer's storage puzzle\u2014it helps organize, fix, or share files.",
+    "boss": "Lost+found is related to partitions, volume management, filesystem health, or network/cloud-based storage used to ensure data is structured, accessible, and resilient.",
+    "sysadmin": "Lost+found refers to a disk structure, partition type, filesystem error, or remote/cloud filesystem used in managing persistent storage and recovering from disk failures.",
+    "emoji": "\ud83e\uddf1\ud83d\udcbe\ud83d\udd17\ud83d\udce1",
+    "categories": [
+      "Filesystem",
+      "Storage",
+      "Infrastructure",
+      "Linux",
+      "Cloud",
+      "Backup"
+    ],
+    "related": [
+      "gpt",
+      "lost+found",
+      "lvm",
+      "zfs pool",
+      "nfs"
+    ],
+    "aliases": [
+      "lost+found",
+      "LOST+FOUND"
+    ],
+    "use_case": "A sysadmin uses Lost+found to recover data, configure disks, or mount network/cloud-based file systems.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "partition types": {
+    "eli5": "Partition Types is like a part of your computer's storage puzzle\u2014it helps organize, fix, or share files.",
+    "boss": "Partition Types is related to partitions, volume management, filesystem health, or network/cloud-based storage used to ensure data is structured, accessible, and resilient.",
+    "sysadmin": "Partition Types refers to a disk structure, partition type, filesystem error, or remote/cloud filesystem used in managing persistent storage and recovering from disk failures.",
+    "emoji": "\ud83e\uddf1\ud83d\udcbe\ud83d\udd17\ud83d\udce1",
+    "categories": [
+      "Filesystem",
+      "Storage",
+      "Infrastructure",
+      "Linux",
+      "Cloud",
+      "Backup"
+    ],
+    "related": [
+      "gpt",
+      "lost+found",
+      "lvm",
+      "zfs pool",
+      "nfs"
+    ],
+    "aliases": [
+      "partition types",
+      "PARTITION TYPES"
+    ],
+    "use_case": "A sysadmin uses Partition Types to recover data, configure disks, or mount network/cloud-based file systems.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "primary partition": {
+    "eli5": "Primary Partition is like a part of your computer's storage puzzle\u2014it helps organize, fix, or share files.",
+    "boss": "Primary Partition is related to partitions, volume management, filesystem health, or network/cloud-based storage used to ensure data is structured, accessible, and resilient.",
+    "sysadmin": "Primary Partition refers to a disk structure, partition type, filesystem error, or remote/cloud filesystem used in managing persistent storage and recovering from disk failures.",
+    "emoji": "\ud83e\uddf1\ud83d\udcbe\ud83d\udd17\ud83d\udce1",
+    "categories": [
+      "Filesystem",
+      "Storage",
+      "Infrastructure",
+      "Linux",
+      "Cloud",
+      "Backup"
+    ],
+    "related": [
+      "gpt",
+      "lost+found",
+      "lvm",
+      "zfs pool",
+      "nfs"
+    ],
+    "aliases": [
+      "primary partition",
+      "PRIMARY PARTITION"
+    ],
+    "use_case": "A sysadmin uses Primary Partition to recover data, configure disks, or mount network/cloud-based file systems.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "extended partition": {
+    "eli5": "Extended Partition is like a part of your computer's storage puzzle\u2014it helps organize, fix, or share files.",
+    "boss": "Extended Partition is related to partitions, volume management, filesystem health, or network/cloud-based storage used to ensure data is structured, accessible, and resilient.",
+    "sysadmin": "Extended Partition refers to a disk structure, partition type, filesystem error, or remote/cloud filesystem used in managing persistent storage and recovering from disk failures.",
+    "emoji": "\ud83e\uddf1\ud83d\udcbe\ud83d\udd17\ud83d\udce1",
+    "categories": [
+      "Filesystem",
+      "Storage",
+      "Infrastructure",
+      "Linux",
+      "Cloud",
+      "Backup"
+    ],
+    "related": [
+      "gpt",
+      "lost+found",
+      "lvm",
+      "zfs pool",
+      "nfs"
+    ],
+    "aliases": [
+      "extended partition",
+      "EXTENDED PARTITION"
+    ],
+    "use_case": "A sysadmin uses Extended Partition to recover data, configure disks, or mount network/cloud-based file systems.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "logical partition": {
+    "eli5": "Logical Partition is like a part of your computer's storage puzzle\u2014it helps organize, fix, or share files.",
+    "boss": "Logical Partition is related to partitions, volume management, filesystem health, or network/cloud-based storage used to ensure data is structured, accessible, and resilient.",
+    "sysadmin": "Logical Partition refers to a disk structure, partition type, filesystem error, or remote/cloud filesystem used in managing persistent storage and recovering from disk failures.",
+    "emoji": "\ud83e\uddf1\ud83d\udcbe\ud83d\udd17\ud83d\udce1",
+    "categories": [
+      "Filesystem",
+      "Storage",
+      "Infrastructure",
+      "Linux",
+      "Cloud",
+      "Backup"
+    ],
+    "related": [
+      "gpt",
+      "lost+found",
+      "lvm",
+      "zfs pool",
+      "nfs"
+    ],
+    "aliases": [
+      "logical partition",
+      "LOGICAL PARTITION"
+    ],
+    "use_case": "A sysadmin uses Logical Partition to recover data, configure disks, or mount network/cloud-based file systems.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "swap partition": {
+    "eli5": "Swap Partition is like a part of your computer's storage puzzle\u2014it helps organize, fix, or share files.",
+    "boss": "Swap Partition is related to partitions, volume management, filesystem health, or network/cloud-based storage used to ensure data is structured, accessible, and resilient.",
+    "sysadmin": "Swap Partition refers to a disk structure, partition type, filesystem error, or remote/cloud filesystem used in managing persistent storage and recovering from disk failures.",
+    "emoji": "\ud83e\uddf1\ud83d\udcbe\ud83d\udd17\ud83d\udce1",
+    "categories": [
+      "Filesystem",
+      "Storage",
+      "Infrastructure",
+      "Linux",
+      "Cloud",
+      "Backup"
+    ],
+    "related": [
+      "gpt",
+      "lost+found",
+      "lvm",
+      "zfs pool",
+      "nfs"
+    ],
+    "aliases": [
+      "swap partition",
+      "SWAP PARTITION"
+    ],
+    "use_case": "A sysadmin uses Swap Partition to recover data, configure disks, or mount network/cloud-based file systems.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "boot partition": {
+    "eli5": "Boot Partition is like a part of your computer's storage puzzle\u2014it helps organize, fix, or share files.",
+    "boss": "Boot Partition is related to partitions, volume management, filesystem health, or network/cloud-based storage used to ensure data is structured, accessible, and resilient.",
+    "sysadmin": "Boot Partition refers to a disk structure, partition type, filesystem error, or remote/cloud filesystem used in managing persistent storage and recovering from disk failures.",
+    "emoji": "\ud83e\uddf1\ud83d\udcbe\ud83d\udd17\ud83d\udce1",
+    "categories": [
+      "Filesystem",
+      "Storage",
+      "Infrastructure",
+      "Linux",
+      "Cloud",
+      "Backup"
+    ],
+    "related": [
+      "gpt",
+      "lost+found",
+      "lvm",
+      "zfs pool",
+      "nfs"
+    ],
+    "aliases": [
+      "boot partition",
+      "BOOT PARTITION"
+    ],
+    "use_case": "A sysadmin uses Boot Partition to recover data, configure disks, or mount network/cloud-based file systems.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "efi system partition (esp)": {
+    "eli5": "EFI System Partition (ESP) is like a part of your computer's storage puzzle\u2014it helps organize, fix, or share files.",
+    "boss": "EFI System Partition (ESP) is related to partitions, volume management, filesystem health, or network/cloud-based storage used to ensure data is structured, accessible, and resilient.",
+    "sysadmin": "EFI System Partition (ESP) refers to a disk structure, partition type, filesystem error, or remote/cloud filesystem used in managing persistent storage and recovering from disk failures.",
+    "emoji": "\ud83e\uddf1\ud83d\udcbe\ud83d\udd17\ud83d\udce1",
+    "categories": [
+      "Filesystem",
+      "Storage",
+      "Infrastructure",
+      "Linux",
+      "Cloud",
+      "Backup"
+    ],
+    "related": [
+      "gpt",
+      "lost+found",
+      "lvm",
+      "zfs pool",
+      "nfs"
+    ],
+    "aliases": [
+      "efi system partition (esp)",
+      "EFI SYSTEM PARTITION (ESP)"
+    ],
+    "use_case": "A sysadmin uses EFI System Partition (ESP) to recover data, configure disks, or mount network/cloud-based file systems.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "recovery partition": {
+    "eli5": "Recovery Partition is like a part of your computer's storage puzzle\u2014it helps organize, fix, or share files.",
+    "boss": "Recovery Partition is related to partitions, volume management, filesystem health, or network/cloud-based storage used to ensure data is structured, accessible, and resilient.",
+    "sysadmin": "Recovery Partition refers to a disk structure, partition type, filesystem error, or remote/cloud filesystem used in managing persistent storage and recovering from disk failures.",
+    "emoji": "\ud83e\uddf1\ud83d\udcbe\ud83d\udd17\ud83d\udce1",
+    "categories": [
+      "Filesystem",
+      "Storage",
+      "Infrastructure",
+      "Linux",
+      "Cloud",
+      "Backup"
+    ],
+    "related": [
+      "gpt",
+      "lost+found",
+      "lvm",
+      "zfs pool",
+      "nfs"
+    ],
+    "aliases": [
+      "recovery partition",
+      "RECOVERY PARTITION"
+    ],
+    "use_case": "A sysadmin uses Recovery Partition to recover data, configure disks, or mount network/cloud-based file systems.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "disk layout": {
+    "eli5": "Disk Layout is like a part of your computer's storage puzzle\u2014it helps organize, fix, or share files.",
+    "boss": "Disk Layout is related to partitions, volume management, filesystem health, or network/cloud-based storage used to ensure data is structured, accessible, and resilient.",
+    "sysadmin": "Disk Layout refers to a disk structure, partition type, filesystem error, or remote/cloud filesystem used in managing persistent storage and recovering from disk failures.",
+    "emoji": "\ud83e\uddf1\ud83d\udcbe\ud83d\udd17\ud83d\udce1",
+    "categories": [
+      "Filesystem",
+      "Storage",
+      "Infrastructure",
+      "Linux",
+      "Cloud",
+      "Backup"
+    ],
+    "related": [
+      "gpt",
+      "lost+found",
+      "lvm",
+      "zfs pool",
+      "nfs"
+    ],
+    "aliases": [
+      "disk layout",
+      "DISK LAYOUT"
+    ],
+    "use_case": "A sysadmin uses Disk Layout to recover data, configure disks, or mount network/cloud-based file systems.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "mbr (master boot record)": {
+    "eli5": "MBR (Master Boot Record) is like a part of your computer's storage puzzle\u2014it helps organize, fix, or share files.",
+    "boss": "MBR (Master Boot Record) is related to partitions, volume management, filesystem health, or network/cloud-based storage used to ensure data is structured, accessible, and resilient.",
+    "sysadmin": "MBR (Master Boot Record) refers to a disk structure, partition type, filesystem error, or remote/cloud filesystem used in managing persistent storage and recovering from disk failures.",
+    "emoji": "\ud83e\uddf1\ud83d\udcbe\ud83d\udd17\ud83d\udce1",
+    "categories": [
+      "Filesystem",
+      "Storage",
+      "Infrastructure",
+      "Linux",
+      "Cloud",
+      "Backup"
+    ],
+    "related": [
+      "gpt",
+      "lost+found",
+      "lvm",
+      "zfs pool",
+      "nfs"
+    ],
+    "aliases": [
+      "mbr (master boot record)",
+      "MBR (MASTER BOOT RECORD)"
+    ],
+    "use_case": "A sysadmin uses MBR (Master Boot Record) to recover data, configure disks, or mount network/cloud-based file systems.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "gpt (guid partition table)": {
+    "eli5": "GPT (GUID Partition Table) is like a part of your computer's storage puzzle\u2014it helps organize, fix, or share files.",
+    "boss": "GPT (GUID Partition Table) is related to partitions, volume management, filesystem health, or network/cloud-based storage used to ensure data is structured, accessible, and resilient.",
+    "sysadmin": "GPT (GUID Partition Table) refers to a disk structure, partition type, filesystem error, or remote/cloud filesystem used in managing persistent storage and recovering from disk failures.",
+    "emoji": "\ud83e\uddf1\ud83d\udcbe\ud83d\udd17\ud83d\udce1",
+    "categories": [
+      "Filesystem",
+      "Storage",
+      "Infrastructure",
+      "Linux",
+      "Cloud",
+      "Backup"
+    ],
+    "related": [
+      "gpt",
+      "lost+found",
+      "lvm",
+      "zfs pool",
+      "nfs"
+    ],
+    "aliases": [
+      "gpt (guid partition table)",
+      "GPT (GUID PARTITION TABLE)"
+    ],
+    "use_case": "A sysadmin uses GPT (GUID Partition Table) to recover data, configure disks, or mount network/cloud-based file systems.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "partition table": {
+    "eli5": "Partition Table is like a part of your computer's storage puzzle\u2014it helps organize, fix, or share files.",
+    "boss": "Partition Table is related to partitions, volume management, filesystem health, or network/cloud-based storage used to ensure data is structured, accessible, and resilient.",
+    "sysadmin": "Partition Table refers to a disk structure, partition type, filesystem error, or remote/cloud filesystem used in managing persistent storage and recovering from disk failures.",
+    "emoji": "\ud83e\uddf1\ud83d\udcbe\ud83d\udd17\ud83d\udce1",
+    "categories": [
+      "Filesystem",
+      "Storage",
+      "Infrastructure",
+      "Linux",
+      "Cloud",
+      "Backup"
+    ],
+    "related": [
+      "gpt",
+      "lost+found",
+      "lvm",
+      "zfs pool",
+      "nfs"
+    ],
+    "aliases": [
+      "partition table",
+      "PARTITION TABLE"
+    ],
+    "use_case": "A sysadmin uses Partition Table to recover data, configure disks, or mount network/cloud-based file systems.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "boot sector": {
+    "eli5": "Boot Sector is like a part of your computer's storage puzzle\u2014it helps organize, fix, or share files.",
+    "boss": "Boot Sector is related to partitions, volume management, filesystem health, or network/cloud-based storage used to ensure data is structured, accessible, and resilient.",
+    "sysadmin": "Boot Sector refers to a disk structure, partition type, filesystem error, or remote/cloud filesystem used in managing persistent storage and recovering from disk failures.",
+    "emoji": "\ud83e\uddf1\ud83d\udcbe\ud83d\udd17\ud83d\udce1",
+    "categories": [
+      "Filesystem",
+      "Storage",
+      "Infrastructure",
+      "Linux",
+      "Cloud",
+      "Backup"
+    ],
+    "related": [
+      "gpt",
+      "lost+found",
+      "lvm",
+      "zfs pool",
+      "nfs"
+    ],
+    "aliases": [
+      "boot sector",
+      "BOOT SECTOR"
+    ],
+    "use_case": "A sysadmin uses Boot Sector to recover data, configure disks, or mount network/cloud-based file systems.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "disk label": {
+    "eli5": "Disk Label is like a part of your computer's storage puzzle\u2014it helps organize, fix, or share files.",
+    "boss": "Disk Label is related to partitions, volume management, filesystem health, or network/cloud-based storage used to ensure data is structured, accessible, and resilient.",
+    "sysadmin": "Disk Label refers to a disk structure, partition type, filesystem error, or remote/cloud filesystem used in managing persistent storage and recovering from disk failures.",
+    "emoji": "\ud83e\uddf1\ud83d\udcbe\ud83d\udd17\ud83d\udce1",
+    "categories": [
+      "Filesystem",
+      "Storage",
+      "Infrastructure",
+      "Linux",
+      "Cloud",
+      "Backup"
+    ],
+    "related": [
+      "gpt",
+      "lost+found",
+      "lvm",
+      "zfs pool",
+      "nfs"
+    ],
+    "aliases": [
+      "disk label",
+      "DISK LABEL"
+    ],
+    "use_case": "A sysadmin uses Disk Label to recover data, configure disks, or mount network/cloud-based file systems.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "sector": {
+    "eli5": "Sector is like a part of your computer's storage puzzle\u2014it helps organize, fix, or share files.",
+    "boss": "Sector is related to partitions, volume management, filesystem health, or network/cloud-based storage used to ensure data is structured, accessible, and resilient.",
+    "sysadmin": "Sector refers to a disk structure, partition type, filesystem error, or remote/cloud filesystem used in managing persistent storage and recovering from disk failures.",
+    "emoji": "\ud83e\uddf1\ud83d\udcbe\ud83d\udd17\ud83d\udce1",
+    "categories": [
+      "Filesystem",
+      "Storage",
+      "Infrastructure",
+      "Linux",
+      "Cloud",
+      "Backup"
+    ],
+    "related": [
+      "gpt",
+      "lost+found",
+      "lvm",
+      "zfs pool",
+      "nfs"
+    ],
+    "aliases": [
+      "sector",
+      "SECTOR"
+    ],
+    "use_case": "A sysadmin uses Sector to recover data, configure disks, or mount network/cloud-based file systems.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "cylinder": {
+    "eli5": "Cylinder is like a part of your computer's storage puzzle\u2014it helps organize, fix, or share files.",
+    "boss": "Cylinder is related to partitions, volume management, filesystem health, or network/cloud-based storage used to ensure data is structured, accessible, and resilient.",
+    "sysadmin": "Cylinder refers to a disk structure, partition type, filesystem error, or remote/cloud filesystem used in managing persistent storage and recovering from disk failures.",
+    "emoji": "\ud83e\uddf1\ud83d\udcbe\ud83d\udd17\ud83d\udce1",
+    "categories": [
+      "Filesystem",
+      "Storage",
+      "Infrastructure",
+      "Linux",
+      "Cloud",
+      "Backup"
+    ],
+    "related": [
+      "gpt",
+      "lost+found",
+      "lvm",
+      "zfs pool",
+      "nfs"
+    ],
+    "aliases": [
+      "cylinder",
+      "CYLINDER"
+    ],
+    "use_case": "A sysadmin uses Cylinder to recover data, configure disks, or mount network/cloud-based file systems.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "track": {
+    "eli5": "Track is like a part of your computer's storage puzzle\u2014it helps organize, fix, or share files.",
+    "boss": "Track is related to partitions, volume management, filesystem health, or network/cloud-based storage used to ensure data is structured, accessible, and resilient.",
+    "sysadmin": "Track refers to a disk structure, partition type, filesystem error, or remote/cloud filesystem used in managing persistent storage and recovering from disk failures.",
+    "emoji": "\ud83e\uddf1\ud83d\udcbe\ud83d\udd17\ud83d\udce1",
+    "categories": [
+      "Filesystem",
+      "Storage",
+      "Infrastructure",
+      "Linux",
+      "Cloud",
+      "Backup"
+    ],
+    "related": [
+      "gpt",
+      "lost+found",
+      "lvm",
+      "zfs pool",
+      "nfs"
+    ],
+    "aliases": [
+      "track",
+      "TRACK"
+    ],
+    "use_case": "A sysadmin uses Track to recover data, configure disks, or mount network/cloud-based file systems.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "block": {
+    "eli5": "Block is like a part of your computer's storage puzzle\u2014it helps organize, fix, or share files.",
+    "boss": "Block is related to partitions, volume management, filesystem health, or network/cloud-based storage used to ensure data is structured, accessible, and resilient.",
+    "sysadmin": "Block refers to a disk structure, partition type, filesystem error, or remote/cloud filesystem used in managing persistent storage and recovering from disk failures.",
+    "emoji": "\ud83e\uddf1\ud83d\udcbe\ud83d\udd17\ud83d\udce1",
+    "categories": [
+      "Filesystem",
+      "Storage",
+      "Infrastructure",
+      "Linux",
+      "Cloud",
+      "Backup"
+    ],
+    "related": [
+      "gpt",
+      "lost+found",
+      "lvm",
+      "zfs pool",
+      "nfs"
+    ],
+    "aliases": [
+      "block",
+      "BLOCK"
+    ],
+    "use_case": "A sysadmin uses Block to recover data, configure disks, or mount network/cloud-based file systems.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "logical block addressing (lba)": {
+    "eli5": "Logical Block Addressing (LBA) is like a part of your computer's storage puzzle\u2014it helps organize, fix, or share files.",
+    "boss": "Logical Block Addressing (LBA) is related to partitions, volume management, filesystem health, or network/cloud-based storage used to ensure data is structured, accessible, and resilient.",
+    "sysadmin": "Logical Block Addressing (LBA) refers to a disk structure, partition type, filesystem error, or remote/cloud filesystem used in managing persistent storage and recovering from disk failures.",
+    "emoji": "\ud83e\uddf1\ud83d\udcbe\ud83d\udd17\ud83d\udce1",
+    "categories": [
+      "Filesystem",
+      "Storage",
+      "Infrastructure",
+      "Linux",
+      "Cloud",
+      "Backup"
+    ],
+    "related": [
+      "gpt",
+      "lost+found",
+      "lvm",
+      "zfs pool",
+      "nfs"
+    ],
+    "aliases": [
+      "logical block addressing (lba)",
+      "LOGICAL BLOCK ADDRESSING (LBA)"
+    ],
+    "use_case": "A sysadmin uses Logical Block Addressing (LBA) to recover data, configure disks, or mount network/cloud-based file systems.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "volume management": {
+    "eli5": "Volume Management is like a part of your computer's storage puzzle\u2014it helps organize, fix, or share files.",
+    "boss": "Volume Management is related to partitions, volume management, filesystem health, or network/cloud-based storage used to ensure data is structured, accessible, and resilient.",
+    "sysadmin": "Volume Management refers to a disk structure, partition type, filesystem error, or remote/cloud filesystem used in managing persistent storage and recovering from disk failures.",
+    "emoji": "\ud83e\uddf1\ud83d\udcbe\ud83d\udd17\ud83d\udce1",
+    "categories": [
+      "Filesystem",
+      "Storage",
+      "Infrastructure",
+      "Linux",
+      "Cloud",
+      "Backup"
+    ],
+    "related": [
+      "gpt",
+      "lost+found",
+      "lvm",
+      "zfs pool",
+      "nfs"
+    ],
+    "aliases": [
+      "volume management",
+      "VOLUME MANAGEMENT"
+    ],
+    "use_case": "A sysadmin uses Volume Management to recover data, configure disks, or mount network/cloud-based file systems.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "lvm (logical volume manager)": {
+    "eli5": "LVM (Logical Volume Manager) is like a part of your computer's storage puzzle\u2014it helps organize, fix, or share files.",
+    "boss": "LVM (Logical Volume Manager) is related to partitions, volume management, filesystem health, or network/cloud-based storage used to ensure data is structured, accessible, and resilient.",
+    "sysadmin": "LVM (Logical Volume Manager) refers to a disk structure, partition type, filesystem error, or remote/cloud filesystem used in managing persistent storage and recovering from disk failures.",
+    "emoji": "\ud83e\uddf1\ud83d\udcbe\ud83d\udd17\ud83d\udce1",
+    "categories": [
+      "Filesystem",
+      "Storage",
+      "Infrastructure",
+      "Linux",
+      "Cloud",
+      "Backup"
+    ],
+    "related": [
+      "gpt",
+      "lost+found",
+      "lvm",
+      "zfs pool",
+      "nfs"
+    ],
+    "aliases": [
+      "lvm (logical volume manager)",
+      "LVM (LOGICAL VOLUME MANAGER)"
+    ],
+    "use_case": "A sysadmin uses LVM (Logical Volume Manager) to recover data, configure disks, or mount network/cloud-based file systems.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "volume group": {
+    "eli5": "Volume Group is like a part of your computer's storage puzzle\u2014it helps organize, fix, or share files.",
+    "boss": "Volume Group is related to partitions, volume management, filesystem health, or network/cloud-based storage used to ensure data is structured, accessible, and resilient.",
+    "sysadmin": "Volume Group refers to a disk structure, partition type, filesystem error, or remote/cloud filesystem used in managing persistent storage and recovering from disk failures.",
+    "emoji": "\ud83e\uddf1\ud83d\udcbe\ud83d\udd17\ud83d\udce1",
+    "categories": [
+      "Filesystem",
+      "Storage",
+      "Infrastructure",
+      "Linux",
+      "Cloud",
+      "Backup"
+    ],
+    "related": [
+      "gpt",
+      "lost+found",
+      "lvm",
+      "zfs pool",
+      "nfs"
+    ],
+    "aliases": [
+      "volume group",
+      "VOLUME GROUP"
+    ],
+    "use_case": "A sysadmin uses Volume Group to recover data, configure disks, or mount network/cloud-based file systems.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "physical volume": {
+    "eli5": "Physical Volume is like a part of your computer's storage puzzle\u2014it helps organize, fix, or share files.",
+    "boss": "Physical Volume is related to partitions, volume management, filesystem health, or network/cloud-based storage used to ensure data is structured, accessible, and resilient.",
+    "sysadmin": "Physical Volume refers to a disk structure, partition type, filesystem error, or remote/cloud filesystem used in managing persistent storage and recovering from disk failures.",
+    "emoji": "\ud83e\uddf1\ud83d\udcbe\ud83d\udd17\ud83d\udce1",
+    "categories": [
+      "Filesystem",
+      "Storage",
+      "Infrastructure",
+      "Linux",
+      "Cloud",
+      "Backup"
+    ],
+    "related": [
+      "gpt",
+      "lost+found",
+      "lvm",
+      "zfs pool",
+      "nfs"
+    ],
+    "aliases": [
+      "physical volume",
+      "PHYSICAL VOLUME"
+    ],
+    "use_case": "A sysadmin uses Physical Volume to recover data, configure disks, or mount network/cloud-based file systems.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "logical volume": {
+    "eli5": "Logical Volume is like a part of your computer's storage puzzle\u2014it helps organize, fix, or share files.",
+    "boss": "Logical Volume is related to partitions, volume management, filesystem health, or network/cloud-based storage used to ensure data is structured, accessible, and resilient.",
+    "sysadmin": "Logical Volume refers to a disk structure, partition type, filesystem error, or remote/cloud filesystem used in managing persistent storage and recovering from disk failures.",
+    "emoji": "\ud83e\uddf1\ud83d\udcbe\ud83d\udd17\ud83d\udce1",
+    "categories": [
+      "Filesystem",
+      "Storage",
+      "Infrastructure",
+      "Linux",
+      "Cloud",
+      "Backup"
+    ],
+    "related": [
+      "gpt",
+      "lost+found",
+      "lvm",
+      "zfs pool",
+      "nfs"
+    ],
+    "aliases": [
+      "logical volume",
+      "LOGICAL VOLUME"
+    ],
+    "use_case": "A sysadmin uses Logical Volume to recover data, configure disks, or mount network/cloud-based file systems.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "thin pool": {
+    "eli5": "Thin Pool is like a part of your computer's storage puzzle\u2014it helps organize, fix, or share files.",
+    "boss": "Thin Pool is related to partitions, volume management, filesystem health, or network/cloud-based storage used to ensure data is structured, accessible, and resilient.",
+    "sysadmin": "Thin Pool refers to a disk structure, partition type, filesystem error, or remote/cloud filesystem used in managing persistent storage and recovering from disk failures.",
+    "emoji": "\ud83e\uddf1\ud83d\udcbe\ud83d\udd17\ud83d\udce1",
+    "categories": [
+      "Filesystem",
+      "Storage",
+      "Infrastructure",
+      "Linux",
+      "Cloud",
+      "Backup"
+    ],
+    "related": [
+      "gpt",
+      "lost+found",
+      "lvm",
+      "zfs pool",
+      "nfs"
+    ],
+    "aliases": [
+      "thin pool",
+      "THIN POOL"
+    ],
+    "use_case": "A sysadmin uses Thin Pool to recover data, configure disks, or mount network/cloud-based file systems.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "snapshot volume": {
+    "eli5": "Snapshot Volume is like a part of your computer's storage puzzle\u2014it helps organize, fix, or share files.",
+    "boss": "Snapshot Volume is related to partitions, volume management, filesystem health, or network/cloud-based storage used to ensure data is structured, accessible, and resilient.",
+    "sysadmin": "Snapshot Volume refers to a disk structure, partition type, filesystem error, or remote/cloud filesystem used in managing persistent storage and recovering from disk failures.",
+    "emoji": "\ud83e\uddf1\ud83d\udcbe\ud83d\udd17\ud83d\udce1",
+    "categories": [
+      "Filesystem",
+      "Storage",
+      "Infrastructure",
+      "Linux",
+      "Cloud",
+      "Backup"
+    ],
+    "related": [
+      "gpt",
+      "lost+found",
+      "lvm",
+      "zfs pool",
+      "nfs"
+    ],
+    "aliases": [
+      "snapshot volume",
+      "SNAPSHOT VOLUME"
+    ],
+    "use_case": "A sysadmin uses Snapshot Volume to recover data, configure disks, or mount network/cloud-based file systems.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "raid array": {
+    "eli5": "RAID Array is like a part of your computer's storage puzzle\u2014it helps organize, fix, or share files.",
+    "boss": "RAID Array is related to partitions, volume management, filesystem health, or network/cloud-based storage used to ensure data is structured, accessible, and resilient.",
+    "sysadmin": "RAID Array refers to a disk structure, partition type, filesystem error, or remote/cloud filesystem used in managing persistent storage and recovering from disk failures.",
+    "emoji": "\ud83e\uddf1\ud83d\udcbe\ud83d\udd17\ud83d\udce1",
+    "categories": [
+      "Filesystem",
+      "Storage",
+      "Infrastructure",
+      "Linux",
+      "Cloud",
+      "Backup"
+    ],
+    "related": [
+      "gpt",
+      "lost+found",
+      "lvm",
+      "zfs pool",
+      "nfs"
+    ],
+    "aliases": [
+      "raid array",
+      "RAID ARRAY"
+    ],
+    "use_case": "A sysadmin uses RAID Array to recover data, configure disks, or mount network/cloud-based file systems.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "zfs pool": {
+    "eli5": "ZFS Pool is like a part of your computer's storage puzzle\u2014it helps organize, fix, or share files.",
+    "boss": "ZFS Pool is related to partitions, volume management, filesystem health, or network/cloud-based storage used to ensure data is structured, accessible, and resilient.",
+    "sysadmin": "ZFS Pool refers to a disk structure, partition type, filesystem error, or remote/cloud filesystem used in managing persistent storage and recovering from disk failures.",
+    "emoji": "\ud83e\uddf1\ud83d\udcbe\ud83d\udd17\ud83d\udce1",
+    "categories": [
+      "Filesystem",
+      "Storage",
+      "Infrastructure",
+      "Linux",
+      "Cloud",
+      "Backup"
+    ],
+    "related": [
+      "gpt",
+      "lost+found",
+      "lvm",
+      "zfs pool",
+      "nfs"
+    ],
+    "aliases": [
+      "zfs pool",
+      "ZFS POOL"
+    ],
+    "use_case": "A sysadmin uses ZFS Pool to recover data, configure disks, or mount network/cloud-based file systems.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "zfs dataset": {
+    "eli5": "ZFS Dataset is like a part of your computer's storage puzzle\u2014it helps organize, fix, or share files.",
+    "boss": "ZFS Dataset is related to partitions, volume management, filesystem health, or network/cloud-based storage used to ensure data is structured, accessible, and resilient.",
+    "sysadmin": "ZFS Dataset refers to a disk structure, partition type, filesystem error, or remote/cloud filesystem used in managing persistent storage and recovering from disk failures.",
+    "emoji": "\ud83e\uddf1\ud83d\udcbe\ud83d\udd17\ud83d\udce1",
+    "categories": [
+      "Filesystem",
+      "Storage",
+      "Infrastructure",
+      "Linux",
+      "Cloud",
+      "Backup"
+    ],
+    "related": [
+      "gpt",
+      "lost+found",
+      "lvm",
+      "zfs pool",
+      "nfs"
+    ],
+    "aliases": [
+      "zfs dataset",
+      "ZFS DATASET"
+    ],
+    "use_case": "A sysadmin uses ZFS Dataset to recover data, configure disks, or mount network/cloud-based file systems.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "zfs volume": {
+    "eli5": "ZFS Volume is like a part of your computer's storage puzzle\u2014it helps organize, fix, or share files.",
+    "boss": "ZFS Volume is related to partitions, volume management, filesystem health, or network/cloud-based storage used to ensure data is structured, accessible, and resilient.",
+    "sysadmin": "ZFS Volume refers to a disk structure, partition type, filesystem error, or remote/cloud filesystem used in managing persistent storage and recovering from disk failures.",
+    "emoji": "\ud83e\uddf1\ud83d\udcbe\ud83d\udd17\ud83d\udce1",
+    "categories": [
+      "Filesystem",
+      "Storage",
+      "Infrastructure",
+      "Linux",
+      "Cloud",
+      "Backup"
+    ],
+    "related": [
+      "gpt",
+      "lost+found",
+      "lvm",
+      "zfs pool",
+      "nfs"
+    ],
+    "aliases": [
+      "zfs volume",
+      "ZFS VOLUME"
+    ],
+    "use_case": "A sysadmin uses ZFS Volume to recover data, configure disks, or mount network/cloud-based file systems.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "networked filesystems": {
+    "eli5": "Networked Filesystems is like a part of your computer's storage puzzle\u2014it helps organize, fix, or share files.",
+    "boss": "Networked Filesystems is related to partitions, volume management, filesystem health, or network/cloud-based storage used to ensure data is structured, accessible, and resilient.",
+    "sysadmin": "Networked Filesystems refers to a disk structure, partition type, filesystem error, or remote/cloud filesystem used in managing persistent storage and recovering from disk failures.",
+    "emoji": "\ud83e\uddf1\ud83d\udcbe\ud83d\udd17\ud83d\udce1",
+    "categories": [
+      "Filesystem",
+      "Storage",
+      "Infrastructure",
+      "Linux",
+      "Cloud",
+      "Backup"
+    ],
+    "related": [
+      "gpt",
+      "lost+found",
+      "lvm",
+      "zfs pool",
+      "nfs"
+    ],
+    "aliases": [
+      "networked filesystems",
+      "NETWORKED FILESYSTEMS"
+    ],
+    "use_case": "A sysadmin uses Networked Filesystems to recover data, configure disks, or mount network/cloud-based file systems.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "nfs (network file system)": {
+    "eli5": "NFS (Network File System) is like a part of your computer's storage puzzle\u2014it helps organize, fix, or share files.",
+    "boss": "NFS (Network File System) is related to partitions, volume management, filesystem health, or network/cloud-based storage used to ensure data is structured, accessible, and resilient.",
+    "sysadmin": "NFS (Network File System) refers to a disk structure, partition type, filesystem error, or remote/cloud filesystem used in managing persistent storage and recovering from disk failures.",
+    "emoji": "\ud83e\uddf1\ud83d\udcbe\ud83d\udd17\ud83d\udce1",
+    "categories": [
+      "Filesystem",
+      "Storage",
+      "Infrastructure",
+      "Linux",
+      "Cloud",
+      "Backup"
+    ],
+    "related": [
+      "gpt",
+      "lost+found",
+      "lvm",
+      "zfs pool",
+      "nfs"
+    ],
+    "aliases": [
+      "nfs (network file system)",
+      "NFS (NETWORK FILE SYSTEM)"
+    ],
+    "use_case": "A sysadmin uses NFS (Network File System) to recover data, configure disks, or mount network/cloud-based file systems.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "afs": {
+    "eli5": "AFS is like a part of your computer's storage puzzle\u2014it helps organize, fix, or share files.",
+    "boss": "AFS is related to partitions, volume management, filesystem health, or network/cloud-based storage used to ensure data is structured, accessible, and resilient.",
+    "sysadmin": "AFS refers to a disk structure, partition type, filesystem error, or remote/cloud filesystem used in managing persistent storage and recovering from disk failures.",
+    "emoji": "\ud83e\uddf1\ud83d\udcbe\ud83d\udd17\ud83d\udce1",
+    "categories": [
+      "Filesystem",
+      "Storage",
+      "Infrastructure",
+      "Linux",
+      "Cloud",
+      "Backup"
+    ],
+    "related": [
+      "gpt",
+      "lost+found",
+      "lvm",
+      "zfs pool",
+      "nfs"
+    ],
+    "aliases": [
+      "afs",
+      "AFS"
+    ],
+    "use_case": "A sysadmin uses AFS to recover data, configure disks, or mount network/cloud-based file systems.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "sshfs": {
+    "eli5": "SSHFS is like a part of your computer's storage puzzle\u2014it helps organize, fix, or share files.",
+    "boss": "SSHFS is related to partitions, volume management, filesystem health, or network/cloud-based storage used to ensure data is structured, accessible, and resilient.",
+    "sysadmin": "SSHFS refers to a disk structure, partition type, filesystem error, or remote/cloud filesystem used in managing persistent storage and recovering from disk failures.",
+    "emoji": "\ud83e\uddf1\ud83d\udcbe\ud83d\udd17\ud83d\udce1",
+    "categories": [
+      "Filesystem",
+      "Storage",
+      "Infrastructure",
+      "Linux",
+      "Cloud",
+      "Backup"
+    ],
+    "related": [
+      "gpt",
+      "lost+found",
+      "lvm",
+      "zfs pool",
+      "nfs"
+    ],
+    "aliases": [
+      "sshfs",
+      "SSHFS"
+    ],
+    "use_case": "A sysadmin uses SSHFS to recover data, configure disks, or mount network/cloud-based file systems.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "cephfs": {
+    "eli5": "CephFS is like a part of your computer's storage puzzle\u2014it helps organize, fix, or share files.",
+    "boss": "CephFS is related to partitions, volume management, filesystem health, or network/cloud-based storage used to ensure data is structured, accessible, and resilient.",
+    "sysadmin": "CephFS refers to a disk structure, partition type, filesystem error, or remote/cloud filesystem used in managing persistent storage and recovering from disk failures.",
+    "emoji": "\ud83e\uddf1\ud83d\udcbe\ud83d\udd17\ud83d\udce1",
+    "categories": [
+      "Filesystem",
+      "Storage",
+      "Infrastructure",
+      "Linux",
+      "Cloud",
+      "Backup"
+    ],
+    "related": [
+      "gpt",
+      "lost+found",
+      "lvm",
+      "zfs pool",
+      "nfs"
+    ],
+    "aliases": [
+      "cephfs",
+      "CEPHFS"
+    ],
+    "use_case": "A sysadmin uses CephFS to recover data, configure disks, or mount network/cloud-based file systems.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "drbd": {
+    "eli5": "DRBD is like a part of your computer's storage puzzle\u2014it helps organize, fix, or share files.",
+    "boss": "DRBD is related to partitions, volume management, filesystem health, or network/cloud-based storage used to ensure data is structured, accessible, and resilient.",
+    "sysadmin": "DRBD refers to a disk structure, partition type, filesystem error, or remote/cloud filesystem used in managing persistent storage and recovering from disk failures.",
+    "emoji": "\ud83e\uddf1\ud83d\udcbe\ud83d\udd17\ud83d\udce1",
+    "categories": [
+      "Filesystem",
+      "Storage",
+      "Infrastructure",
+      "Linux",
+      "Cloud",
+      "Backup"
+    ],
+    "related": [
+      "gpt",
+      "lost+found",
+      "lvm",
+      "zfs pool",
+      "nfs"
+    ],
+    "aliases": [
+      "drbd",
+      "DRBD"
+    ],
+    "use_case": "A sysadmin uses DRBD to recover data, configure disks, or mount network/cloud-based file systems.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "cloud filesystems": {
+    "eli5": "Cloud Filesystems is like a part of your computer's storage puzzle\u2014it helps organize, fix, or share files.",
+    "boss": "Cloud Filesystems is related to partitions, volume management, filesystem health, or network/cloud-based storage used to ensure data is structured, accessible, and resilient.",
+    "sysadmin": "Cloud Filesystems refers to a disk structure, partition type, filesystem error, or remote/cloud filesystem used in managing persistent storage and recovering from disk failures.",
+    "emoji": "\ud83e\uddf1\ud83d\udcbe\ud83d\udd17\ud83d\udce1",
+    "categories": [
+      "Filesystem",
+      "Storage",
+      "Infrastructure",
+      "Linux",
+      "Cloud",
+      "Backup"
+    ],
+    "related": [
+      "gpt",
+      "lost+found",
+      "lvm",
+      "zfs pool",
+      "nfs"
+    ],
+    "aliases": [
+      "cloud filesystems",
+      "CLOUD FILESYSTEMS"
+    ],
+    "use_case": "A sysadmin uses Cloud Filesystems to recover data, configure disks, or mount network/cloud-based file systems.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "amazon efs": {
+    "eli5": "Amazon EFS is like a part of your computer's storage puzzle\u2014it helps organize, fix, or share files.",
+    "boss": "Amazon EFS is related to partitions, volume management, filesystem health, or network/cloud-based storage used to ensure data is structured, accessible, and resilient.",
+    "sysadmin": "Amazon EFS refers to a disk structure, partition type, filesystem error, or remote/cloud filesystem used in managing persistent storage and recovering from disk failures.",
+    "emoji": "\ud83e\uddf1\ud83d\udcbe\ud83d\udd17\ud83d\udce1",
+    "categories": [
+      "Filesystem",
+      "Storage",
+      "Infrastructure",
+      "Linux",
+      "Cloud",
+      "Backup"
+    ],
+    "related": [
+      "gpt",
+      "lost+found",
+      "lvm",
+      "zfs pool",
+      "nfs"
+    ],
+    "aliases": [
+      "amazon efs",
+      "AMAZON EFS"
+    ],
+    "use_case": "A sysadmin uses Amazon EFS to recover data, configure disks, or mount network/cloud-based file systems.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "azure files": {
+    "eli5": "Azure Files is like a part of your computer's storage puzzle\u2014it helps organize, fix, or share files.",
+    "boss": "Azure Files is related to partitions, volume management, filesystem health, or network/cloud-based storage used to ensure data is structured, accessible, and resilient.",
+    "sysadmin": "Azure Files refers to a disk structure, partition type, filesystem error, or remote/cloud filesystem used in managing persistent storage and recovering from disk failures.",
+    "emoji": "\ud83e\uddf1\ud83d\udcbe\ud83d\udd17\ud83d\udce1",
+    "categories": [
+      "Filesystem",
+      "Storage",
+      "Infrastructure",
+      "Linux",
+      "Cloud",
+      "Backup"
+    ],
+    "related": [
+      "gpt",
+      "lost+found",
+      "lvm",
+      "zfs pool",
+      "nfs"
+    ],
+    "aliases": [
+      "azure files",
+      "AZURE FILES"
+    ],
+    "use_case": "A sysadmin uses Azure Files to recover data, configure disks, or mount network/cloud-based file systems.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "google filestore": {
+    "eli5": "Google Filestore is like a part of your computer's storage puzzle\u2014it helps organize, fix, or share files.",
+    "boss": "Google Filestore is related to partitions, volume management, filesystem health, or network/cloud-based storage used to ensure data is structured, accessible, and resilient.",
+    "sysadmin": "Google Filestore refers to a disk structure, partition type, filesystem error, or remote/cloud filesystem used in managing persistent storage and recovering from disk failures.",
+    "emoji": "\ud83e\uddf1\ud83d\udcbe\ud83d\udd17\ud83d\udce1",
+    "categories": [
+      "Filesystem",
+      "Storage",
+      "Infrastructure",
+      "Linux",
+      "Cloud",
+      "Backup"
+    ],
+    "related": [
+      "gpt",
+      "lost+found",
+      "lvm",
+      "zfs pool",
+      "nfs"
+    ],
+    "aliases": [
+      "google filestore",
+      "GOOGLE FILESTORE"
+    ],
+    "use_case": "A sysadmin uses Google Filestore to recover data, configure disks, or mount network/cloud-based file systems.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "dropbox fuse": {
+    "eli5": "Dropbox FUSE is like a part of your computer's storage puzzle\u2014it helps organize, fix, or share files.",
+    "boss": "Dropbox FUSE is related to partitions, volume management, filesystem health, or network/cloud-based storage used to ensure data is structured, accessible, and resilient.",
+    "sysadmin": "Dropbox FUSE refers to a disk structure, partition type, filesystem error, or remote/cloud filesystem used in managing persistent storage and recovering from disk failures.",
+    "emoji": "\ud83e\uddf1\ud83d\udcbe\ud83d\udd17\ud83d\udce1",
+    "categories": [
+      "Filesystem",
+      "Storage",
+      "Infrastructure",
+      "Linux",
+      "Cloud",
+      "Backup"
+    ],
+    "related": [
+      "gpt",
+      "lost+found",
+      "lvm",
+      "zfs pool",
+      "nfs"
+    ],
+    "aliases": [
+      "dropbox fuse",
+      "DROPBOX FUSE"
+    ],
+    "use_case": "A sysadmin uses Dropbox FUSE to recover data, configure disks, or mount network/cloud-based file systems.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "s3fs": {
+    "eli5": "s3fs is like a part of your computer's storage puzzle\u2014it helps organize, fix, or share files.",
+    "boss": "s3fs is related to partitions, volume management, filesystem health, or network/cloud-based storage used to ensure data is structured, accessible, and resilient.",
+    "sysadmin": "s3fs refers to a disk structure, partition type, filesystem error, or remote/cloud filesystem used in managing persistent storage and recovering from disk failures.",
+    "emoji": "\ud83e\uddf1\ud83d\udcbe\ud83d\udd17\ud83d\udce1",
+    "categories": [
+      "Filesystem",
+      "Storage",
+      "Infrastructure",
+      "Linux",
+      "Cloud",
+      "Backup"
+    ],
+    "related": [
+      "gpt",
+      "lost+found",
+      "lvm",
+      "zfs pool",
+      "nfs"
+    ],
+    "aliases": [
+      "s3fs",
+      "S3FS"
+    ],
+    "use_case": "A sysadmin uses s3fs to recover data, configure disks, or mount network/cloud-based file systems.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "wasabi-fuse": {
+    "eli5": "wasabi-fuse is like a part of your computer's storage puzzle\u2014it helps organize, fix, or share files.",
+    "boss": "wasabi-fuse is related to partitions, volume management, filesystem health, or network/cloud-based storage used to ensure data is structured, accessible, and resilient.",
+    "sysadmin": "wasabi-fuse refers to a disk structure, partition type, filesystem error, or remote/cloud filesystem used in managing persistent storage and recovering from disk failures.",
+    "emoji": "\ud83e\uddf1\ud83d\udcbe\ud83d\udd17\ud83d\udce1",
+    "categories": [
+      "Filesystem",
+      "Storage",
+      "Infrastructure",
+      "Linux",
+      "Cloud",
+      "Backup"
+    ],
+    "related": [
+      "gpt",
+      "lost+found",
+      "lvm",
+      "zfs pool",
+      "nfs"
+    ],
+    "aliases": [
+      "wasabi-fuse",
+      "WASABI-FUSE"
+    ],
+    "use_case": "A sysadmin uses wasabi-fuse to recover data, configure disks, or mount network/cloud-based file systems.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  }
+}

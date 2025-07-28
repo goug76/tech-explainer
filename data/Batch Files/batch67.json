@@ -1,0 +1,1452 @@
+{
+  "google cloud ha vpn": {
+    "eli5": "Google Cloud HA VPN is like a rule, warning, or speed bump that affects how safely and quickly your internet tunnel works.",
+    "boss": "Google Cloud HA VPN encompasses cloud VPN solutions, legal restrictions, monitoring practices, and performance-related considerations critical for secure, compliant, and optimized network access.",
+    "sysadmin": "Google Cloud HA VPN refers to a cloud-native VPN feature, policy enforcement method, logging mechanism, legal consideration, or connection parameter that affects how virtual private networks are deployed, audited, or regulated.",
+    "emoji": "\ud83c\udf0d\ud83d\udd12\u2696\ufe0f\ud83d\udcc8",
+    "categories": [
+      "VPN",
+      "Firewall",
+      "Cloud",
+      "Security",
+      "Privacy",
+      "Monitoring",
+      "Infrastructure"
+    ],
+    "related": [
+      "vpn acceleration",
+      "vpn legality by country",
+      "audit trails",
+      "tls error",
+      "bypass geo-restrictions"
+    ],
+    "aliases": [
+      "google cloud ha vpn",
+      "GOOGLE CLOUD HA VPN"
+    ],
+    "use_case": "An engineer or privacy advocate uses Google Cloud HA VPN to configure VPNs for compliance, performance, or privacy-sensitive environments.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "cloudflare magic wan": {
+    "eli5": "Cloudflare Magic WAN is like a rule, warning, or speed bump that affects how safely and quickly your internet tunnel works.",
+    "boss": "Cloudflare Magic WAN encompasses cloud VPN solutions, legal restrictions, monitoring practices, and performance-related considerations critical for secure, compliant, and optimized network access.",
+    "sysadmin": "Cloudflare Magic WAN refers to a cloud-native VPN feature, policy enforcement method, logging mechanism, legal consideration, or connection parameter that affects how virtual private networks are deployed, audited, or regulated.",
+    "emoji": "\ud83c\udf0d\ud83d\udd12\u2696\ufe0f\ud83d\udcc8",
+    "categories": [
+      "VPN",
+      "Firewall",
+      "Cloud",
+      "Security",
+      "Privacy",
+      "Monitoring",
+      "Infrastructure"
+    ],
+    "related": [
+      "vpn acceleration",
+      "vpn legality by country",
+      "audit trails",
+      "tls error",
+      "bypass geo-restrictions"
+    ],
+    "aliases": [
+      "cloudflare magic wan",
+      "CLOUDFLARE MAGIC WAN"
+    ],
+    "use_case": "An engineer or privacy advocate uses Cloudflare Magic WAN to configure VPNs for compliance, performance, or privacy-sensitive environments.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "privatelink": {
+    "eli5": "PrivateLink is like a rule, warning, or speed bump that affects how safely and quickly your internet tunnel works.",
+    "boss": "PrivateLink encompasses cloud VPN solutions, legal restrictions, monitoring practices, and performance-related considerations critical for secure, compliant, and optimized network access.",
+    "sysadmin": "PrivateLink refers to a cloud-native VPN feature, policy enforcement method, logging mechanism, legal consideration, or connection parameter that affects how virtual private networks are deployed, audited, or regulated.",
+    "emoji": "\ud83c\udf0d\ud83d\udd12\u2696\ufe0f\ud83d\udcc8",
+    "categories": [
+      "VPN",
+      "Firewall",
+      "Cloud",
+      "Security",
+      "Privacy",
+      "Monitoring",
+      "Infrastructure"
+    ],
+    "related": [
+      "vpn acceleration",
+      "vpn legality by country",
+      "audit trails",
+      "tls error",
+      "bypass geo-restrictions"
+    ],
+    "aliases": [
+      "privatelink",
+      "PRIVATELINK"
+    ],
+    "use_case": "An engineer or privacy advocate uses PrivateLink to configure VPNs for compliance, performance, or privacy-sensitive environments.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "vpn cloudhub": {
+    "eli5": "VPN CloudHub is like a rule, warning, or speed bump that affects how safely and quickly your internet tunnel works.",
+    "boss": "VPN CloudHub encompasses cloud VPN solutions, legal restrictions, monitoring practices, and performance-related considerations critical for secure, compliant, and optimized network access.",
+    "sysadmin": "VPN CloudHub refers to a cloud-native VPN feature, policy enforcement method, logging mechanism, legal consideration, or connection parameter that affects how virtual private networks are deployed, audited, or regulated.",
+    "emoji": "\ud83c\udf0d\ud83d\udd12\u2696\ufe0f\ud83d\udcc8",
+    "categories": [
+      "VPN",
+      "Firewall",
+      "Cloud",
+      "Security",
+      "Privacy",
+      "Monitoring",
+      "Infrastructure"
+    ],
+    "related": [
+      "vpn acceleration",
+      "vpn legality by country",
+      "audit trails",
+      "tls error",
+      "bypass geo-restrictions"
+    ],
+    "aliases": [
+      "vpn cloudhub",
+      "VPN CLOUDHUB"
+    ],
+    "use_case": "An engineer or privacy advocate uses VPN CloudHub to configure VPNs for compliance, performance, or privacy-sensitive environments.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "vpn logging & monitoring": {
+    "eli5": "VPN Logging & Monitoring is like a rule, warning, or speed bump that affects how safely and quickly your internet tunnel works.",
+    "boss": "VPN Logging & Monitoring encompasses cloud VPN solutions, legal restrictions, monitoring practices, and performance-related considerations critical for secure, compliant, and optimized network access.",
+    "sysadmin": "VPN Logging & Monitoring refers to a cloud-native VPN feature, policy enforcement method, logging mechanism, legal consideration, or connection parameter that affects how virtual private networks are deployed, audited, or regulated.",
+    "emoji": "\ud83c\udf0d\ud83d\udd12\u2696\ufe0f\ud83d\udcc8",
+    "categories": [
+      "VPN",
+      "Firewall",
+      "Cloud",
+      "Security",
+      "Privacy",
+      "Monitoring",
+      "Infrastructure"
+    ],
+    "related": [
+      "vpn acceleration",
+      "vpn legality by country",
+      "audit trails",
+      "tls error",
+      "bypass geo-restrictions"
+    ],
+    "aliases": [
+      "vpn logging & monitoring",
+      "VPN LOGGING & MONITORING"
+    ],
+    "use_case": "An engineer or privacy advocate uses VPN Logging & Monitoring to configure VPNs for compliance, performance, or privacy-sensitive environments.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "vpn log retention": {
+    "eli5": "VPN Log Retention is like a rule, warning, or speed bump that affects how safely and quickly your internet tunnel works.",
+    "boss": "VPN Log Retention encompasses cloud VPN solutions, legal restrictions, monitoring practices, and performance-related considerations critical for secure, compliant, and optimized network access.",
+    "sysadmin": "VPN Log Retention refers to a cloud-native VPN feature, policy enforcement method, logging mechanism, legal consideration, or connection parameter that affects how virtual private networks are deployed, audited, or regulated.",
+    "emoji": "\ud83c\udf0d\ud83d\udd12\u2696\ufe0f\ud83d\udcc8",
+    "categories": [
+      "VPN",
+      "Firewall",
+      "Cloud",
+      "Security",
+      "Privacy",
+      "Monitoring",
+      "Infrastructure"
+    ],
+    "related": [
+      "vpn acceleration",
+      "vpn legality by country",
+      "audit trails",
+      "tls error",
+      "bypass geo-restrictions"
+    ],
+    "aliases": [
+      "vpn log retention",
+      "VPN LOG RETENTION"
+    ],
+    "use_case": "An engineer or privacy advocate uses VPN Log Retention to configure VPNs for compliance, performance, or privacy-sensitive environments.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "syslog output": {
+    "eli5": "Syslog Output is like a rule, warning, or speed bump that affects how safely and quickly your internet tunnel works.",
+    "boss": "Syslog Output encompasses cloud VPN solutions, legal restrictions, monitoring practices, and performance-related considerations critical for secure, compliant, and optimized network access.",
+    "sysadmin": "Syslog Output refers to a cloud-native VPN feature, policy enforcement method, logging mechanism, legal consideration, or connection parameter that affects how virtual private networks are deployed, audited, or regulated.",
+    "emoji": "\ud83c\udf0d\ud83d\udd12\u2696\ufe0f\ud83d\udcc8",
+    "categories": [
+      "VPN",
+      "Firewall",
+      "Cloud",
+      "Security",
+      "Privacy",
+      "Monitoring",
+      "Infrastructure"
+    ],
+    "related": [
+      "vpn acceleration",
+      "vpn legality by country",
+      "audit trails",
+      "tls error",
+      "bypass geo-restrictions"
+    ],
+    "aliases": [
+      "syslog output",
+      "SYSLOG OUTPUT"
+    ],
+    "use_case": "An engineer or privacy advocate uses Syslog Output to configure VPNs for compliance, performance, or privacy-sensitive environments.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "connection metrics": {
+    "eli5": "Connection Metrics is like a rule, warning, or speed bump that affects how safely and quickly your internet tunnel works.",
+    "boss": "Connection Metrics encompasses cloud VPN solutions, legal restrictions, monitoring practices, and performance-related considerations critical for secure, compliant, and optimized network access.",
+    "sysadmin": "Connection Metrics refers to a cloud-native VPN feature, policy enforcement method, logging mechanism, legal consideration, or connection parameter that affects how virtual private networks are deployed, audited, or regulated.",
+    "emoji": "\ud83c\udf0d\ud83d\udd12\u2696\ufe0f\ud83d\udcc8",
+    "categories": [
+      "VPN",
+      "Firewall",
+      "Cloud",
+      "Security",
+      "Privacy",
+      "Monitoring",
+      "Infrastructure"
+    ],
+    "related": [
+      "vpn acceleration",
+      "vpn legality by country",
+      "audit trails",
+      "tls error",
+      "bypass geo-restrictions"
+    ],
+    "aliases": [
+      "connection metrics",
+      "CONNECTION METRICS"
+    ],
+    "use_case": "An engineer or privacy advocate uses Connection Metrics to configure VPNs for compliance, performance, or privacy-sensitive environments.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "audit trails": {
+    "eli5": "Audit Trails is like a rule, warning, or speed bump that affects how safely and quickly your internet tunnel works.",
+    "boss": "Audit Trails encompasses cloud VPN solutions, legal restrictions, monitoring practices, and performance-related considerations critical for secure, compliant, and optimized network access.",
+    "sysadmin": "Audit Trails refers to a cloud-native VPN feature, policy enforcement method, logging mechanism, legal consideration, or connection parameter that affects how virtual private networks are deployed, audited, or regulated.",
+    "emoji": "\ud83c\udf0d\ud83d\udd12\u2696\ufe0f\ud83d\udcc8",
+    "categories": [
+      "VPN",
+      "Firewall",
+      "Cloud",
+      "Security",
+      "Privacy",
+      "Monitoring",
+      "Infrastructure"
+    ],
+    "related": [
+      "vpn acceleration",
+      "vpn legality by country",
+      "audit trails",
+      "tls error",
+      "bypass geo-restrictions"
+    ],
+    "aliases": [
+      "audit trails",
+      "AUDIT TRAILS"
+    ],
+    "use_case": "An engineer or privacy advocate uses Audit Trails to configure VPNs for compliance, performance, or privacy-sensitive environments.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "legal & regulatory": {
+    "eli5": "Legal & Regulatory is like a rule, warning, or speed bump that affects how safely and quickly your internet tunnel works.",
+    "boss": "Legal & Regulatory encompasses cloud VPN solutions, legal restrictions, monitoring practices, and performance-related considerations critical for secure, compliant, and optimized network access.",
+    "sysadmin": "Legal & Regulatory refers to a cloud-native VPN feature, policy enforcement method, logging mechanism, legal consideration, or connection parameter that affects how virtual private networks are deployed, audited, or regulated.",
+    "emoji": "\ud83c\udf0d\ud83d\udd12\u2696\ufe0f\ud83d\udcc8",
+    "categories": [
+      "VPN",
+      "Firewall",
+      "Cloud",
+      "Security",
+      "Privacy",
+      "Monitoring",
+      "Infrastructure"
+    ],
+    "related": [
+      "vpn acceleration",
+      "vpn legality by country",
+      "audit trails",
+      "tls error",
+      "bypass geo-restrictions"
+    ],
+    "aliases": [
+      "legal & regulatory",
+      "LEGAL & REGULATORY"
+    ],
+    "use_case": "An engineer or privacy advocate uses Legal & Regulatory to configure VPNs for compliance, performance, or privacy-sensitive environments.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "vpn legality by country": {
+    "eli5": "VPN Legality by Country is like a rule, warning, or speed bump that affects how safely and quickly your internet tunnel works.",
+    "boss": "VPN Legality by Country encompasses cloud VPN solutions, legal restrictions, monitoring practices, and performance-related considerations critical for secure, compliant, and optimized network access.",
+    "sysadmin": "VPN Legality by Country refers to a cloud-native VPN feature, policy enforcement method, logging mechanism, legal consideration, or connection parameter that affects how virtual private networks are deployed, audited, or regulated.",
+    "emoji": "\ud83c\udf0d\ud83d\udd12\u2696\ufe0f\ud83d\udcc8",
+    "categories": [
+      "VPN",
+      "Firewall",
+      "Cloud",
+      "Security",
+      "Privacy",
+      "Monitoring",
+      "Infrastructure"
+    ],
+    "related": [
+      "vpn acceleration",
+      "vpn legality by country",
+      "audit trails",
+      "tls error",
+      "bypass geo-restrictions"
+    ],
+    "aliases": [
+      "vpn legality by country",
+      "VPN LEGALITY BY COUNTRY"
+    ],
+    "use_case": "An engineer or privacy advocate uses VPN Legality by Country to configure VPNs for compliance, performance, or privacy-sensitive environments.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "vpn bans": {
+    "eli5": "VPN Bans is like a rule, warning, or speed bump that affects how safely and quickly your internet tunnel works.",
+    "boss": "VPN Bans encompasses cloud VPN solutions, legal restrictions, monitoring practices, and performance-related considerations critical for secure, compliant, and optimized network access.",
+    "sysadmin": "VPN Bans refers to a cloud-native VPN feature, policy enforcement method, logging mechanism, legal consideration, or connection parameter that affects how virtual private networks are deployed, audited, or regulated.",
+    "emoji": "\ud83c\udf0d\ud83d\udd12\u2696\ufe0f\ud83d\udcc8",
+    "categories": [
+      "VPN",
+      "Firewall",
+      "Cloud",
+      "Security",
+      "Privacy",
+      "Monitoring",
+      "Infrastructure"
+    ],
+    "related": [
+      "vpn acceleration",
+      "vpn legality by country",
+      "audit trails",
+      "tls error",
+      "bypass geo-restrictions"
+    ],
+    "aliases": [
+      "vpn bans",
+      "VPN BANS"
+    ],
+    "use_case": "An engineer or privacy advocate uses VPN Bans to configure VPNs for compliance, performance, or privacy-sensitive environments.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "vpn in china": {
+    "eli5": "VPN in China is like a rule, warning, or speed bump that affects how safely and quickly your internet tunnel works.",
+    "boss": "VPN in China encompasses cloud VPN solutions, legal restrictions, monitoring practices, and performance-related considerations critical for secure, compliant, and optimized network access.",
+    "sysadmin": "VPN in China refers to a cloud-native VPN feature, policy enforcement method, logging mechanism, legal consideration, or connection parameter that affects how virtual private networks are deployed, audited, or regulated.",
+    "emoji": "\ud83c\udf0d\ud83d\udd12\u2696\ufe0f\ud83d\udcc8",
+    "categories": [
+      "VPN",
+      "Firewall",
+      "Cloud",
+      "Security",
+      "Privacy",
+      "Monitoring",
+      "Infrastructure"
+    ],
+    "related": [
+      "vpn acceleration",
+      "vpn legality by country",
+      "audit trails",
+      "tls error",
+      "bypass geo-restrictions"
+    ],
+    "aliases": [
+      "vpn in china",
+      "VPN IN CHINA"
+    ],
+    "use_case": "An engineer or privacy advocate uses VPN in China to configure VPNs for compliance, performance, or privacy-sensitive environments.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "vpn in uae": {
+    "eli5": "VPN in UAE is like a rule, warning, or speed bump that affects how safely and quickly your internet tunnel works.",
+    "boss": "VPN in UAE encompasses cloud VPN solutions, legal restrictions, monitoring practices, and performance-related considerations critical for secure, compliant, and optimized network access.",
+    "sysadmin": "VPN in UAE refers to a cloud-native VPN feature, policy enforcement method, logging mechanism, legal consideration, or connection parameter that affects how virtual private networks are deployed, audited, or regulated.",
+    "emoji": "\ud83c\udf0d\ud83d\udd12\u2696\ufe0f\ud83d\udcc8",
+    "categories": [
+      "VPN",
+      "Firewall",
+      "Cloud",
+      "Security",
+      "Privacy",
+      "Monitoring",
+      "Infrastructure"
+    ],
+    "related": [
+      "vpn acceleration",
+      "vpn legality by country",
+      "audit trails",
+      "tls error",
+      "bypass geo-restrictions"
+    ],
+    "aliases": [
+      "vpn in uae",
+      "VPN IN UAE"
+    ],
+    "use_case": "An engineer or privacy advocate uses VPN in UAE to configure VPNs for compliance, performance, or privacy-sensitive environments.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "data sovereignty": {
+    "eli5": "Data Sovereignty is like a rule, warning, or speed bump that affects how safely and quickly your internet tunnel works.",
+    "boss": "Data Sovereignty encompasses cloud VPN solutions, legal restrictions, monitoring practices, and performance-related considerations critical for secure, compliant, and optimized network access.",
+    "sysadmin": "Data Sovereignty refers to a cloud-native VPN feature, policy enforcement method, logging mechanism, legal consideration, or connection parameter that affects how virtual private networks are deployed, audited, or regulated.",
+    "emoji": "\ud83c\udf0d\ud83d\udd12\u2696\ufe0f\ud83d\udcc8",
+    "categories": [
+      "VPN",
+      "Firewall",
+      "Cloud",
+      "Security",
+      "Privacy",
+      "Monitoring",
+      "Infrastructure"
+    ],
+    "related": [
+      "vpn acceleration",
+      "vpn legality by country",
+      "audit trails",
+      "tls error",
+      "bypass geo-restrictions"
+    ],
+    "aliases": [
+      "data sovereignty",
+      "DATA SOVEREIGNTY"
+    ],
+    "use_case": "An engineer or privacy advocate uses Data Sovereignty to configure VPNs for compliance, performance, or privacy-sensitive environments.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "five eyes / fourteen eyes": {
+    "eli5": "Five Eyes / Fourteen Eyes is like a rule, warning, or speed bump that affects how safely and quickly your internet tunnel works.",
+    "boss": "Five Eyes / Fourteen Eyes encompasses cloud VPN solutions, legal restrictions, monitoring practices, and performance-related considerations critical for secure, compliant, and optimized network access.",
+    "sysadmin": "Five Eyes / Fourteen Eyes refers to a cloud-native VPN feature, policy enforcement method, logging mechanism, legal consideration, or connection parameter that affects how virtual private networks are deployed, audited, or regulated.",
+    "emoji": "\ud83c\udf0d\ud83d\udd12\u2696\ufe0f\ud83d\udcc8",
+    "categories": [
+      "VPN",
+      "Firewall",
+      "Cloud",
+      "Security",
+      "Privacy",
+      "Monitoring",
+      "Infrastructure"
+    ],
+    "related": [
+      "vpn acceleration",
+      "vpn legality by country",
+      "audit trails",
+      "tls error",
+      "bypass geo-restrictions"
+    ],
+    "aliases": [
+      "five eyes / fourteen eyes",
+      "FIVE EYES / FOURTEEN EYES"
+    ],
+    "use_case": "An engineer or privacy advocate uses Five Eyes / Fourteen Eyes to configure VPNs for compliance, performance, or privacy-sensitive environments.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "anonymity vs privacy": {
+    "eli5": "Anonymity vs Privacy is like a rule, warning, or speed bump that affects how safely and quickly your internet tunnel works.",
+    "boss": "Anonymity vs Privacy encompasses cloud VPN solutions, legal restrictions, monitoring practices, and performance-related considerations critical for secure, compliant, and optimized network access.",
+    "sysadmin": "Anonymity vs Privacy refers to a cloud-native VPN feature, policy enforcement method, logging mechanism, legal consideration, or connection parameter that affects how virtual private networks are deployed, audited, or regulated.",
+    "emoji": "\ud83c\udf0d\ud83d\udd12\u2696\ufe0f\ud83d\udcc8",
+    "categories": [
+      "VPN",
+      "Firewall",
+      "Cloud",
+      "Security",
+      "Privacy",
+      "Monitoring",
+      "Infrastructure"
+    ],
+    "related": [
+      "vpn acceleration",
+      "vpn legality by country",
+      "audit trails",
+      "tls error",
+      "bypass geo-restrictions"
+    ],
+    "aliases": [
+      "anonymity vs privacy",
+      "ANONYMITY VS PRIVACY"
+    ],
+    "use_case": "An engineer or privacy advocate uses Anonymity vs Privacy to configure VPNs for compliance, performance, or privacy-sensitive environments.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "vpn use cases": {
+    "eli5": "VPN Use Cases is like a rule, warning, or speed bump that affects how safely and quickly your internet tunnel works.",
+    "boss": "VPN Use Cases encompasses cloud VPN solutions, legal restrictions, monitoring practices, and performance-related considerations critical for secure, compliant, and optimized network access.",
+    "sysadmin": "VPN Use Cases refers to a cloud-native VPN feature, policy enforcement method, logging mechanism, legal consideration, or connection parameter that affects how virtual private networks are deployed, audited, or regulated.",
+    "emoji": "\ud83c\udf0d\ud83d\udd12\u2696\ufe0f\ud83d\udcc8",
+    "categories": [
+      "VPN",
+      "Firewall",
+      "Cloud",
+      "Security",
+      "Privacy",
+      "Monitoring",
+      "Infrastructure"
+    ],
+    "related": [
+      "vpn acceleration",
+      "vpn legality by country",
+      "audit trails",
+      "tls error",
+      "bypass geo-restrictions"
+    ],
+    "aliases": [
+      "vpn use cases",
+      "VPN USE CASES"
+    ],
+    "use_case": "An engineer or privacy advocate uses VPN Use Cases to configure VPNs for compliance, performance, or privacy-sensitive environments.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "bypass geo-restrictions": {
+    "eli5": "Bypass Geo-Restrictions is like a rule, warning, or speed bump that affects how safely and quickly your internet tunnel works.",
+    "boss": "Bypass Geo-Restrictions encompasses cloud VPN solutions, legal restrictions, monitoring practices, and performance-related considerations critical for secure, compliant, and optimized network access.",
+    "sysadmin": "Bypass Geo-Restrictions refers to a cloud-native VPN feature, policy enforcement method, logging mechanism, legal consideration, or connection parameter that affects how virtual private networks are deployed, audited, or regulated.",
+    "emoji": "\ud83c\udf0d\ud83d\udd12\u2696\ufe0f\ud83d\udcc8",
+    "categories": [
+      "VPN",
+      "Firewall",
+      "Cloud",
+      "Security",
+      "Privacy",
+      "Monitoring",
+      "Infrastructure"
+    ],
+    "related": [
+      "vpn acceleration",
+      "vpn legality by country",
+      "audit trails",
+      "tls error",
+      "bypass geo-restrictions"
+    ],
+    "aliases": [
+      "bypass geo-restrictions",
+      "BYPASS GEO-RESTRICTIONS"
+    ],
+    "use_case": "An engineer or privacy advocate uses Bypass Geo-Restrictions to configure VPNs for compliance, performance, or privacy-sensitive environments.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "remote work": {
+    "eli5": "Remote Work is like a rule, warning, or speed bump that affects how safely and quickly your internet tunnel works.",
+    "boss": "Remote Work encompasses cloud VPN solutions, legal restrictions, monitoring practices, and performance-related considerations critical for secure, compliant, and optimized network access.",
+    "sysadmin": "Remote Work refers to a cloud-native VPN feature, policy enforcement method, logging mechanism, legal consideration, or connection parameter that affects how virtual private networks are deployed, audited, or regulated.",
+    "emoji": "\ud83c\udf0d\ud83d\udd12\u2696\ufe0f\ud83d\udcc8",
+    "categories": [
+      "VPN",
+      "Firewall",
+      "Cloud",
+      "Security",
+      "Privacy",
+      "Monitoring",
+      "Infrastructure"
+    ],
+    "related": [
+      "vpn acceleration",
+      "vpn legality by country",
+      "audit trails",
+      "tls error",
+      "bypass geo-restrictions"
+    ],
+    "aliases": [
+      "remote work",
+      "REMOTE WORK"
+    ],
+    "use_case": "An engineer or privacy advocate uses Remote Work to configure VPNs for compliance, performance, or privacy-sensitive environments.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "secure public wi-fi": {
+    "eli5": "Secure Public Wi-Fi is like a rule, warning, or speed bump that affects how safely and quickly your internet tunnel works.",
+    "boss": "Secure Public Wi-Fi encompasses cloud VPN solutions, legal restrictions, monitoring practices, and performance-related considerations critical for secure, compliant, and optimized network access.",
+    "sysadmin": "Secure Public Wi-Fi refers to a cloud-native VPN feature, policy enforcement method, logging mechanism, legal consideration, or connection parameter that affects how virtual private networks are deployed, audited, or regulated.",
+    "emoji": "\ud83c\udf0d\ud83d\udd12\u2696\ufe0f\ud83d\udcc8",
+    "categories": [
+      "VPN",
+      "Firewall",
+      "Cloud",
+      "Security",
+      "Privacy",
+      "Monitoring",
+      "Infrastructure"
+    ],
+    "related": [
+      "vpn acceleration",
+      "vpn legality by country",
+      "audit trails",
+      "tls error",
+      "bypass geo-restrictions"
+    ],
+    "aliases": [
+      "secure public wi-fi",
+      "SECURE PUBLIC WI-FI"
+    ],
+    "use_case": "An engineer or privacy advocate uses Secure Public Wi-Fi to configure VPNs for compliance, performance, or privacy-sensitive environments.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "bypass isp throttling": {
+    "eli5": "Bypass ISP Throttling is like a rule, warning, or speed bump that affects how safely and quickly your internet tunnel works.",
+    "boss": "Bypass ISP Throttling encompasses cloud VPN solutions, legal restrictions, monitoring practices, and performance-related considerations critical for secure, compliant, and optimized network access.",
+    "sysadmin": "Bypass ISP Throttling refers to a cloud-native VPN feature, policy enforcement method, logging mechanism, legal consideration, or connection parameter that affects how virtual private networks are deployed, audited, or regulated.",
+    "emoji": "\ud83c\udf0d\ud83d\udd12\u2696\ufe0f\ud83d\udcc8",
+    "categories": [
+      "VPN",
+      "Firewall",
+      "Cloud",
+      "Security",
+      "Privacy",
+      "Monitoring",
+      "Infrastructure"
+    ],
+    "related": [
+      "vpn acceleration",
+      "vpn legality by country",
+      "audit trails",
+      "tls error",
+      "bypass geo-restrictions"
+    ],
+    "aliases": [
+      "bypass isp throttling",
+      "BYPASS ISP THROTTLING"
+    ],
+    "use_case": "An engineer or privacy advocate uses Bypass ISP Throttling to configure VPNs for compliance, performance, or privacy-sensitive environments.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "access internal resources": {
+    "eli5": "Access Internal Resources is like a rule, warning, or speed bump that affects how safely and quickly your internet tunnel works.",
+    "boss": "Access Internal Resources encompasses cloud VPN solutions, legal restrictions, monitoring practices, and performance-related considerations critical for secure, compliant, and optimized network access.",
+    "sysadmin": "Access Internal Resources refers to a cloud-native VPN feature, policy enforcement method, logging mechanism, legal consideration, or connection parameter that affects how virtual private networks are deployed, audited, or regulated.",
+    "emoji": "\ud83c\udf0d\ud83d\udd12\u2696\ufe0f\ud83d\udcc8",
+    "categories": [
+      "VPN",
+      "Firewall",
+      "Cloud",
+      "Security",
+      "Privacy",
+      "Monitoring",
+      "Infrastructure"
+    ],
+    "related": [
+      "vpn acceleration",
+      "vpn legality by country",
+      "audit trails",
+      "tls error",
+      "bypass geo-restrictions"
+    ],
+    "aliases": [
+      "access internal resources",
+      "ACCESS INTERNAL RESOURCES"
+    ],
+    "use_case": "An engineer or privacy advocate uses Access Internal Resources to configure VPNs for compliance, performance, or privacy-sensitive environments.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "streaming content abroad": {
+    "eli5": "Streaming Content Abroad is like a rule, warning, or speed bump that affects how safely and quickly your internet tunnel works.",
+    "boss": "Streaming Content Abroad encompasses cloud VPN solutions, legal restrictions, monitoring practices, and performance-related considerations critical for secure, compliant, and optimized network access.",
+    "sysadmin": "Streaming Content Abroad refers to a cloud-native VPN feature, policy enforcement method, logging mechanism, legal consideration, or connection parameter that affects how virtual private networks are deployed, audited, or regulated.",
+    "emoji": "\ud83c\udf0d\ud83d\udd12\u2696\ufe0f\ud83d\udcc8",
+    "categories": [
+      "VPN",
+      "Firewall",
+      "Cloud",
+      "Security",
+      "Privacy",
+      "Monitoring",
+      "Infrastructure"
+    ],
+    "related": [
+      "vpn acceleration",
+      "vpn legality by country",
+      "audit trails",
+      "tls error",
+      "bypass geo-restrictions"
+    ],
+    "aliases": [
+      "streaming content abroad",
+      "STREAMING CONTENT ABROAD"
+    ],
+    "use_case": "An engineer or privacy advocate uses Streaming Content Abroad to configure VPNs for compliance, performance, or privacy-sensitive environments.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "remote server admin": {
+    "eli5": "Remote Server Admin is like a rule, warning, or speed bump that affects how safely and quickly your internet tunnel works.",
+    "boss": "Remote Server Admin encompasses cloud VPN solutions, legal restrictions, monitoring practices, and performance-related considerations critical for secure, compliant, and optimized network access.",
+    "sysadmin": "Remote Server Admin refers to a cloud-native VPN feature, policy enforcement method, logging mechanism, legal consideration, or connection parameter that affects how virtual private networks are deployed, audited, or regulated.",
+    "emoji": "\ud83c\udf0d\ud83d\udd12\u2696\ufe0f\ud83d\udcc8",
+    "categories": [
+      "VPN",
+      "Firewall",
+      "Cloud",
+      "Security",
+      "Privacy",
+      "Monitoring",
+      "Infrastructure"
+    ],
+    "related": [
+      "vpn acceleration",
+      "vpn legality by country",
+      "audit trails",
+      "tls error",
+      "bypass geo-restrictions"
+    ],
+    "aliases": [
+      "remote server admin",
+      "REMOTE SERVER ADMIN"
+    ],
+    "use_case": "An engineer or privacy advocate uses Remote Server Admin to configure VPNs for compliance, performance, or privacy-sensitive environments.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "p2p file sharing": {
+    "eli5": "P2P File Sharing is like a rule, warning, or speed bump that affects how safely and quickly your internet tunnel works.",
+    "boss": "P2P File Sharing encompasses cloud VPN solutions, legal restrictions, monitoring practices, and performance-related considerations critical for secure, compliant, and optimized network access.",
+    "sysadmin": "P2P File Sharing refers to a cloud-native VPN feature, policy enforcement method, logging mechanism, legal consideration, or connection parameter that affects how virtual private networks are deployed, audited, or regulated.",
+    "emoji": "\ud83c\udf0d\ud83d\udd12\u2696\ufe0f\ud83d\udcc8",
+    "categories": [
+      "VPN",
+      "Firewall",
+      "Cloud",
+      "Security",
+      "Privacy",
+      "Monitoring",
+      "Infrastructure"
+    ],
+    "related": [
+      "vpn acceleration",
+      "vpn legality by country",
+      "audit trails",
+      "tls error",
+      "bypass geo-restrictions"
+    ],
+    "aliases": [
+      "p2p file sharing",
+      "P2P FILE SHARING"
+    ],
+    "use_case": "An engineer or privacy advocate uses P2P File Sharing to configure VPNs for compliance, performance, or privacy-sensitive environments.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "self-hosted vpn": {
+    "eli5": "Self-Hosted VPN is like a rule, warning, or speed bump that affects how safely and quickly your internet tunnel works.",
+    "boss": "Self-Hosted VPN encompasses cloud VPN solutions, legal restrictions, monitoring practices, and performance-related considerations critical for secure, compliant, and optimized network access.",
+    "sysadmin": "Self-Hosted VPN refers to a cloud-native VPN feature, policy enforcement method, logging mechanism, legal consideration, or connection parameter that affects how virtual private networks are deployed, audited, or regulated.",
+    "emoji": "\ud83c\udf0d\ud83d\udd12\u2696\ufe0f\ud83d\udcc8",
+    "categories": [
+      "VPN",
+      "Firewall",
+      "Cloud",
+      "Security",
+      "Privacy",
+      "Monitoring",
+      "Infrastructure"
+    ],
+    "related": [
+      "vpn acceleration",
+      "vpn legality by country",
+      "audit trails",
+      "tls error",
+      "bypass geo-restrictions"
+    ],
+    "aliases": [
+      "self-hosted vpn",
+      "SELF-HOSTED VPN"
+    ],
+    "use_case": "An engineer or privacy advocate uses Self-Hosted VPN to configure VPNs for compliance, performance, or privacy-sensitive environments.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "home-to-cloud tunnel": {
+    "eli5": "Home-to-Cloud Tunnel is like a rule, warning, or speed bump that affects how safely and quickly your internet tunnel works.",
+    "boss": "Home-to-Cloud Tunnel encompasses cloud VPN solutions, legal restrictions, monitoring practices, and performance-related considerations critical for secure, compliant, and optimized network access.",
+    "sysadmin": "Home-to-Cloud Tunnel refers to a cloud-native VPN feature, policy enforcement method, logging mechanism, legal consideration, or connection parameter that affects how virtual private networks are deployed, audited, or regulated.",
+    "emoji": "\ud83c\udf0d\ud83d\udd12\u2696\ufe0f\ud83d\udcc8",
+    "categories": [
+      "VPN",
+      "Firewall",
+      "Cloud",
+      "Security",
+      "Privacy",
+      "Monitoring",
+      "Infrastructure"
+    ],
+    "related": [
+      "vpn acceleration",
+      "vpn legality by country",
+      "audit trails",
+      "tls error",
+      "bypass geo-restrictions"
+    ],
+    "aliases": [
+      "home-to-cloud tunnel",
+      "HOME-TO-CLOUD TUNNEL"
+    ],
+    "use_case": "An engineer or privacy advocate uses Home-to-Cloud Tunnel to configure VPNs for compliance, performance, or privacy-sensitive environments.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "performance factors": {
+    "eli5": "Performance Factors is like a rule, warning, or speed bump that affects how safely and quickly your internet tunnel works.",
+    "boss": "Performance Factors encompasses cloud VPN solutions, legal restrictions, monitoring practices, and performance-related considerations critical for secure, compliant, and optimized network access.",
+    "sysadmin": "Performance Factors refers to a cloud-native VPN feature, policy enforcement method, logging mechanism, legal consideration, or connection parameter that affects how virtual private networks are deployed, audited, or regulated.",
+    "emoji": "\ud83c\udf0d\ud83d\udd12\u2696\ufe0f\ud83d\udcc8",
+    "categories": [
+      "VPN",
+      "Firewall",
+      "Cloud",
+      "Security",
+      "Privacy",
+      "Monitoring",
+      "Infrastructure"
+    ],
+    "related": [
+      "vpn acceleration",
+      "vpn legality by country",
+      "audit trails",
+      "tls error",
+      "bypass geo-restrictions"
+    ],
+    "aliases": [
+      "performance factors",
+      "PERFORMANCE FACTORS"
+    ],
+    "use_case": "An engineer or privacy advocate uses Performance Factors to configure VPNs for compliance, performance, or privacy-sensitive environments.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "bandwidth throttling": {
+    "eli5": "Bandwidth Throttling is like a rule, warning, or speed bump that affects how safely and quickly your internet tunnel works.",
+    "boss": "Bandwidth Throttling encompasses cloud VPN solutions, legal restrictions, monitoring practices, and performance-related considerations critical for secure, compliant, and optimized network access.",
+    "sysadmin": "Bandwidth Throttling refers to a cloud-native VPN feature, policy enforcement method, logging mechanism, legal consideration, or connection parameter that affects how virtual private networks are deployed, audited, or regulated.",
+    "emoji": "\ud83c\udf0d\ud83d\udd12\u2696\ufe0f\ud83d\udcc8",
+    "categories": [
+      "VPN",
+      "Firewall",
+      "Cloud",
+      "Security",
+      "Privacy",
+      "Monitoring",
+      "Infrastructure"
+    ],
+    "related": [
+      "vpn acceleration",
+      "vpn legality by country",
+      "audit trails",
+      "tls error",
+      "bypass geo-restrictions"
+    ],
+    "aliases": [
+      "bandwidth throttling",
+      "BANDWIDTH THROTTLING"
+    ],
+    "use_case": "An engineer or privacy advocate uses Bandwidth Throttling to configure VPNs for compliance, performance, or privacy-sensitive environments.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "mtu": {
+    "eli5": "MTU is like a rule, warning, or speed bump that affects how safely and quickly your internet tunnel works.",
+    "boss": "MTU encompasses cloud VPN solutions, legal restrictions, monitoring practices, and performance-related considerations critical for secure, compliant, and optimized network access.",
+    "sysadmin": "MTU refers to a cloud-native VPN feature, policy enforcement method, logging mechanism, legal consideration, or connection parameter that affects how virtual private networks are deployed, audited, or regulated.",
+    "emoji": "\ud83c\udf0d\ud83d\udd12\u2696\ufe0f\ud83d\udcc8",
+    "categories": [
+      "VPN",
+      "Firewall",
+      "Cloud",
+      "Security",
+      "Privacy",
+      "Monitoring",
+      "Infrastructure"
+    ],
+    "related": [
+      "vpn acceleration",
+      "vpn legality by country",
+      "audit trails",
+      "tls error",
+      "bypass geo-restrictions"
+    ],
+    "aliases": [
+      "mtu",
+      "MTU"
+    ],
+    "use_case": "An engineer or privacy advocate uses MTU to configure VPNs for compliance, performance, or privacy-sensitive environments.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "udp vs tcp": {
+    "eli5": "UDP vs TCP is like a rule, warning, or speed bump that affects how safely and quickly your internet tunnel works.",
+    "boss": "UDP vs TCP encompasses cloud VPN solutions, legal restrictions, monitoring practices, and performance-related considerations critical for secure, compliant, and optimized network access.",
+    "sysadmin": "UDP vs TCP refers to a cloud-native VPN feature, policy enforcement method, logging mechanism, legal consideration, or connection parameter that affects how virtual private networks are deployed, audited, or regulated.",
+    "emoji": "\ud83c\udf0d\ud83d\udd12\u2696\ufe0f\ud83d\udcc8",
+    "categories": [
+      "VPN",
+      "Firewall",
+      "Cloud",
+      "Security",
+      "Privacy",
+      "Monitoring",
+      "Infrastructure"
+    ],
+    "related": [
+      "vpn acceleration",
+      "vpn legality by country",
+      "audit trails",
+      "tls error",
+      "bypass geo-restrictions"
+    ],
+    "aliases": [
+      "udp vs tcp",
+      "UDP VS TCP"
+    ],
+    "use_case": "An engineer or privacy advocate uses UDP vs TCP to configure VPNs for compliance, performance, or privacy-sensitive environments.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "vpn acceleration": {
+    "eli5": "VPN Acceleration is like a rule, warning, or speed bump that affects how safely and quickly your internet tunnel works.",
+    "boss": "VPN Acceleration encompasses cloud VPN solutions, legal restrictions, monitoring practices, and performance-related considerations critical for secure, compliant, and optimized network access.",
+    "sysadmin": "VPN Acceleration refers to a cloud-native VPN feature, policy enforcement method, logging mechanism, legal consideration, or connection parameter that affects how virtual private networks are deployed, audited, or regulated.",
+    "emoji": "\ud83c\udf0d\ud83d\udd12\u2696\ufe0f\ud83d\udcc8",
+    "categories": [
+      "VPN",
+      "Firewall",
+      "Cloud",
+      "Security",
+      "Privacy",
+      "Monitoring",
+      "Infrastructure"
+    ],
+    "related": [
+      "vpn acceleration",
+      "vpn legality by country",
+      "audit trails",
+      "tls error",
+      "bypass geo-restrictions"
+    ],
+    "aliases": [
+      "vpn acceleration",
+      "VPN ACCELERATION"
+    ],
+    "use_case": "An engineer or privacy advocate uses VPN Acceleration to configure VPNs for compliance, performance, or privacy-sensitive environments.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "qos for vpn": {
+    "eli5": "QoS for VPN is like a rule, warning, or speed bump that affects how safely and quickly your internet tunnel works.",
+    "boss": "QoS for VPN encompasses cloud VPN solutions, legal restrictions, monitoring practices, and performance-related considerations critical for secure, compliant, and optimized network access.",
+    "sysadmin": "QoS for VPN refers to a cloud-native VPN feature, policy enforcement method, logging mechanism, legal consideration, or connection parameter that affects how virtual private networks are deployed, audited, or regulated.",
+    "emoji": "\ud83c\udf0d\ud83d\udd12\u2696\ufe0f\ud83d\udcc8",
+    "categories": [
+      "VPN",
+      "Firewall",
+      "Cloud",
+      "Security",
+      "Privacy",
+      "Monitoring",
+      "Infrastructure"
+    ],
+    "related": [
+      "vpn acceleration",
+      "vpn legality by country",
+      "audit trails",
+      "tls error",
+      "bypass geo-restrictions"
+    ],
+    "aliases": [
+      "qos for vpn",
+      "QOS FOR VPN"
+    ],
+    "use_case": "An engineer or privacy advocate uses QoS for VPN to configure VPNs for compliance, performance, or privacy-sensitive environments.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "troubleshooting vpn": {
+    "eli5": "Troubleshooting VPN is like a rule, warning, or speed bump that affects how safely and quickly your internet tunnel works.",
+    "boss": "Troubleshooting VPN encompasses cloud VPN solutions, legal restrictions, monitoring practices, and performance-related considerations critical for secure, compliant, and optimized network access.",
+    "sysadmin": "Troubleshooting VPN refers to a cloud-native VPN feature, policy enforcement method, logging mechanism, legal consideration, or connection parameter that affects how virtual private networks are deployed, audited, or regulated.",
+    "emoji": "\ud83c\udf0d\ud83d\udd12\u2696\ufe0f\ud83d\udcc8",
+    "categories": [
+      "VPN",
+      "Firewall",
+      "Cloud",
+      "Security",
+      "Privacy",
+      "Monitoring",
+      "Infrastructure"
+    ],
+    "related": [
+      "vpn acceleration",
+      "vpn legality by country",
+      "audit trails",
+      "tls error",
+      "bypass geo-restrictions"
+    ],
+    "aliases": [
+      "troubleshooting vpn",
+      "TROUBLESHOOTING VPN"
+    ],
+    "use_case": "An engineer or privacy advocate uses Troubleshooting VPN to configure VPNs for compliance, performance, or privacy-sensitive environments.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "authentication failure": {
+    "eli5": "Authentication Failure is like a rule, warning, or speed bump that affects how safely and quickly your internet tunnel works.",
+    "boss": "Authentication Failure encompasses cloud VPN solutions, legal restrictions, monitoring practices, and performance-related considerations critical for secure, compliant, and optimized network access.",
+    "sysadmin": "Authentication Failure refers to a cloud-native VPN feature, policy enforcement method, logging mechanism, legal consideration, or connection parameter that affects how virtual private networks are deployed, audited, or regulated.",
+    "emoji": "\ud83c\udf0d\ud83d\udd12\u2696\ufe0f\ud83d\udcc8",
+    "categories": [
+      "VPN",
+      "Firewall",
+      "Cloud",
+      "Security",
+      "Privacy",
+      "Monitoring",
+      "Infrastructure"
+    ],
+    "related": [
+      "vpn acceleration",
+      "vpn legality by country",
+      "audit trails",
+      "tls error",
+      "bypass geo-restrictions"
+    ],
+    "aliases": [
+      "authentication failure",
+      "AUTHENTICATION FAILURE"
+    ],
+    "use_case": "An engineer or privacy advocate uses Authentication Failure to configure VPNs for compliance, performance, or privacy-sensitive environments.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "handshake timeout": {
+    "eli5": "Handshake Timeout is like a rule, warning, or speed bump that affects how safely and quickly your internet tunnel works.",
+    "boss": "Handshake Timeout encompasses cloud VPN solutions, legal restrictions, monitoring practices, and performance-related considerations critical for secure, compliant, and optimized network access.",
+    "sysadmin": "Handshake Timeout refers to a cloud-native VPN feature, policy enforcement method, logging mechanism, legal consideration, or connection parameter that affects how virtual private networks are deployed, audited, or regulated.",
+    "emoji": "\ud83c\udf0d\ud83d\udd12\u2696\ufe0f\ud83d\udcc8",
+    "categories": [
+      "VPN",
+      "Firewall",
+      "Cloud",
+      "Security",
+      "Privacy",
+      "Monitoring",
+      "Infrastructure"
+    ],
+    "related": [
+      "vpn acceleration",
+      "vpn legality by country",
+      "audit trails",
+      "tls error",
+      "bypass geo-restrictions"
+    ],
+    "aliases": [
+      "handshake timeout",
+      "HANDSHAKE TIMEOUT"
+    ],
+    "use_case": "An engineer or privacy advocate uses Handshake Timeout to configure VPNs for compliance, performance, or privacy-sensitive environments.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "tls error": {
+    "eli5": "TLS Error is like a rule, warning, or speed bump that affects how safely and quickly your internet tunnel works.",
+    "boss": "TLS Error encompasses cloud VPN solutions, legal restrictions, monitoring practices, and performance-related considerations critical for secure, compliant, and optimized network access.",
+    "sysadmin": "TLS Error refers to a cloud-native VPN feature, policy enforcement method, logging mechanism, legal consideration, or connection parameter that affects how virtual private networks are deployed, audited, or regulated.",
+    "emoji": "\ud83c\udf0d\ud83d\udd12\u2696\ufe0f\ud83d\udcc8",
+    "categories": [
+      "VPN",
+      "Firewall",
+      "Cloud",
+      "Security",
+      "Privacy",
+      "Monitoring",
+      "Infrastructure"
+    ],
+    "related": [
+      "vpn acceleration",
+      "vpn legality by country",
+      "audit trails",
+      "tls error",
+      "bypass geo-restrictions"
+    ],
+    "aliases": [
+      "tls error",
+      "TLS ERROR"
+    ],
+    "use_case": "An engineer or privacy advocate uses TLS Error to configure VPNs for compliance, performance, or privacy-sensitive environments.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "dropped tunnel": {
+    "eli5": "Dropped Tunnel is like a rule, warning, or speed bump that affects how safely and quickly your internet tunnel works.",
+    "boss": "Dropped Tunnel encompasses cloud VPN solutions, legal restrictions, monitoring practices, and performance-related considerations critical for secure, compliant, and optimized network access.",
+    "sysadmin": "Dropped Tunnel refers to a cloud-native VPN feature, policy enforcement method, logging mechanism, legal consideration, or connection parameter that affects how virtual private networks are deployed, audited, or regulated.",
+    "emoji": "\ud83c\udf0d\ud83d\udd12\u2696\ufe0f\ud83d\udcc8",
+    "categories": [
+      "VPN",
+      "Firewall",
+      "Cloud",
+      "Security",
+      "Privacy",
+      "Monitoring",
+      "Infrastructure"
+    ],
+    "related": [
+      "vpn acceleration",
+      "vpn legality by country",
+      "audit trails",
+      "tls error",
+      "bypass geo-restrictions"
+    ],
+    "aliases": [
+      "dropped tunnel",
+      "DROPPED TUNNEL"
+    ],
+    "use_case": "An engineer or privacy advocate uses Dropped Tunnel to configure VPNs for compliance, performance, or privacy-sensitive environments.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "dns resolution failure": {
+    "eli5": "DNS Resolution Failure is like a rule, warning, or speed bump that affects how safely and quickly your internet tunnel works.",
+    "boss": "DNS Resolution Failure encompasses cloud VPN solutions, legal restrictions, monitoring practices, and performance-related considerations critical for secure, compliant, and optimized network access.",
+    "sysadmin": "DNS Resolution Failure refers to a cloud-native VPN feature, policy enforcement method, logging mechanism, legal consideration, or connection parameter that affects how virtual private networks are deployed, audited, or regulated.",
+    "emoji": "\ud83c\udf0d\ud83d\udd12\u2696\ufe0f\ud83d\udcc8",
+    "categories": [
+      "VPN",
+      "Firewall",
+      "Cloud",
+      "Security",
+      "Privacy",
+      "Monitoring",
+      "Infrastructure"
+    ],
+    "related": [
+      "vpn acceleration",
+      "vpn legality by country",
+      "audit trails",
+      "tls error",
+      "bypass geo-restrictions"
+    ],
+    "aliases": [
+      "dns resolution failure",
+      "DNS RESOLUTION FAILURE"
+    ],
+    "use_case": "An engineer or privacy advocate uses DNS Resolution Failure to configure VPNs for compliance, performance, or privacy-sensitive environments.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "port blocking": {
+    "eli5": "Port Blocking is like a rule, warning, or speed bump that affects how safely and quickly your internet tunnel works.",
+    "boss": "Port Blocking encompasses cloud VPN solutions, legal restrictions, monitoring practices, and performance-related considerations critical for secure, compliant, and optimized network access.",
+    "sysadmin": "Port Blocking refers to a cloud-native VPN feature, policy enforcement method, logging mechanism, legal consideration, or connection parameter that affects how virtual private networks are deployed, audited, or regulated.",
+    "emoji": "\ud83c\udf0d\ud83d\udd12\u2696\ufe0f\ud83d\udcc8",
+    "categories": [
+      "VPN",
+      "Firewall",
+      "Cloud",
+      "Security",
+      "Privacy",
+      "Monitoring",
+      "Infrastructure"
+    ],
+    "related": [
+      "vpn acceleration",
+      "vpn legality by country",
+      "audit trails",
+      "tls error",
+      "bypass geo-restrictions"
+    ],
+    "aliases": [
+      "port blocking",
+      "PORT BLOCKING"
+    ],
+    "use_case": "An engineer or privacy advocate uses Port Blocking to configure VPNs for compliance, performance, or privacy-sensitive environments.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "firewall interference": {
+    "eli5": "Firewall Interference is like a rule, warning, or speed bump that affects how safely and quickly your internet tunnel works.",
+    "boss": "Firewall Interference encompasses cloud VPN solutions, legal restrictions, monitoring practices, and performance-related considerations critical for secure, compliant, and optimized network access.",
+    "sysadmin": "Firewall Interference refers to a cloud-native VPN feature, policy enforcement method, logging mechanism, legal consideration, or connection parameter that affects how virtual private networks are deployed, audited, or regulated.",
+    "emoji": "\ud83c\udf0d\ud83d\udd12\u2696\ufe0f\ud83d\udcc8",
+    "categories": [
+      "VPN",
+      "Firewall",
+      "Cloud",
+      "Security",
+      "Privacy",
+      "Monitoring",
+      "Infrastructure"
+    ],
+    "related": [
+      "vpn acceleration",
+      "vpn legality by country",
+      "audit trails",
+      "tls error",
+      "bypass geo-restrictions"
+    ],
+    "aliases": [
+      "firewall interference",
+      "FIREWALL INTERFERENCE"
+    ],
+    "use_case": "An engineer or privacy advocate uses Firewall Interference to configure VPNs for compliance, performance, or privacy-sensitive environments.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "firewall & vpn": {
+    "eli5": "Firewall & VPN is like a rule, warning, or speed bump that affects how safely and quickly your internet tunnel works.",
+    "boss": "Firewall & VPN encompasses cloud VPN solutions, legal restrictions, monitoring practices, and performance-related considerations critical for secure, compliant, and optimized network access.",
+    "sysadmin": "Firewall & VPN refers to a cloud-native VPN feature, policy enforcement method, logging mechanism, legal consideration, or connection parameter that affects how virtual private networks are deployed, audited, or regulated.",
+    "emoji": "\ud83c\udf0d\ud83d\udd12\u2696\ufe0f\ud83d\udcc8",
+    "categories": [
+      "VPN",
+      "Firewall",
+      "Cloud",
+      "Security",
+      "Privacy",
+      "Monitoring",
+      "Infrastructure"
+    ],
+    "related": [
+      "vpn acceleration",
+      "vpn legality by country",
+      "audit trails",
+      "tls error",
+      "bypass geo-restrictions"
+    ],
+    "aliases": [
+      "firewall & vpn",
+      "FIREWALL & VPN"
+    ],
+    "use_case": "An engineer or privacy advocate uses Firewall & VPN to configure VPNs for compliance, performance, or privacy-sensitive environments.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "port forwarding for vpn": {
+    "eli5": "Port Forwarding for VPN is like a rule, warning, or speed bump that affects how safely and quickly your internet tunnel works.",
+    "boss": "Port Forwarding for VPN encompasses cloud VPN solutions, legal restrictions, monitoring practices, and performance-related considerations critical for secure, compliant, and optimized network access.",
+    "sysadmin": "Port Forwarding for VPN refers to a cloud-native VPN feature, policy enforcement method, logging mechanism, legal consideration, or connection parameter that affects how virtual private networks are deployed, audited, or regulated.",
+    "emoji": "\ud83c\udf0d\ud83d\udd12\u2696\ufe0f\ud83d\udcc8",
+    "categories": [
+      "VPN",
+      "Firewall",
+      "Cloud",
+      "Security",
+      "Privacy",
+      "Monitoring",
+      "Infrastructure"
+    ],
+    "related": [
+      "vpn acceleration",
+      "vpn legality by country",
+      "audit trails",
+      "tls error",
+      "bypass geo-restrictions"
+    ],
+    "aliases": [
+      "port forwarding for vpn",
+      "PORT FORWARDING FOR VPN"
+    ],
+    "use_case": "An engineer or privacy advocate uses Port Forwarding for VPN to configure VPNs for compliance, performance, or privacy-sensitive environments.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "firewall rules for vpn": {
+    "eli5": "Firewall Rules for VPN is like a rule, warning, or speed bump that affects how safely and quickly your internet tunnel works.",
+    "boss": "Firewall Rules for VPN encompasses cloud VPN solutions, legal restrictions, monitoring practices, and performance-related considerations critical for secure, compliant, and optimized network access.",
+    "sysadmin": "Firewall Rules for VPN refers to a cloud-native VPN feature, policy enforcement method, logging mechanism, legal consideration, or connection parameter that affects how virtual private networks are deployed, audited, or regulated.",
+    "emoji": "\ud83c\udf0d\ud83d\udd12\u2696\ufe0f\ud83d\udcc8",
+    "categories": [
+      "VPN",
+      "Firewall",
+      "Cloud",
+      "Security",
+      "Privacy",
+      "Monitoring",
+      "Infrastructure"
+    ],
+    "related": [
+      "vpn acceleration",
+      "vpn legality by country",
+      "audit trails",
+      "tls error",
+      "bypass geo-restrictions"
+    ],
+    "aliases": [
+      "firewall rules for vpn",
+      "FIREWALL RULES FOR VPN"
+    ],
+    "use_case": "An engineer or privacy advocate uses Firewall Rules for VPN to configure VPNs for compliance, performance, or privacy-sensitive environments.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "vpn on pfsense": {
+    "eli5": "VPN on pfSense is like a rule, warning, or speed bump that affects how safely and quickly your internet tunnel works.",
+    "boss": "VPN on pfSense encompasses cloud VPN solutions, legal restrictions, monitoring practices, and performance-related considerations critical for secure, compliant, and optimized network access.",
+    "sysadmin": "VPN on pfSense refers to a cloud-native VPN feature, policy enforcement method, logging mechanism, legal consideration, or connection parameter that affects how virtual private networks are deployed, audited, or regulated.",
+    "emoji": "\ud83c\udf0d\ud83d\udd12\u2696\ufe0f\ud83d\udcc8",
+    "categories": [
+      "VPN",
+      "Firewall",
+      "Cloud",
+      "Security",
+      "Privacy",
+      "Monitoring",
+      "Infrastructure"
+    ],
+    "related": [
+      "vpn acceleration",
+      "vpn legality by country",
+      "audit trails",
+      "tls error",
+      "bypass geo-restrictions"
+    ],
+    "aliases": [
+      "vpn on pfsense",
+      "VPN ON PFSENSE"
+    ],
+    "use_case": "An engineer or privacy advocate uses VPN on pfSense to configure VPNs for compliance, performance, or privacy-sensitive environments.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "vpn on opnsense": {
+    "eli5": "VPN on OPNsense is like a rule, warning, or speed bump that affects how safely and quickly your internet tunnel works.",
+    "boss": "VPN on OPNsense encompasses cloud VPN solutions, legal restrictions, monitoring practices, and performance-related considerations critical for secure, compliant, and optimized network access.",
+    "sysadmin": "VPN on OPNsense refers to a cloud-native VPN feature, policy enforcement method, logging mechanism, legal consideration, or connection parameter that affects how virtual private networks are deployed, audited, or regulated.",
+    "emoji": "\ud83c\udf0d\ud83d\udd12\u2696\ufe0f\ud83d\udcc8",
+    "categories": [
+      "VPN",
+      "Firewall",
+      "Cloud",
+      "Security",
+      "Privacy",
+      "Monitoring",
+      "Infrastructure"
+    ],
+    "related": [
+      "vpn acceleration",
+      "vpn legality by country",
+      "audit trails",
+      "tls error",
+      "bypass geo-restrictions"
+    ],
+    "aliases": [
+      "vpn on opnsense",
+      "VPN ON OPNSENSE"
+    ],
+    "use_case": "An engineer or privacy advocate uses VPN on OPNsense to configure VPNs for compliance, performance, or privacy-sensitive environments.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "vpn kill switch (iptables)": {
+    "eli5": "VPN Kill Switch (iptables) is like a rule, warning, or speed bump that affects how safely and quickly your internet tunnel works.",
+    "boss": "VPN Kill Switch (iptables) encompasses cloud VPN solutions, legal restrictions, monitoring practices, and performance-related considerations critical for secure, compliant, and optimized network access.",
+    "sysadmin": "VPN Kill Switch (iptables) refers to a cloud-native VPN feature, policy enforcement method, logging mechanism, legal consideration, or connection parameter that affects how virtual private networks are deployed, audited, or regulated.",
+    "emoji": "\ud83c\udf0d\ud83d\udd12\u2696\ufe0f\ud83d\udcc8",
+    "categories": [
+      "VPN",
+      "Firewall",
+      "Cloud",
+      "Security",
+      "Privacy",
+      "Monitoring",
+      "Infrastructure"
+    ],
+    "related": [
+      "vpn acceleration",
+      "vpn legality by country",
+      "audit trails",
+      "tls error",
+      "bypass geo-restrictions"
+    ],
+    "aliases": [
+      "vpn kill switch (iptables)",
+      "VPN KILL SWITCH (IPTABLES)"
+    ],
+    "use_case": "An engineer or privacy advocate uses VPN Kill Switch (iptables) to configure VPNs for compliance, performance, or privacy-sensitive environments.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "wireguard specific terms": {
+    "eli5": "WireGuard Specific Terms is like a rule, warning, or speed bump that affects how safely and quickly your internet tunnel works.",
+    "boss": "WireGuard Specific Terms encompasses cloud VPN solutions, legal restrictions, monitoring practices, and performance-related considerations critical for secure, compliant, and optimized network access.",
+    "sysadmin": "WireGuard Specific Terms refers to a cloud-native VPN feature, policy enforcement method, logging mechanism, legal consideration, or connection parameter that affects how virtual private networks are deployed, audited, or regulated.",
+    "emoji": "\ud83c\udf0d\ud83d\udd12\u2696\ufe0f\ud83d\udcc8",
+    "categories": [
+      "VPN",
+      "Firewall",
+      "Cloud",
+      "Security",
+      "Privacy",
+      "Monitoring",
+      "Infrastructure"
+    ],
+    "related": [
+      "vpn acceleration",
+      "vpn legality by country",
+      "audit trails",
+      "tls error",
+      "bypass geo-restrictions"
+    ],
+    "aliases": [
+      "wireguard specific terms",
+      "WIREGUARD SPECIFIC TERMS"
+    ],
+    "use_case": "An engineer or privacy advocate uses WireGuard Specific Terms to configure VPNs for compliance, performance, or privacy-sensitive environments.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "wg-quick": {
+    "eli5": "wg-quick is like a rule, warning, or speed bump that affects how safely and quickly your internet tunnel works.",
+    "boss": "wg-quick encompasses cloud VPN solutions, legal restrictions, monitoring practices, and performance-related considerations critical for secure, compliant, and optimized network access.",
+    "sysadmin": "wg-quick refers to a cloud-native VPN feature, policy enforcement method, logging mechanism, legal consideration, or connection parameter that affects how virtual private networks are deployed, audited, or regulated.",
+    "emoji": "\ud83c\udf0d\ud83d\udd12\u2696\ufe0f\ud83d\udcc8",
+    "categories": [
+      "VPN",
+      "Firewall",
+      "Cloud",
+      "Security",
+      "Privacy",
+      "Monitoring",
+      "Infrastructure"
+    ],
+    "related": [
+      "vpn acceleration",
+      "vpn legality by country",
+      "audit trails",
+      "tls error",
+      "bypass geo-restrictions"
+    ],
+    "aliases": [
+      "wg-quick",
+      "WG-QUICK"
+    ],
+    "use_case": "An engineer or privacy advocate uses wg-quick to configure VPNs for compliance, performance, or privacy-sensitive environments.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  }
+}

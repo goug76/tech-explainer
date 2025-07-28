@@ -1,0 +1,1352 @@
+{
+  "kill switch failure": {
+    "eli5": "Kill Switch Failure is like a tunnel app or tool that helps you connect safely to the internet, but some tunnels can be broken or unsafe.",
+    "boss": "Kill Switch Failure includes VPN apps, providers, protocols, and cloud-hosted solutions that enable secure remote access for consumers and enterprises, with varying levels of security and reliability.",
+    "sysadmin": "Kill Switch Failure refers to a VPN server, client application, protocol implementation, or security concern used to configure private network tunnels and assess provider trustworthiness.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83c\udf10\ud83d\udcf2\ud83d\udd27",
+    "categories": [
+      "VPN",
+      "Security",
+      "Cloud",
+      "Privacy",
+      "Infrastructure"
+    ],
+    "related": [
+      "openvpn server",
+      "kill switch failure",
+      "vpn clients",
+      "vpn gateway",
+      "strongswan"
+    ],
+    "aliases": [
+      "kill switch failure",
+      "KILL SWITCH FAILURE"
+    ],
+    "use_case": "A sysadmin or end-user chooses or configures Kill Switch Failure to connect securely over the internet or between private networks.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "vulnerable protocol (e.g. pptp)": {
+    "eli5": "Vulnerable Protocol (e.g. PPTP) is like a tunnel app or tool that helps you connect safely to the internet, but some tunnels can be broken or unsafe.",
+    "boss": "Vulnerable Protocol (e.g. PPTP) includes VPN apps, providers, protocols, and cloud-hosted solutions that enable secure remote access for consumers and enterprises, with varying levels of security and reliability.",
+    "sysadmin": "Vulnerable Protocol (e.g. PPTP) refers to a VPN server, client application, protocol implementation, or security concern used to configure private network tunnels and assess provider trustworthiness.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83c\udf10\ud83d\udcf2\ud83d\udd27",
+    "categories": [
+      "VPN",
+      "Security",
+      "Cloud",
+      "Privacy",
+      "Infrastructure"
+    ],
+    "related": [
+      "openvpn server",
+      "kill switch failure",
+      "vpn clients",
+      "vpn gateway",
+      "strongswan"
+    ],
+    "aliases": [
+      "vulnerable protocol (e.g. pptp)",
+      "VULNERABLE PROTOCOL (E.G. PPTP)"
+    ],
+    "use_case": "A sysadmin or end-user chooses or configures Vulnerable Protocol (e.g. PPTP) to connect securely over the internet or between private networks.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "malicious vpn providers": {
+    "eli5": "Malicious VPN Providers is like a tunnel app or tool that helps you connect safely to the internet, but some tunnels can be broken or unsafe.",
+    "boss": "Malicious VPN Providers includes VPN apps, providers, protocols, and cloud-hosted solutions that enable secure remote access for consumers and enterprises, with varying levels of security and reliability.",
+    "sysadmin": "Malicious VPN Providers refers to a VPN server, client application, protocol implementation, or security concern used to configure private network tunnels and assess provider trustworthiness.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83c\udf10\ud83d\udcf2\ud83d\udd27",
+    "categories": [
+      "VPN",
+      "Security",
+      "Cloud",
+      "Privacy",
+      "Infrastructure"
+    ],
+    "related": [
+      "openvpn server",
+      "kill switch failure",
+      "vpn clients",
+      "vpn gateway",
+      "strongswan"
+    ],
+    "aliases": [
+      "malicious vpn providers",
+      "MALICIOUS VPN PROVIDERS"
+    ],
+    "use_case": "A sysadmin or end-user chooses or configures Malicious VPN Providers to connect securely over the internet or between private networks.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "vpn tools & servers": {
+    "eli5": "VPN Tools & Servers is like a tunnel app or tool that helps you connect safely to the internet, but some tunnels can be broken or unsafe.",
+    "boss": "VPN Tools & Servers includes VPN apps, providers, protocols, and cloud-hosted solutions that enable secure remote access for consumers and enterprises, with varying levels of security and reliability.",
+    "sysadmin": "VPN Tools & Servers refers to a VPN server, client application, protocol implementation, or security concern used to configure private network tunnels and assess provider trustworthiness.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83c\udf10\ud83d\udcf2\ud83d\udd27",
+    "categories": [
+      "VPN",
+      "Security",
+      "Cloud",
+      "Privacy",
+      "Infrastructure"
+    ],
+    "related": [
+      "openvpn server",
+      "kill switch failure",
+      "vpn clients",
+      "vpn gateway",
+      "strongswan"
+    ],
+    "aliases": [
+      "vpn tools & servers",
+      "VPN TOOLS & SERVERS"
+    ],
+    "use_case": "A sysadmin or end-user chooses or configures VPN Tools & Servers to connect securely over the internet or between private networks.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "openvpn server": {
+    "eli5": "OpenVPN Server is like a tunnel app or tool that helps you connect safely to the internet, but some tunnels can be broken or unsafe.",
+    "boss": "OpenVPN Server includes VPN apps, providers, protocols, and cloud-hosted solutions that enable secure remote access for consumers and enterprises, with varying levels of security and reliability.",
+    "sysadmin": "OpenVPN Server refers to a VPN server, client application, protocol implementation, or security concern used to configure private network tunnels and assess provider trustworthiness.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83c\udf10\ud83d\udcf2\ud83d\udd27",
+    "categories": [
+      "VPN",
+      "Security",
+      "Cloud",
+      "Privacy",
+      "Infrastructure"
+    ],
+    "related": [
+      "openvpn server",
+      "kill switch failure",
+      "vpn clients",
+      "vpn gateway",
+      "strongswan"
+    ],
+    "aliases": [
+      "openvpn server",
+      "OPENVPN SERVER"
+    ],
+    "use_case": "A sysadmin or end-user chooses or configures OpenVPN Server to connect securely over the internet or between private networks.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "wireguard server": {
+    "eli5": "WireGuard Server is like a tunnel app or tool that helps you connect safely to the internet, but some tunnels can be broken or unsafe.",
+    "boss": "WireGuard Server includes VPN apps, providers, protocols, and cloud-hosted solutions that enable secure remote access for consumers and enterprises, with varying levels of security and reliability.",
+    "sysadmin": "WireGuard Server refers to a VPN server, client application, protocol implementation, or security concern used to configure private network tunnels and assess provider trustworthiness.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83c\udf10\ud83d\udcf2\ud83d\udd27",
+    "categories": [
+      "VPN",
+      "Security",
+      "Cloud",
+      "Privacy",
+      "Infrastructure"
+    ],
+    "related": [
+      "openvpn server",
+      "kill switch failure",
+      "vpn clients",
+      "vpn gateway",
+      "strongswan"
+    ],
+    "aliases": [
+      "wireguard server",
+      "WIREGUARD SERVER"
+    ],
+    "use_case": "A sysadmin or end-user chooses or configures WireGuard Server to connect securely over the internet or between private networks.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "strongswan": {
+    "eli5": "StrongSwan is like a tunnel app or tool that helps you connect safely to the internet, but some tunnels can be broken or unsafe.",
+    "boss": "StrongSwan includes VPN apps, providers, protocols, and cloud-hosted solutions that enable secure remote access for consumers and enterprises, with varying levels of security and reliability.",
+    "sysadmin": "StrongSwan refers to a VPN server, client application, protocol implementation, or security concern used to configure private network tunnels and assess provider trustworthiness.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83c\udf10\ud83d\udcf2\ud83d\udd27",
+    "categories": [
+      "VPN",
+      "Security",
+      "Cloud",
+      "Privacy",
+      "Infrastructure"
+    ],
+    "related": [
+      "openvpn server",
+      "kill switch failure",
+      "vpn clients",
+      "vpn gateway",
+      "strongswan"
+    ],
+    "aliases": [
+      "strongswan",
+      "STRONGSWAN"
+    ],
+    "use_case": "A sysadmin or end-user chooses or configures StrongSwan to connect securely over the internet or between private networks.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "libreswan": {
+    "eli5": "Libreswan is like a tunnel app or tool that helps you connect safely to the internet, but some tunnels can be broken or unsafe.",
+    "boss": "Libreswan includes VPN apps, providers, protocols, and cloud-hosted solutions that enable secure remote access for consumers and enterprises, with varying levels of security and reliability.",
+    "sysadmin": "Libreswan refers to a VPN server, client application, protocol implementation, or security concern used to configure private network tunnels and assess provider trustworthiness.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83c\udf10\ud83d\udcf2\ud83d\udd27",
+    "categories": [
+      "VPN",
+      "Security",
+      "Cloud",
+      "Privacy",
+      "Infrastructure"
+    ],
+    "related": [
+      "openvpn server",
+      "kill switch failure",
+      "vpn clients",
+      "vpn gateway",
+      "strongswan"
+    ],
+    "aliases": [
+      "libreswan",
+      "LIBRESWAN"
+    ],
+    "use_case": "A sysadmin or end-user chooses or configures Libreswan to connect securely over the internet or between private networks.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "softether vpn": {
+    "eli5": "SoftEther VPN is like a tunnel app or tool that helps you connect safely to the internet, but some tunnels can be broken or unsafe.",
+    "boss": "SoftEther VPN includes VPN apps, providers, protocols, and cloud-hosted solutions that enable secure remote access for consumers and enterprises, with varying levels of security and reliability.",
+    "sysadmin": "SoftEther VPN refers to a VPN server, client application, protocol implementation, or security concern used to configure private network tunnels and assess provider trustworthiness.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83c\udf10\ud83d\udcf2\ud83d\udd27",
+    "categories": [
+      "VPN",
+      "Security",
+      "Cloud",
+      "Privacy",
+      "Infrastructure"
+    ],
+    "related": [
+      "openvpn server",
+      "kill switch failure",
+      "vpn clients",
+      "vpn gateway",
+      "strongswan"
+    ],
+    "aliases": [
+      "softether vpn",
+      "SOFTETHER VPN"
+    ],
+    "use_case": "A sysadmin or end-user chooses or configures SoftEther VPN to connect securely over the internet or between private networks.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "nebula": {
+    "eli5": "Nebula is like a tunnel app or tool that helps you connect safely to the internet, but some tunnels can be broken or unsafe.",
+    "boss": "Nebula includes VPN apps, providers, protocols, and cloud-hosted solutions that enable secure remote access for consumers and enterprises, with varying levels of security and reliability.",
+    "sysadmin": "Nebula refers to a VPN server, client application, protocol implementation, or security concern used to configure private network tunnels and assess provider trustworthiness.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83c\udf10\ud83d\udcf2\ud83d\udd27",
+    "categories": [
+      "VPN",
+      "Security",
+      "Cloud",
+      "Privacy",
+      "Infrastructure"
+    ],
+    "related": [
+      "openvpn server",
+      "kill switch failure",
+      "vpn clients",
+      "vpn gateway",
+      "strongswan"
+    ],
+    "aliases": [
+      "nebula",
+      "NEBULA"
+    ],
+    "use_case": "A sysadmin or end-user chooses or configures Nebula to connect securely over the internet or between private networks.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "hamachi": {
+    "eli5": "Hamachi is like a tunnel app or tool that helps you connect safely to the internet, but some tunnels can be broken or unsafe.",
+    "boss": "Hamachi includes VPN apps, providers, protocols, and cloud-hosted solutions that enable secure remote access for consumers and enterprises, with varying levels of security and reliability.",
+    "sysadmin": "Hamachi refers to a VPN server, client application, protocol implementation, or security concern used to configure private network tunnels and assess provider trustworthiness.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83c\udf10\ud83d\udcf2\ud83d\udd27",
+    "categories": [
+      "VPN",
+      "Security",
+      "Cloud",
+      "Privacy",
+      "Infrastructure"
+    ],
+    "related": [
+      "openvpn server",
+      "kill switch failure",
+      "vpn clients",
+      "vpn gateway",
+      "strongswan"
+    ],
+    "aliases": [
+      "hamachi",
+      "HAMACHI"
+    ],
+    "use_case": "A sysadmin or end-user chooses or configures Hamachi to connect securely over the internet or between private networks.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "cloudflare warp": {
+    "eli5": "Cloudflare Warp is like a tunnel app or tool that helps you connect safely to the internet, but some tunnels can be broken or unsafe.",
+    "boss": "Cloudflare Warp includes VPN apps, providers, protocols, and cloud-hosted solutions that enable secure remote access for consumers and enterprises, with varying levels of security and reliability.",
+    "sysadmin": "Cloudflare Warp refers to a VPN server, client application, protocol implementation, or security concern used to configure private network tunnels and assess provider trustworthiness.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83c\udf10\ud83d\udcf2\ud83d\udd27",
+    "categories": [
+      "VPN",
+      "Security",
+      "Cloud",
+      "Privacy",
+      "Infrastructure"
+    ],
+    "related": [
+      "openvpn server",
+      "kill switch failure",
+      "vpn clients",
+      "vpn gateway",
+      "strongswan"
+    ],
+    "aliases": [
+      "cloudflare warp",
+      "CLOUDFLARE WARP"
+    ],
+    "use_case": "A sysadmin or end-user chooses or configures Cloudflare Warp to connect securely over the internet or between private networks.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "netmaker": {
+    "eli5": "Netmaker is like a tunnel app or tool that helps you connect safely to the internet, but some tunnels can be broken or unsafe.",
+    "boss": "Netmaker includes VPN apps, providers, protocols, and cloud-hosted solutions that enable secure remote access for consumers and enterprises, with varying levels of security and reliability.",
+    "sysadmin": "Netmaker refers to a VPN server, client application, protocol implementation, or security concern used to configure private network tunnels and assess provider trustworthiness.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83c\udf10\ud83d\udcf2\ud83d\udd27",
+    "categories": [
+      "VPN",
+      "Security",
+      "Cloud",
+      "Privacy",
+      "Infrastructure"
+    ],
+    "related": [
+      "openvpn server",
+      "kill switch failure",
+      "vpn clients",
+      "vpn gateway",
+      "strongswan"
+    ],
+    "aliases": [
+      "netmaker",
+      "NETMAKER"
+    ],
+    "use_case": "A sysadmin or end-user chooses or configures Netmaker to connect securely over the internet or between private networks.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "headscale": {
+    "eli5": "Headscale is like a tunnel app or tool that helps you connect safely to the internet, but some tunnels can be broken or unsafe.",
+    "boss": "Headscale includes VPN apps, providers, protocols, and cloud-hosted solutions that enable secure remote access for consumers and enterprises, with varying levels of security and reliability.",
+    "sysadmin": "Headscale refers to a VPN server, client application, protocol implementation, or security concern used to configure private network tunnels and assess provider trustworthiness.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83c\udf10\ud83d\udcf2\ud83d\udd27",
+    "categories": [
+      "VPN",
+      "Security",
+      "Cloud",
+      "Privacy",
+      "Infrastructure"
+    ],
+    "related": [
+      "openvpn server",
+      "kill switch failure",
+      "vpn clients",
+      "vpn gateway",
+      "strongswan"
+    ],
+    "aliases": [
+      "headscale",
+      "HEADSCALE"
+    ],
+    "use_case": "A sysadmin or end-user chooses or configures Headscale to connect securely over the internet or between private networks.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "pivpn": {
+    "eli5": "PiVPN is like a tunnel app or tool that helps you connect safely to the internet, but some tunnels can be broken or unsafe.",
+    "boss": "PiVPN includes VPN apps, providers, protocols, and cloud-hosted solutions that enable secure remote access for consumers and enterprises, with varying levels of security and reliability.",
+    "sysadmin": "PiVPN refers to a VPN server, client application, protocol implementation, or security concern used to configure private network tunnels and assess provider trustworthiness.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83c\udf10\ud83d\udcf2\ud83d\udd27",
+    "categories": [
+      "VPN",
+      "Security",
+      "Cloud",
+      "Privacy",
+      "Infrastructure"
+    ],
+    "related": [
+      "openvpn server",
+      "kill switch failure",
+      "vpn clients",
+      "vpn gateway",
+      "strongswan"
+    ],
+    "aliases": [
+      "pivpn",
+      "PIVPN"
+    ],
+    "use_case": "A sysadmin or end-user chooses or configures PiVPN to connect securely over the internet or between private networks.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "algo vpn": {
+    "eli5": "Algo VPN is like a tunnel app or tool that helps you connect safely to the internet, but some tunnels can be broken or unsafe.",
+    "boss": "Algo VPN includes VPN apps, providers, protocols, and cloud-hosted solutions that enable secure remote access for consumers and enterprises, with varying levels of security and reliability.",
+    "sysadmin": "Algo VPN refers to a VPN server, client application, protocol implementation, or security concern used to configure private network tunnels and assess provider trustworthiness.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83c\udf10\ud83d\udcf2\ud83d\udd27",
+    "categories": [
+      "VPN",
+      "Security",
+      "Cloud",
+      "Privacy",
+      "Infrastructure"
+    ],
+    "related": [
+      "openvpn server",
+      "kill switch failure",
+      "vpn clients",
+      "vpn gateway",
+      "strongswan"
+    ],
+    "aliases": [
+      "algo vpn",
+      "ALGO VPN"
+    ],
+    "use_case": "A sysadmin or end-user chooses or configures Algo VPN to connect securely over the internet or between private networks.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "outline vpn": {
+    "eli5": "Outline VPN is like a tunnel app or tool that helps you connect safely to the internet, but some tunnels can be broken or unsafe.",
+    "boss": "Outline VPN includes VPN apps, providers, protocols, and cloud-hosted solutions that enable secure remote access for consumers and enterprises, with varying levels of security and reliability.",
+    "sysadmin": "Outline VPN refers to a VPN server, client application, protocol implementation, or security concern used to configure private network tunnels and assess provider trustworthiness.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83c\udf10\ud83d\udcf2\ud83d\udd27",
+    "categories": [
+      "VPN",
+      "Security",
+      "Cloud",
+      "Privacy",
+      "Infrastructure"
+    ],
+    "related": [
+      "openvpn server",
+      "kill switch failure",
+      "vpn clients",
+      "vpn gateway",
+      "strongswan"
+    ],
+    "aliases": [
+      "outline vpn",
+      "OUTLINE VPN"
+    ],
+    "use_case": "A sysadmin or end-user chooses or configures Outline VPN to connect securely over the internet or between private networks.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "freelan": {
+    "eli5": "Freelan is like a tunnel app or tool that helps you connect safely to the internet, but some tunnels can be broken or unsafe.",
+    "boss": "Freelan includes VPN apps, providers, protocols, and cloud-hosted solutions that enable secure remote access for consumers and enterprises, with varying levels of security and reliability.",
+    "sysadmin": "Freelan refers to a VPN server, client application, protocol implementation, or security concern used to configure private network tunnels and assess provider trustworthiness.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83c\udf10\ud83d\udcf2\ud83d\udd27",
+    "categories": [
+      "VPN",
+      "Security",
+      "Cloud",
+      "Privacy",
+      "Infrastructure"
+    ],
+    "related": [
+      "openvpn server",
+      "kill switch failure",
+      "vpn clients",
+      "vpn gateway",
+      "strongswan"
+    ],
+    "aliases": [
+      "freelan",
+      "FREELAN"
+    ],
+    "use_case": "A sysadmin or end-user chooses or configures Freelan to connect securely over the internet or between private networks.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "vpn clients": {
+    "eli5": "VPN Clients is like a tunnel app or tool that helps you connect safely to the internet, but some tunnels can be broken or unsafe.",
+    "boss": "VPN Clients includes VPN apps, providers, protocols, and cloud-hosted solutions that enable secure remote access for consumers and enterprises, with varying levels of security and reliability.",
+    "sysadmin": "VPN Clients refers to a VPN server, client application, protocol implementation, or security concern used to configure private network tunnels and assess provider trustworthiness.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83c\udf10\ud83d\udcf2\ud83d\udd27",
+    "categories": [
+      "VPN",
+      "Security",
+      "Cloud",
+      "Privacy",
+      "Infrastructure"
+    ],
+    "related": [
+      "openvpn server",
+      "kill switch failure",
+      "vpn clients",
+      "vpn gateway",
+      "strongswan"
+    ],
+    "aliases": [
+      "vpn clients",
+      "VPN CLIENTS"
+    ],
+    "use_case": "A sysadmin or end-user chooses or configures VPN Clients to connect securely over the internet or between private networks.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "openvpn connect": {
+    "eli5": "OpenVPN Connect is like a tunnel app or tool that helps you connect safely to the internet, but some tunnels can be broken or unsafe.",
+    "boss": "OpenVPN Connect includes VPN apps, providers, protocols, and cloud-hosted solutions that enable secure remote access for consumers and enterprises, with varying levels of security and reliability.",
+    "sysadmin": "OpenVPN Connect refers to a VPN server, client application, protocol implementation, or security concern used to configure private network tunnels and assess provider trustworthiness.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83c\udf10\ud83d\udcf2\ud83d\udd27",
+    "categories": [
+      "VPN",
+      "Security",
+      "Cloud",
+      "Privacy",
+      "Infrastructure"
+    ],
+    "related": [
+      "openvpn server",
+      "kill switch failure",
+      "vpn clients",
+      "vpn gateway",
+      "strongswan"
+    ],
+    "aliases": [
+      "openvpn connect",
+      "OPENVPN CONNECT"
+    ],
+    "use_case": "A sysadmin or end-user chooses or configures OpenVPN Connect to connect securely over the internet or between private networks.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "wireguard app": {
+    "eli5": "WireGuard App is like a tunnel app or tool that helps you connect safely to the internet, but some tunnels can be broken or unsafe.",
+    "boss": "WireGuard App includes VPN apps, providers, protocols, and cloud-hosted solutions that enable secure remote access for consumers and enterprises, with varying levels of security and reliability.",
+    "sysadmin": "WireGuard App refers to a VPN server, client application, protocol implementation, or security concern used to configure private network tunnels and assess provider trustworthiness.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83c\udf10\ud83d\udcf2\ud83d\udd27",
+    "categories": [
+      "VPN",
+      "Security",
+      "Cloud",
+      "Privacy",
+      "Infrastructure"
+    ],
+    "related": [
+      "openvpn server",
+      "kill switch failure",
+      "vpn clients",
+      "vpn gateway",
+      "strongswan"
+    ],
+    "aliases": [
+      "wireguard app",
+      "WIREGUARD APP"
+    ],
+    "use_case": "A sysadmin or end-user chooses or configures WireGuard App to connect securely over the internet or between private networks.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "tunnelblick": {
+    "eli5": "Tunnelblick is like a tunnel app or tool that helps you connect safely to the internet, but some tunnels can be broken or unsafe.",
+    "boss": "Tunnelblick includes VPN apps, providers, protocols, and cloud-hosted solutions that enable secure remote access for consumers and enterprises, with varying levels of security and reliability.",
+    "sysadmin": "Tunnelblick refers to a VPN server, client application, protocol implementation, or security concern used to configure private network tunnels and assess provider trustworthiness.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83c\udf10\ud83d\udcf2\ud83d\udd27",
+    "categories": [
+      "VPN",
+      "Security",
+      "Cloud",
+      "Privacy",
+      "Infrastructure"
+    ],
+    "related": [
+      "openvpn server",
+      "kill switch failure",
+      "vpn clients",
+      "vpn gateway",
+      "strongswan"
+    ],
+    "aliases": [
+      "tunnelblick",
+      "TUNNELBLICK"
+    ],
+    "use_case": "A sysadmin or end-user chooses or configures Tunnelblick to connect securely over the internet or between private networks.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "viscosity": {
+    "eli5": "Viscosity is like a tunnel app or tool that helps you connect safely to the internet, but some tunnels can be broken or unsafe.",
+    "boss": "Viscosity includes VPN apps, providers, protocols, and cloud-hosted solutions that enable secure remote access for consumers and enterprises, with varying levels of security and reliability.",
+    "sysadmin": "Viscosity refers to a VPN server, client application, protocol implementation, or security concern used to configure private network tunnels and assess provider trustworthiness.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83c\udf10\ud83d\udcf2\ud83d\udd27",
+    "categories": [
+      "VPN",
+      "Security",
+      "Cloud",
+      "Privacy",
+      "Infrastructure"
+    ],
+    "related": [
+      "openvpn server",
+      "kill switch failure",
+      "vpn clients",
+      "vpn gateway",
+      "strongswan"
+    ],
+    "aliases": [
+      "viscosity",
+      "VISCOSITY"
+    ],
+    "use_case": "A sysadmin or end-user chooses or configures Viscosity to connect securely over the internet or between private networks.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "cisco anyconnect": {
+    "eli5": "Cisco AnyConnect is like a tunnel app or tool that helps you connect safely to the internet, but some tunnels can be broken or unsafe.",
+    "boss": "Cisco AnyConnect includes VPN apps, providers, protocols, and cloud-hosted solutions that enable secure remote access for consumers and enterprises, with varying levels of security and reliability.",
+    "sysadmin": "Cisco AnyConnect refers to a VPN server, client application, protocol implementation, or security concern used to configure private network tunnels and assess provider trustworthiness.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83c\udf10\ud83d\udcf2\ud83d\udd27",
+    "categories": [
+      "VPN",
+      "Security",
+      "Cloud",
+      "Privacy",
+      "Infrastructure"
+    ],
+    "related": [
+      "openvpn server",
+      "kill switch failure",
+      "vpn clients",
+      "vpn gateway",
+      "strongswan"
+    ],
+    "aliases": [
+      "cisco anyconnect",
+      "CISCO ANYCONNECT"
+    ],
+    "use_case": "A sysadmin or end-user chooses or configures Cisco AnyConnect to connect securely over the internet or between private networks.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "globalprotect (palo alto)": {
+    "eli5": "GlobalProtect (Palo Alto) is like a tunnel app or tool that helps you connect safely to the internet, but some tunnels can be broken or unsafe.",
+    "boss": "GlobalProtect (Palo Alto) includes VPN apps, providers, protocols, and cloud-hosted solutions that enable secure remote access for consumers and enterprises, with varying levels of security and reliability.",
+    "sysadmin": "GlobalProtect (Palo Alto) refers to a VPN server, client application, protocol implementation, or security concern used to configure private network tunnels and assess provider trustworthiness.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83c\udf10\ud83d\udcf2\ud83d\udd27",
+    "categories": [
+      "VPN",
+      "Security",
+      "Cloud",
+      "Privacy",
+      "Infrastructure"
+    ],
+    "related": [
+      "openvpn server",
+      "kill switch failure",
+      "vpn clients",
+      "vpn gateway",
+      "strongswan"
+    ],
+    "aliases": [
+      "globalprotect (palo alto)",
+      "GLOBALPROTECT (PALO ALTO)"
+    ],
+    "use_case": "A sysadmin or end-user chooses or configures GlobalProtect (Palo Alto) to connect securely over the internet or between private networks.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "forticlient": {
+    "eli5": "FortiClient is like a tunnel app or tool that helps you connect safely to the internet, but some tunnels can be broken or unsafe.",
+    "boss": "FortiClient includes VPN apps, providers, protocols, and cloud-hosted solutions that enable secure remote access for consumers and enterprises, with varying levels of security and reliability.",
+    "sysadmin": "FortiClient refers to a VPN server, client application, protocol implementation, or security concern used to configure private network tunnels and assess provider trustworthiness.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83c\udf10\ud83d\udcf2\ud83d\udd27",
+    "categories": [
+      "VPN",
+      "Security",
+      "Cloud",
+      "Privacy",
+      "Infrastructure"
+    ],
+    "related": [
+      "openvpn server",
+      "kill switch failure",
+      "vpn clients",
+      "vpn gateway",
+      "strongswan"
+    ],
+    "aliases": [
+      "forticlient",
+      "FORTICLIENT"
+    ],
+    "use_case": "A sysadmin or end-user chooses or configures FortiClient to connect securely over the internet or between private networks.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "pulse secure": {
+    "eli5": "Pulse Secure is like a tunnel app or tool that helps you connect safely to the internet, but some tunnels can be broken or unsafe.",
+    "boss": "Pulse Secure includes VPN apps, providers, protocols, and cloud-hosted solutions that enable secure remote access for consumers and enterprises, with varying levels of security and reliability.",
+    "sysadmin": "Pulse Secure refers to a VPN server, client application, protocol implementation, or security concern used to configure private network tunnels and assess provider trustworthiness.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83c\udf10\ud83d\udcf2\ud83d\udd27",
+    "categories": [
+      "VPN",
+      "Security",
+      "Cloud",
+      "Privacy",
+      "Infrastructure"
+    ],
+    "related": [
+      "openvpn server",
+      "kill switch failure",
+      "vpn clients",
+      "vpn gateway",
+      "strongswan"
+    ],
+    "aliases": [
+      "pulse secure",
+      "PULSE SECURE"
+    ],
+    "use_case": "A sysadmin or end-user chooses or configures Pulse Secure to connect securely over the internet or between private networks.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "nordvpn": {
+    "eli5": "NordVPN is like a tunnel app or tool that helps you connect safely to the internet, but some tunnels can be broken or unsafe.",
+    "boss": "NordVPN includes VPN apps, providers, protocols, and cloud-hosted solutions that enable secure remote access for consumers and enterprises, with varying levels of security and reliability.",
+    "sysadmin": "NordVPN refers to a VPN server, client application, protocol implementation, or security concern used to configure private network tunnels and assess provider trustworthiness.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83c\udf10\ud83d\udcf2\ud83d\udd27",
+    "categories": [
+      "VPN",
+      "Security",
+      "Cloud",
+      "Privacy",
+      "Infrastructure"
+    ],
+    "related": [
+      "openvpn server",
+      "kill switch failure",
+      "vpn clients",
+      "vpn gateway",
+      "strongswan"
+    ],
+    "aliases": [
+      "nordvpn",
+      "NORDVPN"
+    ],
+    "use_case": "A sysadmin or end-user chooses or configures NordVPN to connect securely over the internet or between private networks.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "expressvpn": {
+    "eli5": "ExpressVPN is like a tunnel app or tool that helps you connect safely to the internet, but some tunnels can be broken or unsafe.",
+    "boss": "ExpressVPN includes VPN apps, providers, protocols, and cloud-hosted solutions that enable secure remote access for consumers and enterprises, with varying levels of security and reliability.",
+    "sysadmin": "ExpressVPN refers to a VPN server, client application, protocol implementation, or security concern used to configure private network tunnels and assess provider trustworthiness.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83c\udf10\ud83d\udcf2\ud83d\udd27",
+    "categories": [
+      "VPN",
+      "Security",
+      "Cloud",
+      "Privacy",
+      "Infrastructure"
+    ],
+    "related": [
+      "openvpn server",
+      "kill switch failure",
+      "vpn clients",
+      "vpn gateway",
+      "strongswan"
+    ],
+    "aliases": [
+      "expressvpn",
+      "EXPRESSVPN"
+    ],
+    "use_case": "A sysadmin or end-user chooses or configures ExpressVPN to connect securely over the internet or between private networks.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "protonvpn": {
+    "eli5": "ProtonVPN is like a tunnel app or tool that helps you connect safely to the internet, but some tunnels can be broken or unsafe.",
+    "boss": "ProtonVPN includes VPN apps, providers, protocols, and cloud-hosted solutions that enable secure remote access for consumers and enterprises, with varying levels of security and reliability.",
+    "sysadmin": "ProtonVPN refers to a VPN server, client application, protocol implementation, or security concern used to configure private network tunnels and assess provider trustworthiness.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83c\udf10\ud83d\udcf2\ud83d\udd27",
+    "categories": [
+      "VPN",
+      "Security",
+      "Cloud",
+      "Privacy",
+      "Infrastructure"
+    ],
+    "related": [
+      "openvpn server",
+      "kill switch failure",
+      "vpn clients",
+      "vpn gateway",
+      "strongswan"
+    ],
+    "aliases": [
+      "protonvpn",
+      "PROTONVPN"
+    ],
+    "use_case": "A sysadmin or end-user chooses or configures ProtonVPN to connect securely over the internet or between private networks.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "surfshark": {
+    "eli5": "Surfshark is like a tunnel app or tool that helps you connect safely to the internet, but some tunnels can be broken or unsafe.",
+    "boss": "Surfshark includes VPN apps, providers, protocols, and cloud-hosted solutions that enable secure remote access for consumers and enterprises, with varying levels of security and reliability.",
+    "sysadmin": "Surfshark refers to a VPN server, client application, protocol implementation, or security concern used to configure private network tunnels and assess provider trustworthiness.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83c\udf10\ud83d\udcf2\ud83d\udd27",
+    "categories": [
+      "VPN",
+      "Security",
+      "Cloud",
+      "Privacy",
+      "Infrastructure"
+    ],
+    "related": [
+      "openvpn server",
+      "kill switch failure",
+      "vpn clients",
+      "vpn gateway",
+      "strongswan"
+    ],
+    "aliases": [
+      "surfshark",
+      "SURFSHARK"
+    ],
+    "use_case": "A sysadmin or end-user chooses or configures Surfshark to connect securely over the internet or between private networks.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "mullvad": {
+    "eli5": "Mullvad is like a tunnel app or tool that helps you connect safely to the internet, but some tunnels can be broken or unsafe.",
+    "boss": "Mullvad includes VPN apps, providers, protocols, and cloud-hosted solutions that enable secure remote access for consumers and enterprises, with varying levels of security and reliability.",
+    "sysadmin": "Mullvad refers to a VPN server, client application, protocol implementation, or security concern used to configure private network tunnels and assess provider trustworthiness.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83c\udf10\ud83d\udcf2\ud83d\udd27",
+    "categories": [
+      "VPN",
+      "Security",
+      "Cloud",
+      "Privacy",
+      "Infrastructure"
+    ],
+    "related": [
+      "openvpn server",
+      "kill switch failure",
+      "vpn clients",
+      "vpn gateway",
+      "strongswan"
+    ],
+    "aliases": [
+      "mullvad",
+      "MULLVAD"
+    ],
+    "use_case": "A sysadmin or end-user chooses or configures Mullvad to connect securely over the internet or between private networks.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "windscribe": {
+    "eli5": "Windscribe is like a tunnel app or tool that helps you connect safely to the internet, but some tunnels can be broken or unsafe.",
+    "boss": "Windscribe includes VPN apps, providers, protocols, and cloud-hosted solutions that enable secure remote access for consumers and enterprises, with varying levels of security and reliability.",
+    "sysadmin": "Windscribe refers to a VPN server, client application, protocol implementation, or security concern used to configure private network tunnels and assess provider trustworthiness.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83c\udf10\ud83d\udcf2\ud83d\udd27",
+    "categories": [
+      "VPN",
+      "Security",
+      "Cloud",
+      "Privacy",
+      "Infrastructure"
+    ],
+    "related": [
+      "openvpn server",
+      "kill switch failure",
+      "vpn clients",
+      "vpn gateway",
+      "strongswan"
+    ],
+    "aliases": [
+      "windscribe",
+      "WINDSCRIBE"
+    ],
+    "use_case": "A sysadmin or end-user chooses or configures Windscribe to connect securely over the internet or between private networks.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "vpn vendors / providers": {
+    "eli5": "VPN Vendors / Providers is like a tunnel app or tool that helps you connect safely to the internet, but some tunnels can be broken or unsafe.",
+    "boss": "VPN Vendors / Providers includes VPN apps, providers, protocols, and cloud-hosted solutions that enable secure remote access for consumers and enterprises, with varying levels of security and reliability.",
+    "sysadmin": "VPN Vendors / Providers refers to a VPN server, client application, protocol implementation, or security concern used to configure private network tunnels and assess provider trustworthiness.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83c\udf10\ud83d\udcf2\ud83d\udd27",
+    "categories": [
+      "VPN",
+      "Security",
+      "Cloud",
+      "Privacy",
+      "Infrastructure"
+    ],
+    "related": [
+      "openvpn server",
+      "kill switch failure",
+      "vpn clients",
+      "vpn gateway",
+      "strongswan"
+    ],
+    "aliases": [
+      "vpn vendors / providers",
+      "VPN VENDORS / PROVIDERS"
+    ],
+    "use_case": "A sysadmin or end-user chooses or configures VPN Vendors / Providers to connect securely over the internet or between private networks.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "tunnelbear": {
+    "eli5": "TunnelBear is like a tunnel app or tool that helps you connect safely to the internet, but some tunnels can be broken or unsafe.",
+    "boss": "TunnelBear includes VPN apps, providers, protocols, and cloud-hosted solutions that enable secure remote access for consumers and enterprises, with varying levels of security and reliability.",
+    "sysadmin": "TunnelBear refers to a VPN server, client application, protocol implementation, or security concern used to configure private network tunnels and assess provider trustworthiness.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83c\udf10\ud83d\udcf2\ud83d\udd27",
+    "categories": [
+      "VPN",
+      "Security",
+      "Cloud",
+      "Privacy",
+      "Infrastructure"
+    ],
+    "related": [
+      "openvpn server",
+      "kill switch failure",
+      "vpn clients",
+      "vpn gateway",
+      "strongswan"
+    ],
+    "aliases": [
+      "tunnelbear",
+      "TUNNELBEAR"
+    ],
+    "use_case": "A sysadmin or end-user chooses or configures TunnelBear to connect securely over the internet or between private networks.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "private internet access (pia)": {
+    "eli5": "Private Internet Access (PIA) is like a tunnel app or tool that helps you connect safely to the internet, but some tunnels can be broken or unsafe.",
+    "boss": "Private Internet Access (PIA) includes VPN apps, providers, protocols, and cloud-hosted solutions that enable secure remote access for consumers and enterprises, with varying levels of security and reliability.",
+    "sysadmin": "Private Internet Access (PIA) refers to a VPN server, client application, protocol implementation, or security concern used to configure private network tunnels and assess provider trustworthiness.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83c\udf10\ud83d\udcf2\ud83d\udd27",
+    "categories": [
+      "VPN",
+      "Security",
+      "Cloud",
+      "Privacy",
+      "Infrastructure"
+    ],
+    "related": [
+      "openvpn server",
+      "kill switch failure",
+      "vpn clients",
+      "vpn gateway",
+      "strongswan"
+    ],
+    "aliases": [
+      "private internet access (pia)",
+      "PRIVATE INTERNET ACCESS (PIA)"
+    ],
+    "use_case": "A sysadmin or end-user chooses or configures Private Internet Access (PIA) to connect securely over the internet or between private networks.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "cyberghost": {
+    "eli5": "CyberGhost is like a tunnel app or tool that helps you connect safely to the internet, but some tunnels can be broken or unsafe.",
+    "boss": "CyberGhost includes VPN apps, providers, protocols, and cloud-hosted solutions that enable secure remote access for consumers and enterprises, with varying levels of security and reliability.",
+    "sysadmin": "CyberGhost refers to a VPN server, client application, protocol implementation, or security concern used to configure private network tunnels and assess provider trustworthiness.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83c\udf10\ud83d\udcf2\ud83d\udd27",
+    "categories": [
+      "VPN",
+      "Security",
+      "Cloud",
+      "Privacy",
+      "Infrastructure"
+    ],
+    "related": [
+      "openvpn server",
+      "kill switch failure",
+      "vpn clients",
+      "vpn gateway",
+      "strongswan"
+    ],
+    "aliases": [
+      "cyberghost",
+      "CYBERGHOST"
+    ],
+    "use_case": "A sysadmin or end-user chooses or configures CyberGhost to connect securely over the internet or between private networks.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "ivpn": {
+    "eli5": "IVPN is like a tunnel app or tool that helps you connect safely to the internet, but some tunnels can be broken or unsafe.",
+    "boss": "IVPN includes VPN apps, providers, protocols, and cloud-hosted solutions that enable secure remote access for consumers and enterprises, with varying levels of security and reliability.",
+    "sysadmin": "IVPN refers to a VPN server, client application, protocol implementation, or security concern used to configure private network tunnels and assess provider trustworthiness.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83c\udf10\ud83d\udcf2\ud83d\udd27",
+    "categories": [
+      "VPN",
+      "Security",
+      "Cloud",
+      "Privacy",
+      "Infrastructure"
+    ],
+    "related": [
+      "openvpn server",
+      "kill switch failure",
+      "vpn clients",
+      "vpn gateway",
+      "strongswan"
+    ],
+    "aliases": [
+      "ivpn",
+      "IVPN"
+    ],
+    "use_case": "A sysadmin or end-user chooses or configures IVPN to connect securely over the internet or between private networks.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "enterprise vpns": {
+    "eli5": "Enterprise VPNs is like a tunnel app or tool that helps you connect safely to the internet, but some tunnels can be broken or unsafe.",
+    "boss": "Enterprise VPNs includes VPN apps, providers, protocols, and cloud-hosted solutions that enable secure remote access for consumers and enterprises, with varying levels of security and reliability.",
+    "sysadmin": "Enterprise VPNs refers to a VPN server, client application, protocol implementation, or security concern used to configure private network tunnels and assess provider trustworthiness.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83c\udf10\ud83d\udcf2\ud83d\udd27",
+    "categories": [
+      "VPN",
+      "Security",
+      "Cloud",
+      "Privacy",
+      "Infrastructure"
+    ],
+    "related": [
+      "openvpn server",
+      "kill switch failure",
+      "vpn clients",
+      "vpn gateway",
+      "strongswan"
+    ],
+    "aliases": [
+      "enterprise vpns",
+      "ENTERPRISE VPNS"
+    ],
+    "use_case": "A sysadmin or end-user chooses or configures Enterprise VPNs to connect securely over the internet or between private networks.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "fortinet forticlient": {
+    "eli5": "Fortinet FortiClient is like a tunnel app or tool that helps you connect safely to the internet, but some tunnels can be broken or unsafe.",
+    "boss": "Fortinet FortiClient includes VPN apps, providers, protocols, and cloud-hosted solutions that enable secure remote access for consumers and enterprises, with varying levels of security and reliability.",
+    "sysadmin": "Fortinet FortiClient refers to a VPN server, client application, protocol implementation, or security concern used to configure private network tunnels and assess provider trustworthiness.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83c\udf10\ud83d\udcf2\ud83d\udd27",
+    "categories": [
+      "VPN",
+      "Security",
+      "Cloud",
+      "Privacy",
+      "Infrastructure"
+    ],
+    "related": [
+      "openvpn server",
+      "kill switch failure",
+      "vpn clients",
+      "vpn gateway",
+      "strongswan"
+    ],
+    "aliases": [
+      "fortinet forticlient",
+      "FORTINET FORTICLIENT"
+    ],
+    "use_case": "A sysadmin or end-user chooses or configures Fortinet FortiClient to connect securely over the internet or between private networks.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "palo alto globalprotect": {
+    "eli5": "Palo Alto GlobalProtect is like a tunnel app or tool that helps you connect safely to the internet, but some tunnels can be broken or unsafe.",
+    "boss": "Palo Alto GlobalProtect includes VPN apps, providers, protocols, and cloud-hosted solutions that enable secure remote access for consumers and enterprises, with varying levels of security and reliability.",
+    "sysadmin": "Palo Alto GlobalProtect refers to a VPN server, client application, protocol implementation, or security concern used to configure private network tunnels and assess provider trustworthiness.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83c\udf10\ud83d\udcf2\ud83d\udd27",
+    "categories": [
+      "VPN",
+      "Security",
+      "Cloud",
+      "Privacy",
+      "Infrastructure"
+    ],
+    "related": [
+      "openvpn server",
+      "kill switch failure",
+      "vpn clients",
+      "vpn gateway",
+      "strongswan"
+    ],
+    "aliases": [
+      "palo alto globalprotect",
+      "PALO ALTO GLOBALPROTECT"
+    ],
+    "use_case": "A sysadmin or end-user chooses or configures Palo Alto GlobalProtect to connect securely over the internet or between private networks.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "sonicwall mobile connect": {
+    "eli5": "SonicWall Mobile Connect is like a tunnel app or tool that helps you connect safely to the internet, but some tunnels can be broken or unsafe.",
+    "boss": "SonicWall Mobile Connect includes VPN apps, providers, protocols, and cloud-hosted solutions that enable secure remote access for consumers and enterprises, with varying levels of security and reliability.",
+    "sysadmin": "SonicWall Mobile Connect refers to a VPN server, client application, protocol implementation, or security concern used to configure private network tunnels and assess provider trustworthiness.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83c\udf10\ud83d\udcf2\ud83d\udd27",
+    "categories": [
+      "VPN",
+      "Security",
+      "Cloud",
+      "Privacy",
+      "Infrastructure"
+    ],
+    "related": [
+      "openvpn server",
+      "kill switch failure",
+      "vpn clients",
+      "vpn gateway",
+      "strongswan"
+    ],
+    "aliases": [
+      "sonicwall mobile connect",
+      "SONICWALL MOBILE CONNECT"
+    ],
+    "use_case": "A sysadmin or end-user chooses or configures SonicWall Mobile Connect to connect securely over the internet or between private networks.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "check point vpn": {
+    "eli5": "Check Point VPN is like a tunnel app or tool that helps you connect safely to the internet, but some tunnels can be broken or unsafe.",
+    "boss": "Check Point VPN includes VPN apps, providers, protocols, and cloud-hosted solutions that enable secure remote access for consumers and enterprises, with varying levels of security and reliability.",
+    "sysadmin": "Check Point VPN refers to a VPN server, client application, protocol implementation, or security concern used to configure private network tunnels and assess provider trustworthiness.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83c\udf10\ud83d\udcf2\ud83d\udd27",
+    "categories": [
+      "VPN",
+      "Security",
+      "Cloud",
+      "Privacy",
+      "Infrastructure"
+    ],
+    "related": [
+      "openvpn server",
+      "kill switch failure",
+      "vpn clients",
+      "vpn gateway",
+      "strongswan"
+    ],
+    "aliases": [
+      "check point vpn",
+      "CHECK POINT VPN"
+    ],
+    "use_case": "A sysadmin or end-user chooses or configures Check Point VPN to connect securely over the internet or between private networks.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "juniper vpn": {
+    "eli5": "Juniper VPN is like a tunnel app or tool that helps you connect safely to the internet, but some tunnels can be broken or unsafe.",
+    "boss": "Juniper VPN includes VPN apps, providers, protocols, and cloud-hosted solutions that enable secure remote access for consumers and enterprises, with varying levels of security and reliability.",
+    "sysadmin": "Juniper VPN refers to a VPN server, client application, protocol implementation, or security concern used to configure private network tunnels and assess provider trustworthiness.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83c\udf10\ud83d\udcf2\ud83d\udd27",
+    "categories": [
+      "VPN",
+      "Security",
+      "Cloud",
+      "Privacy",
+      "Infrastructure"
+    ],
+    "related": [
+      "openvpn server",
+      "kill switch failure",
+      "vpn clients",
+      "vpn gateway",
+      "strongswan"
+    ],
+    "aliases": [
+      "juniper vpn",
+      "JUNIPER VPN"
+    ],
+    "use_case": "A sysadmin or end-user chooses or configures Juniper VPN to connect securely over the internet or between private networks.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "aws client vpn": {
+    "eli5": "AWS Client VPN is like a tunnel app or tool that helps you connect safely to the internet, but some tunnels can be broken or unsafe.",
+    "boss": "AWS Client VPN includes VPN apps, providers, protocols, and cloud-hosted solutions that enable secure remote access for consumers and enterprises, with varying levels of security and reliability.",
+    "sysadmin": "AWS Client VPN refers to a VPN server, client application, protocol implementation, or security concern used to configure private network tunnels and assess provider trustworthiness.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83c\udf10\ud83d\udcf2\ud83d\udd27",
+    "categories": [
+      "VPN",
+      "Security",
+      "Cloud",
+      "Privacy",
+      "Infrastructure"
+    ],
+    "related": [
+      "openvpn server",
+      "kill switch failure",
+      "vpn clients",
+      "vpn gateway",
+      "strongswan"
+    ],
+    "aliases": [
+      "aws client vpn",
+      "AWS CLIENT VPN"
+    ],
+    "use_case": "A sysadmin or end-user chooses or configures AWS Client VPN to connect securely over the internet or between private networks.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "azure vpn gateway": {
+    "eli5": "Azure VPN Gateway is like a tunnel app or tool that helps you connect safely to the internet, but some tunnels can be broken or unsafe.",
+    "boss": "Azure VPN Gateway includes VPN apps, providers, protocols, and cloud-hosted solutions that enable secure remote access for consumers and enterprises, with varying levels of security and reliability.",
+    "sysadmin": "Azure VPN Gateway refers to a VPN server, client application, protocol implementation, or security concern used to configure private network tunnels and assess provider trustworthiness.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83c\udf10\ud83d\udcf2\ud83d\udd27",
+    "categories": [
+      "VPN",
+      "Security",
+      "Cloud",
+      "Privacy",
+      "Infrastructure"
+    ],
+    "related": [
+      "openvpn server",
+      "kill switch failure",
+      "vpn clients",
+      "vpn gateway",
+      "strongswan"
+    ],
+    "aliases": [
+      "azure vpn gateway",
+      "AZURE VPN GATEWAY"
+    ],
+    "use_case": "A sysadmin or end-user chooses or configures Azure VPN Gateway to connect securely over the internet or between private networks.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "google cloud vpn": {
+    "eli5": "Google Cloud VPN is like a tunnel app or tool that helps you connect safely to the internet, but some tunnels can be broken or unsafe.",
+    "boss": "Google Cloud VPN includes VPN apps, providers, protocols, and cloud-hosted solutions that enable secure remote access for consumers and enterprises, with varying levels of security and reliability.",
+    "sysadmin": "Google Cloud VPN refers to a VPN server, client application, protocol implementation, or security concern used to configure private network tunnels and assess provider trustworthiness.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83c\udf10\ud83d\udcf2\ud83d\udd27",
+    "categories": [
+      "VPN",
+      "Security",
+      "Cloud",
+      "Privacy",
+      "Infrastructure"
+    ],
+    "related": [
+      "openvpn server",
+      "kill switch failure",
+      "vpn clients",
+      "vpn gateway",
+      "strongswan"
+    ],
+    "aliases": [
+      "google cloud vpn",
+      "GOOGLE CLOUD VPN"
+    ],
+    "use_case": "A sysadmin or end-user chooses or configures Google Cloud VPN to connect securely over the internet or between private networks.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "cloud vpn features": {
+    "eli5": "Cloud VPN Features is like a tunnel app or tool that helps you connect safely to the internet, but some tunnels can be broken or unsafe.",
+    "boss": "Cloud VPN Features includes VPN apps, providers, protocols, and cloud-hosted solutions that enable secure remote access for consumers and enterprises, with varying levels of security and reliability.",
+    "sysadmin": "Cloud VPN Features refers to a VPN server, client application, protocol implementation, or security concern used to configure private network tunnels and assess provider trustworthiness.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83c\udf10\ud83d\udcf2\ud83d\udd27",
+    "categories": [
+      "VPN",
+      "Security",
+      "Cloud",
+      "Privacy",
+      "Infrastructure"
+    ],
+    "related": [
+      "openvpn server",
+      "kill switch failure",
+      "vpn clients",
+      "vpn gateway",
+      "strongswan"
+    ],
+    "aliases": [
+      "cloud vpn features",
+      "CLOUD VPN FEATURES"
+    ],
+    "use_case": "A sysadmin or end-user chooses or configures Cloud VPN Features to connect securely over the internet or between private networks.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "aws site-to-site vpn": {
+    "eli5": "AWS Site-to-Site VPN is like a tunnel app or tool that helps you connect safely to the internet, but some tunnels can be broken or unsafe.",
+    "boss": "AWS Site-to-Site VPN includes VPN apps, providers, protocols, and cloud-hosted solutions that enable secure remote access for consumers and enterprises, with varying levels of security and reliability.",
+    "sysadmin": "AWS Site-to-Site VPN refers to a VPN server, client application, protocol implementation, or security concern used to configure private network tunnels and assess provider trustworthiness.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83c\udf10\ud83d\udcf2\ud83d\udd27",
+    "categories": [
+      "VPN",
+      "Security",
+      "Cloud",
+      "Privacy",
+      "Infrastructure"
+    ],
+    "related": [
+      "openvpn server",
+      "kill switch failure",
+      "vpn clients",
+      "vpn gateway",
+      "strongswan"
+    ],
+    "aliases": [
+      "aws site-to-site vpn",
+      "AWS SITE-TO-SITE VPN"
+    ],
+    "use_case": "A sysadmin or end-user chooses or configures AWS Site-to-Site VPN to connect securely over the internet or between private networks.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "azure point-to-site vpn": {
+    "eli5": "Azure Point-to-Site VPN is like a tunnel app or tool that helps you connect safely to the internet, but some tunnels can be broken or unsafe.",
+    "boss": "Azure Point-to-Site VPN includes VPN apps, providers, protocols, and cloud-hosted solutions that enable secure remote access for consumers and enterprises, with varying levels of security and reliability.",
+    "sysadmin": "Azure Point-to-Site VPN refers to a VPN server, client application, protocol implementation, or security concern used to configure private network tunnels and assess provider trustworthiness.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83c\udf10\ud83d\udcf2\ud83d\udd27",
+    "categories": [
+      "VPN",
+      "Security",
+      "Cloud",
+      "Privacy",
+      "Infrastructure"
+    ],
+    "related": [
+      "openvpn server",
+      "kill switch failure",
+      "vpn clients",
+      "vpn gateway",
+      "strongswan"
+    ],
+    "aliases": [
+      "azure point-to-site vpn",
+      "AZURE POINT-TO-SITE VPN"
+    ],
+    "use_case": "A sysadmin or end-user chooses or configures Azure Point-to-Site VPN to connect securely over the internet or between private networks.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  }
+}

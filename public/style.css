@@ -359,8 +359,10 @@ hr.info-separator {
 =================== */
 
 .search-wrapper {
+  margin: 0 auto;
   text-align: left;
   position: relative;
+  max-width: 600px;
   width: 100%;
 }
 

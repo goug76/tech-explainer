@@ -1,0 +1,1352 @@
+{
+  "clickup": {
+    "eli5": "ClickUp is like a checklist, robot, or messenger that helps teams work together, test apps, or ship updates safely.",
+    "boss": "ClickUp includes collaboration platforms, testing frameworks, deployment environments, versioning practices, and automation tools used in the software delivery lifecycle.",
+    "sysadmin": "ClickUp refers to a DevOps platform, testing strategy, CI/CD pipeline trigger, or configuration management concept used to improve collaboration, ensure software quality, and automate deployments.",
+    "emoji": "\u2705\ud83e\udd16\ud83d\ude80\ud83d\udce6\ud83d\udcac",
+    "categories": [
+      "DevOps",
+      "Testing",
+      "Collaboration",
+      "Automation",
+      "Configuration Management"
+    ],
+    "related": [
+      "unit test",
+      "chatops",
+      "semantic versioning",
+      "preview environments",
+      "github action schedule"
+    ],
+    "aliases": [
+      "clickup",
+      "CLICKUP"
+    ],
+    "use_case": "Engineering teams use ClickUp to coordinate releases, manage environments, or run automated tests across stages of development.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "monday.com": {
+    "eli5": "Monday.com is like a checklist, robot, or messenger that helps teams work together, test apps, or ship updates safely.",
+    "boss": "Monday.com includes collaboration platforms, testing frameworks, deployment environments, versioning practices, and automation tools used in the software delivery lifecycle.",
+    "sysadmin": "Monday.com refers to a DevOps platform, testing strategy, CI/CD pipeline trigger, or configuration management concept used to improve collaboration, ensure software quality, and automate deployments.",
+    "emoji": "\u2705\ud83e\udd16\ud83d\ude80\ud83d\udce6\ud83d\udcac",
+    "categories": [
+      "DevOps",
+      "Testing",
+      "Collaboration",
+      "Automation",
+      "Configuration Management"
+    ],
+    "related": [
+      "unit test",
+      "chatops",
+      "semantic versioning",
+      "preview environments",
+      "github action schedule"
+    ],
+    "aliases": [
+      "monday.com",
+      "MONDAY.COM"
+    ],
+    "use_case": "Engineering teams use Monday.com to coordinate releases, manage environments, or run automated tests across stages of development.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "slack": {
+    "eli5": "Slack is like a checklist, robot, or messenger that helps teams work together, test apps, or ship updates safely.",
+    "boss": "Slack includes collaboration platforms, testing frameworks, deployment environments, versioning practices, and automation tools used in the software delivery lifecycle.",
+    "sysadmin": "Slack refers to a DevOps platform, testing strategy, CI/CD pipeline trigger, or configuration management concept used to improve collaboration, ensure software quality, and automate deployments.",
+    "emoji": "\u2705\ud83e\udd16\ud83d\ude80\ud83d\udce6\ud83d\udcac",
+    "categories": [
+      "DevOps",
+      "Testing",
+      "Collaboration",
+      "Automation",
+      "Configuration Management"
+    ],
+    "related": [
+      "unit test",
+      "chatops",
+      "semantic versioning",
+      "preview environments",
+      "github action schedule"
+    ],
+    "aliases": [
+      "slack",
+      "SLACK"
+    ],
+    "use_case": "Engineering teams use Slack to coordinate releases, manage environments, or run automated tests across stages of development.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "discord": {
+    "eli5": "Discord is like a checklist, robot, or messenger that helps teams work together, test apps, or ship updates safely.",
+    "boss": "Discord includes collaboration platforms, testing frameworks, deployment environments, versioning practices, and automation tools used in the software delivery lifecycle.",
+    "sysadmin": "Discord refers to a DevOps platform, testing strategy, CI/CD pipeline trigger, or configuration management concept used to improve collaboration, ensure software quality, and automate deployments.",
+    "emoji": "\u2705\ud83e\udd16\ud83d\ude80\ud83d\udce6\ud83d\udcac",
+    "categories": [
+      "DevOps",
+      "Testing",
+      "Collaboration",
+      "Automation",
+      "Configuration Management"
+    ],
+    "related": [
+      "unit test",
+      "chatops",
+      "semantic versioning",
+      "preview environments",
+      "github action schedule"
+    ],
+    "aliases": [
+      "discord",
+      "DISCORD"
+    ],
+    "use_case": "Engineering teams use Discord to coordinate releases, manage environments, or run automated tests across stages of development.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "chatops": {
+    "eli5": "ChatOps is like a checklist, robot, or messenger that helps teams work together, test apps, or ship updates safely.",
+    "boss": "ChatOps includes collaboration platforms, testing frameworks, deployment environments, versioning practices, and automation tools used in the software delivery lifecycle.",
+    "sysadmin": "ChatOps refers to a DevOps platform, testing strategy, CI/CD pipeline trigger, or configuration management concept used to improve collaboration, ensure software quality, and automate deployments.",
+    "emoji": "\u2705\ud83e\udd16\ud83d\ude80\ud83d\udce6\ud83d\udcac",
+    "categories": [
+      "DevOps",
+      "Testing",
+      "Collaboration",
+      "Automation",
+      "Configuration Management"
+    ],
+    "related": [
+      "unit test",
+      "chatops",
+      "semantic versioning",
+      "preview environments",
+      "github action schedule"
+    ],
+    "aliases": [
+      "chatops",
+      "CHATOPS"
+    ],
+    "use_case": "Engineering teams use ChatOps to coordinate releases, manage environments, or run automated tests across stages of development.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "testing": {
+    "eli5": "Testing is like a checklist, robot, or messenger that helps teams work together, test apps, or ship updates safely.",
+    "boss": "Testing includes collaboration platforms, testing frameworks, deployment environments, versioning practices, and automation tools used in the software delivery lifecycle.",
+    "sysadmin": "Testing refers to a DevOps platform, testing strategy, CI/CD pipeline trigger, or configuration management concept used to improve collaboration, ensure software quality, and automate deployments.",
+    "emoji": "\u2705\ud83e\udd16\ud83d\ude80\ud83d\udce6\ud83d\udcac",
+    "categories": [
+      "DevOps",
+      "Testing",
+      "Collaboration",
+      "Automation",
+      "Configuration Management"
+    ],
+    "related": [
+      "unit test",
+      "chatops",
+      "semantic versioning",
+      "preview environments",
+      "github action schedule"
+    ],
+    "aliases": [
+      "testing",
+      "TESTING"
+    ],
+    "use_case": "Engineering teams use Testing to coordinate releases, manage environments, or run automated tests across stages of development.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "unit test": {
+    "eli5": "Unit Test is like a checklist, robot, or messenger that helps teams work together, test apps, or ship updates safely.",
+    "boss": "Unit Test includes collaboration platforms, testing frameworks, deployment environments, versioning practices, and automation tools used in the software delivery lifecycle.",
+    "sysadmin": "Unit Test refers to a DevOps platform, testing strategy, CI/CD pipeline trigger, or configuration management concept used to improve collaboration, ensure software quality, and automate deployments.",
+    "emoji": "\u2705\ud83e\udd16\ud83d\ude80\ud83d\udce6\ud83d\udcac",
+    "categories": [
+      "DevOps",
+      "Testing",
+      "Collaboration",
+      "Automation",
+      "Configuration Management"
+    ],
+    "related": [
+      "unit test",
+      "chatops",
+      "semantic versioning",
+      "preview environments",
+      "github action schedule"
+    ],
+    "aliases": [
+      "unit test",
+      "UNIT TEST"
+    ],
+    "use_case": "Engineering teams use Unit Test to coordinate releases, manage environments, or run automated tests across stages of development.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "integration test": {
+    "eli5": "Integration Test is like a checklist, robot, or messenger that helps teams work together, test apps, or ship updates safely.",
+    "boss": "Integration Test includes collaboration platforms, testing frameworks, deployment environments, versioning practices, and automation tools used in the software delivery lifecycle.",
+    "sysadmin": "Integration Test refers to a DevOps platform, testing strategy, CI/CD pipeline trigger, or configuration management concept used to improve collaboration, ensure software quality, and automate deployments.",
+    "emoji": "\u2705\ud83e\udd16\ud83d\ude80\ud83d\udce6\ud83d\udcac",
+    "categories": [
+      "DevOps",
+      "Testing",
+      "Collaboration",
+      "Automation",
+      "Configuration Management"
+    ],
+    "related": [
+      "unit test",
+      "chatops",
+      "semantic versioning",
+      "preview environments",
+      "github action schedule"
+    ],
+    "aliases": [
+      "integration test",
+      "INTEGRATION TEST"
+    ],
+    "use_case": "Engineering teams use Integration Test to coordinate releases, manage environments, or run automated tests across stages of development.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "end-to-end test (e2e)": {
+    "eli5": "End-to-End Test (E2E) is like a checklist, robot, or messenger that helps teams work together, test apps, or ship updates safely.",
+    "boss": "End-to-End Test (E2E) includes collaboration platforms, testing frameworks, deployment environments, versioning practices, and automation tools used in the software delivery lifecycle.",
+    "sysadmin": "End-to-End Test (E2E) refers to a DevOps platform, testing strategy, CI/CD pipeline trigger, or configuration management concept used to improve collaboration, ensure software quality, and automate deployments.",
+    "emoji": "\u2705\ud83e\udd16\ud83d\ude80\ud83d\udce6\ud83d\udcac",
+    "categories": [
+      "DevOps",
+      "Testing",
+      "Collaboration",
+      "Automation",
+      "Configuration Management"
+    ],
+    "related": [
+      "unit test",
+      "chatops",
+      "semantic versioning",
+      "preview environments",
+      "github action schedule"
+    ],
+    "aliases": [
+      "end-to-end test (e2e)",
+      "END-TO-END TEST (E2E)"
+    ],
+    "use_case": "Engineering teams use End-to-End Test (E2E) to coordinate releases, manage environments, or run automated tests across stages of development.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "test automation": {
+    "eli5": "Test Automation is like a checklist, robot, or messenger that helps teams work together, test apps, or ship updates safely.",
+    "boss": "Test Automation includes collaboration platforms, testing frameworks, deployment environments, versioning practices, and automation tools used in the software delivery lifecycle.",
+    "sysadmin": "Test Automation refers to a DevOps platform, testing strategy, CI/CD pipeline trigger, or configuration management concept used to improve collaboration, ensure software quality, and automate deployments.",
+    "emoji": "\u2705\ud83e\udd16\ud83d\ude80\ud83d\udce6\ud83d\udcac",
+    "categories": [
+      "DevOps",
+      "Testing",
+      "Collaboration",
+      "Automation",
+      "Configuration Management"
+    ],
+    "related": [
+      "unit test",
+      "chatops",
+      "semantic versioning",
+      "preview environments",
+      "github action schedule"
+    ],
+    "aliases": [
+      "test automation",
+      "TEST AUTOMATION"
+    ],
+    "use_case": "Engineering teams use Test Automation to coordinate releases, manage environments, or run automated tests across stages of development.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "test coverage": {
+    "eli5": "Test Coverage is like a checklist, robot, or messenger that helps teams work together, test apps, or ship updates safely.",
+    "boss": "Test Coverage includes collaboration platforms, testing frameworks, deployment environments, versioning practices, and automation tools used in the software delivery lifecycle.",
+    "sysadmin": "Test Coverage refers to a DevOps platform, testing strategy, CI/CD pipeline trigger, or configuration management concept used to improve collaboration, ensure software quality, and automate deployments.",
+    "emoji": "\u2705\ud83e\udd16\ud83d\ude80\ud83d\udce6\ud83d\udcac",
+    "categories": [
+      "DevOps",
+      "Testing",
+      "Collaboration",
+      "Automation",
+      "Configuration Management"
+    ],
+    "related": [
+      "unit test",
+      "chatops",
+      "semantic versioning",
+      "preview environments",
+      "github action schedule"
+    ],
+    "aliases": [
+      "test coverage",
+      "TEST COVERAGE"
+    ],
+    "use_case": "Engineering teams use Test Coverage to coordinate releases, manage environments, or run automated tests across stages of development.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "test runner": {
+    "eli5": "Test Runner is like a checklist, robot, or messenger that helps teams work together, test apps, or ship updates safely.",
+    "boss": "Test Runner includes collaboration platforms, testing frameworks, deployment environments, versioning practices, and automation tools used in the software delivery lifecycle.",
+    "sysadmin": "Test Runner refers to a DevOps platform, testing strategy, CI/CD pipeline trigger, or configuration management concept used to improve collaboration, ensure software quality, and automate deployments.",
+    "emoji": "\u2705\ud83e\udd16\ud83d\ude80\ud83d\udce6\ud83d\udcac",
+    "categories": [
+      "DevOps",
+      "Testing",
+      "Collaboration",
+      "Automation",
+      "Configuration Management"
+    ],
+    "related": [
+      "unit test",
+      "chatops",
+      "semantic versioning",
+      "preview environments",
+      "github action schedule"
+    ],
+    "aliases": [
+      "test runner",
+      "TEST RUNNER"
+    ],
+    "use_case": "Engineering teams use Test Runner to coordinate releases, manage environments, or run automated tests across stages of development.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "mocking": {
+    "eli5": "Mocking is like a checklist, robot, or messenger that helps teams work together, test apps, or ship updates safely.",
+    "boss": "Mocking includes collaboration platforms, testing frameworks, deployment environments, versioning practices, and automation tools used in the software delivery lifecycle.",
+    "sysadmin": "Mocking refers to a DevOps platform, testing strategy, CI/CD pipeline trigger, or configuration management concept used to improve collaboration, ensure software quality, and automate deployments.",
+    "emoji": "\u2705\ud83e\udd16\ud83d\ude80\ud83d\udce6\ud83d\udcac",
+    "categories": [
+      "DevOps",
+      "Testing",
+      "Collaboration",
+      "Automation",
+      "Configuration Management"
+    ],
+    "related": [
+      "unit test",
+      "chatops",
+      "semantic versioning",
+      "preview environments",
+      "github action schedule"
+    ],
+    "aliases": [
+      "mocking",
+      "MOCKING"
+    ],
+    "use_case": "Engineering teams use Mocking to coordinate releases, manage environments, or run automated tests across stages of development.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "linting": {
+    "eli5": "Linting is like a checklist, robot, or messenger that helps teams work together, test apps, or ship updates safely.",
+    "boss": "Linting includes collaboration platforms, testing frameworks, deployment environments, versioning practices, and automation tools used in the software delivery lifecycle.",
+    "sysadmin": "Linting refers to a DevOps platform, testing strategy, CI/CD pipeline trigger, or configuration management concept used to improve collaboration, ensure software quality, and automate deployments.",
+    "emoji": "\u2705\ud83e\udd16\ud83d\ude80\ud83d\udce6\ud83d\udcac",
+    "categories": [
+      "DevOps",
+      "Testing",
+      "Collaboration",
+      "Automation",
+      "Configuration Management"
+    ],
+    "related": [
+      "unit test",
+      "chatops",
+      "semantic versioning",
+      "preview environments",
+      "github action schedule"
+    ],
+    "aliases": [
+      "linting",
+      "LINTING"
+    ],
+    "use_case": "Engineering teams use Linting to coordinate releases, manage environments, or run automated tests across stages of development.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "code quality": {
+    "eli5": "Code Quality is like a checklist, robot, or messenger that helps teams work together, test apps, or ship updates safely.",
+    "boss": "Code Quality includes collaboration platforms, testing frameworks, deployment environments, versioning practices, and automation tools used in the software delivery lifecycle.",
+    "sysadmin": "Code Quality refers to a DevOps platform, testing strategy, CI/CD pipeline trigger, or configuration management concept used to improve collaboration, ensure software quality, and automate deployments.",
+    "emoji": "\u2705\ud83e\udd16\ud83d\ude80\ud83d\udce6\ud83d\udcac",
+    "categories": [
+      "DevOps",
+      "Testing",
+      "Collaboration",
+      "Automation",
+      "Configuration Management"
+    ],
+    "related": [
+      "unit test",
+      "chatops",
+      "semantic versioning",
+      "preview environments",
+      "github action schedule"
+    ],
+    "aliases": [
+      "code quality",
+      "CODE QUALITY"
+    ],
+    "use_case": "Engineering teams use Code Quality to coordinate releases, manage environments, or run automated tests across stages of development.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "regression testing": {
+    "eli5": "Regression Testing is like a checklist, robot, or messenger that helps teams work together, test apps, or ship updates safely.",
+    "boss": "Regression Testing includes collaboration platforms, testing frameworks, deployment environments, versioning practices, and automation tools used in the software delivery lifecycle.",
+    "sysadmin": "Regression Testing refers to a DevOps platform, testing strategy, CI/CD pipeline trigger, or configuration management concept used to improve collaboration, ensure software quality, and automate deployments.",
+    "emoji": "\u2705\ud83e\udd16\ud83d\ude80\ud83d\udce6\ud83d\udcac",
+    "categories": [
+      "DevOps",
+      "Testing",
+      "Collaboration",
+      "Automation",
+      "Configuration Management"
+    ],
+    "related": [
+      "unit test",
+      "chatops",
+      "semantic versioning",
+      "preview environments",
+      "github action schedule"
+    ],
+    "aliases": [
+      "regression testing",
+      "REGRESSION TESTING"
+    ],
+    "use_case": "Engineering teams use Regression Testing to coordinate releases, manage environments, or run automated tests across stages of development.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "feature flags": {
+    "eli5": "Feature Flags is like a checklist, robot, or messenger that helps teams work together, test apps, or ship updates safely.",
+    "boss": "Feature Flags includes collaboration platforms, testing frameworks, deployment environments, versioning practices, and automation tools used in the software delivery lifecycle.",
+    "sysadmin": "Feature Flags refers to a DevOps platform, testing strategy, CI/CD pipeline trigger, or configuration management concept used to improve collaboration, ensure software quality, and automate deployments.",
+    "emoji": "\u2705\ud83e\udd16\ud83d\ude80\ud83d\udce6\ud83d\udcac",
+    "categories": [
+      "DevOps",
+      "Testing",
+      "Collaboration",
+      "Automation",
+      "Configuration Management"
+    ],
+    "related": [
+      "unit test",
+      "chatops",
+      "semantic versioning",
+      "preview environments",
+      "github action schedule"
+    ],
+    "aliases": [
+      "feature flags",
+      "FEATURE FLAGS"
+    ],
+    "use_case": "Engineering teams use Feature Flags to coordinate releases, manage environments, or run automated tests across stages of development.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "rollbacks": {
+    "eli5": "Rollbacks is like a checklist, robot, or messenger that helps teams work together, test apps, or ship updates safely.",
+    "boss": "Rollbacks includes collaboration platforms, testing frameworks, deployment environments, versioning practices, and automation tools used in the software delivery lifecycle.",
+    "sysadmin": "Rollbacks refers to a DevOps platform, testing strategy, CI/CD pipeline trigger, or configuration management concept used to improve collaboration, ensure software quality, and automate deployments.",
+    "emoji": "\u2705\ud83e\udd16\ud83d\ude80\ud83d\udce6\ud83d\udcac",
+    "categories": [
+      "DevOps",
+      "Testing",
+      "Collaboration",
+      "Automation",
+      "Configuration Management"
+    ],
+    "related": [
+      "unit test",
+      "chatops",
+      "semantic versioning",
+      "preview environments",
+      "github action schedule"
+    ],
+    "aliases": [
+      "rollbacks",
+      "ROLLBACKS"
+    ],
+    "use_case": "Engineering teams use Rollbacks to coordinate releases, manage environments, or run automated tests across stages of development.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "release management": {
+    "eli5": "Release Management is like a checklist, robot, or messenger that helps teams work together, test apps, or ship updates safely.",
+    "boss": "Release Management includes collaboration platforms, testing frameworks, deployment environments, versioning practices, and automation tools used in the software delivery lifecycle.",
+    "sysadmin": "Release Management refers to a DevOps platform, testing strategy, CI/CD pipeline trigger, or configuration management concept used to improve collaboration, ensure software quality, and automate deployments.",
+    "emoji": "\u2705\ud83e\udd16\ud83d\ude80\ud83d\udce6\ud83d\udcac",
+    "categories": [
+      "DevOps",
+      "Testing",
+      "Collaboration",
+      "Automation",
+      "Configuration Management"
+    ],
+    "related": [
+      "unit test",
+      "chatops",
+      "semantic versioning",
+      "preview environments",
+      "github action schedule"
+    ],
+    "aliases": [
+      "release management",
+      "RELEASE MANAGEMENT"
+    ],
+    "use_case": "Engineering teams use Release Management to coordinate releases, manage environments, or run automated tests across stages of development.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "release candidate": {
+    "eli5": "Release Candidate is like a checklist, robot, or messenger that helps teams work together, test apps, or ship updates safely.",
+    "boss": "Release Candidate includes collaboration platforms, testing frameworks, deployment environments, versioning practices, and automation tools used in the software delivery lifecycle.",
+    "sysadmin": "Release Candidate refers to a DevOps platform, testing strategy, CI/CD pipeline trigger, or configuration management concept used to improve collaboration, ensure software quality, and automate deployments.",
+    "emoji": "\u2705\ud83e\udd16\ud83d\ude80\ud83d\udce6\ud83d\udcac",
+    "categories": [
+      "DevOps",
+      "Testing",
+      "Collaboration",
+      "Automation",
+      "Configuration Management"
+    ],
+    "related": [
+      "unit test",
+      "chatops",
+      "semantic versioning",
+      "preview environments",
+      "github action schedule"
+    ],
+    "aliases": [
+      "release candidate",
+      "RELEASE CANDIDATE"
+    ],
+    "use_case": "Engineering teams use Release Candidate to coordinate releases, manage environments, or run automated tests across stages of development.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "staging environment": {
+    "eli5": "Staging Environment is like a checklist, robot, or messenger that helps teams work together, test apps, or ship updates safely.",
+    "boss": "Staging Environment includes collaboration platforms, testing frameworks, deployment environments, versioning practices, and automation tools used in the software delivery lifecycle.",
+    "sysadmin": "Staging Environment refers to a DevOps platform, testing strategy, CI/CD pipeline trigger, or configuration management concept used to improve collaboration, ensure software quality, and automate deployments.",
+    "emoji": "\u2705\ud83e\udd16\ud83d\ude80\ud83d\udce6\ud83d\udcac",
+    "categories": [
+      "DevOps",
+      "Testing",
+      "Collaboration",
+      "Automation",
+      "Configuration Management"
+    ],
+    "related": [
+      "unit test",
+      "chatops",
+      "semantic versioning",
+      "preview environments",
+      "github action schedule"
+    ],
+    "aliases": [
+      "staging environment",
+      "STAGING ENVIRONMENT"
+    ],
+    "use_case": "Engineering teams use Staging Environment to coordinate releases, manage environments, or run automated tests across stages of development.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "test environment": {
+    "eli5": "Test Environment is like a checklist, robot, or messenger that helps teams work together, test apps, or ship updates safely.",
+    "boss": "Test Environment includes collaboration platforms, testing frameworks, deployment environments, versioning practices, and automation tools used in the software delivery lifecycle.",
+    "sysadmin": "Test Environment refers to a DevOps platform, testing strategy, CI/CD pipeline trigger, or configuration management concept used to improve collaboration, ensure software quality, and automate deployments.",
+    "emoji": "\u2705\ud83e\udd16\ud83d\ude80\ud83d\udce6\ud83d\udcac",
+    "categories": [
+      "DevOps",
+      "Testing",
+      "Collaboration",
+      "Automation",
+      "Configuration Management"
+    ],
+    "related": [
+      "unit test",
+      "chatops",
+      "semantic versioning",
+      "preview environments",
+      "github action schedule"
+    ],
+    "aliases": [
+      "test environment",
+      "TEST ENVIRONMENT"
+    ],
+    "use_case": "Engineering teams use Test Environment to coordinate releases, manage environments, or run automated tests across stages of development.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "production environment": {
+    "eli5": "Production Environment is like a checklist, robot, or messenger that helps teams work together, test apps, or ship updates safely.",
+    "boss": "Production Environment includes collaboration platforms, testing frameworks, deployment environments, versioning practices, and automation tools used in the software delivery lifecycle.",
+    "sysadmin": "Production Environment refers to a DevOps platform, testing strategy, CI/CD pipeline trigger, or configuration management concept used to improve collaboration, ensure software quality, and automate deployments.",
+    "emoji": "\u2705\ud83e\udd16\ud83d\ude80\ud83d\udce6\ud83d\udcac",
+    "categories": [
+      "DevOps",
+      "Testing",
+      "Collaboration",
+      "Automation",
+      "Configuration Management"
+    ],
+    "related": [
+      "unit test",
+      "chatops",
+      "semantic versioning",
+      "preview environments",
+      "github action schedule"
+    ],
+    "aliases": [
+      "production environment",
+      "PRODUCTION ENVIRONMENT"
+    ],
+    "use_case": "Engineering teams use Production Environment to coordinate releases, manage environments, or run automated tests across stages of development.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "hotfix": {
+    "eli5": "Hotfix is like a checklist, robot, or messenger that helps teams work together, test apps, or ship updates safely.",
+    "boss": "Hotfix includes collaboration platforms, testing frameworks, deployment environments, versioning practices, and automation tools used in the software delivery lifecycle.",
+    "sysadmin": "Hotfix refers to a DevOps platform, testing strategy, CI/CD pipeline trigger, or configuration management concept used to improve collaboration, ensure software quality, and automate deployments.",
+    "emoji": "\u2705\ud83e\udd16\ud83d\ude80\ud83d\udce6\ud83d\udcac",
+    "categories": [
+      "DevOps",
+      "Testing",
+      "Collaboration",
+      "Automation",
+      "Configuration Management"
+    ],
+    "related": [
+      "unit test",
+      "chatops",
+      "semantic versioning",
+      "preview environments",
+      "github action schedule"
+    ],
+    "aliases": [
+      "hotfix",
+      "HOTFIX"
+    ],
+    "use_case": "Engineering teams use Hotfix to coordinate releases, manage environments, or run automated tests across stages of development.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "versioning": {
+    "eli5": "Versioning is like a checklist, robot, or messenger that helps teams work together, test apps, or ship updates safely.",
+    "boss": "Versioning includes collaboration platforms, testing frameworks, deployment environments, versioning practices, and automation tools used in the software delivery lifecycle.",
+    "sysadmin": "Versioning refers to a DevOps platform, testing strategy, CI/CD pipeline trigger, or configuration management concept used to improve collaboration, ensure software quality, and automate deployments.",
+    "emoji": "\u2705\ud83e\udd16\ud83d\ude80\ud83d\udce6\ud83d\udcac",
+    "categories": [
+      "DevOps",
+      "Testing",
+      "Collaboration",
+      "Automation",
+      "Configuration Management"
+    ],
+    "related": [
+      "unit test",
+      "chatops",
+      "semantic versioning",
+      "preview environments",
+      "github action schedule"
+    ],
+    "aliases": [
+      "versioning",
+      "VERSIONING"
+    ],
+    "use_case": "Engineering teams use Versioning to coordinate releases, manage environments, or run automated tests across stages of development.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "semantic versioning": {
+    "eli5": "Semantic Versioning is like a checklist, robot, or messenger that helps teams work together, test apps, or ship updates safely.",
+    "boss": "Semantic Versioning includes collaboration platforms, testing frameworks, deployment environments, versioning practices, and automation tools used in the software delivery lifecycle.",
+    "sysadmin": "Semantic Versioning refers to a DevOps platform, testing strategy, CI/CD pipeline trigger, or configuration management concept used to improve collaboration, ensure software quality, and automate deployments.",
+    "emoji": "\u2705\ud83e\udd16\ud83d\ude80\ud83d\udce6\ud83d\udcac",
+    "categories": [
+      "DevOps",
+      "Testing",
+      "Collaboration",
+      "Automation",
+      "Configuration Management"
+    ],
+    "related": [
+      "unit test",
+      "chatops",
+      "semantic versioning",
+      "preview environments",
+      "github action schedule"
+    ],
+    "aliases": [
+      "semantic versioning",
+      "SEMANTIC VERSIONING"
+    ],
+    "use_case": "Engineering teams use Semantic Versioning to coordinate releases, manage environments, or run automated tests across stages of development.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "changelog": {
+    "eli5": "Changelog is like a checklist, robot, or messenger that helps teams work together, test apps, or ship updates safely.",
+    "boss": "Changelog includes collaboration platforms, testing frameworks, deployment environments, versioning practices, and automation tools used in the software delivery lifecycle.",
+    "sysadmin": "Changelog refers to a DevOps platform, testing strategy, CI/CD pipeline trigger, or configuration management concept used to improve collaboration, ensure software quality, and automate deployments.",
+    "emoji": "\u2705\ud83e\udd16\ud83d\ude80\ud83d\udce6\ud83d\udcac",
+    "categories": [
+      "DevOps",
+      "Testing",
+      "Collaboration",
+      "Automation",
+      "Configuration Management"
+    ],
+    "related": [
+      "unit test",
+      "chatops",
+      "semantic versioning",
+      "preview environments",
+      "github action schedule"
+    ],
+    "aliases": [
+      "changelog",
+      "CHANGELOG"
+    ],
+    "use_case": "Engineering teams use Changelog to coordinate releases, manage environments, or run automated tests across stages of development.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "release notes": {
+    "eli5": "Release Notes is like a checklist, robot, or messenger that helps teams work together, test apps, or ship updates safely.",
+    "boss": "Release Notes includes collaboration platforms, testing frameworks, deployment environments, versioning practices, and automation tools used in the software delivery lifecycle.",
+    "sysadmin": "Release Notes refers to a DevOps platform, testing strategy, CI/CD pipeline trigger, or configuration management concept used to improve collaboration, ensure software quality, and automate deployments.",
+    "emoji": "\u2705\ud83e\udd16\ud83d\ude80\ud83d\udce6\ud83d\udcac",
+    "categories": [
+      "DevOps",
+      "Testing",
+      "Collaboration",
+      "Automation",
+      "Configuration Management"
+    ],
+    "related": [
+      "unit test",
+      "chatops",
+      "semantic versioning",
+      "preview environments",
+      "github action schedule"
+    ],
+    "aliases": [
+      "release notes",
+      "RELEASE NOTES"
+    ],
+    "use_case": "Engineering teams use Release Notes to coordinate releases, manage environments, or run automated tests across stages of development.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "package management": {
+    "eli5": "Package Management is like a checklist, robot, or messenger that helps teams work together, test apps, or ship updates safely.",
+    "boss": "Package Management includes collaboration platforms, testing frameworks, deployment environments, versioning practices, and automation tools used in the software delivery lifecycle.",
+    "sysadmin": "Package Management refers to a DevOps platform, testing strategy, CI/CD pipeline trigger, or configuration management concept used to improve collaboration, ensure software quality, and automate deployments.",
+    "emoji": "\u2705\ud83e\udd16\ud83d\ude80\ud83d\udce6\ud83d\udcac",
+    "categories": [
+      "DevOps",
+      "Testing",
+      "Collaboration",
+      "Automation",
+      "Configuration Management"
+    ],
+    "related": [
+      "unit test",
+      "chatops",
+      "semantic versioning",
+      "preview environments",
+      "github action schedule"
+    ],
+    "aliases": [
+      "package management",
+      "PACKAGE MANAGEMENT"
+    ],
+    "use_case": "Engineering teams use Package Management to coordinate releases, manage environments, or run automated tests across stages of development.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "package repository": {
+    "eli5": "Package Repository is like a checklist, robot, or messenger that helps teams work together, test apps, or ship updates safely.",
+    "boss": "Package Repository includes collaboration platforms, testing frameworks, deployment environments, versioning practices, and automation tools used in the software delivery lifecycle.",
+    "sysadmin": "Package Repository refers to a DevOps platform, testing strategy, CI/CD pipeline trigger, or configuration management concept used to improve collaboration, ensure software quality, and automate deployments.",
+    "emoji": "\u2705\ud83e\udd16\ud83d\ude80\ud83d\udce6\ud83d\udcac",
+    "categories": [
+      "DevOps",
+      "Testing",
+      "Collaboration",
+      "Automation",
+      "Configuration Management"
+    ],
+    "related": [
+      "unit test",
+      "chatops",
+      "semantic versioning",
+      "preview environments",
+      "github action schedule"
+    ],
+    "aliases": [
+      "package repository",
+      "PACKAGE REPOSITORY"
+    ],
+    "use_case": "Engineering teams use Package Repository to coordinate releases, manage environments, or run automated tests across stages of development.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "private package registry": {
+    "eli5": "Private Package Registry is like a checklist, robot, or messenger that helps teams work together, test apps, or ship updates safely.",
+    "boss": "Private Package Registry includes collaboration platforms, testing frameworks, deployment environments, versioning practices, and automation tools used in the software delivery lifecycle.",
+    "sysadmin": "Private Package Registry refers to a DevOps platform, testing strategy, CI/CD pipeline trigger, or configuration management concept used to improve collaboration, ensure software quality, and automate deployments.",
+    "emoji": "\u2705\ud83e\udd16\ud83d\ude80\ud83d\udce6\ud83d\udcac",
+    "categories": [
+      "DevOps",
+      "Testing",
+      "Collaboration",
+      "Automation",
+      "Configuration Management"
+    ],
+    "related": [
+      "unit test",
+      "chatops",
+      "semantic versioning",
+      "preview environments",
+      "github action schedule"
+    ],
+    "aliases": [
+      "private package registry",
+      "PRIVATE PACKAGE REGISTRY"
+    ],
+    "use_case": "Engineering teams use Private Package Registry to coordinate releases, manage environments, or run automated tests across stages of development.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "helm chart repository": {
+    "eli5": "Helm Chart Repository is like a checklist, robot, or messenger that helps teams work together, test apps, or ship updates safely.",
+    "boss": "Helm Chart Repository includes collaboration platforms, testing frameworks, deployment environments, versioning practices, and automation tools used in the software delivery lifecycle.",
+    "sysadmin": "Helm Chart Repository refers to a DevOps platform, testing strategy, CI/CD pipeline trigger, or configuration management concept used to improve collaboration, ensure software quality, and automate deployments.",
+    "emoji": "\u2705\ud83e\udd16\ud83d\ude80\ud83d\udce6\ud83d\udcac",
+    "categories": [
+      "DevOps",
+      "Testing",
+      "Collaboration",
+      "Automation",
+      "Configuration Management"
+    ],
+    "related": [
+      "unit test",
+      "chatops",
+      "semantic versioning",
+      "preview environments",
+      "github action schedule"
+    ],
+    "aliases": [
+      "helm chart repository",
+      "HELM CHART REPOSITORY"
+    ],
+    "use_case": "Engineering teams use Helm Chart Repository to coordinate releases, manage environments, or run automated tests across stages of development.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "dependency management": {
+    "eli5": "Dependency Management is like a checklist, robot, or messenger that helps teams work together, test apps, or ship updates safely.",
+    "boss": "Dependency Management includes collaboration platforms, testing frameworks, deployment environments, versioning practices, and automation tools used in the software delivery lifecycle.",
+    "sysadmin": "Dependency Management refers to a DevOps platform, testing strategy, CI/CD pipeline trigger, or configuration management concept used to improve collaboration, ensure software quality, and automate deployments.",
+    "emoji": "\u2705\ud83e\udd16\ud83d\ude80\ud83d\udce6\ud83d\udcac",
+    "categories": [
+      "DevOps",
+      "Testing",
+      "Collaboration",
+      "Automation",
+      "Configuration Management"
+    ],
+    "related": [
+      "unit test",
+      "chatops",
+      "semantic versioning",
+      "preview environments",
+      "github action schedule"
+    ],
+    "aliases": [
+      "dependency management",
+      "DEPENDENCY MANAGEMENT"
+    ],
+    "use_case": "Engineering teams use Dependency Management to coordinate releases, manage environments, or run automated tests across stages of development.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "dependency pinning": {
+    "eli5": "Dependency Pinning is like a checklist, robot, or messenger that helps teams work together, test apps, or ship updates safely.",
+    "boss": "Dependency Pinning includes collaboration platforms, testing frameworks, deployment environments, versioning practices, and automation tools used in the software delivery lifecycle.",
+    "sysadmin": "Dependency Pinning refers to a DevOps platform, testing strategy, CI/CD pipeline trigger, or configuration management concept used to improve collaboration, ensure software quality, and automate deployments.",
+    "emoji": "\u2705\ud83e\udd16\ud83d\ude80\ud83d\udce6\ud83d\udcac",
+    "categories": [
+      "DevOps",
+      "Testing",
+      "Collaboration",
+      "Automation",
+      "Configuration Management"
+    ],
+    "related": [
+      "unit test",
+      "chatops",
+      "semantic versioning",
+      "preview environments",
+      "github action schedule"
+    ],
+    "aliases": [
+      "dependency pinning",
+      "DEPENDENCY PINNING"
+    ],
+    "use_case": "Engineering teams use Dependency Pinning to coordinate releases, manage environments, or run automated tests across stages of development.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "environments": {
+    "eli5": "Environments is like a checklist, robot, or messenger that helps teams work together, test apps, or ship updates safely.",
+    "boss": "Environments includes collaboration platforms, testing frameworks, deployment environments, versioning practices, and automation tools used in the software delivery lifecycle.",
+    "sysadmin": "Environments refers to a DevOps platform, testing strategy, CI/CD pipeline trigger, or configuration management concept used to improve collaboration, ensure software quality, and automate deployments.",
+    "emoji": "\u2705\ud83e\udd16\ud83d\ude80\ud83d\udce6\ud83d\udcac",
+    "categories": [
+      "DevOps",
+      "Testing",
+      "Collaboration",
+      "Automation",
+      "Configuration Management"
+    ],
+    "related": [
+      "unit test",
+      "chatops",
+      "semantic versioning",
+      "preview environments",
+      "github action schedule"
+    ],
+    "aliases": [
+      "environments",
+      "ENVIRONMENTS"
+    ],
+    "use_case": "Engineering teams use Environments to coordinate releases, manage environments, or run automated tests across stages of development.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "dev environment": {
+    "eli5": "Dev Environment is like a checklist, robot, or messenger that helps teams work together, test apps, or ship updates safely.",
+    "boss": "Dev Environment includes collaboration platforms, testing frameworks, deployment environments, versioning practices, and automation tools used in the software delivery lifecycle.",
+    "sysadmin": "Dev Environment refers to a DevOps platform, testing strategy, CI/CD pipeline trigger, or configuration management concept used to improve collaboration, ensure software quality, and automate deployments.",
+    "emoji": "\u2705\ud83e\udd16\ud83d\ude80\ud83d\udce6\ud83d\udcac",
+    "categories": [
+      "DevOps",
+      "Testing",
+      "Collaboration",
+      "Automation",
+      "Configuration Management"
+    ],
+    "related": [
+      "unit test",
+      "chatops",
+      "semantic versioning",
+      "preview environments",
+      "github action schedule"
+    ],
+    "aliases": [
+      "dev environment",
+      "DEV ENVIRONMENT"
+    ],
+    "use_case": "Engineering teams use Dev Environment to coordinate releases, manage environments, or run automated tests across stages of development.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "staging": {
+    "eli5": "Staging is like a checklist, robot, or messenger that helps teams work together, test apps, or ship updates safely.",
+    "boss": "Staging includes collaboration platforms, testing frameworks, deployment environments, versioning practices, and automation tools used in the software delivery lifecycle.",
+    "sysadmin": "Staging refers to a DevOps platform, testing strategy, CI/CD pipeline trigger, or configuration management concept used to improve collaboration, ensure software quality, and automate deployments.",
+    "emoji": "\u2705\ud83e\udd16\ud83d\ude80\ud83d\udce6\ud83d\udcac",
+    "categories": [
+      "DevOps",
+      "Testing",
+      "Collaboration",
+      "Automation",
+      "Configuration Management"
+    ],
+    "related": [
+      "unit test",
+      "chatops",
+      "semantic versioning",
+      "preview environments",
+      "github action schedule"
+    ],
+    "aliases": [
+      "staging",
+      "STAGING"
+    ],
+    "use_case": "Engineering teams use Staging to coordinate releases, manage environments, or run automated tests across stages of development.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "production": {
+    "eli5": "Production is like a checklist, robot, or messenger that helps teams work together, test apps, or ship updates safely.",
+    "boss": "Production includes collaboration platforms, testing frameworks, deployment environments, versioning practices, and automation tools used in the software delivery lifecycle.",
+    "sysadmin": "Production refers to a DevOps platform, testing strategy, CI/CD pipeline trigger, or configuration management concept used to improve collaboration, ensure software quality, and automate deployments.",
+    "emoji": "\u2705\ud83e\udd16\ud83d\ude80\ud83d\udce6\ud83d\udcac",
+    "categories": [
+      "DevOps",
+      "Testing",
+      "Collaboration",
+      "Automation",
+      "Configuration Management"
+    ],
+    "related": [
+      "unit test",
+      "chatops",
+      "semantic versioning",
+      "preview environments",
+      "github action schedule"
+    ],
+    "aliases": [
+      "production",
+      "PRODUCTION"
+    ],
+    "use_case": "Engineering teams use Production to coordinate releases, manage environments, or run automated tests across stages of development.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "uat (user acceptance testing)": {
+    "eli5": "UAT (User Acceptance Testing) is like a checklist, robot, or messenger that helps teams work together, test apps, or ship updates safely.",
+    "boss": "UAT (User Acceptance Testing) includes collaboration platforms, testing frameworks, deployment environments, versioning practices, and automation tools used in the software delivery lifecycle.",
+    "sysadmin": "UAT (User Acceptance Testing) refers to a DevOps platform, testing strategy, CI/CD pipeline trigger, or configuration management concept used to improve collaboration, ensure software quality, and automate deployments.",
+    "emoji": "\u2705\ud83e\udd16\ud83d\ude80\ud83d\udce6\ud83d\udcac",
+    "categories": [
+      "DevOps",
+      "Testing",
+      "Collaboration",
+      "Automation",
+      "Configuration Management"
+    ],
+    "related": [
+      "unit test",
+      "chatops",
+      "semantic versioning",
+      "preview environments",
+      "github action schedule"
+    ],
+    "aliases": [
+      "uat (user acceptance testing)",
+      "UAT (USER ACCEPTANCE TESTING)"
+    ],
+    "use_case": "Engineering teams use UAT (User Acceptance Testing) to coordinate releases, manage environments, or run automated tests across stages of development.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "preview environments": {
+    "eli5": "Preview Environments is like a checklist, robot, or messenger that helps teams work together, test apps, or ship updates safely.",
+    "boss": "Preview Environments includes collaboration platforms, testing frameworks, deployment environments, versioning practices, and automation tools used in the software delivery lifecycle.",
+    "sysadmin": "Preview Environments refers to a DevOps platform, testing strategy, CI/CD pipeline trigger, or configuration management concept used to improve collaboration, ensure software quality, and automate deployments.",
+    "emoji": "\u2705\ud83e\udd16\ud83d\ude80\ud83d\udce6\ud83d\udcac",
+    "categories": [
+      "DevOps",
+      "Testing",
+      "Collaboration",
+      "Automation",
+      "Configuration Management"
+    ],
+    "related": [
+      "unit test",
+      "chatops",
+      "semantic versioning",
+      "preview environments",
+      "github action schedule"
+    ],
+    "aliases": [
+      "preview environments",
+      "PREVIEW ENVIRONMENTS"
+    ],
+    "use_case": "Engineering teams use Preview Environments to coordinate releases, manage environments, or run automated tests across stages of development.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "environment variables": {
+    "eli5": "Environment Variables is like a checklist, robot, or messenger that helps teams work together, test apps, or ship updates safely.",
+    "boss": "Environment Variables includes collaboration platforms, testing frameworks, deployment environments, versioning practices, and automation tools used in the software delivery lifecycle.",
+    "sysadmin": "Environment Variables refers to a DevOps platform, testing strategy, CI/CD pipeline trigger, or configuration management concept used to improve collaboration, ensure software quality, and automate deployments.",
+    "emoji": "\u2705\ud83e\udd16\ud83d\ude80\ud83d\udce6\ud83d\udcac",
+    "categories": [
+      "DevOps",
+      "Testing",
+      "Collaboration",
+      "Automation",
+      "Configuration Management"
+    ],
+    "related": [
+      "unit test",
+      "chatops",
+      "semantic versioning",
+      "preview environments",
+      "github action schedule"
+    ],
+    "aliases": [
+      "environment variables",
+      "ENVIRONMENT VARIABLES"
+    ],
+    "use_case": "Engineering teams use Environment Variables to coordinate releases, manage environments, or run automated tests across stages of development.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "secrets injection": {
+    "eli5": "Secrets Injection is like a checklist, robot, or messenger that helps teams work together, test apps, or ship updates safely.",
+    "boss": "Secrets Injection includes collaboration platforms, testing frameworks, deployment environments, versioning practices, and automation tools used in the software delivery lifecycle.",
+    "sysadmin": "Secrets Injection refers to a DevOps platform, testing strategy, CI/CD pipeline trigger, or configuration management concept used to improve collaboration, ensure software quality, and automate deployments.",
+    "emoji": "\u2705\ud83e\udd16\ud83d\ude80\ud83d\udce6\ud83d\udcac",
+    "categories": [
+      "DevOps",
+      "Testing",
+      "Collaboration",
+      "Automation",
+      "Configuration Management"
+    ],
+    "related": [
+      "unit test",
+      "chatops",
+      "semantic versioning",
+      "preview environments",
+      "github action schedule"
+    ],
+    "aliases": [
+      "secrets injection",
+      "SECRETS INJECTION"
+    ],
+    "use_case": "Engineering teams use Secrets Injection to coordinate releases, manage environments, or run automated tests across stages of development.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "config as code": {
+    "eli5": "Config as Code is like a checklist, robot, or messenger that helps teams work together, test apps, or ship updates safely.",
+    "boss": "Config as Code includes collaboration platforms, testing frameworks, deployment environments, versioning practices, and automation tools used in the software delivery lifecycle.",
+    "sysadmin": "Config as Code refers to a DevOps platform, testing strategy, CI/CD pipeline trigger, or configuration management concept used to improve collaboration, ensure software quality, and automate deployments.",
+    "emoji": "\u2705\ud83e\udd16\ud83d\ude80\ud83d\udce6\ud83d\udcac",
+    "categories": [
+      "DevOps",
+      "Testing",
+      "Collaboration",
+      "Automation",
+      "Configuration Management"
+    ],
+    "related": [
+      "unit test",
+      "chatops",
+      "semantic versioning",
+      "preview environments",
+      "github action schedule"
+    ],
+    "aliases": [
+      "config as code",
+      "CONFIG AS CODE"
+    ],
+    "use_case": "Engineering teams use Config as Code to coordinate releases, manage environments, or run automated tests across stages of development.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "github action schedule": {
+    "eli5": "GitHub Action Schedule is like a checklist, robot, or messenger that helps teams work together, test apps, or ship updates safely.",
+    "boss": "GitHub Action Schedule includes collaboration platforms, testing frameworks, deployment environments, versioning practices, and automation tools used in the software delivery lifecycle.",
+    "sysadmin": "GitHub Action Schedule refers to a DevOps platform, testing strategy, CI/CD pipeline trigger, or configuration management concept used to improve collaboration, ensure software quality, and automate deployments.",
+    "emoji": "\u2705\ud83e\udd16\ud83d\ude80\ud83d\udce6\ud83d\udcac",
+    "categories": [
+      "DevOps",
+      "Testing",
+      "Collaboration",
+      "Automation",
+      "Configuration Management"
+    ],
+    "related": [
+      "unit test",
+      "chatops",
+      "semantic versioning",
+      "preview environments",
+      "github action schedule"
+    ],
+    "aliases": [
+      "github action schedule",
+      "GITHUB ACTION SCHEDULE"
+    ],
+    "use_case": "Engineering teams use GitHub Action Schedule to coordinate releases, manage environments, or run automated tests across stages of development.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "kubernetes cronjob": {
+    "eli5": "Kubernetes CronJob is like a checklist, robot, or messenger that helps teams work together, test apps, or ship updates safely.",
+    "boss": "Kubernetes CronJob includes collaboration platforms, testing frameworks, deployment environments, versioning practices, and automation tools used in the software delivery lifecycle.",
+    "sysadmin": "Kubernetes CronJob refers to a DevOps platform, testing strategy, CI/CD pipeline trigger, or configuration management concept used to improve collaboration, ensure software quality, and automate deployments.",
+    "emoji": "\u2705\ud83e\udd16\ud83d\ude80\ud83d\udce6\ud83d\udcac",
+    "categories": [
+      "DevOps",
+      "Testing",
+      "Collaboration",
+      "Automation",
+      "Configuration Management"
+    ],
+    "related": [
+      "unit test",
+      "chatops",
+      "semantic versioning",
+      "preview environments",
+      "github action schedule"
+    ],
+    "aliases": [
+      "kubernetes cronjob",
+      "KUBERNETES CRONJOB"
+    ],
+    "use_case": "Engineering teams use Kubernetes CronJob to coordinate releases, manage environments, or run automated tests across stages of development.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "jenkins timer trigger": {
+    "eli5": "Jenkins Timer Trigger is like a checklist, robot, or messenger that helps teams work together, test apps, or ship updates safely.",
+    "boss": "Jenkins Timer Trigger includes collaboration platforms, testing frameworks, deployment environments, versioning practices, and automation tools used in the software delivery lifecycle.",
+    "sysadmin": "Jenkins Timer Trigger refers to a DevOps platform, testing strategy, CI/CD pipeline trigger, or configuration management concept used to improve collaboration, ensure software quality, and automate deployments.",
+    "emoji": "\u2705\ud83e\udd16\ud83d\ude80\ud83d\udce6\ud83d\udcac",
+    "categories": [
+      "DevOps",
+      "Testing",
+      "Collaboration",
+      "Automation",
+      "Configuration Management"
+    ],
+    "related": [
+      "unit test",
+      "chatops",
+      "semantic versioning",
+      "preview environments",
+      "github action schedule"
+    ],
+    "aliases": [
+      "jenkins timer trigger",
+      "JENKINS TIMER TRIGGER"
+    ],
+    "use_case": "Engineering teams use Jenkins Timer Trigger to coordinate releases, manage environments, or run automated tests across stages of development.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "api & automation": {
+    "eli5": "API & Automation is like a checklist, robot, or messenger that helps teams work together, test apps, or ship updates safely.",
+    "boss": "API & Automation includes collaboration platforms, testing frameworks, deployment environments, versioning practices, and automation tools used in the software delivery lifecycle.",
+    "sysadmin": "API & Automation refers to a DevOps platform, testing strategy, CI/CD pipeline trigger, or configuration management concept used to improve collaboration, ensure software quality, and automate deployments.",
+    "emoji": "\u2705\ud83e\udd16\ud83d\ude80\ud83d\udce6\ud83d\udcac",
+    "categories": [
+      "DevOps",
+      "Testing",
+      "Collaboration",
+      "Automation",
+      "Configuration Management"
+    ],
+    "related": [
+      "unit test",
+      "chatops",
+      "semantic versioning",
+      "preview environments",
+      "github action schedule"
+    ],
+    "aliases": [
+      "api & automation",
+      "API & AUTOMATION"
+    ],
+    "use_case": "Engineering teams use API & Automation to coordinate releases, manage environments, or run automated tests across stages of development.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "toml": {
+    "eli5": "TOML is like a checklist, robot, or messenger that helps teams work together, test apps, or ship updates safely.",
+    "boss": "TOML includes collaboration platforms, testing frameworks, deployment environments, versioning practices, and automation tools used in the software delivery lifecycle.",
+    "sysadmin": "TOML refers to a DevOps platform, testing strategy, CI/CD pipeline trigger, or configuration management concept used to improve collaboration, ensure software quality, and automate deployments.",
+    "emoji": "\u2705\ud83e\udd16\ud83d\ude80\ud83d\udce6\ud83d\udcac",
+    "categories": [
+      "DevOps",
+      "Testing",
+      "Collaboration",
+      "Automation",
+      "Configuration Management"
+    ],
+    "related": [
+      "unit test",
+      "chatops",
+      "semantic versioning",
+      "preview environments",
+      "github action schedule"
+    ],
+    "aliases": [
+      "toml",
+      "TOML"
+    ],
+    "use_case": "Engineering teams use TOML to coordinate releases, manage environments, or run automated tests across stages of development.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "httpie": {
+    "eli5": "httpie is like a checklist, robot, or messenger that helps teams work together, test apps, or ship updates safely.",
+    "boss": "httpie includes collaboration platforms, testing frameworks, deployment environments, versioning practices, and automation tools used in the software delivery lifecycle.",
+    "sysadmin": "httpie refers to a DevOps platform, testing strategy, CI/CD pipeline trigger, or configuration management concept used to improve collaboration, ensure software quality, and automate deployments.",
+    "emoji": "\u2705\ud83e\udd16\ud83d\ude80\ud83d\udce6\ud83d\udcac",
+    "categories": [
+      "DevOps",
+      "Testing",
+      "Collaboration",
+      "Automation",
+      "Configuration Management"
+    ],
+    "related": [
+      "unit test",
+      "chatops",
+      "semantic versioning",
+      "preview environments",
+      "github action schedule"
+    ],
+    "aliases": [
+      "httpie",
+      "HTTPIE"
+    ],
+    "use_case": "Engineering teams use httpie to coordinate releases, manage environments, or run automated tests across stages of development.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "remote execution & access": {
+    "eli5": "Remote Execution & Access is like a checklist, robot, or messenger that helps teams work together, test apps, or ship updates safely.",
+    "boss": "Remote Execution & Access includes collaboration platforms, testing frameworks, deployment environments, versioning practices, and automation tools used in the software delivery lifecycle.",
+    "sysadmin": "Remote Execution & Access refers to a DevOps platform, testing strategy, CI/CD pipeline trigger, or configuration management concept used to improve collaboration, ensure software quality, and automate deployments.",
+    "emoji": "\u2705\ud83e\udd16\ud83d\ude80\ud83d\udce6\ud83d\udcac",
+    "categories": [
+      "DevOps",
+      "Testing",
+      "Collaboration",
+      "Automation",
+      "Configuration Management"
+    ],
+    "related": [
+      "unit test",
+      "chatops",
+      "semantic versioning",
+      "preview environments",
+      "github action schedule"
+    ],
+    "aliases": [
+      "remote execution & access",
+      "REMOTE EXECUTION & ACCESS"
+    ],
+    "use_case": "Engineering teams use Remote Execution & Access to coordinate releases, manage environments, or run automated tests across stages of development.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  }
+}

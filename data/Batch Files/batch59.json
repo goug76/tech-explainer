@@ -1,0 +1,1352 @@
+{
+  "overlay mount": {
+    "eli5": "Overlay Mount is like a secret code, lock, or special way your computer hides and protects important stuff.",
+    "boss": "Overlay Mount is part of encryption systems, cryptographic protocols, or secure mounting techniques that ensure data confidentiality, integrity, and secure file access.",
+    "sysadmin": "Overlay Mount refers to an encryption method, cipher mode, key derivation function, or secure volume mounting approach used to protect sensitive data and enable cryptographic operations.",
+    "emoji": "\ud83d\udd10\ud83e\udde0\ud83e\uddee\ud83d\udd11",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Filesystem",
+      "Backup"
+    ],
+    "related": [
+      "aes",
+      "key pair",
+      "veracrypt",
+      "ciphertext",
+      "kdf"
+    ],
+    "aliases": [
+      "overlay mount",
+      "OVERLAY MOUNT"
+    ],
+    "use_case": "A security engineer uses Overlay Mount to encrypt volumes, secure file transfers, or derive cryptographic keys for safe communication.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "union mount": {
+    "eli5": "Union Mount is like a secret code, lock, or special way your computer hides and protects important stuff.",
+    "boss": "Union Mount is part of encryption systems, cryptographic protocols, or secure mounting techniques that ensure data confidentiality, integrity, and secure file access.",
+    "sysadmin": "Union Mount refers to an encryption method, cipher mode, key derivation function, or secure volume mounting approach used to protect sensitive data and enable cryptographic operations.",
+    "emoji": "\ud83d\udd10\ud83e\udde0\ud83e\uddee\ud83d\udd11",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Filesystem",
+      "Backup"
+    ],
+    "related": [
+      "aes",
+      "key pair",
+      "veracrypt",
+      "ciphertext",
+      "kdf"
+    ],
+    "aliases": [
+      "union mount",
+      "UNION MOUNT"
+    ],
+    "use_case": "A security engineer uses Union Mount to encrypt volumes, secure file transfers, or derive cryptographic keys for safe communication.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "loopback mount": {
+    "eli5": "Loopback Mount is like a secret code, lock, or special way your computer hides and protects important stuff.",
+    "boss": "Loopback Mount is part of encryption systems, cryptographic protocols, or secure mounting techniques that ensure data confidentiality, integrity, and secure file access.",
+    "sysadmin": "Loopback Mount refers to an encryption method, cipher mode, key derivation function, or secure volume mounting approach used to protect sensitive data and enable cryptographic operations.",
+    "emoji": "\ud83d\udd10\ud83e\udde0\ud83e\uddee\ud83d\udd11",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Filesystem",
+      "Backup"
+    ],
+    "related": [
+      "aes",
+      "key pair",
+      "veracrypt",
+      "ciphertext",
+      "kdf"
+    ],
+    "aliases": [
+      "loopback mount",
+      "LOOPBACK MOUNT"
+    ],
+    "use_case": "A security engineer uses Loopback Mount to encrypt volumes, secure file transfers, or derive cryptographic keys for safe communication.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "encrypted volume": {
+    "eli5": "Encrypted Volume is like a secret code, lock, or special way your computer hides and protects important stuff.",
+    "boss": "Encrypted Volume is part of encryption systems, cryptographic protocols, or secure mounting techniques that ensure data confidentiality, integrity, and secure file access.",
+    "sysadmin": "Encrypted Volume refers to an encryption method, cipher mode, key derivation function, or secure volume mounting approach used to protect sensitive data and enable cryptographic operations.",
+    "emoji": "\ud83d\udd10\ud83e\udde0\ud83e\uddee\ud83d\udd11",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Filesystem",
+      "Backup"
+    ],
+    "related": [
+      "aes",
+      "key pair",
+      "veracrypt",
+      "ciphertext",
+      "kdf"
+    ],
+    "aliases": [
+      "encrypted volume",
+      "ENCRYPTED VOLUME"
+    ],
+    "use_case": "A security engineer uses Encrypted Volume to encrypt volumes, secure file transfers, or derive cryptographic keys for safe communication.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "veracrypt": {
+    "eli5": "Veracrypt is like a secret code, lock, or special way your computer hides and protects important stuff.",
+    "boss": "Veracrypt is part of encryption systems, cryptographic protocols, or secure mounting techniques that ensure data confidentiality, integrity, and secure file access.",
+    "sysadmin": "Veracrypt refers to an encryption method, cipher mode, key derivation function, or secure volume mounting approach used to protect sensitive data and enable cryptographic operations.",
+    "emoji": "\ud83d\udd10\ud83e\udde0\ud83e\uddee\ud83d\udd11",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Filesystem",
+      "Backup"
+    ],
+    "related": [
+      "aes",
+      "key pair",
+      "veracrypt",
+      "ciphertext",
+      "kdf"
+    ],
+    "aliases": [
+      "veracrypt",
+      "VERACRYPT"
+    ],
+    "use_case": "A security engineer uses Veracrypt to encrypt volumes, secure file transfers, or derive cryptographic keys for safe communication.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "encfs": {
+    "eli5": "EncFS is like a secret code, lock, or special way your computer hides and protects important stuff.",
+    "boss": "EncFS is part of encryption systems, cryptographic protocols, or secure mounting techniques that ensure data confidentiality, integrity, and secure file access.",
+    "sysadmin": "EncFS refers to an encryption method, cipher mode, key derivation function, or secure volume mounting approach used to protect sensitive data and enable cryptographic operations.",
+    "emoji": "\ud83d\udd10\ud83e\udde0\ud83e\uddee\ud83d\udd11",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Filesystem",
+      "Backup"
+    ],
+    "related": [
+      "aes",
+      "key pair",
+      "veracrypt",
+      "ciphertext",
+      "kdf"
+    ],
+    "aliases": [
+      "encfs",
+      "ENCFS"
+    ],
+    "use_case": "A security engineer uses EncFS to encrypt volumes, secure file transfers, or derive cryptographic keys for safe communication.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "ecryptfs": {
+    "eli5": "eCryptfs is like a secret code, lock, or special way your computer hides and protects important stuff.",
+    "boss": "eCryptfs is part of encryption systems, cryptographic protocols, or secure mounting techniques that ensure data confidentiality, integrity, and secure file access.",
+    "sysadmin": "eCryptfs refers to an encryption method, cipher mode, key derivation function, or secure volume mounting approach used to protect sensitive data and enable cryptographic operations.",
+    "emoji": "\ud83d\udd10\ud83e\udde0\ud83e\uddee\ud83d\udd11",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Filesystem",
+      "Backup"
+    ],
+    "related": [
+      "aes",
+      "key pair",
+      "veracrypt",
+      "ciphertext",
+      "kdf"
+    ],
+    "aliases": [
+      "ecryptfs",
+      "ECRYPTFS"
+    ],
+    "use_case": "A security engineer uses eCryptfs to encrypt volumes, secure file transfers, or derive cryptographic keys for safe communication.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "cryptography": {
+    "eli5": "Cryptography is like a secret code, lock, or special way your computer hides and protects important stuff.",
+    "boss": "Cryptography is part of encryption systems, cryptographic protocols, or secure mounting techniques that ensure data confidentiality, integrity, and secure file access.",
+    "sysadmin": "Cryptography refers to an encryption method, cipher mode, key derivation function, or secure volume mounting approach used to protect sensitive data and enable cryptographic operations.",
+    "emoji": "\ud83d\udd10\ud83e\udde0\ud83e\uddee\ud83d\udd11",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Filesystem",
+      "Backup"
+    ],
+    "related": [
+      "aes",
+      "key pair",
+      "veracrypt",
+      "ciphertext",
+      "kdf"
+    ],
+    "aliases": [
+      "cryptography",
+      "CRYPTOGRAPHY"
+    ],
+    "use_case": "A security engineer uses Cryptography to encrypt volumes, secure file transfers, or derive cryptographic keys for safe communication.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "cryptographic key": {
+    "eli5": "Cryptographic Key is like a secret code, lock, or special way your computer hides and protects important stuff.",
+    "boss": "Cryptographic Key is part of encryption systems, cryptographic protocols, or secure mounting techniques that ensure data confidentiality, integrity, and secure file access.",
+    "sysadmin": "Cryptographic Key refers to an encryption method, cipher mode, key derivation function, or secure volume mounting approach used to protect sensitive data and enable cryptographic operations.",
+    "emoji": "\ud83d\udd10\ud83e\udde0\ud83e\uddee\ud83d\udd11",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Filesystem",
+      "Backup"
+    ],
+    "related": [
+      "aes",
+      "key pair",
+      "veracrypt",
+      "ciphertext",
+      "kdf"
+    ],
+    "aliases": [
+      "cryptographic key",
+      "CRYPTOGRAPHIC KEY"
+    ],
+    "use_case": "A security engineer uses Cryptographic Key to encrypt volumes, secure file transfers, or derive cryptographic keys for safe communication.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "plaintext": {
+    "eli5": "Plaintext is like a secret code, lock, or special way your computer hides and protects important stuff.",
+    "boss": "Plaintext is part of encryption systems, cryptographic protocols, or secure mounting techniques that ensure data confidentiality, integrity, and secure file access.",
+    "sysadmin": "Plaintext refers to an encryption method, cipher mode, key derivation function, or secure volume mounting approach used to protect sensitive data and enable cryptographic operations.",
+    "emoji": "\ud83d\udd10\ud83e\udde0\ud83e\uddee\ud83d\udd11",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Filesystem",
+      "Backup"
+    ],
+    "related": [
+      "aes",
+      "key pair",
+      "veracrypt",
+      "ciphertext",
+      "kdf"
+    ],
+    "aliases": [
+      "plaintext",
+      "PLAINTEXT"
+    ],
+    "use_case": "A security engineer uses Plaintext to encrypt volumes, secure file transfers, or derive cryptographic keys for safe communication.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "ciphertext": {
+    "eli5": "Ciphertext is like a secret code, lock, or special way your computer hides and protects important stuff.",
+    "boss": "Ciphertext is part of encryption systems, cryptographic protocols, or secure mounting techniques that ensure data confidentiality, integrity, and secure file access.",
+    "sysadmin": "Ciphertext refers to an encryption method, cipher mode, key derivation function, or secure volume mounting approach used to protect sensitive data and enable cryptographic operations.",
+    "emoji": "\ud83d\udd10\ud83e\udde0\ud83e\uddee\ud83d\udd11",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Filesystem",
+      "Backup"
+    ],
+    "related": [
+      "aes",
+      "key pair",
+      "veracrypt",
+      "ciphertext",
+      "kdf"
+    ],
+    "aliases": [
+      "ciphertext",
+      "CIPHERTEXT"
+    ],
+    "use_case": "A security engineer uses Ciphertext to encrypt volumes, secure file transfers, or derive cryptographic keys for safe communication.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "cipher": {
+    "eli5": "Cipher is like a secret code, lock, or special way your computer hides and protects important stuff.",
+    "boss": "Cipher is part of encryption systems, cryptographic protocols, or secure mounting techniques that ensure data confidentiality, integrity, and secure file access.",
+    "sysadmin": "Cipher refers to an encryption method, cipher mode, key derivation function, or secure volume mounting approach used to protect sensitive data and enable cryptographic operations.",
+    "emoji": "\ud83d\udd10\ud83e\udde0\ud83e\uddee\ud83d\udd11",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Filesystem",
+      "Backup"
+    ],
+    "related": [
+      "aes",
+      "key pair",
+      "veracrypt",
+      "ciphertext",
+      "kdf"
+    ],
+    "aliases": [
+      "cipher",
+      "CIPHER"
+    ],
+    "use_case": "A security engineer uses Cipher to encrypt volumes, secure file transfers, or derive cryptographic keys for safe communication.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "keyspace": {
+    "eli5": "Keyspace is like a secret code, lock, or special way your computer hides and protects important stuff.",
+    "boss": "Keyspace is part of encryption systems, cryptographic protocols, or secure mounting techniques that ensure data confidentiality, integrity, and secure file access.",
+    "sysadmin": "Keyspace refers to an encryption method, cipher mode, key derivation function, or secure volume mounting approach used to protect sensitive data and enable cryptographic operations.",
+    "emoji": "\ud83d\udd10\ud83e\udde0\ud83e\uddee\ud83d\udd11",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Filesystem",
+      "Backup"
+    ],
+    "related": [
+      "aes",
+      "key pair",
+      "veracrypt",
+      "ciphertext",
+      "kdf"
+    ],
+    "aliases": [
+      "keyspace",
+      "KEYSPACE"
+    ],
+    "use_case": "A security engineer uses Keyspace to encrypt volumes, secure file transfers, or derive cryptographic keys for safe communication.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "key length": {
+    "eli5": "Key Length is like a secret code, lock, or special way your computer hides and protects important stuff.",
+    "boss": "Key Length is part of encryption systems, cryptographic protocols, or secure mounting techniques that ensure data confidentiality, integrity, and secure file access.",
+    "sysadmin": "Key Length refers to an encryption method, cipher mode, key derivation function, or secure volume mounting approach used to protect sensitive data and enable cryptographic operations.",
+    "emoji": "\ud83d\udd10\ud83e\udde0\ud83e\uddee\ud83d\udd11",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Filesystem",
+      "Backup"
+    ],
+    "related": [
+      "aes",
+      "key pair",
+      "veracrypt",
+      "ciphertext",
+      "kdf"
+    ],
+    "aliases": [
+      "key length",
+      "KEY LENGTH"
+    ],
+    "use_case": "A security engineer uses Key Length to encrypt volumes, secure file transfers, or derive cryptographic keys for safe communication.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "key size": {
+    "eli5": "Key Size is like a secret code, lock, or special way your computer hides and protects important stuff.",
+    "boss": "Key Size is part of encryption systems, cryptographic protocols, or secure mounting techniques that ensure data confidentiality, integrity, and secure file access.",
+    "sysadmin": "Key Size refers to an encryption method, cipher mode, key derivation function, or secure volume mounting approach used to protect sensitive data and enable cryptographic operations.",
+    "emoji": "\ud83d\udd10\ud83e\udde0\ud83e\uddee\ud83d\udd11",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Filesystem",
+      "Backup"
+    ],
+    "related": [
+      "aes",
+      "key pair",
+      "veracrypt",
+      "ciphertext",
+      "kdf"
+    ],
+    "aliases": [
+      "key size",
+      "KEY SIZE"
+    ],
+    "use_case": "A security engineer uses Key Size to encrypt volumes, secure file transfers, or derive cryptographic keys for safe communication.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "entropy": {
+    "eli5": "Entropy is like a secret code, lock, or special way your computer hides and protects important stuff.",
+    "boss": "Entropy is part of encryption systems, cryptographic protocols, or secure mounting techniques that ensure data confidentiality, integrity, and secure file access.",
+    "sysadmin": "Entropy refers to an encryption method, cipher mode, key derivation function, or secure volume mounting approach used to protect sensitive data and enable cryptographic operations.",
+    "emoji": "\ud83d\udd10\ud83e\udde0\ud83e\uddee\ud83d\udd11",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Filesystem",
+      "Backup"
+    ],
+    "related": [
+      "aes",
+      "key pair",
+      "veracrypt",
+      "ciphertext",
+      "kdf"
+    ],
+    "aliases": [
+      "entropy",
+      "ENTROPY"
+    ],
+    "use_case": "A security engineer uses Entropy to encrypt volumes, secure file transfers, or derive cryptographic keys for safe communication.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "initialization vector (iv)": {
+    "eli5": "Initialization Vector (IV) is like a secret code, lock, or special way your computer hides and protects important stuff.",
+    "boss": "Initialization Vector (IV) is part of encryption systems, cryptographic protocols, or secure mounting techniques that ensure data confidentiality, integrity, and secure file access.",
+    "sysadmin": "Initialization Vector (IV) refers to an encryption method, cipher mode, key derivation function, or secure volume mounting approach used to protect sensitive data and enable cryptographic operations.",
+    "emoji": "\ud83d\udd10\ud83e\udde0\ud83e\uddee\ud83d\udd11",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Filesystem",
+      "Backup"
+    ],
+    "related": [
+      "aes",
+      "key pair",
+      "veracrypt",
+      "ciphertext",
+      "kdf"
+    ],
+    "aliases": [
+      "initialization vector (iv)",
+      "INITIALIZATION VECTOR (IV)"
+    ],
+    "use_case": "A security engineer uses Initialization Vector (IV) to encrypt volumes, secure file transfers, or derive cryptographic keys for safe communication.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "salt": {
+    "eli5": "Salt is like a secret code, lock, or special way your computer hides and protects important stuff.",
+    "boss": "Salt is part of encryption systems, cryptographic protocols, or secure mounting techniques that ensure data confidentiality, integrity, and secure file access.",
+    "sysadmin": "Salt refers to an encryption method, cipher mode, key derivation function, or secure volume mounting approach used to protect sensitive data and enable cryptographic operations.",
+    "emoji": "\ud83d\udd10\ud83e\udde0\ud83e\uddee\ud83d\udd11",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Filesystem",
+      "Backup"
+    ],
+    "related": [
+      "aes",
+      "key pair",
+      "veracrypt",
+      "ciphertext",
+      "kdf"
+    ],
+    "aliases": [
+      "salt",
+      "SALT"
+    ],
+    "use_case": "A security engineer uses Salt to encrypt volumes, secure file transfers, or derive cryptographic keys for safe communication.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "nonce": {
+    "eli5": "Nonce is like a secret code, lock, or special way your computer hides and protects important stuff.",
+    "boss": "Nonce is part of encryption systems, cryptographic protocols, or secure mounting techniques that ensure data confidentiality, integrity, and secure file access.",
+    "sysadmin": "Nonce refers to an encryption method, cipher mode, key derivation function, or secure volume mounting approach used to protect sensitive data and enable cryptographic operations.",
+    "emoji": "\ud83d\udd10\ud83e\udde0\ud83e\uddee\ud83d\udd11",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Filesystem",
+      "Backup"
+    ],
+    "related": [
+      "aes",
+      "key pair",
+      "veracrypt",
+      "ciphertext",
+      "kdf"
+    ],
+    "aliases": [
+      "nonce",
+      "NONCE"
+    ],
+    "use_case": "A security engineer uses Nonce to encrypt volumes, secure file transfers, or derive cryptographic keys for safe communication.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "padding": {
+    "eli5": "Padding is like a secret code, lock, or special way your computer hides and protects important stuff.",
+    "boss": "Padding is part of encryption systems, cryptographic protocols, or secure mounting techniques that ensure data confidentiality, integrity, and secure file access.",
+    "sysadmin": "Padding refers to an encryption method, cipher mode, key derivation function, or secure volume mounting approach used to protect sensitive data and enable cryptographic operations.",
+    "emoji": "\ud83d\udd10\ud83e\udde0\ud83e\uddee\ud83d\udd11",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Filesystem",
+      "Backup"
+    ],
+    "related": [
+      "aes",
+      "key pair",
+      "veracrypt",
+      "ciphertext",
+      "kdf"
+    ],
+    "aliases": [
+      "padding",
+      "PADDING"
+    ],
+    "use_case": "A security engineer uses Padding to encrypt volumes, secure file transfers, or derive cryptographic keys for safe communication.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "encoding vs encryption": {
+    "eli5": "Encoding vs Encryption is like a secret code, lock, or special way your computer hides and protects important stuff.",
+    "boss": "Encoding vs Encryption is part of encryption systems, cryptographic protocols, or secure mounting techniques that ensure data confidentiality, integrity, and secure file access.",
+    "sysadmin": "Encoding vs Encryption refers to an encryption method, cipher mode, key derivation function, or secure volume mounting approach used to protect sensitive data and enable cryptographic operations.",
+    "emoji": "\ud83d\udd10\ud83e\udde0\ud83e\uddee\ud83d\udd11",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Filesystem",
+      "Backup"
+    ],
+    "related": [
+      "aes",
+      "key pair",
+      "veracrypt",
+      "ciphertext",
+      "kdf"
+    ],
+    "aliases": [
+      "encoding vs encryption",
+      "ENCODING VS ENCRYPTION"
+    ],
+    "use_case": "A security engineer uses Encoding vs Encryption to encrypt volumes, secure file transfers, or derive cryptographic keys for safe communication.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "stream cipher": {
+    "eli5": "Stream Cipher is like a secret code, lock, or special way your computer hides and protects important stuff.",
+    "boss": "Stream Cipher is part of encryption systems, cryptographic protocols, or secure mounting techniques that ensure data confidentiality, integrity, and secure file access.",
+    "sysadmin": "Stream Cipher refers to an encryption method, cipher mode, key derivation function, or secure volume mounting approach used to protect sensitive data and enable cryptographic operations.",
+    "emoji": "\ud83d\udd10\ud83e\udde0\ud83e\uddee\ud83d\udd11",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Filesystem",
+      "Backup"
+    ],
+    "related": [
+      "aes",
+      "key pair",
+      "veracrypt",
+      "ciphertext",
+      "kdf"
+    ],
+    "aliases": [
+      "stream cipher",
+      "STREAM CIPHER"
+    ],
+    "use_case": "A security engineer uses Stream Cipher to encrypt volumes, secure file transfers, or derive cryptographic keys for safe communication.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "block cipher": {
+    "eli5": "Block Cipher is like a secret code, lock, or special way your computer hides and protects important stuff.",
+    "boss": "Block Cipher is part of encryption systems, cryptographic protocols, or secure mounting techniques that ensure data confidentiality, integrity, and secure file access.",
+    "sysadmin": "Block Cipher refers to an encryption method, cipher mode, key derivation function, or secure volume mounting approach used to protect sensitive data and enable cryptographic operations.",
+    "emoji": "\ud83d\udd10\ud83e\udde0\ud83e\uddee\ud83d\udd11",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Filesystem",
+      "Backup"
+    ],
+    "related": [
+      "aes",
+      "key pair",
+      "veracrypt",
+      "ciphertext",
+      "kdf"
+    ],
+    "aliases": [
+      "block cipher",
+      "BLOCK CIPHER"
+    ],
+    "use_case": "A security engineer uses Block Cipher to encrypt volumes, secure file transfers, or derive cryptographic keys for safe communication.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "aes (advanced encryption standard)": {
+    "eli5": "AES (Advanced Encryption Standard) is like a secret code, lock, or special way your computer hides and protects important stuff.",
+    "boss": "AES (Advanced Encryption Standard) is part of encryption systems, cryptographic protocols, or secure mounting techniques that ensure data confidentiality, integrity, and secure file access.",
+    "sysadmin": "AES (Advanced Encryption Standard) refers to an encryption method, cipher mode, key derivation function, or secure volume mounting approach used to protect sensitive data and enable cryptographic operations.",
+    "emoji": "\ud83d\udd10\ud83e\udde0\ud83e\uddee\ud83d\udd11",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Filesystem",
+      "Backup"
+    ],
+    "related": [
+      "aes",
+      "key pair",
+      "veracrypt",
+      "ciphertext",
+      "kdf"
+    ],
+    "aliases": [
+      "aes (advanced encryption standard)",
+      "AES (ADVANCED ENCRYPTION STANDARD)"
+    ],
+    "use_case": "A security engineer uses AES (Advanced Encryption Standard) to encrypt volumes, secure file transfers, or derive cryptographic keys for safe communication.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "des (data encryption standard)": {
+    "eli5": "DES (Data Encryption Standard) is like a secret code, lock, or special way your computer hides and protects important stuff.",
+    "boss": "DES (Data Encryption Standard) is part of encryption systems, cryptographic protocols, or secure mounting techniques that ensure data confidentiality, integrity, and secure file access.",
+    "sysadmin": "DES (Data Encryption Standard) refers to an encryption method, cipher mode, key derivation function, or secure volume mounting approach used to protect sensitive data and enable cryptographic operations.",
+    "emoji": "\ud83d\udd10\ud83e\udde0\ud83e\uddee\ud83d\udd11",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Filesystem",
+      "Backup"
+    ],
+    "related": [
+      "aes",
+      "key pair",
+      "veracrypt",
+      "ciphertext",
+      "kdf"
+    ],
+    "aliases": [
+      "des (data encryption standard)",
+      "DES (DATA ENCRYPTION STANDARD)"
+    ],
+    "use_case": "A security engineer uses DES (Data Encryption Standard) to encrypt volumes, secure file transfers, or derive cryptographic keys for safe communication.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "3des (triple des)": {
+    "eli5": "3DES (Triple DES) is like a secret code, lock, or special way your computer hides and protects important stuff.",
+    "boss": "3DES (Triple DES) is part of encryption systems, cryptographic protocols, or secure mounting techniques that ensure data confidentiality, integrity, and secure file access.",
+    "sysadmin": "3DES (Triple DES) refers to an encryption method, cipher mode, key derivation function, or secure volume mounting approach used to protect sensitive data and enable cryptographic operations.",
+    "emoji": "\ud83d\udd10\ud83e\udde0\ud83e\uddee\ud83d\udd11",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Filesystem",
+      "Backup"
+    ],
+    "related": [
+      "aes",
+      "key pair",
+      "veracrypt",
+      "ciphertext",
+      "kdf"
+    ],
+    "aliases": [
+      "3des (triple des)",
+      "3DES (TRIPLE DES)"
+    ],
+    "use_case": "A security engineer uses 3DES (Triple DES) to encrypt volumes, secure file transfers, or derive cryptographic keys for safe communication.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "blowfish": {
+    "eli5": "Blowfish is like a secret code, lock, or special way your computer hides and protects important stuff.",
+    "boss": "Blowfish is part of encryption systems, cryptographic protocols, or secure mounting techniques that ensure data confidentiality, integrity, and secure file access.",
+    "sysadmin": "Blowfish refers to an encryption method, cipher mode, key derivation function, or secure volume mounting approach used to protect sensitive data and enable cryptographic operations.",
+    "emoji": "\ud83d\udd10\ud83e\udde0\ud83e\uddee\ud83d\udd11",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Filesystem",
+      "Backup"
+    ],
+    "related": [
+      "aes",
+      "key pair",
+      "veracrypt",
+      "ciphertext",
+      "kdf"
+    ],
+    "aliases": [
+      "blowfish",
+      "BLOWFISH"
+    ],
+    "use_case": "A security engineer uses Blowfish to encrypt volumes, secure file transfers, or derive cryptographic keys for safe communication.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "twofish": {
+    "eli5": "Twofish is like a secret code, lock, or special way your computer hides and protects important stuff.",
+    "boss": "Twofish is part of encryption systems, cryptographic protocols, or secure mounting techniques that ensure data confidentiality, integrity, and secure file access.",
+    "sysadmin": "Twofish refers to an encryption method, cipher mode, key derivation function, or secure volume mounting approach used to protect sensitive data and enable cryptographic operations.",
+    "emoji": "\ud83d\udd10\ud83e\udde0\ud83e\uddee\ud83d\udd11",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Filesystem",
+      "Backup"
+    ],
+    "related": [
+      "aes",
+      "key pair",
+      "veracrypt",
+      "ciphertext",
+      "kdf"
+    ],
+    "aliases": [
+      "twofish",
+      "TWOFISH"
+    ],
+    "use_case": "A security engineer uses Twofish to encrypt volumes, secure file transfers, or derive cryptographic keys for safe communication.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "chacha20": {
+    "eli5": "ChaCha20 is like a secret code, lock, or special way your computer hides and protects important stuff.",
+    "boss": "ChaCha20 is part of encryption systems, cryptographic protocols, or secure mounting techniques that ensure data confidentiality, integrity, and secure file access.",
+    "sysadmin": "ChaCha20 refers to an encryption method, cipher mode, key derivation function, or secure volume mounting approach used to protect sensitive data and enable cryptographic operations.",
+    "emoji": "\ud83d\udd10\ud83e\udde0\ud83e\uddee\ud83d\udd11",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Filesystem",
+      "Backup"
+    ],
+    "related": [
+      "aes",
+      "key pair",
+      "veracrypt",
+      "ciphertext",
+      "kdf"
+    ],
+    "aliases": [
+      "chacha20",
+      "CHACHA20"
+    ],
+    "use_case": "A security engineer uses ChaCha20 to encrypt volumes, secure file transfers, or derive cryptographic keys for safe communication.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "rc4": {
+    "eli5": "RC4 is like a secret code, lock, or special way your computer hides and protects important stuff.",
+    "boss": "RC4 is part of encryption systems, cryptographic protocols, or secure mounting techniques that ensure data confidentiality, integrity, and secure file access.",
+    "sysadmin": "RC4 refers to an encryption method, cipher mode, key derivation function, or secure volume mounting approach used to protect sensitive data and enable cryptographic operations.",
+    "emoji": "\ud83d\udd10\ud83e\udde0\ud83e\uddee\ud83d\udd11",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Filesystem",
+      "Backup"
+    ],
+    "related": [
+      "aes",
+      "key pair",
+      "veracrypt",
+      "ciphertext",
+      "kdf"
+    ],
+    "aliases": [
+      "rc4",
+      "RC4"
+    ],
+    "use_case": "A security engineer uses RC4 to encrypt volumes, secure file transfers, or derive cryptographic keys for safe communication.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "rc5": {
+    "eli5": "RC5 is like a secret code, lock, or special way your computer hides and protects important stuff.",
+    "boss": "RC5 is part of encryption systems, cryptographic protocols, or secure mounting techniques that ensure data confidentiality, integrity, and secure file access.",
+    "sysadmin": "RC5 refers to an encryption method, cipher mode, key derivation function, or secure volume mounting approach used to protect sensitive data and enable cryptographic operations.",
+    "emoji": "\ud83d\udd10\ud83e\udde0\ud83e\uddee\ud83d\udd11",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Filesystem",
+      "Backup"
+    ],
+    "related": [
+      "aes",
+      "key pair",
+      "veracrypt",
+      "ciphertext",
+      "kdf"
+    ],
+    "aliases": [
+      "rc5",
+      "RC5"
+    ],
+    "use_case": "A security engineer uses RC5 to encrypt volumes, secure file transfers, or derive cryptographic keys for safe communication.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "rc6": {
+    "eli5": "RC6 is like a secret code, lock, or special way your computer hides and protects important stuff.",
+    "boss": "RC6 is part of encryption systems, cryptographic protocols, or secure mounting techniques that ensure data confidentiality, integrity, and secure file access.",
+    "sysadmin": "RC6 refers to an encryption method, cipher mode, key derivation function, or secure volume mounting approach used to protect sensitive data and enable cryptographic operations.",
+    "emoji": "\ud83d\udd10\ud83e\udde0\ud83e\uddee\ud83d\udd11",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Filesystem",
+      "Backup"
+    ],
+    "related": [
+      "aes",
+      "key pair",
+      "veracrypt",
+      "ciphertext",
+      "kdf"
+    ],
+    "aliases": [
+      "rc6",
+      "RC6"
+    ],
+    "use_case": "A security engineer uses RC6 to encrypt volumes, secure file transfers, or derive cryptographic keys for safe communication.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "ecdsa (elliptic curve digital signature algorithm)": {
+    "eli5": "ECDSA (Elliptic Curve Digital Signature Algorithm) is like a secret code, lock, or special way your computer hides and protects important stuff.",
+    "boss": "ECDSA (Elliptic Curve Digital Signature Algorithm) is part of encryption systems, cryptographic protocols, or secure mounting techniques that ensure data confidentiality, integrity, and secure file access.",
+    "sysadmin": "ECDSA (Elliptic Curve Digital Signature Algorithm) refers to an encryption method, cipher mode, key derivation function, or secure volume mounting approach used to protect sensitive data and enable cryptographic operations.",
+    "emoji": "\ud83d\udd10\ud83e\udde0\ud83e\uddee\ud83d\udd11",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Filesystem",
+      "Backup"
+    ],
+    "related": [
+      "aes",
+      "key pair",
+      "veracrypt",
+      "ciphertext",
+      "kdf"
+    ],
+    "aliases": [
+      "ecdsa (elliptic curve digital signature algorithm)",
+      "ECDSA (ELLIPTIC CURVE DIGITAL SIGNATURE ALGORITHM)"
+    ],
+    "use_case": "A security engineer uses ECDSA (Elliptic Curve Digital Signature Algorithm) to encrypt volumes, secure file transfers, or derive cryptographic keys for safe communication.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "elgamal": {
+    "eli5": "ElGamal is like a secret code, lock, or special way your computer hides and protects important stuff.",
+    "boss": "ElGamal is part of encryption systems, cryptographic protocols, or secure mounting techniques that ensure data confidentiality, integrity, and secure file access.",
+    "sysadmin": "ElGamal refers to an encryption method, cipher mode, key derivation function, or secure volume mounting approach used to protect sensitive data and enable cryptographic operations.",
+    "emoji": "\ud83d\udd10\ud83e\udde0\ud83e\uddee\ud83d\udd11",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Filesystem",
+      "Backup"
+    ],
+    "related": [
+      "aes",
+      "key pair",
+      "veracrypt",
+      "ciphertext",
+      "kdf"
+    ],
+    "aliases": [
+      "elgamal",
+      "ELGAMAL"
+    ],
+    "use_case": "A security engineer uses ElGamal to encrypt volumes, secure file transfers, or derive cryptographic keys for safe communication.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "diffie-hellman (dh)": {
+    "eli5": "Diffie-Hellman (DH) is like a secret code, lock, or special way your computer hides and protects important stuff.",
+    "boss": "Diffie-Hellman (DH) is part of encryption systems, cryptographic protocols, or secure mounting techniques that ensure data confidentiality, integrity, and secure file access.",
+    "sysadmin": "Diffie-Hellman (DH) refers to an encryption method, cipher mode, key derivation function, or secure volume mounting approach used to protect sensitive data and enable cryptographic operations.",
+    "emoji": "\ud83d\udd10\ud83e\udde0\ud83e\uddee\ud83d\udd11",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Filesystem",
+      "Backup"
+    ],
+    "related": [
+      "aes",
+      "key pair",
+      "veracrypt",
+      "ciphertext",
+      "kdf"
+    ],
+    "aliases": [
+      "diffie-hellman (dh)",
+      "DIFFIE-HELLMAN (DH)"
+    ],
+    "use_case": "A security engineer uses Diffie-Hellman (DH) to encrypt volumes, secure file transfers, or derive cryptographic keys for safe communication.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "curve25519": {
+    "eli5": "Curve25519 is like a secret code, lock, or special way your computer hides and protects important stuff.",
+    "boss": "Curve25519 is part of encryption systems, cryptographic protocols, or secure mounting techniques that ensure data confidentiality, integrity, and secure file access.",
+    "sysadmin": "Curve25519 refers to an encryption method, cipher mode, key derivation function, or secure volume mounting approach used to protect sensitive data and enable cryptographic operations.",
+    "emoji": "\ud83d\udd10\ud83e\udde0\ud83e\uddee\ud83d\udd11",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Filesystem",
+      "Backup"
+    ],
+    "related": [
+      "aes",
+      "key pair",
+      "veracrypt",
+      "ciphertext",
+      "kdf"
+    ],
+    "aliases": [
+      "curve25519",
+      "CURVE25519"
+    ],
+    "use_case": "A security engineer uses Curve25519 to encrypt volumes, secure file transfers, or derive cryptographic keys for safe communication.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "ed25519": {
+    "eli5": "Ed25519 is like a secret code, lock, or special way your computer hides and protects important stuff.",
+    "boss": "Ed25519 is part of encryption systems, cryptographic protocols, or secure mounting techniques that ensure data confidentiality, integrity, and secure file access.",
+    "sysadmin": "Ed25519 refers to an encryption method, cipher mode, key derivation function, or secure volume mounting approach used to protect sensitive data and enable cryptographic operations.",
+    "emoji": "\ud83d\udd10\ud83e\udde0\ud83e\uddee\ud83d\udd11",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Filesystem",
+      "Backup"
+    ],
+    "related": [
+      "aes",
+      "key pair",
+      "veracrypt",
+      "ciphertext",
+      "kdf"
+    ],
+    "aliases": [
+      "ed25519",
+      "ED25519"
+    ],
+    "use_case": "A security engineer uses Ed25519 to encrypt volumes, secure file transfers, or derive cryptographic keys for safe communication.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "key pair": {
+    "eli5": "Key Pair is like a secret code, lock, or special way your computer hides and protects important stuff.",
+    "boss": "Key Pair is part of encryption systems, cryptographic protocols, or secure mounting techniques that ensure data confidentiality, integrity, and secure file access.",
+    "sysadmin": "Key Pair refers to an encryption method, cipher mode, key derivation function, or secure volume mounting approach used to protect sensitive data and enable cryptographic operations.",
+    "emoji": "\ud83d\udd10\ud83e\udde0\ud83e\uddee\ud83d\udd11",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Filesystem",
+      "Backup"
+    ],
+    "related": [
+      "aes",
+      "key pair",
+      "veracrypt",
+      "ciphertext",
+      "kdf"
+    ],
+    "aliases": [
+      "key pair",
+      "KEY PAIR"
+    ],
+    "use_case": "A security engineer uses Key Pair to encrypt volumes, secure file transfers, or derive cryptographic keys for safe communication.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "key generation": {
+    "eli5": "Key Generation is like a secret code, lock, or special way your computer hides and protects important stuff.",
+    "boss": "Key Generation is part of encryption systems, cryptographic protocols, or secure mounting techniques that ensure data confidentiality, integrity, and secure file access.",
+    "sysadmin": "Key Generation refers to an encryption method, cipher mode, key derivation function, or secure volume mounting approach used to protect sensitive data and enable cryptographic operations.",
+    "emoji": "\ud83d\udd10\ud83e\udde0\ud83e\uddee\ud83d\udd11",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Filesystem",
+      "Backup"
+    ],
+    "related": [
+      "aes",
+      "key pair",
+      "veracrypt",
+      "ciphertext",
+      "kdf"
+    ],
+    "aliases": [
+      "key generation",
+      "KEY GENERATION"
+    ],
+    "use_case": "A security engineer uses Key Generation to encrypt volumes, secure file transfers, or derive cryptographic keys for safe communication.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "key exchange": {
+    "eli5": "Key Exchange is like a secret code, lock, or special way your computer hides and protects important stuff.",
+    "boss": "Key Exchange is part of encryption systems, cryptographic protocols, or secure mounting techniques that ensure data confidentiality, integrity, and secure file access.",
+    "sysadmin": "Key Exchange refers to an encryption method, cipher mode, key derivation function, or secure volume mounting approach used to protect sensitive data and enable cryptographic operations.",
+    "emoji": "\ud83d\udd10\ud83e\udde0\ud83e\uddee\ud83d\udd11",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Filesystem",
+      "Backup"
+    ],
+    "related": [
+      "aes",
+      "key pair",
+      "veracrypt",
+      "ciphertext",
+      "kdf"
+    ],
+    "aliases": [
+      "key exchange",
+      "KEY EXCHANGE"
+    ],
+    "use_case": "A security engineer uses Key Exchange to encrypt volumes, secure file transfers, or derive cryptographic keys for safe communication.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "key derivation function (kdf)": {
+    "eli5": "Key Derivation Function (KDF) is like a secret code, lock, or special way your computer hides and protects important stuff.",
+    "boss": "Key Derivation Function (KDF) is part of encryption systems, cryptographic protocols, or secure mounting techniques that ensure data confidentiality, integrity, and secure file access.",
+    "sysadmin": "Key Derivation Function (KDF) refers to an encryption method, cipher mode, key derivation function, or secure volume mounting approach used to protect sensitive data and enable cryptographic operations.",
+    "emoji": "\ud83d\udd10\ud83e\udde0\ud83e\uddee\ud83d\udd11",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Filesystem",
+      "Backup"
+    ],
+    "related": [
+      "aes",
+      "key pair",
+      "veracrypt",
+      "ciphertext",
+      "kdf"
+    ],
+    "aliases": [
+      "key derivation function (kdf)",
+      "KEY DERIVATION FUNCTION (KDF)"
+    ],
+    "use_case": "A security engineer uses Key Derivation Function (KDF) to encrypt volumes, secure file transfers, or derive cryptographic keys for safe communication.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "pbkdf2": {
+    "eli5": "PBKDF2 is like a secret code, lock, or special way your computer hides and protects important stuff.",
+    "boss": "PBKDF2 is part of encryption systems, cryptographic protocols, or secure mounting techniques that ensure data confidentiality, integrity, and secure file access.",
+    "sysadmin": "PBKDF2 refers to an encryption method, cipher mode, key derivation function, or secure volume mounting approach used to protect sensitive data and enable cryptographic operations.",
+    "emoji": "\ud83d\udd10\ud83e\udde0\ud83e\uddee\ud83d\udd11",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Filesystem",
+      "Backup"
+    ],
+    "related": [
+      "aes",
+      "key pair",
+      "veracrypt",
+      "ciphertext",
+      "kdf"
+    ],
+    "aliases": [
+      "pbkdf2",
+      "PBKDF2"
+    ],
+    "use_case": "A security engineer uses PBKDF2 to encrypt volumes, secure file transfers, or derive cryptographic keys for safe communication.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "argon2": {
+    "eli5": "Argon2 is like a secret code, lock, or special way your computer hides and protects important stuff.",
+    "boss": "Argon2 is part of encryption systems, cryptographic protocols, or secure mounting techniques that ensure data confidentiality, integrity, and secure file access.",
+    "sysadmin": "Argon2 refers to an encryption method, cipher mode, key derivation function, or secure volume mounting approach used to protect sensitive data and enable cryptographic operations.",
+    "emoji": "\ud83d\udd10\ud83e\udde0\ud83e\uddee\ud83d\udd11",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Filesystem",
+      "Backup"
+    ],
+    "related": [
+      "aes",
+      "key pair",
+      "veracrypt",
+      "ciphertext",
+      "kdf"
+    ],
+    "aliases": [
+      "argon2",
+      "ARGON2"
+    ],
+    "use_case": "A security engineer uses Argon2 to encrypt volumes, secure file transfers, or derive cryptographic keys for safe communication.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "scrypt": {
+    "eli5": "scrypt is like a secret code, lock, or special way your computer hides and protects important stuff.",
+    "boss": "scrypt is part of encryption systems, cryptographic protocols, or secure mounting techniques that ensure data confidentiality, integrity, and secure file access.",
+    "sysadmin": "scrypt refers to an encryption method, cipher mode, key derivation function, or secure volume mounting approach used to protect sensitive data and enable cryptographic operations.",
+    "emoji": "\ud83d\udd10\ud83e\udde0\ud83e\uddee\ud83d\udd11",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Filesystem",
+      "Backup"
+    ],
+    "related": [
+      "aes",
+      "key pair",
+      "veracrypt",
+      "ciphertext",
+      "kdf"
+    ],
+    "aliases": [
+      "scrypt",
+      "SCRYPT"
+    ],
+    "use_case": "A security engineer uses scrypt to encrypt volumes, secure file transfers, or derive cryptographic keys for safe communication.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "hkdf": {
+    "eli5": "HKDF is like a secret code, lock, or special way your computer hides and protects important stuff.",
+    "boss": "HKDF is part of encryption systems, cryptographic protocols, or secure mounting techniques that ensure data confidentiality, integrity, and secure file access.",
+    "sysadmin": "HKDF refers to an encryption method, cipher mode, key derivation function, or secure volume mounting approach used to protect sensitive data and enable cryptographic operations.",
+    "emoji": "\ud83d\udd10\ud83e\udde0\ud83e\uddee\ud83d\udd11",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Filesystem",
+      "Backup"
+    ],
+    "related": [
+      "aes",
+      "key pair",
+      "veracrypt",
+      "ciphertext",
+      "kdf"
+    ],
+    "aliases": [
+      "hkdf",
+      "HKDF"
+    ],
+    "use_case": "A security engineer uses HKDF to encrypt volumes, secure file transfers, or derive cryptographic keys for safe communication.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "ecdh (elliptic curve diffie-hellman)": {
+    "eli5": "ECDH (Elliptic Curve Diffie-Hellman) is like a secret code, lock, or special way your computer hides and protects important stuff.",
+    "boss": "ECDH (Elliptic Curve Diffie-Hellman) is part of encryption systems, cryptographic protocols, or secure mounting techniques that ensure data confidentiality, integrity, and secure file access.",
+    "sysadmin": "ECDH (Elliptic Curve Diffie-Hellman) refers to an encryption method, cipher mode, key derivation function, or secure volume mounting approach used to protect sensitive data and enable cryptographic operations.",
+    "emoji": "\ud83d\udd10\ud83e\udde0\ud83e\uddee\ud83d\udd11",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Filesystem",
+      "Backup"
+    ],
+    "related": [
+      "aes",
+      "key pair",
+      "veracrypt",
+      "ciphertext",
+      "kdf"
+    ],
+    "aliases": [
+      "ecdh (elliptic curve diffie-hellman)",
+      "ECDH (ELLIPTIC CURVE DIFFIE-HELLMAN)"
+    ],
+    "use_case": "A security engineer uses ECDH (Elliptic Curve Diffie-Hellman) to encrypt volumes, secure file transfers, or derive cryptographic keys for safe communication.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "encryption algorithm": {
+    "eli5": "Encryption Algorithm is like a secret code, lock, or special way your computer hides and protects important stuff.",
+    "boss": "Encryption Algorithm is part of encryption systems, cryptographic protocols, or secure mounting techniques that ensure data confidentiality, integrity, and secure file access.",
+    "sysadmin": "Encryption Algorithm refers to an encryption method, cipher mode, key derivation function, or secure volume mounting approach used to protect sensitive data and enable cryptographic operations.",
+    "emoji": "\ud83d\udd10\ud83e\udde0\ud83e\uddee\ud83d\udd11",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Filesystem",
+      "Backup"
+    ],
+    "related": [
+      "aes",
+      "key pair",
+      "veracrypt",
+      "ciphertext",
+      "kdf"
+    ],
+    "aliases": [
+      "encryption algorithm",
+      "ENCRYPTION ALGORITHM"
+    ],
+    "use_case": "A security engineer uses Encryption Algorithm to encrypt volumes, secure file transfers, or derive cryptographic keys for safe communication.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "encryption standard": {
+    "eli5": "Encryption Standard is like a secret code, lock, or special way your computer hides and protects important stuff.",
+    "boss": "Encryption Standard is part of encryption systems, cryptographic protocols, or secure mounting techniques that ensure data confidentiality, integrity, and secure file access.",
+    "sysadmin": "Encryption Standard refers to an encryption method, cipher mode, key derivation function, or secure volume mounting approach used to protect sensitive data and enable cryptographic operations.",
+    "emoji": "\ud83d\udd10\ud83e\udde0\ud83e\uddee\ud83d\udd11",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Filesystem",
+      "Backup"
+    ],
+    "related": [
+      "aes",
+      "key pair",
+      "veracrypt",
+      "ciphertext",
+      "kdf"
+    ],
+    "aliases": [
+      "encryption standard",
+      "ENCRYPTION STANDARD"
+    ],
+    "use_case": "A security engineer uses Encryption Standard to encrypt volumes, secure file transfers, or derive cryptographic keys for safe communication.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "cipher mode": {
+    "eli5": "Cipher Mode is like a secret code, lock, or special way your computer hides and protects important stuff.",
+    "boss": "Cipher Mode is part of encryption systems, cryptographic protocols, or secure mounting techniques that ensure data confidentiality, integrity, and secure file access.",
+    "sysadmin": "Cipher Mode refers to an encryption method, cipher mode, key derivation function, or secure volume mounting approach used to protect sensitive data and enable cryptographic operations.",
+    "emoji": "\ud83d\udd10\ud83e\udde0\ud83e\uddee\ud83d\udd11",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Filesystem",
+      "Backup"
+    ],
+    "related": [
+      "aes",
+      "key pair",
+      "veracrypt",
+      "ciphertext",
+      "kdf"
+    ],
+    "aliases": [
+      "cipher mode",
+      "CIPHER MODE"
+    ],
+    "use_case": "A security engineer uses Cipher Mode to encrypt volumes, secure file transfers, or derive cryptographic keys for safe communication.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "ecb (electronic codebook)": {
+    "eli5": "ECB (Electronic Codebook) is like a secret code, lock, or special way your computer hides and protects important stuff.",
+    "boss": "ECB (Electronic Codebook) is part of encryption systems, cryptographic protocols, or secure mounting techniques that ensure data confidentiality, integrity, and secure file access.",
+    "sysadmin": "ECB (Electronic Codebook) refers to an encryption method, cipher mode, key derivation function, or secure volume mounting approach used to protect sensitive data and enable cryptographic operations.",
+    "emoji": "\ud83d\udd10\ud83e\udde0\ud83e\uddee\ud83d\udd11",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Filesystem",
+      "Backup"
+    ],
+    "related": [
+      "aes",
+      "key pair",
+      "veracrypt",
+      "ciphertext",
+      "kdf"
+    ],
+    "aliases": [
+      "ecb (electronic codebook)",
+      "ECB (ELECTRONIC CODEBOOK)"
+    ],
+    "use_case": "A security engineer uses ECB (Electronic Codebook) to encrypt volumes, secure file transfers, or derive cryptographic keys for safe communication.",
+    "jargon_score": 5,
+    "level": "Expert"
+  }
+}

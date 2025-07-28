@@ -1,0 +1,1452 @@
+{
+  "chroot": {
+    "eli5": "chroot is like a tool, rule, or secret code the computer uses to stay safe, work better, or fix problems.",
+    "boss": "chroot is commonly used in Linux environments for system-level isolation, security hardening, compression, or development productivity.",
+    "sysadmin": "chroot is a Linux kernel feature, security module, system utility, or development tool used to manage access control, isolate environments, or handle files efficiently.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Linux",
+      "Security",
+      "DevOps",
+      "Encryption",
+      "File Sync",
+      "Text Processing",
+      "Backup"
+    ],
+    "related": [
+      "selinux",
+      "sudoers",
+      "vim",
+      "openssl",
+      "gpg"
+    ],
+    "aliases": [
+      "chroot",
+      "CHROOT"
+    ],
+    "use_case": "A sysadmin or developer uses chroot to enforce security, manipulate text, or manage isolated environments.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "cgroups": {
+    "eli5": "cgroups is like a tool, rule, or secret code the computer uses to stay safe, work better, or fix problems.",
+    "boss": "cgroups is commonly used in Linux environments for system-level isolation, security hardening, compression, or development productivity.",
+    "sysadmin": "cgroups is a Linux kernel feature, security module, system utility, or development tool used to manage access control, isolate environments, or handle files efficiently.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Linux",
+      "Security",
+      "DevOps",
+      "Encryption",
+      "File Sync",
+      "Text Processing",
+      "Backup"
+    ],
+    "related": [
+      "selinux",
+      "sudoers",
+      "vim",
+      "openssl",
+      "gpg"
+    ],
+    "aliases": [
+      "cgroups",
+      "CGROUPS"
+    ],
+    "use_case": "A sysadmin or developer uses cgroups to enforce security, manipulate text, or manage isolated environments.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "namespaces": {
+    "eli5": "namespaces is like a tool, rule, or secret code the computer uses to stay safe, work better, or fix problems.",
+    "boss": "namespaces is commonly used in Linux environments for system-level isolation, security hardening, compression, or development productivity.",
+    "sysadmin": "namespaces is a Linux kernel feature, security module, system utility, or development tool used to manage access control, isolate environments, or handle files efficiently.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Linux",
+      "Security",
+      "DevOps",
+      "Encryption",
+      "File Sync",
+      "Text Processing",
+      "Backup"
+    ],
+    "related": [
+      "selinux",
+      "sudoers",
+      "vim",
+      "openssl",
+      "gpg"
+    ],
+    "aliases": [
+      "namespaces",
+      "NAMESPACES"
+    ],
+    "use_case": "A sysadmin or developer uses namespaces to enforce security, manipulate text, or manage isolated environments.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "overlayfs": {
+    "eli5": "overlayfs is like a tool, rule, or secret code the computer uses to stay safe, work better, or fix problems.",
+    "boss": "overlayfs is commonly used in Linux environments for system-level isolation, security hardening, compression, or development productivity.",
+    "sysadmin": "overlayfs is a Linux kernel feature, security module, system utility, or development tool used to manage access control, isolate environments, or handle files efficiently.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Linux",
+      "Security",
+      "DevOps",
+      "Encryption",
+      "File Sync",
+      "Text Processing",
+      "Backup"
+    ],
+    "related": [
+      "selinux",
+      "sudoers",
+      "vim",
+      "openssl",
+      "gpg"
+    ],
+    "aliases": [
+      "overlayfs",
+      "OVERLAYFS"
+    ],
+    "use_case": "A sysadmin or developer uses overlayfs to enforce security, manipulate text, or manage isolated environments.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "aufs": {
+    "eli5": "aufs is like a tool, rule, or secret code the computer uses to stay safe, work better, or fix problems.",
+    "boss": "aufs is commonly used in Linux environments for system-level isolation, security hardening, compression, or development productivity.",
+    "sysadmin": "aufs is a Linux kernel feature, security module, system utility, or development tool used to manage access control, isolate environments, or handle files efficiently.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Linux",
+      "Security",
+      "DevOps",
+      "Encryption",
+      "File Sync",
+      "Text Processing",
+      "Backup"
+    ],
+    "related": [
+      "selinux",
+      "sudoers",
+      "vim",
+      "openssl",
+      "gpg"
+    ],
+    "aliases": [
+      "aufs",
+      "AUFS"
+    ],
+    "use_case": "A sysadmin or developer uses aufs to enforce security, manipulate text, or manage isolated environments.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "devicemapper": {
+    "eli5": "devicemapper is like a tool, rule, or secret code the computer uses to stay safe, work better, or fix problems.",
+    "boss": "devicemapper is commonly used in Linux environments for system-level isolation, security hardening, compression, or development productivity.",
+    "sysadmin": "devicemapper is a Linux kernel feature, security module, system utility, or development tool used to manage access control, isolate environments, or handle files efficiently.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Linux",
+      "Security",
+      "DevOps",
+      "Encryption",
+      "File Sync",
+      "Text Processing",
+      "Backup"
+    ],
+    "related": [
+      "selinux",
+      "sudoers",
+      "vim",
+      "openssl",
+      "gpg"
+    ],
+    "aliases": [
+      "devicemapper",
+      "DEVICEMAPPER"
+    ],
+    "use_case": "A sysadmin or developer uses devicemapper to enforce security, manipulate text, or manage isolated environments.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "security": {
+    "eli5": "Security is like a tool, rule, or secret code the computer uses to stay safe, work better, or fix problems.",
+    "boss": "Security is commonly used in Linux environments for system-level isolation, security hardening, compression, or development productivity.",
+    "sysadmin": "Security is a Linux kernel feature, security module, system utility, or development tool used to manage access control, isolate environments, or handle files efficiently.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Linux",
+      "Security",
+      "DevOps",
+      "Encryption",
+      "File Sync",
+      "Text Processing",
+      "Backup"
+    ],
+    "related": [
+      "selinux",
+      "sudoers",
+      "vim",
+      "openssl",
+      "gpg"
+    ],
+    "aliases": [
+      "security",
+      "SECURITY"
+    ],
+    "use_case": "A sysadmin or developer uses Security to enforce security, manipulate text, or manage isolated environments.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "selinux": {
+    "eli5": "SELinux is like a tool, rule, or secret code the computer uses to stay safe, work better, or fix problems.",
+    "boss": "SELinux is commonly used in Linux environments for system-level isolation, security hardening, compression, or development productivity.",
+    "sysadmin": "SELinux is a Linux kernel feature, security module, system utility, or development tool used to manage access control, isolate environments, or handle files efficiently.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Linux",
+      "Security",
+      "DevOps",
+      "Encryption",
+      "File Sync",
+      "Text Processing",
+      "Backup"
+    ],
+    "related": [
+      "selinux",
+      "sudoers",
+      "vim",
+      "openssl",
+      "gpg"
+    ],
+    "aliases": [
+      "selinux",
+      "SELINUX"
+    ],
+    "use_case": "A sysadmin or developer uses SELinux to enforce security, manipulate text, or manage isolated environments.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "apparmor": {
+    "eli5": "AppArmor is like a tool, rule, or secret code the computer uses to stay safe, work better, or fix problems.",
+    "boss": "AppArmor is commonly used in Linux environments for system-level isolation, security hardening, compression, or development productivity.",
+    "sysadmin": "AppArmor is a Linux kernel feature, security module, system utility, or development tool used to manage access control, isolate environments, or handle files efficiently.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Linux",
+      "Security",
+      "DevOps",
+      "Encryption",
+      "File Sync",
+      "Text Processing",
+      "Backup"
+    ],
+    "related": [
+      "selinux",
+      "sudoers",
+      "vim",
+      "openssl",
+      "gpg"
+    ],
+    "aliases": [
+      "apparmor",
+      "APPARMOR"
+    ],
+    "use_case": "A sysadmin or developer uses AppArmor to enforce security, manipulate text, or manage isolated environments.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "clamav": {
+    "eli5": "ClamAV is like a tool, rule, or secret code the computer uses to stay safe, work better, or fix problems.",
+    "boss": "ClamAV is commonly used in Linux environments for system-level isolation, security hardening, compression, or development productivity.",
+    "sysadmin": "ClamAV is a Linux kernel feature, security module, system utility, or development tool used to manage access control, isolate environments, or handle files efficiently.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Linux",
+      "Security",
+      "DevOps",
+      "Encryption",
+      "File Sync",
+      "Text Processing",
+      "Backup"
+    ],
+    "related": [
+      "selinux",
+      "sudoers",
+      "vim",
+      "openssl",
+      "gpg"
+    ],
+    "aliases": [
+      "clamav",
+      "CLAMAV"
+    ],
+    "use_case": "A sysadmin or developer uses ClamAV to enforce security, manipulate text, or manage isolated environments.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "rkhunter": {
+    "eli5": "rkhunter is like a tool, rule, or secret code the computer uses to stay safe, work better, or fix problems.",
+    "boss": "rkhunter is commonly used in Linux environments for system-level isolation, security hardening, compression, or development productivity.",
+    "sysadmin": "rkhunter is a Linux kernel feature, security module, system utility, or development tool used to manage access control, isolate environments, or handle files efficiently.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Linux",
+      "Security",
+      "DevOps",
+      "Encryption",
+      "File Sync",
+      "Text Processing",
+      "Backup"
+    ],
+    "related": [
+      "selinux",
+      "sudoers",
+      "vim",
+      "openssl",
+      "gpg"
+    ],
+    "aliases": [
+      "rkhunter",
+      "RKHUNTER"
+    ],
+    "use_case": "A sysadmin or developer uses rkhunter to enforce security, manipulate text, or manage isolated environments.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "chkrootkit": {
+    "eli5": "chkrootkit is like a tool, rule, or secret code the computer uses to stay safe, work better, or fix problems.",
+    "boss": "chkrootkit is commonly used in Linux environments for system-level isolation, security hardening, compression, or development productivity.",
+    "sysadmin": "chkrootkit is a Linux kernel feature, security module, system utility, or development tool used to manage access control, isolate environments, or handle files efficiently.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Linux",
+      "Security",
+      "DevOps",
+      "Encryption",
+      "File Sync",
+      "Text Processing",
+      "Backup"
+    ],
+    "related": [
+      "selinux",
+      "sudoers",
+      "vim",
+      "openssl",
+      "gpg"
+    ],
+    "aliases": [
+      "chkrootkit",
+      "CHKROOTKIT"
+    ],
+    "use_case": "A sysadmin or developer uses chkrootkit to enforce security, manipulate text, or manage isolated environments.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "sudoers": {
+    "eli5": "sudoers is like a tool, rule, or secret code the computer uses to stay safe, work better, or fix problems.",
+    "boss": "sudoers is commonly used in Linux environments for system-level isolation, security hardening, compression, or development productivity.",
+    "sysadmin": "sudoers is a Linux kernel feature, security module, system utility, or development tool used to manage access control, isolate environments, or handle files efficiently.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Linux",
+      "Security",
+      "DevOps",
+      "Encryption",
+      "File Sync",
+      "Text Processing",
+      "Backup"
+    ],
+    "related": [
+      "selinux",
+      "sudoers",
+      "vim",
+      "openssl",
+      "gpg"
+    ],
+    "aliases": [
+      "sudoers",
+      "SUDOERS"
+    ],
+    "use_case": "A sysadmin or developer uses sudoers to enforce security, manipulate text, or manage isolated environments.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "passwd": {
+    "eli5": "passwd is like a tool, rule, or secret code the computer uses to stay safe, work better, or fix problems.",
+    "boss": "passwd is commonly used in Linux environments for system-level isolation, security hardening, compression, or development productivity.",
+    "sysadmin": "passwd is a Linux kernel feature, security module, system utility, or development tool used to manage access control, isolate environments, or handle files efficiently.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Linux",
+      "Security",
+      "DevOps",
+      "Encryption",
+      "File Sync",
+      "Text Processing",
+      "Backup"
+    ],
+    "related": [
+      "selinux",
+      "sudoers",
+      "vim",
+      "openssl",
+      "gpg"
+    ],
+    "aliases": [
+      "passwd",
+      "PASSWD"
+    ],
+    "use_case": "A sysadmin or developer uses passwd to enforce security, manipulate text, or manage isolated environments.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "shadow file": {
+    "eli5": "shadow file is like a tool, rule, or secret code the computer uses to stay safe, work better, or fix problems.",
+    "boss": "shadow file is commonly used in Linux environments for system-level isolation, security hardening, compression, or development productivity.",
+    "sysadmin": "shadow file is a Linux kernel feature, security module, system utility, or development tool used to manage access control, isolate environments, or handle files efficiently.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Linux",
+      "Security",
+      "DevOps",
+      "Encryption",
+      "File Sync",
+      "Text Processing",
+      "Backup"
+    ],
+    "related": [
+      "selinux",
+      "sudoers",
+      "vim",
+      "openssl",
+      "gpg"
+    ],
+    "aliases": [
+      "shadow file",
+      "SHADOW FILE"
+    ],
+    "use_case": "A sysadmin or developer uses shadow file to enforce security, manipulate text, or manage isolated environments.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "public key": {
+    "eli5": "public key is like a tool, rule, or secret code the computer uses to stay safe, work better, or fix problems.",
+    "boss": "public key is commonly used in Linux environments for system-level isolation, security hardening, compression, or development productivity.",
+    "sysadmin": "public key is a Linux kernel feature, security module, system utility, or development tool used to manage access control, isolate environments, or handle files efficiently.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Linux",
+      "Security",
+      "DevOps",
+      "Encryption",
+      "File Sync",
+      "Text Processing",
+      "Backup"
+    ],
+    "related": [
+      "selinux",
+      "sudoers",
+      "vim",
+      "openssl",
+      "gpg"
+    ],
+    "aliases": [
+      "public key",
+      "PUBLIC KEY"
+    ],
+    "use_case": "A sysadmin or developer uses public key to enforce security, manipulate text, or manage isolated environments.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "private key": {
+    "eli5": "private key is like a tool, rule, or secret code the computer uses to stay safe, work better, or fix problems.",
+    "boss": "private key is commonly used in Linux environments for system-level isolation, security hardening, compression, or development productivity.",
+    "sysadmin": "private key is a Linux kernel feature, security module, system utility, or development tool used to manage access control, isolate environments, or handle files efficiently.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Linux",
+      "Security",
+      "DevOps",
+      "Encryption",
+      "File Sync",
+      "Text Processing",
+      "Backup"
+    ],
+    "related": [
+      "selinux",
+      "sudoers",
+      "vim",
+      "openssl",
+      "gpg"
+    ],
+    "aliases": [
+      "private key",
+      "PRIVATE KEY"
+    ],
+    "use_case": "A sysadmin or developer uses private key to enforce security, manipulate text, or manage isolated environments.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "known_hosts": {
+    "eli5": "known_hosts is like a tool, rule, or secret code the computer uses to stay safe, work better, or fix problems.",
+    "boss": "known_hosts is commonly used in Linux environments for system-level isolation, security hardening, compression, or development productivity.",
+    "sysadmin": "known_hosts is a Linux kernel feature, security module, system utility, or development tool used to manage access control, isolate environments, or handle files efficiently.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Linux",
+      "Security",
+      "DevOps",
+      "Encryption",
+      "File Sync",
+      "Text Processing",
+      "Backup"
+    ],
+    "related": [
+      "selinux",
+      "sudoers",
+      "vim",
+      "openssl",
+      "gpg"
+    ],
+    "aliases": [
+      "known_hosts",
+      "KNOWN_HOSTS"
+    ],
+    "use_case": "A sysadmin or developer uses known_hosts to enforce security, manipulate text, or manage isolated environments.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "sshd": {
+    "eli5": "sshd is like a tool, rule, or secret code the computer uses to stay safe, work better, or fix problems.",
+    "boss": "sshd is commonly used in Linux environments for system-level isolation, security hardening, compression, or development productivity.",
+    "sysadmin": "sshd is a Linux kernel feature, security module, system utility, or development tool used to manage access control, isolate environments, or handle files efficiently.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Linux",
+      "Security",
+      "DevOps",
+      "Encryption",
+      "File Sync",
+      "Text Processing",
+      "Backup"
+    ],
+    "related": [
+      "selinux",
+      "sudoers",
+      "vim",
+      "openssl",
+      "gpg"
+    ],
+    "aliases": [
+      "sshd",
+      "SSHD"
+    ],
+    "use_case": "A sysadmin or developer uses sshd to enforce security, manipulate text, or manage isolated environments.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "pam (pluggable authentication modules)": {
+    "eli5": "pam (Pluggable Authentication Modules) is like a tool, rule, or secret code the computer uses to stay safe, work better, or fix problems.",
+    "boss": "pam (Pluggable Authentication Modules) is commonly used in Linux environments for system-level isolation, security hardening, compression, or development productivity.",
+    "sysadmin": "pam (Pluggable Authentication Modules) is a Linux kernel feature, security module, system utility, or development tool used to manage access control, isolate environments, or handle files efficiently.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Linux",
+      "Security",
+      "DevOps",
+      "Encryption",
+      "File Sync",
+      "Text Processing",
+      "Backup"
+    ],
+    "related": [
+      "selinux",
+      "sudoers",
+      "vim",
+      "openssl",
+      "gpg"
+    ],
+    "aliases": [
+      "pam (pluggable authentication modules)",
+      "PAM (PLUGGABLE AUTHENTICATION MODULES)"
+    ],
+    "use_case": "A sysadmin or developer uses pam (Pluggable Authentication Modules) to enforce security, manipulate text, or manage isolated environments.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "gpg": {
+    "eli5": "GPG is like a tool, rule, or secret code the computer uses to stay safe, work better, or fix problems.",
+    "boss": "GPG is commonly used in Linux environments for system-level isolation, security hardening, compression, or development productivity.",
+    "sysadmin": "GPG is a Linux kernel feature, security module, system utility, or development tool used to manage access control, isolate environments, or handle files efficiently.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Linux",
+      "Security",
+      "DevOps",
+      "Encryption",
+      "File Sync",
+      "Text Processing",
+      "Backup"
+    ],
+    "related": [
+      "selinux",
+      "sudoers",
+      "vim",
+      "openssl",
+      "gpg"
+    ],
+    "aliases": [
+      "gpg",
+      "GPG"
+    ],
+    "use_case": "A sysadmin or developer uses GPG to enforce security, manipulate text, or manage isolated environments.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "keyring": {
+    "eli5": "Keyring is like a tool, rule, or secret code the computer uses to stay safe, work better, or fix problems.",
+    "boss": "Keyring is commonly used in Linux environments for system-level isolation, security hardening, compression, or development productivity.",
+    "sysadmin": "Keyring is a Linux kernel feature, security module, system utility, or development tool used to manage access control, isolate environments, or handle files efficiently.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Linux",
+      "Security",
+      "DevOps",
+      "Encryption",
+      "File Sync",
+      "Text Processing",
+      "Backup"
+    ],
+    "related": [
+      "selinux",
+      "sudoers",
+      "vim",
+      "openssl",
+      "gpg"
+    ],
+    "aliases": [
+      "keyring",
+      "KEYRING"
+    ],
+    "use_case": "A sysadmin or developer uses Keyring to enforce security, manipulate text, or manage isolated environments.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "openssl": {
+    "eli5": "OpenSSL is like a tool, rule, or secret code the computer uses to stay safe, work better, or fix problems.",
+    "boss": "OpenSSL is commonly used in Linux environments for system-level isolation, security hardening, compression, or development productivity.",
+    "sysadmin": "OpenSSL is a Linux kernel feature, security module, system utility, or development tool used to manage access control, isolate environments, or handle files efficiently.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Linux",
+      "Security",
+      "DevOps",
+      "Encryption",
+      "File Sync",
+      "Text Processing",
+      "Backup"
+    ],
+    "related": [
+      "selinux",
+      "sudoers",
+      "vim",
+      "openssl",
+      "gpg"
+    ],
+    "aliases": [
+      "openssl",
+      "OPENSSL"
+    ],
+    "use_case": "A sysadmin or developer uses OpenSSL to enforce security, manipulate text, or manage isolated environments.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "development tools": {
+    "eli5": "Development Tools is like a tool, rule, or secret code the computer uses to stay safe, work better, or fix problems.",
+    "boss": "Development Tools is commonly used in Linux environments for system-level isolation, security hardening, compression, or development productivity.",
+    "sysadmin": "Development Tools is a Linux kernel feature, security module, system utility, or development tool used to manage access control, isolate environments, or handle files efficiently.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Linux",
+      "Security",
+      "DevOps",
+      "Encryption",
+      "File Sync",
+      "Text Processing",
+      "Backup"
+    ],
+    "related": [
+      "selinux",
+      "sudoers",
+      "vim",
+      "openssl",
+      "gpg"
+    ],
+    "aliases": [
+      "development tools",
+      "DEVELOPMENT TOOLS"
+    ],
+    "use_case": "A sysadmin or developer uses Development Tools to enforce security, manipulate text, or manage isolated environments.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "vim": {
+    "eli5": "vim is like a tool, rule, or secret code the computer uses to stay safe, work better, or fix problems.",
+    "boss": "vim is commonly used in Linux environments for system-level isolation, security hardening, compression, or development productivity.",
+    "sysadmin": "vim is a Linux kernel feature, security module, system utility, or development tool used to manage access control, isolate environments, or handle files efficiently.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Linux",
+      "Security",
+      "DevOps",
+      "Encryption",
+      "File Sync",
+      "Text Processing",
+      "Backup"
+    ],
+    "related": [
+      "selinux",
+      "sudoers",
+      "vim",
+      "openssl",
+      "gpg"
+    ],
+    "aliases": [
+      "vim",
+      "VIM"
+    ],
+    "use_case": "A sysadmin or developer uses vim to enforce security, manipulate text, or manage isolated environments.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "nano": {
+    "eli5": "nano is like a tool, rule, or secret code the computer uses to stay safe, work better, or fix problems.",
+    "boss": "nano is commonly used in Linux environments for system-level isolation, security hardening, compression, or development productivity.",
+    "sysadmin": "nano is a Linux kernel feature, security module, system utility, or development tool used to manage access control, isolate environments, or handle files efficiently.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Linux",
+      "Security",
+      "DevOps",
+      "Encryption",
+      "File Sync",
+      "Text Processing",
+      "Backup"
+    ],
+    "related": [
+      "selinux",
+      "sudoers",
+      "vim",
+      "openssl",
+      "gpg"
+    ],
+    "aliases": [
+      "nano",
+      "NANO"
+    ],
+    "use_case": "A sysadmin or developer uses nano to enforce security, manipulate text, or manage isolated environments.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "emacs": {
+    "eli5": "emacs is like a tool, rule, or secret code the computer uses to stay safe, work better, or fix problems.",
+    "boss": "emacs is commonly used in Linux environments for system-level isolation, security hardening, compression, or development productivity.",
+    "sysadmin": "emacs is a Linux kernel feature, security module, system utility, or development tool used to manage access control, isolate environments, or handle files efficiently.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Linux",
+      "Security",
+      "DevOps",
+      "Encryption",
+      "File Sync",
+      "Text Processing",
+      "Backup"
+    ],
+    "related": [
+      "selinux",
+      "sudoers",
+      "vim",
+      "openssl",
+      "gpg"
+    ],
+    "aliases": [
+      "emacs",
+      "EMACS"
+    ],
+    "use_case": "A sysadmin or developer uses emacs to enforce security, manipulate text, or manage isolated environments.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "vs code server": {
+    "eli5": "VS Code Server is like a tool, rule, or secret code the computer uses to stay safe, work better, or fix problems.",
+    "boss": "VS Code Server is commonly used in Linux environments for system-level isolation, security hardening, compression, or development productivity.",
+    "sysadmin": "VS Code Server is a Linux kernel feature, security module, system utility, or development tool used to manage access control, isolate environments, or handle files efficiently.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Linux",
+      "Security",
+      "DevOps",
+      "Encryption",
+      "File Sync",
+      "Text Processing",
+      "Backup"
+    ],
+    "related": [
+      "selinux",
+      "sudoers",
+      "vim",
+      "openssl",
+      "gpg"
+    ],
+    "aliases": [
+      "vs code server",
+      "VS CODE SERVER"
+    ],
+    "use_case": "A sysadmin or developer uses VS Code Server to enforce security, manipulate text, or manage isolated environments.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "jq": {
+    "eli5": "jq is like a tool, rule, or secret code the computer uses to stay safe, work better, or fix problems.",
+    "boss": "jq is commonly used in Linux environments for system-level isolation, security hardening, compression, or development productivity.",
+    "sysadmin": "jq is a Linux kernel feature, security module, system utility, or development tool used to manage access control, isolate environments, or handle files efficiently.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Linux",
+      "Security",
+      "DevOps",
+      "Encryption",
+      "File Sync",
+      "Text Processing",
+      "Backup"
+    ],
+    "related": [
+      "selinux",
+      "sudoers",
+      "vim",
+      "openssl",
+      "gpg"
+    ],
+    "aliases": [
+      "jq",
+      "JQ"
+    ],
+    "use_case": "A sysadmin or developer uses jq to enforce security, manipulate text, or manage isolated environments.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "yq": {
+    "eli5": "yq is like a tool, rule, or secret code the computer uses to stay safe, work better, or fix problems.",
+    "boss": "yq is commonly used in Linux environments for system-level isolation, security hardening, compression, or development productivity.",
+    "sysadmin": "yq is a Linux kernel feature, security module, system utility, or development tool used to manage access control, isolate environments, or handle files efficiently.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Linux",
+      "Security",
+      "DevOps",
+      "Encryption",
+      "File Sync",
+      "Text Processing",
+      "Backup"
+    ],
+    "related": [
+      "selinux",
+      "sudoers",
+      "vim",
+      "openssl",
+      "gpg"
+    ],
+    "aliases": [
+      "yq",
+      "YQ"
+    ],
+    "use_case": "A sysadmin or developer uses yq to enforce security, manipulate text, or manage isolated environments.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "tree": {
+    "eli5": "tree is like a tool, rule, or secret code the computer uses to stay safe, work better, or fix problems.",
+    "boss": "tree is commonly used in Linux environments for system-level isolation, security hardening, compression, or development productivity.",
+    "sysadmin": "tree is a Linux kernel feature, security module, system utility, or development tool used to manage access control, isolate environments, or handle files efficiently.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Linux",
+      "Security",
+      "DevOps",
+      "Encryption",
+      "File Sync",
+      "Text Processing",
+      "Backup"
+    ],
+    "related": [
+      "selinux",
+      "sudoers",
+      "vim",
+      "openssl",
+      "gpg"
+    ],
+    "aliases": [
+      "tree",
+      "TREE"
+    ],
+    "use_case": "A sysadmin or developer uses tree to enforce security, manipulate text, or manage isolated environments.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "file": {
+    "eli5": "file is like a tool, rule, or secret code the computer uses to stay safe, work better, or fix problems.",
+    "boss": "file is commonly used in Linux environments for system-level isolation, security hardening, compression, or development productivity.",
+    "sysadmin": "file is a Linux kernel feature, security module, system utility, or development tool used to manage access control, isolate environments, or handle files efficiently.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Linux",
+      "Security",
+      "DevOps",
+      "Encryption",
+      "File Sync",
+      "Text Processing",
+      "Backup"
+    ],
+    "related": [
+      "selinux",
+      "sudoers",
+      "vim",
+      "openssl",
+      "gpg"
+    ],
+    "aliases": [
+      "file",
+      "FILE"
+    ],
+    "use_case": "A sysadmin or developer uses file to enforce security, manipulate text, or manage isolated environments.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "diff": {
+    "eli5": "diff is like a tool, rule, or secret code the computer uses to stay safe, work better, or fix problems.",
+    "boss": "diff is commonly used in Linux environments for system-level isolation, security hardening, compression, or development productivity.",
+    "sysadmin": "diff is a Linux kernel feature, security module, system utility, or development tool used to manage access control, isolate environments, or handle files efficiently.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Linux",
+      "Security",
+      "DevOps",
+      "Encryption",
+      "File Sync",
+      "Text Processing",
+      "Backup"
+    ],
+    "related": [
+      "selinux",
+      "sudoers",
+      "vim",
+      "openssl",
+      "gpg"
+    ],
+    "aliases": [
+      "diff",
+      "DIFF"
+    ],
+    "use_case": "A sysadmin or developer uses diff to enforce security, manipulate text, or manage isolated environments.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "patch": {
+    "eli5": "patch is like a tool, rule, or secret code the computer uses to stay safe, work better, or fix problems.",
+    "boss": "patch is commonly used in Linux environments for system-level isolation, security hardening, compression, or development productivity.",
+    "sysadmin": "patch is a Linux kernel feature, security module, system utility, or development tool used to manage access control, isolate environments, or handle files efficiently.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Linux",
+      "Security",
+      "DevOps",
+      "Encryption",
+      "File Sync",
+      "Text Processing",
+      "Backup"
+    ],
+    "related": [
+      "selinux",
+      "sudoers",
+      "vim",
+      "openssl",
+      "gpg"
+    ],
+    "aliases": [
+      "patch",
+      "PATCH"
+    ],
+    "use_case": "A sysadmin or developer uses patch to enforce security, manipulate text, or manage isolated environments.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "sed": {
+    "eli5": "sed is like a tool, rule, or secret code the computer uses to stay safe, work better, or fix problems.",
+    "boss": "sed is commonly used in Linux environments for system-level isolation, security hardening, compression, or development productivity.",
+    "sysadmin": "sed is a Linux kernel feature, security module, system utility, or development tool used to manage access control, isolate environments, or handle files efficiently.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Linux",
+      "Security",
+      "DevOps",
+      "Encryption",
+      "File Sync",
+      "Text Processing",
+      "Backup"
+    ],
+    "related": [
+      "selinux",
+      "sudoers",
+      "vim",
+      "openssl",
+      "gpg"
+    ],
+    "aliases": [
+      "sed",
+      "SED"
+    ],
+    "use_case": "A sysadmin or developer uses sed to enforce security, manipulate text, or manage isolated environments.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "awk": {
+    "eli5": "awk is like a tool, rule, or secret code the computer uses to stay safe, work better, or fix problems.",
+    "boss": "awk is commonly used in Linux environments for system-level isolation, security hardening, compression, or development productivity.",
+    "sysadmin": "awk is a Linux kernel feature, security module, system utility, or development tool used to manage access control, isolate environments, or handle files efficiently.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Linux",
+      "Security",
+      "DevOps",
+      "Encryption",
+      "File Sync",
+      "Text Processing",
+      "Backup"
+    ],
+    "related": [
+      "selinux",
+      "sudoers",
+      "vim",
+      "openssl",
+      "gpg"
+    ],
+    "aliases": [
+      "awk",
+      "AWK"
+    ],
+    "use_case": "A sysadmin or developer uses awk to enforce security, manipulate text, or manage isolated environments.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "grep": {
+    "eli5": "grep is like a tool, rule, or secret code the computer uses to stay safe, work better, or fix problems.",
+    "boss": "grep is commonly used in Linux environments for system-level isolation, security hardening, compression, or development productivity.",
+    "sysadmin": "grep is a Linux kernel feature, security module, system utility, or development tool used to manage access control, isolate environments, or handle files efficiently.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Linux",
+      "Security",
+      "DevOps",
+      "Encryption",
+      "File Sync",
+      "Text Processing",
+      "Backup"
+    ],
+    "related": [
+      "selinux",
+      "sudoers",
+      "vim",
+      "openssl",
+      "gpg"
+    ],
+    "aliases": [
+      "grep",
+      "GREP"
+    ],
+    "use_case": "A sysadmin or developer uses grep to enforce security, manipulate text, or manage isolated environments.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "cut": {
+    "eli5": "cut is like a tool, rule, or secret code the computer uses to stay safe, work better, or fix problems.",
+    "boss": "cut is commonly used in Linux environments for system-level isolation, security hardening, compression, or development productivity.",
+    "sysadmin": "cut is a Linux kernel feature, security module, system utility, or development tool used to manage access control, isolate environments, or handle files efficiently.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Linux",
+      "Security",
+      "DevOps",
+      "Encryption",
+      "File Sync",
+      "Text Processing",
+      "Backup"
+    ],
+    "related": [
+      "selinux",
+      "sudoers",
+      "vim",
+      "openssl",
+      "gpg"
+    ],
+    "aliases": [
+      "cut",
+      "CUT"
+    ],
+    "use_case": "A sysadmin or developer uses cut to enforce security, manipulate text, or manage isolated environments.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "sort": {
+    "eli5": "sort is like a tool, rule, or secret code the computer uses to stay safe, work better, or fix problems.",
+    "boss": "sort is commonly used in Linux environments for system-level isolation, security hardening, compression, or development productivity.",
+    "sysadmin": "sort is a Linux kernel feature, security module, system utility, or development tool used to manage access control, isolate environments, or handle files efficiently.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Linux",
+      "Security",
+      "DevOps",
+      "Encryption",
+      "File Sync",
+      "Text Processing",
+      "Backup"
+    ],
+    "related": [
+      "selinux",
+      "sudoers",
+      "vim",
+      "openssl",
+      "gpg"
+    ],
+    "aliases": [
+      "sort",
+      "SORT"
+    ],
+    "use_case": "A sysadmin or developer uses sort to enforce security, manipulate text, or manage isolated environments.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "uniq": {
+    "eli5": "uniq is like a tool, rule, or secret code the computer uses to stay safe, work better, or fix problems.",
+    "boss": "uniq is commonly used in Linux environments for system-level isolation, security hardening, compression, or development productivity.",
+    "sysadmin": "uniq is a Linux kernel feature, security module, system utility, or development tool used to manage access control, isolate environments, or handle files efficiently.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Linux",
+      "Security",
+      "DevOps",
+      "Encryption",
+      "File Sync",
+      "Text Processing",
+      "Backup"
+    ],
+    "related": [
+      "selinux",
+      "sudoers",
+      "vim",
+      "openssl",
+      "gpg"
+    ],
+    "aliases": [
+      "uniq",
+      "UNIQ"
+    ],
+    "use_case": "A sysadmin or developer uses uniq to enforce security, manipulate text, or manage isolated environments.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "find": {
+    "eli5": "find is like a tool, rule, or secret code the computer uses to stay safe, work better, or fix problems.",
+    "boss": "find is commonly used in Linux environments for system-level isolation, security hardening, compression, or development productivity.",
+    "sysadmin": "find is a Linux kernel feature, security module, system utility, or development tool used to manage access control, isolate environments, or handle files efficiently.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Linux",
+      "Security",
+      "DevOps",
+      "Encryption",
+      "File Sync",
+      "Text Processing",
+      "Backup"
+    ],
+    "related": [
+      "selinux",
+      "sudoers",
+      "vim",
+      "openssl",
+      "gpg"
+    ],
+    "aliases": [
+      "find",
+      "FIND"
+    ],
+    "use_case": "A sysadmin or developer uses find to enforce security, manipulate text, or manage isolated environments.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "xargs": {
+    "eli5": "xargs is like a tool, rule, or secret code the computer uses to stay safe, work better, or fix problems.",
+    "boss": "xargs is commonly used in Linux environments for system-level isolation, security hardening, compression, or development productivity.",
+    "sysadmin": "xargs is a Linux kernel feature, security module, system utility, or development tool used to manage access control, isolate environments, or handle files efficiently.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Linux",
+      "Security",
+      "DevOps",
+      "Encryption",
+      "File Sync",
+      "Text Processing",
+      "Backup"
+    ],
+    "related": [
+      "selinux",
+      "sudoers",
+      "vim",
+      "openssl",
+      "gpg"
+    ],
+    "aliases": [
+      "xargs",
+      "XARGS"
+    ],
+    "use_case": "A sysadmin or developer uses xargs to enforce security, manipulate text, or manage isolated environments.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "tee": {
+    "eli5": "tee is like a tool, rule, or secret code the computer uses to stay safe, work better, or fix problems.",
+    "boss": "tee is commonly used in Linux environments for system-level isolation, security hardening, compression, or development productivity.",
+    "sysadmin": "tee is a Linux kernel feature, security module, system utility, or development tool used to manage access control, isolate environments, or handle files efficiently.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Linux",
+      "Security",
+      "DevOps",
+      "Encryption",
+      "File Sync",
+      "Text Processing",
+      "Backup"
+    ],
+    "related": [
+      "selinux",
+      "sudoers",
+      "vim",
+      "openssl",
+      "gpg"
+    ],
+    "aliases": [
+      "tee",
+      "TEE"
+    ],
+    "use_case": "A sysadmin or developer uses tee to enforce security, manipulate text, or manage isolated environments.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "file compression & archiving": {
+    "eli5": "File Compression & Archiving is like a tool, rule, or secret code the computer uses to stay safe, work better, or fix problems.",
+    "boss": "File Compression & Archiving is commonly used in Linux environments for system-level isolation, security hardening, compression, or development productivity.",
+    "sysadmin": "File Compression & Archiving is a Linux kernel feature, security module, system utility, or development tool used to manage access control, isolate environments, or handle files efficiently.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Linux",
+      "Security",
+      "DevOps",
+      "Encryption",
+      "File Sync",
+      "Text Processing",
+      "Backup"
+    ],
+    "related": [
+      "selinux",
+      "sudoers",
+      "vim",
+      "openssl",
+      "gpg"
+    ],
+    "aliases": [
+      "file compression & archiving",
+      "FILE COMPRESSION & ARCHIVING"
+    ],
+    "use_case": "A sysadmin or developer uses File Compression & Archiving to enforce security, manipulate text, or manage isolated environments.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "zip": {
+    "eli5": "zip is like a tool, rule, or secret code the computer uses to stay safe, work better, or fix problems.",
+    "boss": "zip is commonly used in Linux environments for system-level isolation, security hardening, compression, or development productivity.",
+    "sysadmin": "zip is a Linux kernel feature, security module, system utility, or development tool used to manage access control, isolate environments, or handle files efficiently.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Linux",
+      "Security",
+      "DevOps",
+      "Encryption",
+      "File Sync",
+      "Text Processing",
+      "Backup"
+    ],
+    "related": [
+      "selinux",
+      "sudoers",
+      "vim",
+      "openssl",
+      "gpg"
+    ],
+    "aliases": [
+      "zip",
+      "ZIP"
+    ],
+    "use_case": "A sysadmin or developer uses zip to enforce security, manipulate text, or manage isolated environments.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "unzip": {
+    "eli5": "unzip is like a tool, rule, or secret code the computer uses to stay safe, work better, or fix problems.",
+    "boss": "unzip is commonly used in Linux environments for system-level isolation, security hardening, compression, or development productivity.",
+    "sysadmin": "unzip is a Linux kernel feature, security module, system utility, or development tool used to manage access control, isolate environments, or handle files efficiently.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Linux",
+      "Security",
+      "DevOps",
+      "Encryption",
+      "File Sync",
+      "Text Processing",
+      "Backup"
+    ],
+    "related": [
+      "selinux",
+      "sudoers",
+      "vim",
+      "openssl",
+      "gpg"
+    ],
+    "aliases": [
+      "unzip",
+      "UNZIP"
+    ],
+    "use_case": "A sysadmin or developer uses unzip to enforce security, manipulate text, or manage isolated environments.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "7z": {
+    "eli5": "7z is like a tool, rule, or secret code the computer uses to stay safe, work better, or fix problems.",
+    "boss": "7z is commonly used in Linux environments for system-level isolation, security hardening, compression, or development productivity.",
+    "sysadmin": "7z is a Linux kernel feature, security module, system utility, or development tool used to manage access control, isolate environments, or handle files efficiently.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Linux",
+      "Security",
+      "DevOps",
+      "Encryption",
+      "File Sync",
+      "Text Processing",
+      "Backup"
+    ],
+    "related": [
+      "selinux",
+      "sudoers",
+      "vim",
+      "openssl",
+      "gpg"
+    ],
+    "aliases": [
+      "7z",
+      "7Z"
+    ],
+    "use_case": "A sysadmin or developer uses 7z to enforce security, manipulate text, or manage isolated environments.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "lz4": {
+    "eli5": "lz4 is like a tool, rule, or secret code the computer uses to stay safe, work better, or fix problems.",
+    "boss": "lz4 is commonly used in Linux environments for system-level isolation, security hardening, compression, or development productivity.",
+    "sysadmin": "lz4 is a Linux kernel feature, security module, system utility, or development tool used to manage access control, isolate environments, or handle files efficiently.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Linux",
+      "Security",
+      "DevOps",
+      "Encryption",
+      "File Sync",
+      "Text Processing",
+      "Backup"
+    ],
+    "related": [
+      "selinux",
+      "sudoers",
+      "vim",
+      "openssl",
+      "gpg"
+    ],
+    "aliases": [
+      "lz4",
+      "LZ4"
+    ],
+    "use_case": "A sysadmin or developer uses lz4 to enforce security, manipulate text, or manage isolated environments.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "linux kernel concepts": {
+    "eli5": "Linux Kernel Concepts is like a tool, rule, or secret code the computer uses to stay safe, work better, or fix problems.",
+    "boss": "Linux Kernel Concepts is commonly used in Linux environments for system-level isolation, security hardening, compression, or development productivity.",
+    "sysadmin": "Linux Kernel Concepts is a Linux kernel feature, security module, system utility, or development tool used to manage access control, isolate environments, or handle files efficiently.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Linux",
+      "Security",
+      "DevOps",
+      "Encryption",
+      "File Sync",
+      "Text Processing",
+      "Backup"
+    ],
+    "related": [
+      "selinux",
+      "sudoers",
+      "vim",
+      "openssl",
+      "gpg"
+    ],
+    "aliases": [
+      "linux kernel concepts",
+      "LINUX KERNEL CONCEPTS"
+    ],
+    "use_case": "A sysadmin or developer uses Linux Kernel Concepts to enforce security, manipulate text, or manage isolated environments.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "monolithic kernel": {
+    "eli5": "Monolithic Kernel is like a tool, rule, or secret code the computer uses to stay safe, work better, or fix problems.",
+    "boss": "Monolithic Kernel is commonly used in Linux environments for system-level isolation, security hardening, compression, or development productivity.",
+    "sysadmin": "Monolithic Kernel is a Linux kernel feature, security module, system utility, or development tool used to manage access control, isolate environments, or handle files efficiently.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Linux",
+      "Security",
+      "DevOps",
+      "Encryption",
+      "File Sync",
+      "Text Processing",
+      "Backup"
+    ],
+    "related": [
+      "selinux",
+      "sudoers",
+      "vim",
+      "openssl",
+      "gpg"
+    ],
+    "aliases": [
+      "monolithic kernel",
+      "MONOLITHIC KERNEL"
+    ],
+    "use_case": "A sysadmin or developer uses Monolithic Kernel to enforce security, manipulate text, or manage isolated environments.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  }
+}

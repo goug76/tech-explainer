@@ -1,0 +1,170 @@
+{
+  "robots_txt": {
+    "eli5": "It's like a sign on your front door telling robots which rooms they can or can\u2019t go into.",
+    "boss": "Robots.txt is a file that tells search engines which parts of your website to crawl or ignore.",
+    "sysadmin": "A plain text file placed at the root of a domain to guide search engine bots on which URLs should not be crawled using user-agent directives.",
+    "emoji": "\ud83e\udd16\ud83d\udeab\ud83d\udcc4",
+    "categories": [
+      "Web",
+      "Search"
+    ],
+    "related": [
+      "Sitemap.xml",
+      "Google Search Console",
+      "SEO (Search Engine Optimization)",
+      "Crawl Budget"
+    ],
+    "aliases": [
+      "robots file"
+    ],
+    "use_case": "Used to block bots from crawling private admin URLs or staging environments.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "sitemap_xml": {
+    "eli5": "It's like a treasure map that helps search engines find all your web pages.",
+    "boss": "Sitemap.xml is a structured file that helps search engines discover and index your site's pages.",
+    "sysadmin": "An XML file listing URLs on a website, with optional metadata such as lastmod, changefreq, and priority for SEO crawling.",
+    "emoji": "\ud83d\uddfa\ufe0f\ud83d\udd0d\ud83c\udf10",
+    "categories": [
+      "Web",
+      "Search"
+    ],
+    "related": [
+      "robots.txt",
+      "Google Search Console",
+      "SEO (Search Engine Optimization)"
+    ],
+    "aliases": [
+      "sitemap"
+    ],
+    "use_case": "Used to submit a complete list of website URLs to Google Search Console for indexing.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "google_search_console": {
+    "eli5": "It\u2019s like a dashboard that tells you how your website is doing in Google search.",
+    "boss": "Google Search Console is a free tool from Google to monitor, maintain, and troubleshoot your website\u2019s presence in search results.",
+    "sysadmin": "A suite of web tools by Google to monitor site indexing, fix crawl issues, view search queries, and submit sitemaps.",
+    "emoji": "\ud83d\udcca\ud83d\udd27\ud83d\udd0d",
+    "categories": [
+      "Web",
+      "Search",
+      "Analytics"
+    ],
+    "related": [
+      "robots.txt",
+      "sitemap.xml",
+      "PageSpeed Insights"
+    ],
+    "aliases": [
+      "GSC",
+      "Search Console"
+    ],
+    "use_case": "Used to track keyword performance and submit new pages for indexing.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "bing_webmaster_tools": {
+    "eli5": "It\u2019s like the Bing version of Google Search Console to track how your site shows up.",
+    "boss": "Bing Webmaster Tools lets site owners see how their site performs in Bing search and fix issues.",
+    "sysadmin": "A set of diagnostics, SEO, and crawl tools for managing site indexing and visibility on Bing's search engine.",
+    "emoji": "\ud83d\udd0e\ud83d\udcc8\ud83d\udee0\ufe0f",
+    "categories": [
+      "Web",
+      "Search",
+      "Analytics"
+    ],
+    "related": [
+      "Google Search Console",
+      "robots.txt",
+      "sitemap.xml"
+    ],
+    "aliases": [],
+    "use_case": "Used to view crawl errors and keyword insights for Bing search traffic.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "accessibility_a11y": {
+    "eli5": "Making websites easy for everyone to use\u2014even people with vision or hearing problems.",
+    "boss": "Accessibility ensures websites are usable by people with disabilities, improving reach and compliance.",
+    "sysadmin": "Web accessibility (a11y) involves ARIA roles, semantic HTML, contrast ratios, keyboard navigation, and screen reader support.",
+    "emoji": "\u267f\ud83c\udf10\ud83d\udc40",
+    "categories": [
+      "Web"
+    ],
+    "related": [
+      "Screen Reader",
+      "Alt Text",
+      "ARIA Roles",
+      "Semantic HTML"
+    ],
+    "aliases": [
+      "a11y",
+      "web accessibility"
+    ],
+    "use_case": "Used to meet WCAG standards and improve usability for all users.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "screen_reader": {
+    "eli5": "It\u2019s like a narrator that reads the website out loud to people who can\u2019t see it.",
+    "boss": "Screen readers convert on-screen content into speech or Braille, enabling access for visually impaired users.",
+    "sysadmin": "Assistive software that interprets screen content and conveys it through synthetic speech or Braille output, relying on semantic HTML and ARIA roles.",
+    "emoji": "\ud83d\udde3\ufe0f\ud83d\udcd6\ud83d\udc41\ufe0f\u200d\ud83d\udde8\ufe0f",
+    "categories": [
+      "Web",
+      "Accessibility"
+    ],
+    "related": [
+      "Accessibility (a11y)",
+      "ARIA Roles",
+      "Alt Text"
+    ],
+    "aliases": [],
+    "use_case": "Used by visually impaired users to navigate and interact with websites.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "contrast_ratio": {
+    "eli5": "It\u2019s like making sure there\u2019s enough difference between colors so you can read the words easily.",
+    "boss": "Contrast ratio measures how well text stands out from the background, affecting readability and accessibility.",
+    "sysadmin": "The luminance contrast between foreground (text) and background colors, with WCAG requiring a minimum ratio of 4.5:1 for normal text.",
+    "emoji": "\u26ab\u26aa\ud83d\udccf",
+    "categories": [
+      "Web",
+      "Accessibility"
+    ],
+    "related": [
+      "Accessibility (a11y)",
+      "Screen Reader",
+      "WCAG",
+      "Color Blindness"
+    ],
+    "aliases": [],
+    "use_case": "Used to verify that a site\u2019s color scheme is readable by people with visual impairments.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "focus_ring": {
+    "eli5": "It\u2019s like a glowing outline that shows where you are on a website when using your keyboard.",
+    "boss": "Focus rings visually indicate which element on a web page is currently selected via keyboard navigation.",
+    "sysadmin": "Browser-drawn outlines (default or custom CSS) that show focus state of interactive elements like links or buttons, crucial for keyboard accessibility.",
+    "emoji": "\ud83d\udd35\ud83e\udded\u2328\ufe0f",
+    "categories": [
+      "Web",
+      "Accessibility"
+    ],
+    "related": [
+      "Tab Index",
+      "Keyboard Navigation",
+      "Accessibility (a11y)"
+    ],
+    "aliases": [
+      "focus outline"
+    ],
+    "use_case": "Used to help keyboard users track their navigation without a mouse.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  }
+}

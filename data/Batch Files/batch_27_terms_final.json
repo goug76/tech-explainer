@@ -1,0 +1,178 @@
+{
+  "hostname": {
+    "eli5": "A hostname is like the name tag your computer wears on a network.",
+    "boss": "The hostname is the human-readable name of a device on a network used for identification and communication.",
+    "sysadmin": "A hostname is the label assigned to a device in a network, typically resolvable via DNS or mDNS, and used for SSH, logging, and identification.",
+    "emoji": "\ud83c\udff7\ufe0f\ud83d\udda5\ufe0f\ud83c\udf10",
+    "categories": [
+      "Networking",
+      "Infrastructure"
+    ],
+    "related": [
+      "Local Domain",
+      "mDNS",
+      "Split DNS"
+    ],
+    "aliases": [],
+    "use_case": "Used to SSH into a server like `ssh servername.local` instead of using an IP.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "static_route": {
+    "eli5": "It's like telling your GPS exactly how to get somewhere instead of letting it choose.",
+    "boss": "A static route is a manually set path in a network that directs traffic to a specific destination.",
+    "sysadmin": "Static routes are fixed routes configured in the routing table to define explicit network paths, often used in small networks or for VPNs.",
+    "emoji": "\ud83d\udee3\ufe0f\ud83d\udccd\ud83d\udce1",
+    "categories": [
+      "Networking"
+    ],
+    "related": [
+      "Routing Table",
+      "Gateway",
+      "Split DNS"
+    ],
+    "aliases": [],
+    "use_case": "Used to direct traffic from a smart home device through a VPN gateway.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "split_dns": {
+    "eli5": "It\u2019s like giving different directions to people inside your house versus people outside.",
+    "boss": "Split DNS allows internal and external users to resolve the same domain name differently for security and performance.",
+    "sysadmin": "Split DNS configures internal and external DNS servers to resolve the same hostname to different IP addresses depending on the requester\u2019s network.",
+    "emoji": "\ud83e\udded\ud83e\uddcd\ud83c\udf10",
+    "categories": [
+      "Networking",
+      "DNS"
+    ],
+    "related": [
+      "Local Domain",
+      "Reverse DNS",
+      "Firewall"
+    ],
+    "aliases": [],
+    "use_case": "Used so users inside your network access `nas.home` locally, while remote users are routed through a reverse proxy.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "local_domain": {
+    "eli5": "It\u2019s like calling your house 'home' instead of using the full street address.",
+    "boss": "A local domain is a custom network name used within private networks to simplify device access.",
+    "sysadmin": "Local domains like `.local` or `.lan` provide hostname resolution in LANs without relying on external DNS infrastructure.",
+    "emoji": "\ud83c\udfe1\ud83c\udf10\ud83d\udda7",
+    "categories": [
+      "Networking",
+      "DNS"
+    ],
+    "related": [
+      "Hostname",
+      "mDNS",
+      "Split DNS"
+    ],
+    "aliases": [],
+    "use_case": "Used to access internal services via names like `printer.local` instead of IPs.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "local_tld": {
+    "eli5": "It\u2019s the ending of pretend websites used inside your home instead of on the internet.",
+    "boss": "`.local` is a special top-level domain used in local networks for device discovery and naming.",
+    "sysadmin": "`.local` is a reserved TLD often used with mDNS (via Avahi or Bonjour) to resolve hostnames on local networks without DNS servers.",
+    "emoji": "\ud83e\uddfe\ud83d\udcdb\ud83d\udedc",
+    "categories": [
+      "DNS",
+      "Networking"
+    ],
+    "related": [
+      "mDNS",
+      "Local Domain",
+      "Hostname"
+    ],
+    "aliases": [
+      ".local"
+    ],
+    "use_case": "Used by smart home devices to advertise themselves with names like `lightbulb.local`.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "mdns": {
+    "eli5": "mDNS is like shouting 'Where\u2019s the printer?' in your house and it answers back.",
+    "boss": "Multicast DNS (mDNS) allows devices on the same local network to find each other without a DNS server.",
+    "sysadmin": "mDNS resolves hostnames to IP addresses on local networks using multicast UDP packets (typically on port 5353).",
+    "emoji": "\ud83d\udce3\ud83d\udd0d\ud83d\udda7",
+    "categories": [
+      "Networking",
+      "DNS"
+    ],
+    "related": [
+      "Bonjour",
+      "local_tld",
+      "Hostname"
+    ],
+    "aliases": [
+      "Multicast DNS"
+    ],
+    "use_case": "Used by smart plugs and media players to advertise their presence as `device.local`.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "bonjour": {
+    "eli5": "Bonjour is Apple\u2019s way for devices to find each other and work together without setup.",
+    "boss": "Bonjour is Apple\u2019s implementation of mDNS and service discovery for zero-configuration networking.",
+    "sysadmin": "Bonjour (based on mDNS and DNS-SD) allows Apple and compatible devices to discover services like AirPrint and file sharing on LANs.",
+    "emoji": "\ud83c\udf4e\ud83d\udce1\ud83c\udf9b\ufe0f",
+    "categories": [
+      "Networking",
+      "DNS"
+    ],
+    "related": [
+      "mDNS",
+      "local_tld",
+      "AirPlay"
+    ],
+    "aliases": [],
+    "use_case": "Used by iPhones to find Apple TVs or printers without manual network configuration.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "vaultwarden": {
+    "eli5": "Vaultwarden is like your own safe where you keep all your secret codes\u2014right at home.",
+    "boss": "Vaultwarden is a self-hosted password manager compatible with the Bitwarden ecosystem, ideal for personal or small team use.",
+    "sysadmin": "Vaultwarden is a lightweight Rust implementation of the Bitwarden server API, deployable in Docker and compatible with official Bitwarden clients.",
+    "emoji": "\ud83d\udd10\ud83c\udfe0\ud83d\udddd\ufe0f",
+    "categories": [
+      "Security",
+      "Self-hosting"
+    ],
+    "related": [
+      "Bitwarden",
+      "Docker",
+      "2FA"
+    ],
+    "aliases": [
+      "bitwarden_rs"
+    ],
+    "use_case": "Used to host a personal password vault using Docker on a Raspberry Pi.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "bitwarden": {
+    "eli5": "Bitwarden is like a digital keyring that remembers all your passwords so you don\u2019t have to.",
+    "boss": "Bitwarden is a secure password management service that stores and syncs encrypted credentials across devices.",
+    "sysadmin": "Bitwarden is an open-source password manager offering cloud-hosted and self-hosted options, supporting encrypted vaults and 2FA.",
+    "emoji": "\ud83d\udd11\ud83d\udcbc\ud83d\udd12",
+    "categories": [
+      "Security",
+      "Self-hosting"
+    ],
+    "related": [
+      "Vaultwarden",
+      "2FA",
+      "Secrets Manager"
+    ],
+    "aliases": [],
+    "use_case": "Used by teams to securely share credentials and login details.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  }
+}

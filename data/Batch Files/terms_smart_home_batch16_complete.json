@@ -1,0 +1,67 @@
+{
+  "dvi": {
+    "eli5": "DVI is an older plug that connects your computer to a screen.",
+    "boss": "DVI (Digital Visual Interface) is a video display interface standard for transmitting digital video to monitors.",
+    "sysadmin": "DVI supports digital (DVI-D), analog (DVI-A), or both (DVI-I) video signals and is common on older GPUs and monitors.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83d\udd0c\ud83d\udcfa",
+    "categories": [
+      "Hardware",
+      "Display"
+    ],
+    "related": [
+      "HDMI",
+      "VGA",
+      "DisplayPort"
+    ],
+    "aliases": [
+      "Digital Visual Interface"
+    ],
+    "use_case": "Used to connect a PC tower to a monitor before HDMI became common.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "usbcdisplay": {
+    "eli5": "It\u2019s a cable that powers your screen and sends video using the same plug.",
+    "boss": "USB-C Display refers to video output over a USB-C connector using protocols like DisplayPort Alt Mode or Thunderbolt.",
+    "sysadmin": "Modern USB-C ports support DisplayPort or Thunderbolt for video output, allowing displays to be driven over a single USB-C cable.",
+    "emoji": "\ud83d\udd0c\ud83d\udcf1\ud83d\udda5\ufe0f",
+    "categories": [
+      "Hardware",
+      "Display",
+      "USB"
+    ],
+    "related": [
+      "Thunderbolt",
+      "DisplayPort",
+      "USB-C"
+    ],
+    "aliases": [
+      "USB-C Video",
+      "USB-C Display Output"
+    ],
+    "use_case": "Used to connect a laptop to a 4K monitor and charge it using one cable.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "keyboard": {
+    "eli5": "A keyboard is how you type words into a computer.",
+    "boss": "A keyboard is a primary input device used to interact with computers via physical or virtual key presses.",
+    "sysadmin": "Keyboards use USB, PS/2, or Bluetooth interfaces and may include media keys, macros, or ergonomic layouts for input control.",
+    "emoji": "\u2328\ufe0f\ud83d\udcbb\ud83d\uddb1\ufe0f",
+    "categories": [
+      "Hardware",
+      "Input"
+    ],
+    "related": [
+      "Mechanical Keyboard",
+      "Mouse",
+      "USB"
+    ],
+    "aliases": [
+      "Computer Keyboard"
+    ],
+    "use_case": "Used for typing emails, writing code, or gaming commands.",
+    "jargon_score": 1,
+    "level": "Beginner"
+  }
+}

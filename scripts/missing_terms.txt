@@ -1,114 +1,389 @@
-﻿802.1q
-adguard-home
-ag
-arp-spoofing
+﻿2fa
+433mhz
+access control
+access point
+accessibility (a11y)
+active directory
+add to home screen
+adr
+aes
+air quality sensor
+airflow sensor
+airplay
+alexa
+alpine image
+alt text
+amazon alexa
+amazon s3
+ansible
+antivirus
+app shell
+apple home
+apple homekit
+aria roles
+asymmetric encryption
+august
+august smart lock
+authentication
+authenticator app
+availability zone
 aws
-batch
-beats
-bitbucket
-bittorrent
-caching
+babel
+bandwidth
+bare metal
+bastion host
+bind mount
+ble
+bluetooth
+bluetooth le
+bonding
+bootstrap
+borgbackup
+branch
+bridge network
+burp suite
+canvas api
 cdn
-certificates
+ceh
+ceiling fan module
+chart
 ci/cd
-cidr
-cifs
-cloud-management
-command
-cvs
-daemon
-database
-dd
-ddos
-disk-health
-disk-partitioning
-dnssec
-dropbox
-elk
-elk-stack
-email
-encryption
+cissp
+cloud infrastructure
+cloud providers
+cloud-init
+cmd
+co/co2 sensor
+colocation
+color blindness
+command line
+commit
+compliance policy
+contact sensor
+container networking
+content security policy (csp)
+cooling unit
+crawl budget
+csp
+css
+cte
+custom firmware
+cve
+cwe
+ddl
+ddns
+deployment
+desktop
+device availability
+device discovery
+device health
+dhcpv6
+digital signature
+direct connect
+displayport
+diy nas
+dns
+docker
+docker compose
+dockerfile
+dynamic dns (ddns)
+ecc
+echo
+echo show
+edge caching
+edge server
+edr
+elastic ip
+elk stack
+energy monitoring
+entity
+environment sensor
 esp32
-exporter
-ext3
-fibre-channel
-firmware
-fsck
-google-drive
-gparted
-gpg
-hids
-home-assistant
+esp8266
+ethernet
+etl
+etw
+exploit
+external drive
+fan controller
+firewall
+flash firmware
+floodlight camera
+fluent bit
+garage door opener
+gateway
+gcm
+gdpr
+github actions
+global unicast
+google assistant
+google home
+google nest hub
+google search console
+gpu
+grafana
+haproxy
+hdmi
+home assistant
+home automation system
+home lab
+homekit
+hot aisle / cold aisle
+hsts
 html
-htpc
-hub
-iac
-init
-ios
-ips
-iscsi
-kill
-lan
-libvirt
-load-balancer
-lucene
-mariadb
-mercurial
-mitm
-mkfs
-named
-netfilter
+html5
+http
+hue bridge
+humidity sensor
+hybrid cloud
+iam
+identity provider
+identity-aware proxy
+idp
+indoor camera
+ingress controller
+installable app
+integration
+interactive shell
+internet gateway
+ip address
+ipv4
+ipv6
+ir
+ir blaster
+ir hub
+it infrastructure
+joplin server
+json
+jump server
+kasa
+kdf
+key management system
+keyboard navigation
+kickstart
+kubernetes
+lambda
+lan polling
+lan-only control
+laptop
+latency
+layer 5
+layer 6
+layer 7
+ldap
+leak sensor
+level lock
+license server
+light sensor
+link aggregation
+load balancer
+local control
+local domain
+lock
+login shell
+lorawan
+luks
+mac address
+markdown
+mdm
+mechanical keyboard
+merge
+military grade
+mini pc
+mode
+motion sensor
+mouse
+mtls
+multi-arch image
+multicast
+multi-cloud
+namecheap dns
+nas
+nat gateway
+network mode
+networking
+nfc tags
 nfs
-nload
+nginx
+nic teaming
+node.js
 node-red
-nosql
-openwrt
-pagerduty
-palo-alto
-partition
-pi-hole
+no-ip
+nuc
+oauth
+occupancy sensor
+oem license
+offline support
+opa
+oscp
+osd
+osi model
+outdoor camera
+owasp top 10
+packet loss
+pagespeed insights
+penetration tester
+permissions policy
+persistent volume
+pet camera
+pgp
+philips hue
+phishing
+ping
 pki
-port-scanning
-proxy
-ps
-python
-qemu
-raspberry-pi
+plex
+pod
+pod security
+podman
+port mapping
+portainer
+posix
+power & cooling
+power budget
+power consumption
+power metering
+preseed
+presence detection
+private cloud
+privilege escalation
+proc/cpuinfo
+prowlarr
+proxmox
+proxmox backup server
+public cloud
+public key infrastructure
+pull request
+pvc
+qr codes
+rack cooling
+radarr
+raid
+rarp
+red team
+redundant psu
+referrer policy
+regedit
+relay controller
+repl
 replication
-restore
-reverse-proxy
-rlogin
+rest api
+retail license
+reverse dns
+rf
+rfid
+robots.txt
+route table
 router
-routing
-runc
-saltstack
-samba
-sd-wan
-service-mesh
-shodan
-siem
+router advertisement
+router port forwarding
+routing table
+rutorrent
+samesite cookie
+samsung
+sast
+screen reader
+scss
+secrets manager
+secure headers
+security awareness
+security certifications
+security groups
+semantic html
+seo (search engine optimization)
+server
+serverless
+serverless infrastructure
+service worker
+session hijacking
+set
+shebang
+shell
+shell prompt
+shell script
 siri
-smart
-snapshot
-snort
-software-raid
-splunk
+sitemap.xml
+slaac
+smart bulb
+smart camera
+smart dimmer
+smart display
+smart fan controller
+smart lock
+smart outlet
+smart pdu
+smart plug
+smart sensor
+smart speaker
+smart switch
+smart thermostat
+smart tv
+smoke detector
+smtp
+sonarr
+split dns
 sql
+sqli
+ssh key
+ssid
+ssl certificate
+ssrs
+static hosting
+storageclass
+styled components
+subnets
+switch
+tab index
+tablet
+tailwind css
 tcp
-tcp/ip
-tftp
-toml
-type
+tcp/ip model
+temperature sensor
+terminal
+terraform
+thermal envelope
+three.js
+throughput
+thunderbolt
+tls
+tokens
+tp-link kasa
+traceroute
+tunnel broker
+tuya convert
+type 1 hypervisor
+type 2 hypervisor
+uac
 udp
-url
-utm
-virtualbox
-vnc
-vscode
-web
-wifi
+ups
+usb
+usb-c
+usenet
+vault
+vdi
+vga
+vm
+vmware esxi
+vmware spla
+voice assistant
+vpc
+vpn
+vulnerability
+water shutoff valve
+wcag
+web app manifest
+wi-fi
+wiki.js
+wsl
 x10
-xpath
-xslt
-zabbix
-zeek
+xdr
+xiaomi
+xss
+yale
+yale assure lock
+zero-day
+zfs
+zfs snapshot
+zigbee module
+z-wave
+z-wave controller
+z-wave module

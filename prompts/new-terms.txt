@@ -1,0 +1,39 @@
+Using the following structure, create a new entry for the tech term: "{TERM_HERE}"
+
+Each term must follow this JSON format:
+{
+  "{term}": {
+    "eli5": "Explain like I'm 5 summary – simple analogy or metaphor for beginners.",
+    "boss": "High-level explanation for a business decision maker.",
+    "sysadmin": "Technical explanation suited for a sysadmin, dev, or engineer.",
+    "emoji": "Relevant emojis that capture the term's function or vibe.",
+    "categories": [ "Choose from the allowed list below" ],
+    "related": [ "List 2–5 related terms that would be in the same glossary." ],
+    "aliases": [ "List of alternative spellings, acronyms, or variations" ],
+    "use_case": "One real-world use case or example of how the term is used.",
+    "jargon_score": [1-5], // 1 = beginner, 5 = highly technical
+    "level": "Beginner | Intermediate | Advanced | Expert"
+  }
+}
+
+📚 Only use categories from this predefined list:
+[
+  "Networking", "Security", "Smart Home", "DevOps", "Database", "Backup", "File Sync", "Web",
+  "APIs", "Programming", "Languages", "IoT", "Monitoring", "Virtualization", "Privacy",
+  "Encryption", "Firewall", "VPN", "DNS", "CLI", "Search", "Analytics", "Cloud", "Automation",
+  "Infrastructure", "Storage", "Filesystem", "Self-hosting", "Reverse Proxy", "Text Processing",
+  "Data Processing", "NoSQL", "SQL", "Version Control", "Learning", "Productivity",
+  "Collaboration", "Configuration Management", "Linux", "Windows", "Mac", "Apple Ecosystem",
+  "Microsoft", "Enterprise", "Open Source"
+]
+
+📌 Notes:
+- Use lowercase for the term key.
+- Do not repeat the same text across `eli5`, `boss`, and `sysadmin`.
+- Include `aliases` such as acronyms, alternate spellings, or casing (e.g., "BLE" for "Bluetooth Low Energy").
+- Match the tone, depth, and style of entries in Tech Decoded.
+- Output valid JSON only with no explanation or extra text.
+
+
+Example:
+Using the following structure, create a new entry for the tech term: "NAT"

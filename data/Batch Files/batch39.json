@@ -1,0 +1,1352 @@
+{
+  "modules": {
+    "eli5": "Modules is like a switch, tool, or screen that helps your Linux computer talk to devices or show pictures.",
+    "boss": "Modules represents a Linux module, desktop environment, virtualization tool, or display utility used to manage hardware, interfaces, or user sessions.",
+    "sysadmin": "Modules is used in Linux to load modules, control device mounts, configure display protocols, handle virtualization, or schedule jobs.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83d\udd0c\ud83e\udde9",
+    "categories": [
+      "Linux",
+      "Virtualization",
+      "Filesystem",
+      "Productivity",
+      "Infrastructure"
+    ],
+    "related": [
+      "modprobe",
+      "gnome",
+      "mount",
+      "cups",
+      "virt-manager"
+    ],
+    "aliases": [
+      "modules",
+      "MODULES"
+    ],
+    "use_case": "A Linux user or sysadmin might use Modules to configure their display, connect external drives, or manage virtual machines.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "modprobe": {
+    "eli5": "modprobe is like a switch, tool, or screen that helps your Linux computer talk to devices or show pictures.",
+    "boss": "modprobe represents a Linux module, desktop environment, virtualization tool, or display utility used to manage hardware, interfaces, or user sessions.",
+    "sysadmin": "modprobe is used in Linux to load modules, control device mounts, configure display protocols, handle virtualization, or schedule jobs.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83d\udd0c\ud83e\udde9",
+    "categories": [
+      "Linux",
+      "Virtualization",
+      "Filesystem",
+      "Productivity",
+      "Infrastructure"
+    ],
+    "related": [
+      "modprobe",
+      "gnome",
+      "mount",
+      "cups",
+      "virt-manager"
+    ],
+    "aliases": [
+      "modprobe",
+      "MODPROBE"
+    ],
+    "use_case": "A Linux user or sysadmin might use modprobe to configure their display, connect external drives, or manage virtual machines.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "lsmod": {
+    "eli5": "lsmod is like a switch, tool, or screen that helps your Linux computer talk to devices or show pictures.",
+    "boss": "lsmod represents a Linux module, desktop environment, virtualization tool, or display utility used to manage hardware, interfaces, or user sessions.",
+    "sysadmin": "lsmod is used in Linux to load modules, control device mounts, configure display protocols, handle virtualization, or schedule jobs.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83d\udd0c\ud83e\udde9",
+    "categories": [
+      "Linux",
+      "Virtualization",
+      "Filesystem",
+      "Productivity",
+      "Infrastructure"
+    ],
+    "related": [
+      "modprobe",
+      "gnome",
+      "mount",
+      "cups",
+      "virt-manager"
+    ],
+    "aliases": [
+      "lsmod",
+      "LSMOD"
+    ],
+    "use_case": "A Linux user or sysadmin might use lsmod to configure their display, connect external drives, or manage virtual machines.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "insmod": {
+    "eli5": "insmod is like a switch, tool, or screen that helps your Linux computer talk to devices or show pictures.",
+    "boss": "insmod represents a Linux module, desktop environment, virtualization tool, or display utility used to manage hardware, interfaces, or user sessions.",
+    "sysadmin": "insmod is used in Linux to load modules, control device mounts, configure display protocols, handle virtualization, or schedule jobs.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83d\udd0c\ud83e\udde9",
+    "categories": [
+      "Linux",
+      "Virtualization",
+      "Filesystem",
+      "Productivity",
+      "Infrastructure"
+    ],
+    "related": [
+      "modprobe",
+      "gnome",
+      "mount",
+      "cups",
+      "virt-manager"
+    ],
+    "aliases": [
+      "insmod",
+      "INSMOD"
+    ],
+    "use_case": "A Linux user or sysadmin might use insmod to configure their display, connect external drives, or manage virtual machines.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "rmmod": {
+    "eli5": "rmmod is like a switch, tool, or screen that helps your Linux computer talk to devices or show pictures.",
+    "boss": "rmmod represents a Linux module, desktop environment, virtualization tool, or display utility used to manage hardware, interfaces, or user sessions.",
+    "sysadmin": "rmmod is used in Linux to load modules, control device mounts, configure display protocols, handle virtualization, or schedule jobs.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83d\udd0c\ud83e\udde9",
+    "categories": [
+      "Linux",
+      "Virtualization",
+      "Filesystem",
+      "Productivity",
+      "Infrastructure"
+    ],
+    "related": [
+      "modprobe",
+      "gnome",
+      "mount",
+      "cups",
+      "virt-manager"
+    ],
+    "aliases": [
+      "rmmod",
+      "RMMOD"
+    ],
+    "use_case": "A Linux user or sysadmin might use rmmod to configure their display, connect external drives, or manage virtual machines.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "sysctl": {
+    "eli5": "sysctl is like a switch, tool, or screen that helps your Linux computer talk to devices or show pictures.",
+    "boss": "sysctl represents a Linux module, desktop environment, virtualization tool, or display utility used to manage hardware, interfaces, or user sessions.",
+    "sysadmin": "sysctl is used in Linux to load modules, control device mounts, configure display protocols, handle virtualization, or schedule jobs.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83d\udd0c\ud83e\udde9",
+    "categories": [
+      "Linux",
+      "Virtualization",
+      "Filesystem",
+      "Productivity",
+      "Infrastructure"
+    ],
+    "related": [
+      "modprobe",
+      "gnome",
+      "mount",
+      "cups",
+      "virt-manager"
+    ],
+    "aliases": [
+      "sysctl",
+      "SYSCTL"
+    ],
+    "use_case": "A Linux user or sysadmin might use sysctl to configure their display, connect external drives, or manage virtual machines.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "kernel panic": {
+    "eli5": "kernel panic is like a switch, tool, or screen that helps your Linux computer talk to devices or show pictures.",
+    "boss": "kernel panic represents a Linux module, desktop environment, virtualization tool, or display utility used to manage hardware, interfaces, or user sessions.",
+    "sysadmin": "kernel panic is used in Linux to load modules, control device mounts, configure display protocols, handle virtualization, or schedule jobs.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83d\udd0c\ud83e\udde9",
+    "categories": [
+      "Linux",
+      "Virtualization",
+      "Filesystem",
+      "Productivity",
+      "Infrastructure"
+    ],
+    "related": [
+      "modprobe",
+      "gnome",
+      "mount",
+      "cups",
+      "virt-manager"
+    ],
+    "aliases": [
+      "kernel panic",
+      "KERNEL PANIC"
+    ],
+    "use_case": "A Linux user or sysadmin might use kernel panic to configure their display, connect external drives, or manage virtual machines.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "boot parameters": {
+    "eli5": "boot parameters is like a switch, tool, or screen that helps your Linux computer talk to devices or show pictures.",
+    "boss": "boot parameters represents a Linux module, desktop environment, virtualization tool, or display utility used to manage hardware, interfaces, or user sessions.",
+    "sysadmin": "boot parameters is used in Linux to load modules, control device mounts, configure display protocols, handle virtualization, or schedule jobs.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83d\udd0c\ud83e\udde9",
+    "categories": [
+      "Linux",
+      "Virtualization",
+      "Filesystem",
+      "Productivity",
+      "Infrastructure"
+    ],
+    "related": [
+      "modprobe",
+      "gnome",
+      "mount",
+      "cups",
+      "virt-manager"
+    ],
+    "aliases": [
+      "boot parameters",
+      "BOOT PARAMETERS"
+    ],
+    "use_case": "A Linux user or sysadmin might use boot parameters to configure their display, connect external drives, or manage virtual machines.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "linux desktops (des)": {
+    "eli5": "Linux Desktops (DEs) is like a switch, tool, or screen that helps your Linux computer talk to devices or show pictures.",
+    "boss": "Linux Desktops (DEs) represents a Linux module, desktop environment, virtualization tool, or display utility used to manage hardware, interfaces, or user sessions.",
+    "sysadmin": "Linux Desktops (DEs) is used in Linux to load modules, control device mounts, configure display protocols, handle virtualization, or schedule jobs.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83d\udd0c\ud83e\udde9",
+    "categories": [
+      "Linux",
+      "Virtualization",
+      "Filesystem",
+      "Productivity",
+      "Infrastructure"
+    ],
+    "related": [
+      "modprobe",
+      "gnome",
+      "mount",
+      "cups",
+      "virt-manager"
+    ],
+    "aliases": [
+      "linux desktops (des)",
+      "LINUX DESKTOPS (DES)"
+    ],
+    "use_case": "A Linux user or sysadmin might use Linux Desktops (DEs) to configure their display, connect external drives, or manage virtual machines.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "gnome": {
+    "eli5": "GNOME is like a switch, tool, or screen that helps your Linux computer talk to devices or show pictures.",
+    "boss": "GNOME represents a Linux module, desktop environment, virtualization tool, or display utility used to manage hardware, interfaces, or user sessions.",
+    "sysadmin": "GNOME is used in Linux to load modules, control device mounts, configure display protocols, handle virtualization, or schedule jobs.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83d\udd0c\ud83e\udde9",
+    "categories": [
+      "Linux",
+      "Virtualization",
+      "Filesystem",
+      "Productivity",
+      "Infrastructure"
+    ],
+    "related": [
+      "modprobe",
+      "gnome",
+      "mount",
+      "cups",
+      "virt-manager"
+    ],
+    "aliases": [
+      "gnome",
+      "GNOME"
+    ],
+    "use_case": "A Linux user or sysadmin might use GNOME to configure their display, connect external drives, or manage virtual machines.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "kde plasma": {
+    "eli5": "KDE Plasma is like a switch, tool, or screen that helps your Linux computer talk to devices or show pictures.",
+    "boss": "KDE Plasma represents a Linux module, desktop environment, virtualization tool, or display utility used to manage hardware, interfaces, or user sessions.",
+    "sysadmin": "KDE Plasma is used in Linux to load modules, control device mounts, configure display protocols, handle virtualization, or schedule jobs.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83d\udd0c\ud83e\udde9",
+    "categories": [
+      "Linux",
+      "Virtualization",
+      "Filesystem",
+      "Productivity",
+      "Infrastructure"
+    ],
+    "related": [
+      "modprobe",
+      "gnome",
+      "mount",
+      "cups",
+      "virt-manager"
+    ],
+    "aliases": [
+      "kde plasma",
+      "KDE PLASMA"
+    ],
+    "use_case": "A Linux user or sysadmin might use KDE Plasma to configure their display, connect external drives, or manage virtual machines.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "xfce": {
+    "eli5": "XFCE is like a switch, tool, or screen that helps your Linux computer talk to devices or show pictures.",
+    "boss": "XFCE represents a Linux module, desktop environment, virtualization tool, or display utility used to manage hardware, interfaces, or user sessions.",
+    "sysadmin": "XFCE is used in Linux to load modules, control device mounts, configure display protocols, handle virtualization, or schedule jobs.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83d\udd0c\ud83e\udde9",
+    "categories": [
+      "Linux",
+      "Virtualization",
+      "Filesystem",
+      "Productivity",
+      "Infrastructure"
+    ],
+    "related": [
+      "modprobe",
+      "gnome",
+      "mount",
+      "cups",
+      "virt-manager"
+    ],
+    "aliases": [
+      "xfce",
+      "XFCE"
+    ],
+    "use_case": "A Linux user or sysadmin might use XFCE to configure their display, connect external drives, or manage virtual machines.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "lxde": {
+    "eli5": "LXDE is like a switch, tool, or screen that helps your Linux computer talk to devices or show pictures.",
+    "boss": "LXDE represents a Linux module, desktop environment, virtualization tool, or display utility used to manage hardware, interfaces, or user sessions.",
+    "sysadmin": "LXDE is used in Linux to load modules, control device mounts, configure display protocols, handle virtualization, or schedule jobs.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83d\udd0c\ud83e\udde9",
+    "categories": [
+      "Linux",
+      "Virtualization",
+      "Filesystem",
+      "Productivity",
+      "Infrastructure"
+    ],
+    "related": [
+      "modprobe",
+      "gnome",
+      "mount",
+      "cups",
+      "virt-manager"
+    ],
+    "aliases": [
+      "lxde",
+      "LXDE"
+    ],
+    "use_case": "A Linux user or sysadmin might use LXDE to configure their display, connect external drives, or manage virtual machines.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "lxqt": {
+    "eli5": "LXQt is like a switch, tool, or screen that helps your Linux computer talk to devices or show pictures.",
+    "boss": "LXQt represents a Linux module, desktop environment, virtualization tool, or display utility used to manage hardware, interfaces, or user sessions.",
+    "sysadmin": "LXQt is used in Linux to load modules, control device mounts, configure display protocols, handle virtualization, or schedule jobs.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83d\udd0c\ud83e\udde9",
+    "categories": [
+      "Linux",
+      "Virtualization",
+      "Filesystem",
+      "Productivity",
+      "Infrastructure"
+    ],
+    "related": [
+      "modprobe",
+      "gnome",
+      "mount",
+      "cups",
+      "virt-manager"
+    ],
+    "aliases": [
+      "lxqt",
+      "LXQT"
+    ],
+    "use_case": "A Linux user or sysadmin might use LXQt to configure their display, connect external drives, or manage virtual machines.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "cinnamon": {
+    "eli5": "Cinnamon is like a switch, tool, or screen that helps your Linux computer talk to devices or show pictures.",
+    "boss": "Cinnamon represents a Linux module, desktop environment, virtualization tool, or display utility used to manage hardware, interfaces, or user sessions.",
+    "sysadmin": "Cinnamon is used in Linux to load modules, control device mounts, configure display protocols, handle virtualization, or schedule jobs.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83d\udd0c\ud83e\udde9",
+    "categories": [
+      "Linux",
+      "Virtualization",
+      "Filesystem",
+      "Productivity",
+      "Infrastructure"
+    ],
+    "related": [
+      "modprobe",
+      "gnome",
+      "mount",
+      "cups",
+      "virt-manager"
+    ],
+    "aliases": [
+      "cinnamon",
+      "CINNAMON"
+    ],
+    "use_case": "A Linux user or sysadmin might use Cinnamon to configure their display, connect external drives, or manage virtual machines.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "mate": {
+    "eli5": "MATE is like a switch, tool, or screen that helps your Linux computer talk to devices or show pictures.",
+    "boss": "MATE represents a Linux module, desktop environment, virtualization tool, or display utility used to manage hardware, interfaces, or user sessions.",
+    "sysadmin": "MATE is used in Linux to load modules, control device mounts, configure display protocols, handle virtualization, or schedule jobs.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83d\udd0c\ud83e\udde9",
+    "categories": [
+      "Linux",
+      "Virtualization",
+      "Filesystem",
+      "Productivity",
+      "Infrastructure"
+    ],
+    "related": [
+      "modprobe",
+      "gnome",
+      "mount",
+      "cups",
+      "virt-manager"
+    ],
+    "aliases": [
+      "mate",
+      "MATE"
+    ],
+    "use_case": "A Linux user or sysadmin might use MATE to configure their display, connect external drives, or manage virtual machines.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "wayland": {
+    "eli5": "Wayland is like a switch, tool, or screen that helps your Linux computer talk to devices or show pictures.",
+    "boss": "Wayland represents a Linux module, desktop environment, virtualization tool, or display utility used to manage hardware, interfaces, or user sessions.",
+    "sysadmin": "Wayland is used in Linux to load modules, control device mounts, configure display protocols, handle virtualization, or schedule jobs.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83d\udd0c\ud83e\udde9",
+    "categories": [
+      "Linux",
+      "Virtualization",
+      "Filesystem",
+      "Productivity",
+      "Infrastructure"
+    ],
+    "related": [
+      "modprobe",
+      "gnome",
+      "mount",
+      "cups",
+      "virt-manager"
+    ],
+    "aliases": [
+      "wayland",
+      "WAYLAND"
+    ],
+    "use_case": "A Linux user or sysadmin might use Wayland to configure their display, connect external drives, or manage virtual machines.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "x11": {
+    "eli5": "X11 is like a switch, tool, or screen that helps your Linux computer talk to devices or show pictures.",
+    "boss": "X11 represents a Linux module, desktop environment, virtualization tool, or display utility used to manage hardware, interfaces, or user sessions.",
+    "sysadmin": "X11 is used in Linux to load modules, control device mounts, configure display protocols, handle virtualization, or schedule jobs.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83d\udd0c\ud83e\udde9",
+    "categories": [
+      "Linux",
+      "Virtualization",
+      "Filesystem",
+      "Productivity",
+      "Infrastructure"
+    ],
+    "related": [
+      "modprobe",
+      "gnome",
+      "mount",
+      "cups",
+      "virt-manager"
+    ],
+    "aliases": [
+      "x11",
+      "X11"
+    ],
+    "use_case": "A Linux user or sysadmin might use X11 to configure their display, connect external drives, or manage virtual machines.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "display manager (dm)": {
+    "eli5": "Display Manager (DM) is like a switch, tool, or screen that helps your Linux computer talk to devices or show pictures.",
+    "boss": "Display Manager (DM) represents a Linux module, desktop environment, virtualization tool, or display utility used to manage hardware, interfaces, or user sessions.",
+    "sysadmin": "Display Manager (DM) is used in Linux to load modules, control device mounts, configure display protocols, handle virtualization, or schedule jobs.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83d\udd0c\ud83e\udde9",
+    "categories": [
+      "Linux",
+      "Virtualization",
+      "Filesystem",
+      "Productivity",
+      "Infrastructure"
+    ],
+    "related": [
+      "modprobe",
+      "gnome",
+      "mount",
+      "cups",
+      "virt-manager"
+    ],
+    "aliases": [
+      "display manager (dm)",
+      "DISPLAY MANAGER (DM)"
+    ],
+    "use_case": "A Linux user or sysadmin might use Display Manager (DM) to configure their display, connect external drives, or manage virtual machines.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "gdm": {
+    "eli5": "GDM is like a switch, tool, or screen that helps your Linux computer talk to devices or show pictures.",
+    "boss": "GDM represents a Linux module, desktop environment, virtualization tool, or display utility used to manage hardware, interfaces, or user sessions.",
+    "sysadmin": "GDM is used in Linux to load modules, control device mounts, configure display protocols, handle virtualization, or schedule jobs.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83d\udd0c\ud83e\udde9",
+    "categories": [
+      "Linux",
+      "Virtualization",
+      "Filesystem",
+      "Productivity",
+      "Infrastructure"
+    ],
+    "related": [
+      "modprobe",
+      "gnome",
+      "mount",
+      "cups",
+      "virt-manager"
+    ],
+    "aliases": [
+      "gdm",
+      "GDM"
+    ],
+    "use_case": "A Linux user or sysadmin might use GDM to configure their display, connect external drives, or manage virtual machines.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "lightdm": {
+    "eli5": "LightDM is like a switch, tool, or screen that helps your Linux computer talk to devices or show pictures.",
+    "boss": "LightDM represents a Linux module, desktop environment, virtualization tool, or display utility used to manage hardware, interfaces, or user sessions.",
+    "sysadmin": "LightDM is used in Linux to load modules, control device mounts, configure display protocols, handle virtualization, or schedule jobs.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83d\udd0c\ud83e\udde9",
+    "categories": [
+      "Linux",
+      "Virtualization",
+      "Filesystem",
+      "Productivity",
+      "Infrastructure"
+    ],
+    "related": [
+      "modprobe",
+      "gnome",
+      "mount",
+      "cups",
+      "virt-manager"
+    ],
+    "aliases": [
+      "lightdm",
+      "LIGHTDM"
+    ],
+    "use_case": "A Linux user or sysadmin might use LightDM to configure their display, connect external drives, or manage virtual machines.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "sddm": {
+    "eli5": "SDDM is like a switch, tool, or screen that helps your Linux computer talk to devices or show pictures.",
+    "boss": "SDDM represents a Linux module, desktop environment, virtualization tool, or display utility used to manage hardware, interfaces, or user sessions.",
+    "sysadmin": "SDDM is used in Linux to load modules, control device mounts, configure display protocols, handle virtualization, or schedule jobs.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83d\udd0c\ud83e\udde9",
+    "categories": [
+      "Linux",
+      "Virtualization",
+      "Filesystem",
+      "Productivity",
+      "Infrastructure"
+    ],
+    "related": [
+      "modprobe",
+      "gnome",
+      "mount",
+      "cups",
+      "virt-manager"
+    ],
+    "aliases": [
+      "sddm",
+      "SDDM"
+    ],
+    "use_case": "A Linux user or sysadmin might use SDDM to configure their display, connect external drives, or manage virtual machines.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "xrandr": {
+    "eli5": "Xrandr is like a switch, tool, or screen that helps your Linux computer talk to devices or show pictures.",
+    "boss": "Xrandr represents a Linux module, desktop environment, virtualization tool, or display utility used to manage hardware, interfaces, or user sessions.",
+    "sysadmin": "Xrandr is used in Linux to load modules, control device mounts, configure display protocols, handle virtualization, or schedule jobs.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83d\udd0c\ud83e\udde9",
+    "categories": [
+      "Linux",
+      "Virtualization",
+      "Filesystem",
+      "Productivity",
+      "Infrastructure"
+    ],
+    "related": [
+      "modprobe",
+      "gnome",
+      "mount",
+      "cups",
+      "virt-manager"
+    ],
+    "aliases": [
+      "xrandr",
+      "XRANDR"
+    ],
+    "use_case": "A Linux user or sysadmin might use Xrandr to configure their display, connect external drives, or manage virtual machines.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "xinput": {
+    "eli5": "Xinput is like a switch, tool, or screen that helps your Linux computer talk to devices or show pictures.",
+    "boss": "Xinput represents a Linux module, desktop environment, virtualization tool, or display utility used to manage hardware, interfaces, or user sessions.",
+    "sysadmin": "Xinput is used in Linux to load modules, control device mounts, configure display protocols, handle virtualization, or schedule jobs.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83d\udd0c\ud83e\udde9",
+    "categories": [
+      "Linux",
+      "Virtualization",
+      "Filesystem",
+      "Productivity",
+      "Infrastructure"
+    ],
+    "related": [
+      "modprobe",
+      "gnome",
+      "mount",
+      "cups",
+      "virt-manager"
+    ],
+    "aliases": [
+      "xinput",
+      "XINPUT"
+    ],
+    "use_case": "A Linux user or sysadmin might use Xinput to configure their display, connect external drives, or manage virtual machines.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "mounting devices": {
+    "eli5": "Mounting Devices is like a switch, tool, or screen that helps your Linux computer talk to devices or show pictures.",
+    "boss": "Mounting Devices represents a Linux module, desktop environment, virtualization tool, or display utility used to manage hardware, interfaces, or user sessions.",
+    "sysadmin": "Mounting Devices is used in Linux to load modules, control device mounts, configure display protocols, handle virtualization, or schedule jobs.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83d\udd0c\ud83e\udde9",
+    "categories": [
+      "Linux",
+      "Virtualization",
+      "Filesystem",
+      "Productivity",
+      "Infrastructure"
+    ],
+    "related": [
+      "modprobe",
+      "gnome",
+      "mount",
+      "cups",
+      "virt-manager"
+    ],
+    "aliases": [
+      "mounting devices",
+      "MOUNTING DEVICES"
+    ],
+    "use_case": "A Linux user or sysadmin might use Mounting Devices to configure their display, connect external drives, or manage virtual machines.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "usb drive": {
+    "eli5": "USB Drive is like a switch, tool, or screen that helps your Linux computer talk to devices or show pictures.",
+    "boss": "USB Drive represents a Linux module, desktop environment, virtualization tool, or display utility used to manage hardware, interfaces, or user sessions.",
+    "sysadmin": "USB Drive is used in Linux to load modules, control device mounts, configure display protocols, handle virtualization, or schedule jobs.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83d\udd0c\ud83e\udde9",
+    "categories": [
+      "Linux",
+      "Virtualization",
+      "Filesystem",
+      "Productivity",
+      "Infrastructure"
+    ],
+    "related": [
+      "modprobe",
+      "gnome",
+      "mount",
+      "cups",
+      "virt-manager"
+    ],
+    "aliases": [
+      "usb drive",
+      "USB DRIVE"
+    ],
+    "use_case": "A Linux user or sysadmin might use USB Drive to configure their display, connect external drives, or manage virtual machines.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "external hdd": {
+    "eli5": "External HDD is like a switch, tool, or screen that helps your Linux computer talk to devices or show pictures.",
+    "boss": "External HDD represents a Linux module, desktop environment, virtualization tool, or display utility used to manage hardware, interfaces, or user sessions.",
+    "sysadmin": "External HDD is used in Linux to load modules, control device mounts, configure display protocols, handle virtualization, or schedule jobs.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83d\udd0c\ud83e\udde9",
+    "categories": [
+      "Linux",
+      "Virtualization",
+      "Filesystem",
+      "Productivity",
+      "Infrastructure"
+    ],
+    "related": [
+      "modprobe",
+      "gnome",
+      "mount",
+      "cups",
+      "virt-manager"
+    ],
+    "aliases": [
+      "external hdd",
+      "EXTERNAL HDD"
+    ],
+    "use_case": "A Linux user or sysadmin might use External HDD to configure their display, connect external drives, or manage virtual machines.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "loop device": {
+    "eli5": "Loop Device is like a switch, tool, or screen that helps your Linux computer talk to devices or show pictures.",
+    "boss": "Loop Device represents a Linux module, desktop environment, virtualization tool, or display utility used to manage hardware, interfaces, or user sessions.",
+    "sysadmin": "Loop Device is used in Linux to load modules, control device mounts, configure display protocols, handle virtualization, or schedule jobs.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83d\udd0c\ud83e\udde9",
+    "categories": [
+      "Linux",
+      "Virtualization",
+      "Filesystem",
+      "Productivity",
+      "Infrastructure"
+    ],
+    "related": [
+      "modprobe",
+      "gnome",
+      "mount",
+      "cups",
+      "virt-manager"
+    ],
+    "aliases": [
+      "loop device",
+      "LOOP DEVICE"
+    ],
+    "use_case": "A Linux user or sysadmin might use Loop Device to configure their display, connect external drives, or manage virtual machines.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "iso mount": {
+    "eli5": "ISO Mount is like a switch, tool, or screen that helps your Linux computer talk to devices or show pictures.",
+    "boss": "ISO Mount represents a Linux module, desktop environment, virtualization tool, or display utility used to manage hardware, interfaces, or user sessions.",
+    "sysadmin": "ISO Mount is used in Linux to load modules, control device mounts, configure display protocols, handle virtualization, or schedule jobs.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83d\udd0c\ud83e\udde9",
+    "categories": [
+      "Linux",
+      "Virtualization",
+      "Filesystem",
+      "Productivity",
+      "Infrastructure"
+    ],
+    "related": [
+      "modprobe",
+      "gnome",
+      "mount",
+      "cups",
+      "virt-manager"
+    ],
+    "aliases": [
+      "iso mount",
+      "ISO MOUNT"
+    ],
+    "use_case": "A Linux user or sysadmin might use ISO Mount to configure their display, connect external drives, or manage virtual machines.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "nfs share": {
+    "eli5": "NFS Share is like a switch, tool, or screen that helps your Linux computer talk to devices or show pictures.",
+    "boss": "NFS Share represents a Linux module, desktop environment, virtualization tool, or display utility used to manage hardware, interfaces, or user sessions.",
+    "sysadmin": "NFS Share is used in Linux to load modules, control device mounts, configure display protocols, handle virtualization, or schedule jobs.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83d\udd0c\ud83e\udde9",
+    "categories": [
+      "Linux",
+      "Virtualization",
+      "Filesystem",
+      "Productivity",
+      "Infrastructure"
+    ],
+    "related": [
+      "modprobe",
+      "gnome",
+      "mount",
+      "cups",
+      "virt-manager"
+    ],
+    "aliases": [
+      "nfs share",
+      "NFS SHARE"
+    ],
+    "use_case": "A Linux user or sysadmin might use NFS Share to configure their display, connect external drives, or manage virtual machines.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "samba share": {
+    "eli5": "Samba Share is like a switch, tool, or screen that helps your Linux computer talk to devices or show pictures.",
+    "boss": "Samba Share represents a Linux module, desktop environment, virtualization tool, or display utility used to manage hardware, interfaces, or user sessions.",
+    "sysadmin": "Samba Share is used in Linux to load modules, control device mounts, configure display protocols, handle virtualization, or schedule jobs.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83d\udd0c\ud83e\udde9",
+    "categories": [
+      "Linux",
+      "Virtualization",
+      "Filesystem",
+      "Productivity",
+      "Infrastructure"
+    ],
+    "related": [
+      "modprobe",
+      "gnome",
+      "mount",
+      "cups",
+      "virt-manager"
+    ],
+    "aliases": [
+      "samba share",
+      "SAMBA SHARE"
+    ],
+    "use_case": "A Linux user or sysadmin might use Samba Share to configure their display, connect external drives, or manage virtual machines.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "printing": {
+    "eli5": "Printing is like a switch, tool, or screen that helps your Linux computer talk to devices or show pictures.",
+    "boss": "Printing represents a Linux module, desktop environment, virtualization tool, or display utility used to manage hardware, interfaces, or user sessions.",
+    "sysadmin": "Printing is used in Linux to load modules, control device mounts, configure display protocols, handle virtualization, or schedule jobs.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83d\udd0c\ud83e\udde9",
+    "categories": [
+      "Linux",
+      "Virtualization",
+      "Filesystem",
+      "Productivity",
+      "Infrastructure"
+    ],
+    "related": [
+      "modprobe",
+      "gnome",
+      "mount",
+      "cups",
+      "virt-manager"
+    ],
+    "aliases": [
+      "printing",
+      "PRINTING"
+    ],
+    "use_case": "A Linux user or sysadmin might use Printing to configure their display, connect external drives, or manage virtual machines.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "cups": {
+    "eli5": "CUPS is like a switch, tool, or screen that helps your Linux computer talk to devices or show pictures.",
+    "boss": "CUPS represents a Linux module, desktop environment, virtualization tool, or display utility used to manage hardware, interfaces, or user sessions.",
+    "sysadmin": "CUPS is used in Linux to load modules, control device mounts, configure display protocols, handle virtualization, or schedule jobs.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83d\udd0c\ud83e\udde9",
+    "categories": [
+      "Linux",
+      "Virtualization",
+      "Filesystem",
+      "Productivity",
+      "Infrastructure"
+    ],
+    "related": [
+      "modprobe",
+      "gnome",
+      "mount",
+      "cups",
+      "virt-manager"
+    ],
+    "aliases": [
+      "cups",
+      "CUPS"
+    ],
+    "use_case": "A Linux user or sysadmin might use CUPS to configure their display, connect external drives, or manage virtual machines.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "lp": {
+    "eli5": "lp is like a switch, tool, or screen that helps your Linux computer talk to devices or show pictures.",
+    "boss": "lp represents a Linux module, desktop environment, virtualization tool, or display utility used to manage hardware, interfaces, or user sessions.",
+    "sysadmin": "lp is used in Linux to load modules, control device mounts, configure display protocols, handle virtualization, or schedule jobs.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83d\udd0c\ud83e\udde9",
+    "categories": [
+      "Linux",
+      "Virtualization",
+      "Filesystem",
+      "Productivity",
+      "Infrastructure"
+    ],
+    "related": [
+      "modprobe",
+      "gnome",
+      "mount",
+      "cups",
+      "virt-manager"
+    ],
+    "aliases": [
+      "lp",
+      "LP"
+    ],
+    "use_case": "A Linux user or sysadmin might use lp to configure their display, connect external drives, or manage virtual machines.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "lpr": {
+    "eli5": "lpr is like a switch, tool, or screen that helps your Linux computer talk to devices or show pictures.",
+    "boss": "lpr represents a Linux module, desktop environment, virtualization tool, or display utility used to manage hardware, interfaces, or user sessions.",
+    "sysadmin": "lpr is used in Linux to load modules, control device mounts, configure display protocols, handle virtualization, or schedule jobs.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83d\udd0c\ud83e\udde9",
+    "categories": [
+      "Linux",
+      "Virtualization",
+      "Filesystem",
+      "Productivity",
+      "Infrastructure"
+    ],
+    "related": [
+      "modprobe",
+      "gnome",
+      "mount",
+      "cups",
+      "virt-manager"
+    ],
+    "aliases": [
+      "lpr",
+      "LPR"
+    ],
+    "use_case": "A Linux user or sysadmin might use lpr to configure their display, connect external drives, or manage virtual machines.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "lpstat": {
+    "eli5": "lpstat is like a switch, tool, or screen that helps your Linux computer talk to devices or show pictures.",
+    "boss": "lpstat represents a Linux module, desktop environment, virtualization tool, or display utility used to manage hardware, interfaces, or user sessions.",
+    "sysadmin": "lpstat is used in Linux to load modules, control device mounts, configure display protocols, handle virtualization, or schedule jobs.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83d\udd0c\ud83e\udde9",
+    "categories": [
+      "Linux",
+      "Virtualization",
+      "Filesystem",
+      "Productivity",
+      "Infrastructure"
+    ],
+    "related": [
+      "modprobe",
+      "gnome",
+      "mount",
+      "cups",
+      "virt-manager"
+    ],
+    "aliases": [
+      "lpstat",
+      "LPSTAT"
+    ],
+    "use_case": "A Linux user or sysadmin might use lpstat to configure their display, connect external drives, or manage virtual machines.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "printer.conf": {
+    "eli5": "printer.conf is like a switch, tool, or screen that helps your Linux computer talk to devices or show pictures.",
+    "boss": "printer.conf represents a Linux module, desktop environment, virtualization tool, or display utility used to manage hardware, interfaces, or user sessions.",
+    "sysadmin": "printer.conf is used in Linux to load modules, control device mounts, configure display protocols, handle virtualization, or schedule jobs.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83d\udd0c\ud83e\udde9",
+    "categories": [
+      "Linux",
+      "Virtualization",
+      "Filesystem",
+      "Productivity",
+      "Infrastructure"
+    ],
+    "related": [
+      "modprobe",
+      "gnome",
+      "mount",
+      "cups",
+      "virt-manager"
+    ],
+    "aliases": [
+      "printer.conf",
+      "PRINTER.CONF"
+    ],
+    "use_case": "A Linux user or sysadmin might use printer.conf to configure their display, connect external drives, or manage virtual machines.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "job scheduling": {
+    "eli5": "Job Scheduling is like a switch, tool, or screen that helps your Linux computer talk to devices or show pictures.",
+    "boss": "Job Scheduling represents a Linux module, desktop environment, virtualization tool, or display utility used to manage hardware, interfaces, or user sessions.",
+    "sysadmin": "Job Scheduling is used in Linux to load modules, control device mounts, configure display protocols, handle virtualization, or schedule jobs.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83d\udd0c\ud83e\udde9",
+    "categories": [
+      "Linux",
+      "Virtualization",
+      "Filesystem",
+      "Productivity",
+      "Infrastructure"
+    ],
+    "related": [
+      "modprobe",
+      "gnome",
+      "mount",
+      "cups",
+      "virt-manager"
+    ],
+    "aliases": [
+      "job scheduling",
+      "JOB SCHEDULING"
+    ],
+    "use_case": "A Linux user or sysadmin might use Job Scheduling to configure their display, connect external drives, or manage virtual machines.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "systemd timers": {
+    "eli5": "systemd timers is like a switch, tool, or screen that helps your Linux computer talk to devices or show pictures.",
+    "boss": "systemd timers represents a Linux module, desktop environment, virtualization tool, or display utility used to manage hardware, interfaces, or user sessions.",
+    "sysadmin": "systemd timers is used in Linux to load modules, control device mounts, configure display protocols, handle virtualization, or schedule jobs.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83d\udd0c\ud83e\udde9",
+    "categories": [
+      "Linux",
+      "Virtualization",
+      "Filesystem",
+      "Productivity",
+      "Infrastructure"
+    ],
+    "related": [
+      "modprobe",
+      "gnome",
+      "mount",
+      "cups",
+      "virt-manager"
+    ],
+    "aliases": [
+      "systemd timers",
+      "SYSTEMD TIMERS"
+    ],
+    "use_case": "A Linux user or sysadmin might use systemd timers to configure their display, connect external drives, or manage virtual machines.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "expect": {
+    "eli5": "expect is like a switch, tool, or screen that helps your Linux computer talk to devices or show pictures.",
+    "boss": "expect represents a Linux module, desktop environment, virtualization tool, or display utility used to manage hardware, interfaces, or user sessions.",
+    "sysadmin": "expect is used in Linux to load modules, control device mounts, configure display protocols, handle virtualization, or schedule jobs.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83d\udd0c\ud83e\udde9",
+    "categories": [
+      "Linux",
+      "Virtualization",
+      "Filesystem",
+      "Productivity",
+      "Infrastructure"
+    ],
+    "related": [
+      "modprobe",
+      "gnome",
+      "mount",
+      "cups",
+      "virt-manager"
+    ],
+    "aliases": [
+      "expect",
+      "EXPECT"
+    ],
+    "use_case": "A Linux user or sysadmin might use expect to configure their display, connect external drives, or manage virtual machines.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "libvirt": {
+    "eli5": "libvirt is like a switch, tool, or screen that helps your Linux computer talk to devices or show pictures.",
+    "boss": "libvirt represents a Linux module, desktop environment, virtualization tool, or display utility used to manage hardware, interfaces, or user sessions.",
+    "sysadmin": "libvirt is used in Linux to load modules, control device mounts, configure display protocols, handle virtualization, or schedule jobs.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83d\udd0c\ud83e\udde9",
+    "categories": [
+      "Linux",
+      "Virtualization",
+      "Filesystem",
+      "Productivity",
+      "Infrastructure"
+    ],
+    "related": [
+      "modprobe",
+      "gnome",
+      "mount",
+      "cups",
+      "virt-manager"
+    ],
+    "aliases": [
+      "libvirt",
+      "LIBVIRT"
+    ],
+    "use_case": "A Linux user or sysadmin might use libvirt to configure their display, connect external drives, or manage virtual machines.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "virt-manager": {
+    "eli5": "virt-manager is like a switch, tool, or screen that helps your Linux computer talk to devices or show pictures.",
+    "boss": "virt-manager represents a Linux module, desktop environment, virtualization tool, or display utility used to manage hardware, interfaces, or user sessions.",
+    "sysadmin": "virt-manager is used in Linux to load modules, control device mounts, configure display protocols, handle virtualization, or schedule jobs.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83d\udd0c\ud83e\udde9",
+    "categories": [
+      "Linux",
+      "Virtualization",
+      "Filesystem",
+      "Productivity",
+      "Infrastructure"
+    ],
+    "related": [
+      "modprobe",
+      "gnome",
+      "mount",
+      "cups",
+      "virt-manager"
+    ],
+    "aliases": [
+      "virt-manager",
+      "VIRT-MANAGER"
+    ],
+    "use_case": "A Linux user or sysadmin might use virt-manager to configure their display, connect external drives, or manage virtual machines.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "virt-install": {
+    "eli5": "virt-install is like a switch, tool, or screen that helps your Linux computer talk to devices or show pictures.",
+    "boss": "virt-install represents a Linux module, desktop environment, virtualization tool, or display utility used to manage hardware, interfaces, or user sessions.",
+    "sysadmin": "virt-install is used in Linux to load modules, control device mounts, configure display protocols, handle virtualization, or schedule jobs.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83d\udd0c\ud83e\udde9",
+    "categories": [
+      "Linux",
+      "Virtualization",
+      "Filesystem",
+      "Productivity",
+      "Infrastructure"
+    ],
+    "related": [
+      "modprobe",
+      "gnome",
+      "mount",
+      "cups",
+      "virt-manager"
+    ],
+    "aliases": [
+      "virt-install",
+      "VIRT-INSTALL"
+    ],
+    "use_case": "A Linux user or sysadmin might use virt-install to configure their display, connect external drives, or manage virtual machines.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "virsh": {
+    "eli5": "virsh is like a switch, tool, or screen that helps your Linux computer talk to devices or show pictures.",
+    "boss": "virsh represents a Linux module, desktop environment, virtualization tool, or display utility used to manage hardware, interfaces, or user sessions.",
+    "sysadmin": "virsh is used in Linux to load modules, control device mounts, configure display protocols, handle virtualization, or schedule jobs.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83d\udd0c\ud83e\udde9",
+    "categories": [
+      "Linux",
+      "Virtualization",
+      "Filesystem",
+      "Productivity",
+      "Infrastructure"
+    ],
+    "related": [
+      "modprobe",
+      "gnome",
+      "mount",
+      "cups",
+      "virt-manager"
+    ],
+    "aliases": [
+      "virsh",
+      "VIRSH"
+    ],
+    "use_case": "A Linux user or sysadmin might use virsh to configure their display, connect external drives, or manage virtual machines.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "boxes": {
+    "eli5": "boxes is like a switch, tool, or screen that helps your Linux computer talk to devices or show pictures.",
+    "boss": "boxes represents a Linux module, desktop environment, virtualization tool, or display utility used to manage hardware, interfaces, or user sessions.",
+    "sysadmin": "boxes is used in Linux to load modules, control device mounts, configure display protocols, handle virtualization, or schedule jobs.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83d\udd0c\ud83e\udde9",
+    "categories": [
+      "Linux",
+      "Virtualization",
+      "Filesystem",
+      "Productivity",
+      "Infrastructure"
+    ],
+    "related": [
+      "modprobe",
+      "gnome",
+      "mount",
+      "cups",
+      "virt-manager"
+    ],
+    "aliases": [
+      "boxes",
+      "BOXES"
+    ],
+    "use_case": "A Linux user or sysadmin might use boxes to configure their display, connect external drives, or manage virtual machines.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "cloud image": {
+    "eli5": "cloud image is like a switch, tool, or screen that helps your Linux computer talk to devices or show pictures.",
+    "boss": "cloud image represents a Linux module, desktop environment, virtualization tool, or display utility used to manage hardware, interfaces, or user sessions.",
+    "sysadmin": "cloud image is used in Linux to load modules, control device mounts, configure display protocols, handle virtualization, or schedule jobs.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83d\udd0c\ud83e\udde9",
+    "categories": [
+      "Linux",
+      "Virtualization",
+      "Filesystem",
+      "Productivity",
+      "Infrastructure"
+    ],
+    "related": [
+      "modprobe",
+      "gnome",
+      "mount",
+      "cups",
+      "virt-manager"
+    ],
+    "aliases": [
+      "cloud image",
+      "CLOUD IMAGE"
+    ],
+    "use_case": "A Linux user or sysadmin might use cloud image to configure their display, connect external drives, or manage virtual machines.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "qcow2": {
+    "eli5": "qcow2 is like a switch, tool, or screen that helps your Linux computer talk to devices or show pictures.",
+    "boss": "qcow2 represents a Linux module, desktop environment, virtualization tool, or display utility used to manage hardware, interfaces, or user sessions.",
+    "sysadmin": "qcow2 is used in Linux to load modules, control device mounts, configure display protocols, handle virtualization, or schedule jobs.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83d\udd0c\ud83e\udde9",
+    "categories": [
+      "Linux",
+      "Virtualization",
+      "Filesystem",
+      "Productivity",
+      "Infrastructure"
+    ],
+    "related": [
+      "modprobe",
+      "gnome",
+      "mount",
+      "cups",
+      "virt-manager"
+    ],
+    "aliases": [
+      "qcow2",
+      "QCOW2"
+    ],
+    "use_case": "A Linux user or sysadmin might use qcow2 to configure their display, connect external drives, or manage virtual machines.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "img file": {
+    "eli5": "img file is like a switch, tool, or screen that helps your Linux computer talk to devices or show pictures.",
+    "boss": "img file represents a Linux module, desktop environment, virtualization tool, or display utility used to manage hardware, interfaces, or user sessions.",
+    "sysadmin": "img file is used in Linux to load modules, control device mounts, configure display protocols, handle virtualization, or schedule jobs.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83d\udd0c\ud83e\udde9",
+    "categories": [
+      "Linux",
+      "Virtualization",
+      "Filesystem",
+      "Productivity",
+      "Infrastructure"
+    ],
+    "related": [
+      "modprobe",
+      "gnome",
+      "mount",
+      "cups",
+      "virt-manager"
+    ],
+    "aliases": [
+      "img file",
+      "IMG FILE"
+    ],
+    "use_case": "A Linux user or sysadmin might use img file to configure their display, connect external drives, or manage virtual machines.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "misc tools": {
+    "eli5": "Misc Tools is like a switch, tool, or screen that helps your Linux computer talk to devices or show pictures.",
+    "boss": "Misc Tools represents a Linux module, desktop environment, virtualization tool, or display utility used to manage hardware, interfaces, or user sessions.",
+    "sysadmin": "Misc Tools is used in Linux to load modules, control device mounts, configure display protocols, handle virtualization, or schedule jobs.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83d\udd0c\ud83e\udde9",
+    "categories": [
+      "Linux",
+      "Virtualization",
+      "Filesystem",
+      "Productivity",
+      "Infrastructure"
+    ],
+    "related": [
+      "modprobe",
+      "gnome",
+      "mount",
+      "cups",
+      "virt-manager"
+    ],
+    "aliases": [
+      "misc tools",
+      "MISC TOOLS"
+    ],
+    "use_case": "A Linux user or sysadmin might use Misc Tools to configure their display, connect external drives, or manage virtual machines.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "whoami": {
+    "eli5": "whoami is like a switch, tool, or screen that helps your Linux computer talk to devices or show pictures.",
+    "boss": "whoami represents a Linux module, desktop environment, virtualization tool, or display utility used to manage hardware, interfaces, or user sessions.",
+    "sysadmin": "whoami is used in Linux to load modules, control device mounts, configure display protocols, handle virtualization, or schedule jobs.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83d\udd0c\ud83e\udde9",
+    "categories": [
+      "Linux",
+      "Virtualization",
+      "Filesystem",
+      "Productivity",
+      "Infrastructure"
+    ],
+    "related": [
+      "modprobe",
+      "gnome",
+      "mount",
+      "cups",
+      "virt-manager"
+    ],
+    "aliases": [
+      "whoami",
+      "WHOAMI"
+    ],
+    "use_case": "A Linux user or sysadmin might use whoami to configure their display, connect external drives, or manage virtual machines.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  }
+}

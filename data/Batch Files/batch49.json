@@ -1,0 +1,1352 @@
+{
+  "jdbc": {
+    "eli5": "JDBC is like a translator, tool, or safety lock that helps apps and people talk to databases safely and clearly.",
+    "boss": "JDBC is a tool, method, or security measure used for connecting, querying, managing, or protecting database systems.",
+    "sysadmin": "JDBC refers to a CLI/GUI database tool, ORM framework, query analyzer, or access control mechanism that assists developers and DBAs with database connectivity, tuning, or auditing.",
+    "emoji": "\ud83d\udd0c\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Database",
+      "SQL",
+      "Security",
+      "Monitoring",
+      "DevOps"
+    ],
+    "related": [
+      "sql injection",
+      "jdbc",
+      "pgadmin",
+      "mysqldump",
+      "pgbouncer"
+    ],
+    "aliases": [
+      "jdbc",
+      "JDBC"
+    ],
+    "use_case": "A developer or DBA uses JDBC to interact with, debug, or secure database operations more efficiently.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "orm (object relational mapping)": {
+    "eli5": "ORM (Object Relational Mapping) is like a translator, tool, or safety lock that helps apps and people talk to databases safely and clearly.",
+    "boss": "ORM (Object Relational Mapping) is a tool, method, or security measure used for connecting, querying, managing, or protecting database systems.",
+    "sysadmin": "ORM (Object Relational Mapping) refers to a CLI/GUI database tool, ORM framework, query analyzer, or access control mechanism that assists developers and DBAs with database connectivity, tuning, or auditing.",
+    "emoji": "\ud83d\udd0c\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Database",
+      "SQL",
+      "Security",
+      "Monitoring",
+      "DevOps"
+    ],
+    "related": [
+      "sql injection",
+      "jdbc",
+      "pgadmin",
+      "mysqldump",
+      "pgbouncer"
+    ],
+    "aliases": [
+      "orm (object relational mapping)",
+      "ORM (OBJECT RELATIONAL MAPPING)"
+    ],
+    "use_case": "A developer or DBA uses ORM (Object Relational Mapping) to interact with, debug, or secure database operations more efficiently.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "hibernate": {
+    "eli5": "Hibernate is like a translator, tool, or safety lock that helps apps and people talk to databases safely and clearly.",
+    "boss": "Hibernate is a tool, method, or security measure used for connecting, querying, managing, or protecting database systems.",
+    "sysadmin": "Hibernate refers to a CLI/GUI database tool, ORM framework, query analyzer, or access control mechanism that assists developers and DBAs with database connectivity, tuning, or auditing.",
+    "emoji": "\ud83d\udd0c\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Database",
+      "SQL",
+      "Security",
+      "Monitoring",
+      "DevOps"
+    ],
+    "related": [
+      "sql injection",
+      "jdbc",
+      "pgadmin",
+      "mysqldump",
+      "pgbouncer"
+    ],
+    "aliases": [
+      "hibernate",
+      "HIBERNATE"
+    ],
+    "use_case": "A developer or DBA uses Hibernate to interact with, debug, or secure database operations more efficiently.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "sqlalchemy": {
+    "eli5": "SQLAlchemy is like a translator, tool, or safety lock that helps apps and people talk to databases safely and clearly.",
+    "boss": "SQLAlchemy is a tool, method, or security measure used for connecting, querying, managing, or protecting database systems.",
+    "sysadmin": "SQLAlchemy refers to a CLI/GUI database tool, ORM framework, query analyzer, or access control mechanism that assists developers and DBAs with database connectivity, tuning, or auditing.",
+    "emoji": "\ud83d\udd0c\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Database",
+      "SQL",
+      "Security",
+      "Monitoring",
+      "DevOps"
+    ],
+    "related": [
+      "sql injection",
+      "jdbc",
+      "pgadmin",
+      "mysqldump",
+      "pgbouncer"
+    ],
+    "aliases": [
+      "sqlalchemy",
+      "SQLALCHEMY"
+    ],
+    "use_case": "A developer or DBA uses SQLAlchemy to interact with, debug, or secure database operations more efficiently.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "entity framework": {
+    "eli5": "Entity Framework is like a translator, tool, or safety lock that helps apps and people talk to databases safely and clearly.",
+    "boss": "Entity Framework is a tool, method, or security measure used for connecting, querying, managing, or protecting database systems.",
+    "sysadmin": "Entity Framework refers to a CLI/GUI database tool, ORM framework, query analyzer, or access control mechanism that assists developers and DBAs with database connectivity, tuning, or auditing.",
+    "emoji": "\ud83d\udd0c\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Database",
+      "SQL",
+      "Security",
+      "Monitoring",
+      "DevOps"
+    ],
+    "related": [
+      "sql injection",
+      "jdbc",
+      "pgadmin",
+      "mysqldump",
+      "pgbouncer"
+    ],
+    "aliases": [
+      "entity framework",
+      "ENTITY FRAMEWORK"
+    ],
+    "use_case": "A developer or DBA uses Entity Framework to interact with, debug, or secure database operations more efficiently.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "sequelize": {
+    "eli5": "Sequelize is like a translator, tool, or safety lock that helps apps and people talk to databases safely and clearly.",
+    "boss": "Sequelize is a tool, method, or security measure used for connecting, querying, managing, or protecting database systems.",
+    "sysadmin": "Sequelize refers to a CLI/GUI database tool, ORM framework, query analyzer, or access control mechanism that assists developers and DBAs with database connectivity, tuning, or auditing.",
+    "emoji": "\ud83d\udd0c\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Database",
+      "SQL",
+      "Security",
+      "Monitoring",
+      "DevOps"
+    ],
+    "related": [
+      "sql injection",
+      "jdbc",
+      "pgadmin",
+      "mysqldump",
+      "pgbouncer"
+    ],
+    "aliases": [
+      "sequelize",
+      "SEQUELIZE"
+    ],
+    "use_case": "A developer or DBA uses Sequelize to interact with, debug, or secure database operations more efficiently.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "prisma": {
+    "eli5": "Prisma is like a translator, tool, or safety lock that helps apps and people talk to databases safely and clearly.",
+    "boss": "Prisma is a tool, method, or security measure used for connecting, querying, managing, or protecting database systems.",
+    "sysadmin": "Prisma refers to a CLI/GUI database tool, ORM framework, query analyzer, or access control mechanism that assists developers and DBAs with database connectivity, tuning, or auditing.",
+    "emoji": "\ud83d\udd0c\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Database",
+      "SQL",
+      "Security",
+      "Monitoring",
+      "DevOps"
+    ],
+    "related": [
+      "sql injection",
+      "jdbc",
+      "pgadmin",
+      "mysqldump",
+      "pgbouncer"
+    ],
+    "aliases": [
+      "prisma",
+      "PRISMA"
+    ],
+    "use_case": "A developer or DBA uses Prisma to interact with, debug, or secure database operations more efficiently.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "database authentication": {
+    "eli5": "Database Authentication is like a translator, tool, or safety lock that helps apps and people talk to databases safely and clearly.",
+    "boss": "Database Authentication is a tool, method, or security measure used for connecting, querying, managing, or protecting database systems.",
+    "sysadmin": "Database Authentication refers to a CLI/GUI database tool, ORM framework, query analyzer, or access control mechanism that assists developers and DBAs with database connectivity, tuning, or auditing.",
+    "emoji": "\ud83d\udd0c\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Database",
+      "SQL",
+      "Security",
+      "Monitoring",
+      "DevOps"
+    ],
+    "related": [
+      "sql injection",
+      "jdbc",
+      "pgadmin",
+      "mysqldump",
+      "pgbouncer"
+    ],
+    "aliases": [
+      "database authentication",
+      "DATABASE AUTHENTICATION"
+    ],
+    "use_case": "A developer or DBA uses Database Authentication to interact with, debug, or secure database operations more efficiently.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "user roles": {
+    "eli5": "User Roles is like a translator, tool, or safety lock that helps apps and people talk to databases safely and clearly.",
+    "boss": "User Roles is a tool, method, or security measure used for connecting, querying, managing, or protecting database systems.",
+    "sysadmin": "User Roles refers to a CLI/GUI database tool, ORM framework, query analyzer, or access control mechanism that assists developers and DBAs with database connectivity, tuning, or auditing.",
+    "emoji": "\ud83d\udd0c\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Database",
+      "SQL",
+      "Security",
+      "Monitoring",
+      "DevOps"
+    ],
+    "related": [
+      "sql injection",
+      "jdbc",
+      "pgadmin",
+      "mysqldump",
+      "pgbouncer"
+    ],
+    "aliases": [
+      "user roles",
+      "USER ROLES"
+    ],
+    "use_case": "A developer or DBA uses User Roles to interact with, debug, or secure database operations more efficiently.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "privileges": {
+    "eli5": "Privileges is like a translator, tool, or safety lock that helps apps and people talk to databases safely and clearly.",
+    "boss": "Privileges is a tool, method, or security measure used for connecting, querying, managing, or protecting database systems.",
+    "sysadmin": "Privileges refers to a CLI/GUI database tool, ORM framework, query analyzer, or access control mechanism that assists developers and DBAs with database connectivity, tuning, or auditing.",
+    "emoji": "\ud83d\udd0c\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Database",
+      "SQL",
+      "Security",
+      "Monitoring",
+      "DevOps"
+    ],
+    "related": [
+      "sql injection",
+      "jdbc",
+      "pgadmin",
+      "mysqldump",
+      "pgbouncer"
+    ],
+    "aliases": [
+      "privileges",
+      "PRIVILEGES"
+    ],
+    "use_case": "A developer or DBA uses Privileges to interact with, debug, or secure database operations more efficiently.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "grant": {
+    "eli5": "GRANT is like a translator, tool, or safety lock that helps apps and people talk to databases safely and clearly.",
+    "boss": "GRANT is a tool, method, or security measure used for connecting, querying, managing, or protecting database systems.",
+    "sysadmin": "GRANT refers to a CLI/GUI database tool, ORM framework, query analyzer, or access control mechanism that assists developers and DBAs with database connectivity, tuning, or auditing.",
+    "emoji": "\ud83d\udd0c\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Database",
+      "SQL",
+      "Security",
+      "Monitoring",
+      "DevOps"
+    ],
+    "related": [
+      "sql injection",
+      "jdbc",
+      "pgadmin",
+      "mysqldump",
+      "pgbouncer"
+    ],
+    "aliases": [
+      "grant",
+      "GRANT"
+    ],
+    "use_case": "A developer or DBA uses GRANT to interact with, debug, or secure database operations more efficiently.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "revoke": {
+    "eli5": "REVOKE is like a translator, tool, or safety lock that helps apps and people talk to databases safely and clearly.",
+    "boss": "REVOKE is a tool, method, or security measure used for connecting, querying, managing, or protecting database systems.",
+    "sysadmin": "REVOKE refers to a CLI/GUI database tool, ORM framework, query analyzer, or access control mechanism that assists developers and DBAs with database connectivity, tuning, or auditing.",
+    "emoji": "\ud83d\udd0c\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Database",
+      "SQL",
+      "Security",
+      "Monitoring",
+      "DevOps"
+    ],
+    "related": [
+      "sql injection",
+      "jdbc",
+      "pgadmin",
+      "mysqldump",
+      "pgbouncer"
+    ],
+    "aliases": [
+      "revoke",
+      "REVOKE"
+    ],
+    "use_case": "A developer or DBA uses REVOKE to interact with, debug, or secure database operations more efficiently.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "column-level encryption": {
+    "eli5": "Column-Level Encryption is like a translator, tool, or safety lock that helps apps and people talk to databases safely and clearly.",
+    "boss": "Column-Level Encryption is a tool, method, or security measure used for connecting, querying, managing, or protecting database systems.",
+    "sysadmin": "Column-Level Encryption refers to a CLI/GUI database tool, ORM framework, query analyzer, or access control mechanism that assists developers and DBAs with database connectivity, tuning, or auditing.",
+    "emoji": "\ud83d\udd0c\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Database",
+      "SQL",
+      "Security",
+      "Monitoring",
+      "DevOps"
+    ],
+    "related": [
+      "sql injection",
+      "jdbc",
+      "pgadmin",
+      "mysqldump",
+      "pgbouncer"
+    ],
+    "aliases": [
+      "column-level encryption",
+      "COLUMN-LEVEL ENCRYPTION"
+    ],
+    "use_case": "A developer or DBA uses Column-Level Encryption to interact with, debug, or secure database operations more efficiently.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "row-level security": {
+    "eli5": "Row-Level Security is like a translator, tool, or safety lock that helps apps and people talk to databases safely and clearly.",
+    "boss": "Row-Level Security is a tool, method, or security measure used for connecting, querying, managing, or protecting database systems.",
+    "sysadmin": "Row-Level Security refers to a CLI/GUI database tool, ORM framework, query analyzer, or access control mechanism that assists developers and DBAs with database connectivity, tuning, or auditing.",
+    "emoji": "\ud83d\udd0c\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Database",
+      "SQL",
+      "Security",
+      "Monitoring",
+      "DevOps"
+    ],
+    "related": [
+      "sql injection",
+      "jdbc",
+      "pgadmin",
+      "mysqldump",
+      "pgbouncer"
+    ],
+    "aliases": [
+      "row-level security",
+      "ROW-LEVEL SECURITY"
+    ],
+    "use_case": "A developer or DBA uses Row-Level Security to interact with, debug, or secure database operations more efficiently.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "data masking": {
+    "eli5": "Data Masking is like a translator, tool, or safety lock that helps apps and people talk to databases safely and clearly.",
+    "boss": "Data Masking is a tool, method, or security measure used for connecting, querying, managing, or protecting database systems.",
+    "sysadmin": "Data Masking refers to a CLI/GUI database tool, ORM framework, query analyzer, or access control mechanism that assists developers and DBAs with database connectivity, tuning, or auditing.",
+    "emoji": "\ud83d\udd0c\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Database",
+      "SQL",
+      "Security",
+      "Monitoring",
+      "DevOps"
+    ],
+    "related": [
+      "sql injection",
+      "jdbc",
+      "pgadmin",
+      "mysqldump",
+      "pgbouncer"
+    ],
+    "aliases": [
+      "data masking",
+      "DATA MASKING"
+    ],
+    "use_case": "A developer or DBA uses Data Masking to interact with, debug, or secure database operations more efficiently.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "sql injection": {
+    "eli5": "SQL Injection is like a translator, tool, or safety lock that helps apps and people talk to databases safely and clearly.",
+    "boss": "SQL Injection is a tool, method, or security measure used for connecting, querying, managing, or protecting database systems.",
+    "sysadmin": "SQL Injection refers to a CLI/GUI database tool, ORM framework, query analyzer, or access control mechanism that assists developers and DBAs with database connectivity, tuning, or auditing.",
+    "emoji": "\ud83d\udd0c\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Database",
+      "SQL",
+      "Security",
+      "Monitoring",
+      "DevOps"
+    ],
+    "related": [
+      "sql injection",
+      "jdbc",
+      "pgadmin",
+      "mysqldump",
+      "pgbouncer"
+    ],
+    "aliases": [
+      "sql injection",
+      "SQL INJECTION"
+    ],
+    "use_case": "A developer or DBA uses SQL Injection to interact with, debug, or secure database operations more efficiently.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "prepared statement": {
+    "eli5": "Prepared Statement is like a translator, tool, or safety lock that helps apps and people talk to databases safely and clearly.",
+    "boss": "Prepared Statement is a tool, method, or security measure used for connecting, querying, managing, or protecting database systems.",
+    "sysadmin": "Prepared Statement refers to a CLI/GUI database tool, ORM framework, query analyzer, or access control mechanism that assists developers and DBAs with database connectivity, tuning, or auditing.",
+    "emoji": "\ud83d\udd0c\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Database",
+      "SQL",
+      "Security",
+      "Monitoring",
+      "DevOps"
+    ],
+    "related": [
+      "sql injection",
+      "jdbc",
+      "pgadmin",
+      "mysqldump",
+      "pgbouncer"
+    ],
+    "aliases": [
+      "prepared statement",
+      "PREPARED STATEMENT"
+    ],
+    "use_case": "A developer or DBA uses Prepared Statement to interact with, debug, or secure database operations more efficiently.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "parameterized query": {
+    "eli5": "Parameterized Query is like a translator, tool, or safety lock that helps apps and people talk to databases safely and clearly.",
+    "boss": "Parameterized Query is a tool, method, or security measure used for connecting, querying, managing, or protecting database systems.",
+    "sysadmin": "Parameterized Query refers to a CLI/GUI database tool, ORM framework, query analyzer, or access control mechanism that assists developers and DBAs with database connectivity, tuning, or auditing.",
+    "emoji": "\ud83d\udd0c\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Database",
+      "SQL",
+      "Security",
+      "Monitoring",
+      "DevOps"
+    ],
+    "related": [
+      "sql injection",
+      "jdbc",
+      "pgadmin",
+      "mysqldump",
+      "pgbouncer"
+    ],
+    "aliases": [
+      "parameterized query",
+      "PARAMETERIZED QUERY"
+    ],
+    "use_case": "A developer or DBA uses Parameterized Query to interact with, debug, or secure database operations more efficiently.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "cli tools": {
+    "eli5": "CLI Tools is like a translator, tool, or safety lock that helps apps and people talk to databases safely and clearly.",
+    "boss": "CLI Tools is a tool, method, or security measure used for connecting, querying, managing, or protecting database systems.",
+    "sysadmin": "CLI Tools refers to a CLI/GUI database tool, ORM framework, query analyzer, or access control mechanism that assists developers and DBAs with database connectivity, tuning, or auditing.",
+    "emoji": "\ud83d\udd0c\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Database",
+      "SQL",
+      "Security",
+      "Monitoring",
+      "DevOps"
+    ],
+    "related": [
+      "sql injection",
+      "jdbc",
+      "pgadmin",
+      "mysqldump",
+      "pgbouncer"
+    ],
+    "aliases": [
+      "cli tools",
+      "CLI TOOLS"
+    ],
+    "use_case": "A developer or DBA uses CLI Tools to interact with, debug, or secure database operations more efficiently.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "psql": {
+    "eli5": "psql is like a translator, tool, or safety lock that helps apps and people talk to databases safely and clearly.",
+    "boss": "psql is a tool, method, or security measure used for connecting, querying, managing, or protecting database systems.",
+    "sysadmin": "psql refers to a CLI/GUI database tool, ORM framework, query analyzer, or access control mechanism that assists developers and DBAs with database connectivity, tuning, or auditing.",
+    "emoji": "\ud83d\udd0c\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Database",
+      "SQL",
+      "Security",
+      "Monitoring",
+      "DevOps"
+    ],
+    "related": [
+      "sql injection",
+      "jdbc",
+      "pgadmin",
+      "mysqldump",
+      "pgbouncer"
+    ],
+    "aliases": [
+      "psql",
+      "PSQL"
+    ],
+    "use_case": "A developer or DBA uses psql to interact with, debug, or secure database operations more efficiently.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "mysql cli": {
+    "eli5": "mysql CLI is like a translator, tool, or safety lock that helps apps and people talk to databases safely and clearly.",
+    "boss": "mysql CLI is a tool, method, or security measure used for connecting, querying, managing, or protecting database systems.",
+    "sysadmin": "mysql CLI refers to a CLI/GUI database tool, ORM framework, query analyzer, or access control mechanism that assists developers and DBAs with database connectivity, tuning, or auditing.",
+    "emoji": "\ud83d\udd0c\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Database",
+      "SQL",
+      "Security",
+      "Monitoring",
+      "DevOps"
+    ],
+    "related": [
+      "sql injection",
+      "jdbc",
+      "pgadmin",
+      "mysqldump",
+      "pgbouncer"
+    ],
+    "aliases": [
+      "mysql cli",
+      "MYSQL CLI"
+    ],
+    "use_case": "A developer or DBA uses mysql CLI to interact with, debug, or secure database operations more efficiently.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "sqlcmd": {
+    "eli5": "sqlcmd is like a translator, tool, or safety lock that helps apps and people talk to databases safely and clearly.",
+    "boss": "sqlcmd is a tool, method, or security measure used for connecting, querying, managing, or protecting database systems.",
+    "sysadmin": "sqlcmd refers to a CLI/GUI database tool, ORM framework, query analyzer, or access control mechanism that assists developers and DBAs with database connectivity, tuning, or auditing.",
+    "emoji": "\ud83d\udd0c\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Database",
+      "SQL",
+      "Security",
+      "Monitoring",
+      "DevOps"
+    ],
+    "related": [
+      "sql injection",
+      "jdbc",
+      "pgadmin",
+      "mysqldump",
+      "pgbouncer"
+    ],
+    "aliases": [
+      "sqlcmd",
+      "SQLCMD"
+    ],
+    "use_case": "A developer or DBA uses sqlcmd to interact with, debug, or secure database operations more efficiently.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "mongosh": {
+    "eli5": "mongosh is like a translator, tool, or safety lock that helps apps and people talk to databases safely and clearly.",
+    "boss": "mongosh is a tool, method, or security measure used for connecting, querying, managing, or protecting database systems.",
+    "sysadmin": "mongosh refers to a CLI/GUI database tool, ORM framework, query analyzer, or access control mechanism that assists developers and DBAs with database connectivity, tuning, or auditing.",
+    "emoji": "\ud83d\udd0c\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Database",
+      "SQL",
+      "Security",
+      "Monitoring",
+      "DevOps"
+    ],
+    "related": [
+      "sql injection",
+      "jdbc",
+      "pgadmin",
+      "mysqldump",
+      "pgbouncer"
+    ],
+    "aliases": [
+      "mongosh",
+      "MONGOSH"
+    ],
+    "use_case": "A developer or DBA uses mongosh to interact with, debug, or secure database operations more efficiently.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "redis-cli": {
+    "eli5": "redis-cli is like a translator, tool, or safety lock that helps apps and people talk to databases safely and clearly.",
+    "boss": "redis-cli is a tool, method, or security measure used for connecting, querying, managing, or protecting database systems.",
+    "sysadmin": "redis-cli refers to a CLI/GUI database tool, ORM framework, query analyzer, or access control mechanism that assists developers and DBAs with database connectivity, tuning, or auditing.",
+    "emoji": "\ud83d\udd0c\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Database",
+      "SQL",
+      "Security",
+      "Monitoring",
+      "DevOps"
+    ],
+    "related": [
+      "sql injection",
+      "jdbc",
+      "pgadmin",
+      "mysqldump",
+      "pgbouncer"
+    ],
+    "aliases": [
+      "redis-cli",
+      "REDIS-CLI"
+    ],
+    "use_case": "A developer or DBA uses redis-cli to interact with, debug, or secure database operations more efficiently.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "sqlite3": {
+    "eli5": "sqlite3 is like a translator, tool, or safety lock that helps apps and people talk to databases safely and clearly.",
+    "boss": "sqlite3 is a tool, method, or security measure used for connecting, querying, managing, or protecting database systems.",
+    "sysadmin": "sqlite3 refers to a CLI/GUI database tool, ORM framework, query analyzer, or access control mechanism that assists developers and DBAs with database connectivity, tuning, or auditing.",
+    "emoji": "\ud83d\udd0c\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Database",
+      "SQL",
+      "Security",
+      "Monitoring",
+      "DevOps"
+    ],
+    "related": [
+      "sql injection",
+      "jdbc",
+      "pgadmin",
+      "mysqldump",
+      "pgbouncer"
+    ],
+    "aliases": [
+      "sqlite3",
+      "SQLITE3"
+    ],
+    "use_case": "A developer or DBA uses sqlite3 to interact with, debug, or secure database operations more efficiently.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "gui tools": {
+    "eli5": "GUI Tools is like a translator, tool, or safety lock that helps apps and people talk to databases safely and clearly.",
+    "boss": "GUI Tools is a tool, method, or security measure used for connecting, querying, managing, or protecting database systems.",
+    "sysadmin": "GUI Tools refers to a CLI/GUI database tool, ORM framework, query analyzer, or access control mechanism that assists developers and DBAs with database connectivity, tuning, or auditing.",
+    "emoji": "\ud83d\udd0c\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Database",
+      "SQL",
+      "Security",
+      "Monitoring",
+      "DevOps"
+    ],
+    "related": [
+      "sql injection",
+      "jdbc",
+      "pgadmin",
+      "mysqldump",
+      "pgbouncer"
+    ],
+    "aliases": [
+      "gui tools",
+      "GUI TOOLS"
+    ],
+    "use_case": "A developer or DBA uses GUI Tools to interact with, debug, or secure database operations more efficiently.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "phpmyadmin": {
+    "eli5": "phpMyAdmin is like a translator, tool, or safety lock that helps apps and people talk to databases safely and clearly.",
+    "boss": "phpMyAdmin is a tool, method, or security measure used for connecting, querying, managing, or protecting database systems.",
+    "sysadmin": "phpMyAdmin refers to a CLI/GUI database tool, ORM framework, query analyzer, or access control mechanism that assists developers and DBAs with database connectivity, tuning, or auditing.",
+    "emoji": "\ud83d\udd0c\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Database",
+      "SQL",
+      "Security",
+      "Monitoring",
+      "DevOps"
+    ],
+    "related": [
+      "sql injection",
+      "jdbc",
+      "pgadmin",
+      "mysqldump",
+      "pgbouncer"
+    ],
+    "aliases": [
+      "phpmyadmin",
+      "PHPMYADMIN"
+    ],
+    "use_case": "A developer or DBA uses phpMyAdmin to interact with, debug, or secure database operations more efficiently.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "pgadmin": {
+    "eli5": "pgAdmin is like a translator, tool, or safety lock that helps apps and people talk to databases safely and clearly.",
+    "boss": "pgAdmin is a tool, method, or security measure used for connecting, querying, managing, or protecting database systems.",
+    "sysadmin": "pgAdmin refers to a CLI/GUI database tool, ORM framework, query analyzer, or access control mechanism that assists developers and DBAs with database connectivity, tuning, or auditing.",
+    "emoji": "\ud83d\udd0c\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Database",
+      "SQL",
+      "Security",
+      "Monitoring",
+      "DevOps"
+    ],
+    "related": [
+      "sql injection",
+      "jdbc",
+      "pgadmin",
+      "mysqldump",
+      "pgbouncer"
+    ],
+    "aliases": [
+      "pgadmin",
+      "PGADMIN"
+    ],
+    "use_case": "A developer or DBA uses pgAdmin to interact with, debug, or secure database operations more efficiently.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "dbeaver": {
+    "eli5": "DBeaver is like a translator, tool, or safety lock that helps apps and people talk to databases safely and clearly.",
+    "boss": "DBeaver is a tool, method, or security measure used for connecting, querying, managing, or protecting database systems.",
+    "sysadmin": "DBeaver refers to a CLI/GUI database tool, ORM framework, query analyzer, or access control mechanism that assists developers and DBAs with database connectivity, tuning, or auditing.",
+    "emoji": "\ud83d\udd0c\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Database",
+      "SQL",
+      "Security",
+      "Monitoring",
+      "DevOps"
+    ],
+    "related": [
+      "sql injection",
+      "jdbc",
+      "pgadmin",
+      "mysqldump",
+      "pgbouncer"
+    ],
+    "aliases": [
+      "dbeaver",
+      "DBEAVER"
+    ],
+    "use_case": "A developer or DBA uses DBeaver to interact with, debug, or secure database operations more efficiently.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "tableplus": {
+    "eli5": "TablePlus is like a translator, tool, or safety lock that helps apps and people talk to databases safely and clearly.",
+    "boss": "TablePlus is a tool, method, or security measure used for connecting, querying, managing, or protecting database systems.",
+    "sysadmin": "TablePlus refers to a CLI/GUI database tool, ORM framework, query analyzer, or access control mechanism that assists developers and DBAs with database connectivity, tuning, or auditing.",
+    "emoji": "\ud83d\udd0c\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Database",
+      "SQL",
+      "Security",
+      "Monitoring",
+      "DevOps"
+    ],
+    "related": [
+      "sql injection",
+      "jdbc",
+      "pgadmin",
+      "mysqldump",
+      "pgbouncer"
+    ],
+    "aliases": [
+      "tableplus",
+      "TABLEPLUS"
+    ],
+    "use_case": "A developer or DBA uses TablePlus to interact with, debug, or secure database operations more efficiently.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "heidisql": {
+    "eli5": "HeidiSQL is like a translator, tool, or safety lock that helps apps and people talk to databases safely and clearly.",
+    "boss": "HeidiSQL is a tool, method, or security measure used for connecting, querying, managing, or protecting database systems.",
+    "sysadmin": "HeidiSQL refers to a CLI/GUI database tool, ORM framework, query analyzer, or access control mechanism that assists developers and DBAs with database connectivity, tuning, or auditing.",
+    "emoji": "\ud83d\udd0c\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Database",
+      "SQL",
+      "Security",
+      "Monitoring",
+      "DevOps"
+    ],
+    "related": [
+      "sql injection",
+      "jdbc",
+      "pgadmin",
+      "mysqldump",
+      "pgbouncer"
+    ],
+    "aliases": [
+      "heidisql",
+      "HEIDISQL"
+    ],
+    "use_case": "A developer or DBA uses HeidiSQL to interact with, debug, or secure database operations more efficiently.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "toad": {
+    "eli5": "Toad is like a translator, tool, or safety lock that helps apps and people talk to databases safely and clearly.",
+    "boss": "Toad is a tool, method, or security measure used for connecting, querying, managing, or protecting database systems.",
+    "sysadmin": "Toad refers to a CLI/GUI database tool, ORM framework, query analyzer, or access control mechanism that assists developers and DBAs with database connectivity, tuning, or auditing.",
+    "emoji": "\ud83d\udd0c\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Database",
+      "SQL",
+      "Security",
+      "Monitoring",
+      "DevOps"
+    ],
+    "related": [
+      "sql injection",
+      "jdbc",
+      "pgadmin",
+      "mysqldump",
+      "pgbouncer"
+    ],
+    "aliases": [
+      "toad",
+      "TOAD"
+    ],
+    "use_case": "A developer or DBA uses Toad to interact with, debug, or secure database operations more efficiently.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "sql developer": {
+    "eli5": "SQL Developer is like a translator, tool, or safety lock that helps apps and people talk to databases safely and clearly.",
+    "boss": "SQL Developer is a tool, method, or security measure used for connecting, querying, managing, or protecting database systems.",
+    "sysadmin": "SQL Developer refers to a CLI/GUI database tool, ORM framework, query analyzer, or access control mechanism that assists developers and DBAs with database connectivity, tuning, or auditing.",
+    "emoji": "\ud83d\udd0c\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Database",
+      "SQL",
+      "Security",
+      "Monitoring",
+      "DevOps"
+    ],
+    "related": [
+      "sql injection",
+      "jdbc",
+      "pgadmin",
+      "mysqldump",
+      "pgbouncer"
+    ],
+    "aliases": [
+      "sql developer",
+      "SQL DEVELOPER"
+    ],
+    "use_case": "A developer or DBA uses SQL Developer to interact with, debug, or secure database operations more efficiently.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "mongodb compass": {
+    "eli5": "MongoDB Compass is like a translator, tool, or safety lock that helps apps and people talk to databases safely and clearly.",
+    "boss": "MongoDB Compass is a tool, method, or security measure used for connecting, querying, managing, or protecting database systems.",
+    "sysadmin": "MongoDB Compass refers to a CLI/GUI database tool, ORM framework, query analyzer, or access control mechanism that assists developers and DBAs with database connectivity, tuning, or auditing.",
+    "emoji": "\ud83d\udd0c\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Database",
+      "SQL",
+      "Security",
+      "Monitoring",
+      "DevOps"
+    ],
+    "related": [
+      "sql injection",
+      "jdbc",
+      "pgadmin",
+      "mysqldump",
+      "pgbouncer"
+    ],
+    "aliases": [
+      "mongodb compass",
+      "MONGODB COMPASS"
+    ],
+    "use_case": "A developer or DBA uses MongoDB Compass to interact with, debug, or secure database operations more efficiently.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "backup tools": {
+    "eli5": "Backup Tools is like a translator, tool, or safety lock that helps apps and people talk to databases safely and clearly.",
+    "boss": "Backup Tools is a tool, method, or security measure used for connecting, querying, managing, or protecting database systems.",
+    "sysadmin": "Backup Tools refers to a CLI/GUI database tool, ORM framework, query analyzer, or access control mechanism that assists developers and DBAs with database connectivity, tuning, or auditing.",
+    "emoji": "\ud83d\udd0c\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Database",
+      "SQL",
+      "Security",
+      "Monitoring",
+      "DevOps"
+    ],
+    "related": [
+      "sql injection",
+      "jdbc",
+      "pgadmin",
+      "mysqldump",
+      "pgbouncer"
+    ],
+    "aliases": [
+      "backup tools",
+      "BACKUP TOOLS"
+    ],
+    "use_case": "A developer or DBA uses Backup Tools to interact with, debug, or secure database operations more efficiently.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "mysqldump": {
+    "eli5": "mysqldump is like a translator, tool, or safety lock that helps apps and people talk to databases safely and clearly.",
+    "boss": "mysqldump is a tool, method, or security measure used for connecting, querying, managing, or protecting database systems.",
+    "sysadmin": "mysqldump refers to a CLI/GUI database tool, ORM framework, query analyzer, or access control mechanism that assists developers and DBAs with database connectivity, tuning, or auditing.",
+    "emoji": "\ud83d\udd0c\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Database",
+      "SQL",
+      "Security",
+      "Monitoring",
+      "DevOps"
+    ],
+    "related": [
+      "sql injection",
+      "jdbc",
+      "pgadmin",
+      "mysqldump",
+      "pgbouncer"
+    ],
+    "aliases": [
+      "mysqldump",
+      "MYSQLDUMP"
+    ],
+    "use_case": "A developer or DBA uses mysqldump to interact with, debug, or secure database operations more efficiently.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "pg_dump": {
+    "eli5": "pg_dump is like a translator, tool, or safety lock that helps apps and people talk to databases safely and clearly.",
+    "boss": "pg_dump is a tool, method, or security measure used for connecting, querying, managing, or protecting database systems.",
+    "sysadmin": "pg_dump refers to a CLI/GUI database tool, ORM framework, query analyzer, or access control mechanism that assists developers and DBAs with database connectivity, tuning, or auditing.",
+    "emoji": "\ud83d\udd0c\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Database",
+      "SQL",
+      "Security",
+      "Monitoring",
+      "DevOps"
+    ],
+    "related": [
+      "sql injection",
+      "jdbc",
+      "pgadmin",
+      "mysqldump",
+      "pgbouncer"
+    ],
+    "aliases": [
+      "pg_dump",
+      "PG_DUMP"
+    ],
+    "use_case": "A developer or DBA uses pg_dump to interact with, debug, or secure database operations more efficiently.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "pg_basebackup": {
+    "eli5": "pg_basebackup is like a translator, tool, or safety lock that helps apps and people talk to databases safely and clearly.",
+    "boss": "pg_basebackup is a tool, method, or security measure used for connecting, querying, managing, or protecting database systems.",
+    "sysadmin": "pg_basebackup refers to a CLI/GUI database tool, ORM framework, query analyzer, or access control mechanism that assists developers and DBAs with database connectivity, tuning, or auditing.",
+    "emoji": "\ud83d\udd0c\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Database",
+      "SQL",
+      "Security",
+      "Monitoring",
+      "DevOps"
+    ],
+    "related": [
+      "sql injection",
+      "jdbc",
+      "pgadmin",
+      "mysqldump",
+      "pgbouncer"
+    ],
+    "aliases": [
+      "pg_basebackup",
+      "PG_BASEBACKUP"
+    ],
+    "use_case": "A developer or DBA uses pg_basebackup to interact with, debug, or secure database operations more efficiently.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "mongoexport": {
+    "eli5": "mongoexport is like a translator, tool, or safety lock that helps apps and people talk to databases safely and clearly.",
+    "boss": "mongoexport is a tool, method, or security measure used for connecting, querying, managing, or protecting database systems.",
+    "sysadmin": "mongoexport refers to a CLI/GUI database tool, ORM framework, query analyzer, or access control mechanism that assists developers and DBAs with database connectivity, tuning, or auditing.",
+    "emoji": "\ud83d\udd0c\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Database",
+      "SQL",
+      "Security",
+      "Monitoring",
+      "DevOps"
+    ],
+    "related": [
+      "sql injection",
+      "jdbc",
+      "pgadmin",
+      "mysqldump",
+      "pgbouncer"
+    ],
+    "aliases": [
+      "mongoexport",
+      "MONGOEXPORT"
+    ],
+    "use_case": "A developer or DBA uses mongoexport to interact with, debug, or secure database operations more efficiently.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "redis-dump": {
+    "eli5": "redis-dump is like a translator, tool, or safety lock that helps apps and people talk to databases safely and clearly.",
+    "boss": "redis-dump is a tool, method, or security measure used for connecting, querying, managing, or protecting database systems.",
+    "sysadmin": "redis-dump refers to a CLI/GUI database tool, ORM framework, query analyzer, or access control mechanism that assists developers and DBAs with database connectivity, tuning, or auditing.",
+    "emoji": "\ud83d\udd0c\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Database",
+      "SQL",
+      "Security",
+      "Monitoring",
+      "DevOps"
+    ],
+    "related": [
+      "sql injection",
+      "jdbc",
+      "pgadmin",
+      "mysqldump",
+      "pgbouncer"
+    ],
+    "aliases": [
+      "redis-dump",
+      "REDIS-DUMP"
+    ],
+    "use_case": "A developer or DBA uses redis-dump to interact with, debug, or secure database operations more efficiently.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "sqlite browser": {
+    "eli5": "SQLite Browser is like a translator, tool, or safety lock that helps apps and people talk to databases safely and clearly.",
+    "boss": "SQLite Browser is a tool, method, or security measure used for connecting, querying, managing, or protecting database systems.",
+    "sysadmin": "SQLite Browser refers to a CLI/GUI database tool, ORM framework, query analyzer, or access control mechanism that assists developers and DBAs with database connectivity, tuning, or auditing.",
+    "emoji": "\ud83d\udd0c\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Database",
+      "SQL",
+      "Security",
+      "Monitoring",
+      "DevOps"
+    ],
+    "related": [
+      "sql injection",
+      "jdbc",
+      "pgadmin",
+      "mysqldump",
+      "pgbouncer"
+    ],
+    "aliases": [
+      "sqlite browser",
+      "SQLITE BROWSER"
+    ],
+    "use_case": "A developer or DBA uses SQLite Browser to interact with, debug, or secure database operations more efficiently.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "monitoring & tuning": {
+    "eli5": "Monitoring & Tuning is like a translator, tool, or safety lock that helps apps and people talk to databases safely and clearly.",
+    "boss": "Monitoring & Tuning is a tool, method, or security measure used for connecting, querying, managing, or protecting database systems.",
+    "sysadmin": "Monitoring & Tuning refers to a CLI/GUI database tool, ORM framework, query analyzer, or access control mechanism that assists developers and DBAs with database connectivity, tuning, or auditing.",
+    "emoji": "\ud83d\udd0c\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Database",
+      "SQL",
+      "Security",
+      "Monitoring",
+      "DevOps"
+    ],
+    "related": [
+      "sql injection",
+      "jdbc",
+      "pgadmin",
+      "mysqldump",
+      "pgbouncer"
+    ],
+    "aliases": [
+      "monitoring & tuning",
+      "MONITORING & TUNING"
+    ],
+    "use_case": "A developer or DBA uses Monitoring & Tuning to interact with, debug, or secure database operations more efficiently.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "pg_stat_statements": {
+    "eli5": "pg_stat_statements is like a translator, tool, or safety lock that helps apps and people talk to databases safely and clearly.",
+    "boss": "pg_stat_statements is a tool, method, or security measure used for connecting, querying, managing, or protecting database systems.",
+    "sysadmin": "pg_stat_statements refers to a CLI/GUI database tool, ORM framework, query analyzer, or access control mechanism that assists developers and DBAs with database connectivity, tuning, or auditing.",
+    "emoji": "\ud83d\udd0c\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Database",
+      "SQL",
+      "Security",
+      "Monitoring",
+      "DevOps"
+    ],
+    "related": [
+      "sql injection",
+      "jdbc",
+      "pgadmin",
+      "mysqldump",
+      "pgbouncer"
+    ],
+    "aliases": [
+      "pg_stat_statements",
+      "PG_STAT_STATEMENTS"
+    ],
+    "use_case": "A developer or DBA uses pg_stat_statements to interact with, debug, or secure database operations more efficiently.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "slow query log": {
+    "eli5": "slow query log is like a translator, tool, or safety lock that helps apps and people talk to databases safely and clearly.",
+    "boss": "slow query log is a tool, method, or security measure used for connecting, querying, managing, or protecting database systems.",
+    "sysadmin": "slow query log refers to a CLI/GUI database tool, ORM framework, query analyzer, or access control mechanism that assists developers and DBAs with database connectivity, tuning, or auditing.",
+    "emoji": "\ud83d\udd0c\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Database",
+      "SQL",
+      "Security",
+      "Monitoring",
+      "DevOps"
+    ],
+    "related": [
+      "sql injection",
+      "jdbc",
+      "pgadmin",
+      "mysqldump",
+      "pgbouncer"
+    ],
+    "aliases": [
+      "slow query log",
+      "SLOW QUERY LOG"
+    ],
+    "use_case": "A developer or DBA uses slow query log to interact with, debug, or secure database operations more efficiently.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "query profiler": {
+    "eli5": "Query Profiler is like a translator, tool, or safety lock that helps apps and people talk to databases safely and clearly.",
+    "boss": "Query Profiler is a tool, method, or security measure used for connecting, querying, managing, or protecting database systems.",
+    "sysadmin": "Query Profiler refers to a CLI/GUI database tool, ORM framework, query analyzer, or access control mechanism that assists developers and DBAs with database connectivity, tuning, or auditing.",
+    "emoji": "\ud83d\udd0c\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Database",
+      "SQL",
+      "Security",
+      "Monitoring",
+      "DevOps"
+    ],
+    "related": [
+      "sql injection",
+      "jdbc",
+      "pgadmin",
+      "mysqldump",
+      "pgbouncer"
+    ],
+    "aliases": [
+      "query profiler",
+      "QUERY PROFILER"
+    ],
+    "use_case": "A developer or DBA uses Query Profiler to interact with, debug, or secure database operations more efficiently.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "explain analyze": {
+    "eli5": "EXPLAIN ANALYZE is like a translator, tool, or safety lock that helps apps and people talk to databases safely and clearly.",
+    "boss": "EXPLAIN ANALYZE is a tool, method, or security measure used for connecting, querying, managing, or protecting database systems.",
+    "sysadmin": "EXPLAIN ANALYZE refers to a CLI/GUI database tool, ORM framework, query analyzer, or access control mechanism that assists developers and DBAs with database connectivity, tuning, or auditing.",
+    "emoji": "\ud83d\udd0c\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Database",
+      "SQL",
+      "Security",
+      "Monitoring",
+      "DevOps"
+    ],
+    "related": [
+      "sql injection",
+      "jdbc",
+      "pgadmin",
+      "mysqldump",
+      "pgbouncer"
+    ],
+    "aliases": [
+      "explain analyze",
+      "EXPLAIN ANALYZE"
+    ],
+    "use_case": "A developer or DBA uses EXPLAIN ANALYZE to interact with, debug, or secure database operations more efficiently.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "pgbouncer": {
+    "eli5": "pgBouncer is like a translator, tool, or safety lock that helps apps and people talk to databases safely and clearly.",
+    "boss": "pgBouncer is a tool, method, or security measure used for connecting, querying, managing, or protecting database systems.",
+    "sysadmin": "pgBouncer refers to a CLI/GUI database tool, ORM framework, query analyzer, or access control mechanism that assists developers and DBAs with database connectivity, tuning, or auditing.",
+    "emoji": "\ud83d\udd0c\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Database",
+      "SQL",
+      "Security",
+      "Monitoring",
+      "DevOps"
+    ],
+    "related": [
+      "sql injection",
+      "jdbc",
+      "pgadmin",
+      "mysqldump",
+      "pgbouncer"
+    ],
+    "aliases": [
+      "pgbouncer",
+      "PGBOUNCER"
+    ],
+    "use_case": "A developer or DBA uses pgBouncer to interact with, debug, or secure database operations more efficiently.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "proxysql": {
+    "eli5": "ProxySQL is like a translator, tool, or safety lock that helps apps and people talk to databases safely and clearly.",
+    "boss": "ProxySQL is a tool, method, or security measure used for connecting, querying, managing, or protecting database systems.",
+    "sysadmin": "ProxySQL refers to a CLI/GUI database tool, ORM framework, query analyzer, or access control mechanism that assists developers and DBAs with database connectivity, tuning, or auditing.",
+    "emoji": "\ud83d\udd0c\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Database",
+      "SQL",
+      "Security",
+      "Monitoring",
+      "DevOps"
+    ],
+    "related": [
+      "sql injection",
+      "jdbc",
+      "pgadmin",
+      "mysqldump",
+      "pgbouncer"
+    ],
+    "aliases": [
+      "proxysql",
+      "PROXYSQL"
+    ],
+    "use_case": "A developer or DBA uses ProxySQL to interact with, debug, or secure database operations more efficiently.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "pgbadger": {
+    "eli5": "pgBadger is like a translator, tool, or safety lock that helps apps and people talk to databases safely and clearly.",
+    "boss": "pgBadger is a tool, method, or security measure used for connecting, querying, managing, or protecting database systems.",
+    "sysadmin": "pgBadger refers to a CLI/GUI database tool, ORM framework, query analyzer, or access control mechanism that assists developers and DBAs with database connectivity, tuning, or auditing.",
+    "emoji": "\ud83d\udd0c\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Database",
+      "SQL",
+      "Security",
+      "Monitoring",
+      "DevOps"
+    ],
+    "related": [
+      "sql injection",
+      "jdbc",
+      "pgadmin",
+      "mysqldump",
+      "pgbouncer"
+    ],
+    "aliases": [
+      "pgbadger",
+      "PGBADGER"
+    ],
+    "use_case": "A developer or DBA uses pgBadger to interact with, debug, or secure database operations more efficiently.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "prometheus exporter": {
+    "eli5": "Prometheus Exporter is like a translator, tool, or safety lock that helps apps and people talk to databases safely and clearly.",
+    "boss": "Prometheus Exporter is a tool, method, or security measure used for connecting, querying, managing, or protecting database systems.",
+    "sysadmin": "Prometheus Exporter refers to a CLI/GUI database tool, ORM framework, query analyzer, or access control mechanism that assists developers and DBAs with database connectivity, tuning, or auditing.",
+    "emoji": "\ud83d\udd0c\ud83e\uddf0\ud83d\udd10",
+    "categories": [
+      "Database",
+      "SQL",
+      "Security",
+      "Monitoring",
+      "DevOps"
+    ],
+    "related": [
+      "sql injection",
+      "jdbc",
+      "pgadmin",
+      "mysqldump",
+      "pgbouncer"
+    ],
+    "aliases": [
+      "prometheus exporter",
+      "PROMETHEUS EXPORTER"
+    ],
+    "use_case": "A developer or DBA uses Prometheus Exporter to interact with, debug, or secure database operations more efficiently.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  }
+}

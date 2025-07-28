@@ -1,0 +1,1352 @@
+{
+  "fallback status point (fsp)": {
+    "eli5": "Fallback Status Point (FSP) is like a job list, update, or error note that helps IT teams keep computers working and talking to each other.",
+    "boss": "Fallback Status Point (FSP) includes SCCM roles, client actions, licensing models, common error conditions, and hybrid Intune integration features that support endpoint lifecycle management and troubleshooting.",
+    "sysadmin": "Fallback Status Point (FSP) refers to an SCCM site role, client-triggered action, device state message, version identifier, or known issue used for managing clients, monitoring performance, and resolving deployment failures.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udda5\ufe0f\ud83d\udce2\ud83d\udcca",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Automation",
+      "Monitoring"
+    ],
+    "related": [
+      "client actions",
+      "error code",
+      "sccm versions",
+      "co-managed workloads",
+      "reporting services point"
+    ],
+    "aliases": [
+      "fallback status point (fsp)",
+      "FALLBACK STATUS POINT (FSP)"
+    ],
+    "use_case": "An endpoint engineer uses Fallback Status Point (FSP) to configure hybrid device management, trigger client policies, or diagnose issues in SCCM environments.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "reporting services point": {
+    "eli5": "Reporting Services Point is like a job list, update, or error note that helps IT teams keep computers working and talking to each other.",
+    "boss": "Reporting Services Point includes SCCM roles, client actions, licensing models, common error conditions, and hybrid Intune integration features that support endpoint lifecycle management and troubleshooting.",
+    "sysadmin": "Reporting Services Point refers to an SCCM site role, client-triggered action, device state message, version identifier, or known issue used for managing clients, monitoring performance, and resolving deployment failures.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udda5\ufe0f\ud83d\udce2\ud83d\udcca",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Automation",
+      "Monitoring"
+    ],
+    "related": [
+      "client actions",
+      "error code",
+      "sccm versions",
+      "co-managed workloads",
+      "reporting services point"
+    ],
+    "aliases": [
+      "reporting services point",
+      "REPORTING SERVICES POINT"
+    ],
+    "use_case": "An endpoint engineer uses Reporting Services Point to configure hybrid device management, trigger client policies, or diagnose issues in SCCM environments.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "application catalog point": {
+    "eli5": "Application Catalog Point is like a job list, update, or error note that helps IT teams keep computers working and talking to each other.",
+    "boss": "Application Catalog Point includes SCCM roles, client actions, licensing models, common error conditions, and hybrid Intune integration features that support endpoint lifecycle management and troubleshooting.",
+    "sysadmin": "Application Catalog Point refers to an SCCM site role, client-triggered action, device state message, version identifier, or known issue used for managing clients, monitoring performance, and resolving deployment failures.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udda5\ufe0f\ud83d\udce2\ud83d\udcca",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Automation",
+      "Monitoring"
+    ],
+    "related": [
+      "client actions",
+      "error code",
+      "sccm versions",
+      "co-managed workloads",
+      "reporting services point"
+    ],
+    "aliases": [
+      "application catalog point",
+      "APPLICATION CATALOG POINT"
+    ],
+    "use_case": "An endpoint engineer uses Application Catalog Point to configure hybrid device management, trigger client policies, or diagnose issues in SCCM environments.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "enrollment point": {
+    "eli5": "Enrollment Point is like a job list, update, or error note that helps IT teams keep computers working and talking to each other.",
+    "boss": "Enrollment Point includes SCCM roles, client actions, licensing models, common error conditions, and hybrid Intune integration features that support endpoint lifecycle management and troubleshooting.",
+    "sysadmin": "Enrollment Point refers to an SCCM site role, client-triggered action, device state message, version identifier, or known issue used for managing clients, monitoring performance, and resolving deployment failures.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udda5\ufe0f\ud83d\udce2\ud83d\udcca",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Automation",
+      "Monitoring"
+    ],
+    "related": [
+      "client actions",
+      "error code",
+      "sccm versions",
+      "co-managed workloads",
+      "reporting services point"
+    ],
+    "aliases": [
+      "enrollment point",
+      "ENROLLMENT POINT"
+    ],
+    "use_case": "An endpoint engineer uses Enrollment Point to configure hybrid device management, trigger client policies, or diagnose issues in SCCM environments.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "out of band service point": {
+    "eli5": "Out of Band Service Point is like a job list, update, or error note that helps IT teams keep computers working and talking to each other.",
+    "boss": "Out of Band Service Point includes SCCM roles, client actions, licensing models, common error conditions, and hybrid Intune integration features that support endpoint lifecycle management and troubleshooting.",
+    "sysadmin": "Out of Band Service Point refers to an SCCM site role, client-triggered action, device state message, version identifier, or known issue used for managing clients, monitoring performance, and resolving deployment failures.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udda5\ufe0f\ud83d\udce2\ud83d\udcca",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Automation",
+      "Monitoring"
+    ],
+    "related": [
+      "client actions",
+      "error code",
+      "sccm versions",
+      "co-managed workloads",
+      "reporting services point"
+    ],
+    "aliases": [
+      "out of band service point",
+      "OUT OF BAND SERVICE POINT"
+    ],
+    "use_case": "An endpoint engineer uses Out of Band Service Point to configure hybrid device management, trigger client policies, or diagnose issues in SCCM environments.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "asset intelligence sync point": {
+    "eli5": "Asset Intelligence Sync Point is like a job list, update, or error note that helps IT teams keep computers working and talking to each other.",
+    "boss": "Asset Intelligence Sync Point includes SCCM roles, client actions, licensing models, common error conditions, and hybrid Intune integration features that support endpoint lifecycle management and troubleshooting.",
+    "sysadmin": "Asset Intelligence Sync Point refers to an SCCM site role, client-triggered action, device state message, version identifier, or known issue used for managing clients, monitoring performance, and resolving deployment failures.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udda5\ufe0f\ud83d\udce2\ud83d\udcca",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Automation",
+      "Monitoring"
+    ],
+    "related": [
+      "client actions",
+      "error code",
+      "sccm versions",
+      "co-managed workloads",
+      "reporting services point"
+    ],
+    "aliases": [
+      "asset intelligence sync point",
+      "ASSET INTELLIGENCE SYNC POINT"
+    ],
+    "use_case": "An endpoint engineer uses Asset Intelligence Sync Point to configure hybrid device management, trigger client policies, or diagnose issues in SCCM environments.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "intune integration": {
+    "eli5": "Intune Integration is like a job list, update, or error note that helps IT teams keep computers working and talking to each other.",
+    "boss": "Intune Integration includes SCCM roles, client actions, licensing models, common error conditions, and hybrid Intune integration features that support endpoint lifecycle management and troubleshooting.",
+    "sysadmin": "Intune Integration refers to an SCCM site role, client-triggered action, device state message, version identifier, or known issue used for managing clients, monitoring performance, and resolving deployment failures.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udda5\ufe0f\ud83d\udce2\ud83d\udcca",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Automation",
+      "Monitoring"
+    ],
+    "related": [
+      "client actions",
+      "error code",
+      "sccm versions",
+      "co-managed workloads",
+      "reporting services point"
+    ],
+    "aliases": [
+      "intune integration",
+      "INTUNE INTEGRATION"
+    ],
+    "use_case": "An endpoint engineer uses Intune Integration to configure hybrid device management, trigger client policies, or diagnose issues in SCCM environments.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "endpoint analytics": {
+    "eli5": "Endpoint Analytics is like a job list, update, or error note that helps IT teams keep computers working and talking to each other.",
+    "boss": "Endpoint Analytics includes SCCM roles, client actions, licensing models, common error conditions, and hybrid Intune integration features that support endpoint lifecycle management and troubleshooting.",
+    "sysadmin": "Endpoint Analytics refers to an SCCM site role, client-triggered action, device state message, version identifier, or known issue used for managing clients, monitoring performance, and resolving deployment failures.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udda5\ufe0f\ud83d\udce2\ud83d\udcca",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Automation",
+      "Monitoring"
+    ],
+    "related": [
+      "client actions",
+      "error code",
+      "sccm versions",
+      "co-managed workloads",
+      "reporting services point"
+    ],
+    "aliases": [
+      "endpoint analytics",
+      "ENDPOINT ANALYTICS"
+    ],
+    "use_case": "An endpoint engineer uses Endpoint Analytics to configure hybrid device management, trigger client policies, or diagnose issues in SCCM environments.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "hybrid join": {
+    "eli5": "Hybrid Join is like a job list, update, or error note that helps IT teams keep computers working and talking to each other.",
+    "boss": "Hybrid Join includes SCCM roles, client actions, licensing models, common error conditions, and hybrid Intune integration features that support endpoint lifecycle management and troubleshooting.",
+    "sysadmin": "Hybrid Join refers to an SCCM site role, client-triggered action, device state message, version identifier, or known issue used for managing clients, monitoring performance, and resolving deployment failures.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udda5\ufe0f\ud83d\udce2\ud83d\udcca",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Automation",
+      "Monitoring"
+    ],
+    "related": [
+      "client actions",
+      "error code",
+      "sccm versions",
+      "co-managed workloads",
+      "reporting services point"
+    ],
+    "aliases": [
+      "hybrid join",
+      "HYBRID JOIN"
+    ],
+    "use_case": "An endpoint engineer uses Hybrid Join to configure hybrid device management, trigger client policies, or diagnose issues in SCCM environments.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "intune-managed devices": {
+    "eli5": "Intune-Managed Devices is like a job list, update, or error note that helps IT teams keep computers working and talking to each other.",
+    "boss": "Intune-Managed Devices includes SCCM roles, client actions, licensing models, common error conditions, and hybrid Intune integration features that support endpoint lifecycle management and troubleshooting.",
+    "sysadmin": "Intune-Managed Devices refers to an SCCM site role, client-triggered action, device state message, version identifier, or known issue used for managing clients, monitoring performance, and resolving deployment failures.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udda5\ufe0f\ud83d\udce2\ud83d\udcca",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Automation",
+      "Monitoring"
+    ],
+    "related": [
+      "client actions",
+      "error code",
+      "sccm versions",
+      "co-managed workloads",
+      "reporting services point"
+    ],
+    "aliases": [
+      "intune-managed devices",
+      "INTUNE-MANAGED DEVICES"
+    ],
+    "use_case": "An endpoint engineer uses Intune-Managed Devices to configure hybrid device management, trigger client policies, or diagnose issues in SCCM environments.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "co-managed workloads": {
+    "eli5": "Co-Managed Workloads is like a job list, update, or error note that helps IT teams keep computers working and talking to each other.",
+    "boss": "Co-Managed Workloads includes SCCM roles, client actions, licensing models, common error conditions, and hybrid Intune integration features that support endpoint lifecycle management and troubleshooting.",
+    "sysadmin": "Co-Managed Workloads refers to an SCCM site role, client-triggered action, device state message, version identifier, or known issue used for managing clients, monitoring performance, and resolving deployment failures.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udda5\ufe0f\ud83d\udce2\ud83d\udcca",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Automation",
+      "Monitoring"
+    ],
+    "related": [
+      "client actions",
+      "error code",
+      "sccm versions",
+      "co-managed workloads",
+      "reporting services point"
+    ],
+    "aliases": [
+      "co-managed workloads",
+      "CO-MANAGED WORKLOADS"
+    ],
+    "use_case": "An endpoint engineer uses Co-Managed Workloads to configure hybrid device management, trigger client policies, or diagnose issues in SCCM environments.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "core cal": {
+    "eli5": "Core CAL is like a job list, update, or error note that helps IT teams keep computers working and talking to each other.",
+    "boss": "Core CAL includes SCCM roles, client actions, licensing models, common error conditions, and hybrid Intune integration features that support endpoint lifecycle management and troubleshooting.",
+    "sysadmin": "Core CAL refers to an SCCM site role, client-triggered action, device state message, version identifier, or known issue used for managing clients, monitoring performance, and resolving deployment failures.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udda5\ufe0f\ud83d\udce2\ud83d\udcca",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Automation",
+      "Monitoring"
+    ],
+    "related": [
+      "client actions",
+      "error code",
+      "sccm versions",
+      "co-managed workloads",
+      "reporting services point"
+    ],
+    "aliases": [
+      "core cal",
+      "CORE CAL"
+    ],
+    "use_case": "An endpoint engineer uses Core CAL to configure hybrid device management, trigger client policies, or diagnose issues in SCCM environments.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "user cal": {
+    "eli5": "User CAL is like a job list, update, or error note that helps IT teams keep computers working and talking to each other.",
+    "boss": "User CAL includes SCCM roles, client actions, licensing models, common error conditions, and hybrid Intune integration features that support endpoint lifecycle management and troubleshooting.",
+    "sysadmin": "User CAL refers to an SCCM site role, client-triggered action, device state message, version identifier, or known issue used for managing clients, monitoring performance, and resolving deployment failures.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udda5\ufe0f\ud83d\udce2\ud83d\udcca",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Automation",
+      "Monitoring"
+    ],
+    "related": [
+      "client actions",
+      "error code",
+      "sccm versions",
+      "co-managed workloads",
+      "reporting services point"
+    ],
+    "aliases": [
+      "user cal",
+      "USER CAL"
+    ],
+    "use_case": "An endpoint engineer uses User CAL to configure hybrid device management, trigger client policies, or diagnose issues in SCCM environments.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "endpoint manager suite": {
+    "eli5": "Endpoint Manager Suite is like a job list, update, or error note that helps IT teams keep computers working and talking to each other.",
+    "boss": "Endpoint Manager Suite includes SCCM roles, client actions, licensing models, common error conditions, and hybrid Intune integration features that support endpoint lifecycle management and troubleshooting.",
+    "sysadmin": "Endpoint Manager Suite refers to an SCCM site role, client-triggered action, device state message, version identifier, or known issue used for managing clients, monitoring performance, and resolving deployment failures.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udda5\ufe0f\ud83d\udce2\ud83d\udcca",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Automation",
+      "Monitoring"
+    ],
+    "related": [
+      "client actions",
+      "error code",
+      "sccm versions",
+      "co-managed workloads",
+      "reporting services point"
+    ],
+    "aliases": [
+      "endpoint manager suite",
+      "ENDPOINT MANAGER SUITE"
+    ],
+    "use_case": "An endpoint engineer uses Endpoint Manager Suite to configure hybrid device management, trigger client policies, or diagnose issues in SCCM environments.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "windows e3 / e5": {
+    "eli5": "Windows E3 / E5 is like a job list, update, or error note that helps IT teams keep computers working and talking to each other.",
+    "boss": "Windows E3 / E5 includes SCCM roles, client actions, licensing models, common error conditions, and hybrid Intune integration features that support endpoint lifecycle management and troubleshooting.",
+    "sysadmin": "Windows E3 / E5 refers to an SCCM site role, client-triggered action, device state message, version identifier, or known issue used for managing clients, monitoring performance, and resolving deployment failures.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udda5\ufe0f\ud83d\udce2\ud83d\udcca",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Automation",
+      "Monitoring"
+    ],
+    "related": [
+      "client actions",
+      "error code",
+      "sccm versions",
+      "co-managed workloads",
+      "reporting services point"
+    ],
+    "aliases": [
+      "windows e3 / e5",
+      "WINDOWS E3 / E5"
+    ],
+    "use_case": "An endpoint engineer uses Windows E3 / E5 to configure hybrid device management, trigger client policies, or diagnose issues in SCCM environments.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "client actions": {
+    "eli5": "Client Actions is like a job list, update, or error note that helps IT teams keep computers working and talking to each other.",
+    "boss": "Client Actions includes SCCM roles, client actions, licensing models, common error conditions, and hybrid Intune integration features that support endpoint lifecycle management and troubleshooting.",
+    "sysadmin": "Client Actions refers to an SCCM site role, client-triggered action, device state message, version identifier, or known issue used for managing clients, monitoring performance, and resolving deployment failures.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udda5\ufe0f\ud83d\udce2\ud83d\udcca",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Automation",
+      "Monitoring"
+    ],
+    "related": [
+      "client actions",
+      "error code",
+      "sccm versions",
+      "co-managed workloads",
+      "reporting services point"
+    ],
+    "aliases": [
+      "client actions",
+      "CLIENT ACTIONS"
+    ],
+    "use_case": "An endpoint engineer uses Client Actions to configure hybrid device management, trigger client policies, or diagnose issues in SCCM environments.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "machine policy retrieval": {
+    "eli5": "Machine Policy Retrieval is like a job list, update, or error note that helps IT teams keep computers working and talking to each other.",
+    "boss": "Machine Policy Retrieval includes SCCM roles, client actions, licensing models, common error conditions, and hybrid Intune integration features that support endpoint lifecycle management and troubleshooting.",
+    "sysadmin": "Machine Policy Retrieval refers to an SCCM site role, client-triggered action, device state message, version identifier, or known issue used for managing clients, monitoring performance, and resolving deployment failures.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udda5\ufe0f\ud83d\udce2\ud83d\udcca",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Automation",
+      "Monitoring"
+    ],
+    "related": [
+      "client actions",
+      "error code",
+      "sccm versions",
+      "co-managed workloads",
+      "reporting services point"
+    ],
+    "aliases": [
+      "machine policy retrieval",
+      "MACHINE POLICY RETRIEVAL"
+    ],
+    "use_case": "An endpoint engineer uses Machine Policy Retrieval to configure hybrid device management, trigger client policies, or diagnose issues in SCCM environments.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "application evaluation cycle": {
+    "eli5": "Application Evaluation Cycle is like a job list, update, or error note that helps IT teams keep computers working and talking to each other.",
+    "boss": "Application Evaluation Cycle includes SCCM roles, client actions, licensing models, common error conditions, and hybrid Intune integration features that support endpoint lifecycle management and troubleshooting.",
+    "sysadmin": "Application Evaluation Cycle refers to an SCCM site role, client-triggered action, device state message, version identifier, or known issue used for managing clients, monitoring performance, and resolving deployment failures.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udda5\ufe0f\ud83d\udce2\ud83d\udcca",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Automation",
+      "Monitoring"
+    ],
+    "related": [
+      "client actions",
+      "error code",
+      "sccm versions",
+      "co-managed workloads",
+      "reporting services point"
+    ],
+    "aliases": [
+      "application evaluation cycle",
+      "APPLICATION EVALUATION CYCLE"
+    ],
+    "use_case": "An endpoint engineer uses Application Evaluation Cycle to configure hybrid device management, trigger client policies, or diagnose issues in SCCM environments.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "software inventory cycle": {
+    "eli5": "Software Inventory Cycle is like a job list, update, or error note that helps IT teams keep computers working and talking to each other.",
+    "boss": "Software Inventory Cycle includes SCCM roles, client actions, licensing models, common error conditions, and hybrid Intune integration features that support endpoint lifecycle management and troubleshooting.",
+    "sysadmin": "Software Inventory Cycle refers to an SCCM site role, client-triggered action, device state message, version identifier, or known issue used for managing clients, monitoring performance, and resolving deployment failures.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udda5\ufe0f\ud83d\udce2\ud83d\udcca",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Automation",
+      "Monitoring"
+    ],
+    "related": [
+      "client actions",
+      "error code",
+      "sccm versions",
+      "co-managed workloads",
+      "reporting services point"
+    ],
+    "aliases": [
+      "software inventory cycle",
+      "SOFTWARE INVENTORY CYCLE"
+    ],
+    "use_case": "An endpoint engineer uses Software Inventory Cycle to configure hybrid device management, trigger client policies, or diagnose issues in SCCM environments.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "hardware inventory cycle": {
+    "eli5": "Hardware Inventory Cycle is like a job list, update, or error note that helps IT teams keep computers working and talking to each other.",
+    "boss": "Hardware Inventory Cycle includes SCCM roles, client actions, licensing models, common error conditions, and hybrid Intune integration features that support endpoint lifecycle management and troubleshooting.",
+    "sysadmin": "Hardware Inventory Cycle refers to an SCCM site role, client-triggered action, device state message, version identifier, or known issue used for managing clients, monitoring performance, and resolving deployment failures.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udda5\ufe0f\ud83d\udce2\ud83d\udcca",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Automation",
+      "Monitoring"
+    ],
+    "related": [
+      "client actions",
+      "error code",
+      "sccm versions",
+      "co-managed workloads",
+      "reporting services point"
+    ],
+    "aliases": [
+      "hardware inventory cycle",
+      "HARDWARE INVENTORY CYCLE"
+    ],
+    "use_case": "An endpoint engineer uses Hardware Inventory Cycle to configure hybrid device management, trigger client policies, or diagnose issues in SCCM environments.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "update scan cycle": {
+    "eli5": "Update Scan Cycle is like a job list, update, or error note that helps IT teams keep computers working and talking to each other.",
+    "boss": "Update Scan Cycle includes SCCM roles, client actions, licensing models, common error conditions, and hybrid Intune integration features that support endpoint lifecycle management and troubleshooting.",
+    "sysadmin": "Update Scan Cycle refers to an SCCM site role, client-triggered action, device state message, version identifier, or known issue used for managing clients, monitoring performance, and resolving deployment failures.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udda5\ufe0f\ud83d\udce2\ud83d\udcca",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Automation",
+      "Monitoring"
+    ],
+    "related": [
+      "client actions",
+      "error code",
+      "sccm versions",
+      "co-managed workloads",
+      "reporting services point"
+    ],
+    "aliases": [
+      "update scan cycle",
+      "UPDATE SCAN CYCLE"
+    ],
+    "use_case": "An endpoint engineer uses Update Scan Cycle to configure hybrid device management, trigger client policies, or diagnose issues in SCCM environments.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "user policy retrieval": {
+    "eli5": "User Policy Retrieval is like a job list, update, or error note that helps IT teams keep computers working and talking to each other.",
+    "boss": "User Policy Retrieval includes SCCM roles, client actions, licensing models, common error conditions, and hybrid Intune integration features that support endpoint lifecycle management and troubleshooting.",
+    "sysadmin": "User Policy Retrieval refers to an SCCM site role, client-triggered action, device state message, version identifier, or known issue used for managing clients, monitoring performance, and resolving deployment failures.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udda5\ufe0f\ud83d\udce2\ud83d\udcca",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Automation",
+      "Monitoring"
+    ],
+    "related": [
+      "client actions",
+      "error code",
+      "sccm versions",
+      "co-managed workloads",
+      "reporting services point"
+    ],
+    "aliases": [
+      "user policy retrieval",
+      "USER POLICY RETRIEVAL"
+    ],
+    "use_case": "An endpoint engineer uses User Policy Retrieval to configure hybrid device management, trigger client policies, or diagnose issues in SCCM environments.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "restart client": {
+    "eli5": "Restart Client is like a job list, update, or error note that helps IT teams keep computers working and talking to each other.",
+    "boss": "Restart Client includes SCCM roles, client actions, licensing models, common error conditions, and hybrid Intune integration features that support endpoint lifecycle management and troubleshooting.",
+    "sysadmin": "Restart Client refers to an SCCM site role, client-triggered action, device state message, version identifier, or known issue used for managing clients, monitoring performance, and resolving deployment failures.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udda5\ufe0f\ud83d\udce2\ud83d\udcca",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Automation",
+      "Monitoring"
+    ],
+    "related": [
+      "client actions",
+      "error code",
+      "sccm versions",
+      "co-managed workloads",
+      "reporting services point"
+    ],
+    "aliases": [
+      "restart client",
+      "RESTART CLIENT"
+    ],
+    "use_case": "An endpoint engineer uses Restart Client to configure hybrid device management, trigger client policies, or diagnose issues in SCCM environments.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "status messages": {
+    "eli5": "Status Messages is like a job list, update, or error note that helps IT teams keep computers working and talking to each other.",
+    "boss": "Status Messages includes SCCM roles, client actions, licensing models, common error conditions, and hybrid Intune integration features that support endpoint lifecycle management and troubleshooting.",
+    "sysadmin": "Status Messages refers to an SCCM site role, client-triggered action, device state message, version identifier, or known issue used for managing clients, monitoring performance, and resolving deployment failures.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udda5\ufe0f\ud83d\udce2\ud83d\udcca",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Automation",
+      "Monitoring"
+    ],
+    "related": [
+      "client actions",
+      "error code",
+      "sccm versions",
+      "co-managed workloads",
+      "reporting services point"
+    ],
+    "aliases": [
+      "status messages",
+      "STATUS MESSAGES"
+    ],
+    "use_case": "An endpoint engineer uses Status Messages to configure hybrid device management, trigger client policies, or diagnose issues in SCCM environments.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "state message": {
+    "eli5": "State Message is like a job list, update, or error note that helps IT teams keep computers working and talking to each other.",
+    "boss": "State Message includes SCCM roles, client actions, licensing models, common error conditions, and hybrid Intune integration features that support endpoint lifecycle management and troubleshooting.",
+    "sysadmin": "State Message refers to an SCCM site role, client-triggered action, device state message, version identifier, or known issue used for managing clients, monitoring performance, and resolving deployment failures.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udda5\ufe0f\ud83d\udce2\ud83d\udcca",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Automation",
+      "Monitoring"
+    ],
+    "related": [
+      "client actions",
+      "error code",
+      "sccm versions",
+      "co-managed workloads",
+      "reporting services point"
+    ],
+    "aliases": [
+      "state message",
+      "STATE MESSAGE"
+    ],
+    "use_case": "An endpoint engineer uses State Message to configure hybrid device management, trigger client policies, or diagnose issues in SCCM environments.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "message id": {
+    "eli5": "Message ID is like a job list, update, or error note that helps IT teams keep computers working and talking to each other.",
+    "boss": "Message ID includes SCCM roles, client actions, licensing models, common error conditions, and hybrid Intune integration features that support endpoint lifecycle management and troubleshooting.",
+    "sysadmin": "Message ID refers to an SCCM site role, client-triggered action, device state message, version identifier, or known issue used for managing clients, monitoring performance, and resolving deployment failures.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udda5\ufe0f\ud83d\udce2\ud83d\udcca",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Automation",
+      "Monitoring"
+    ],
+    "related": [
+      "client actions",
+      "error code",
+      "sccm versions",
+      "co-managed workloads",
+      "reporting services point"
+    ],
+    "aliases": [
+      "message id",
+      "MESSAGE ID"
+    ],
+    "use_case": "An endpoint engineer uses Message ID to configure hybrid device management, trigger client policies, or diagnose issues in SCCM environments.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "advertisement status": {
+    "eli5": "Advertisement Status is like a job list, update, or error note that helps IT teams keep computers working and talking to each other.",
+    "boss": "Advertisement Status includes SCCM roles, client actions, licensing models, common error conditions, and hybrid Intune integration features that support endpoint lifecycle management and troubleshooting.",
+    "sysadmin": "Advertisement Status refers to an SCCM site role, client-triggered action, device state message, version identifier, or known issue used for managing clients, monitoring performance, and resolving deployment failures.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udda5\ufe0f\ud83d\udce2\ud83d\udcca",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Automation",
+      "Monitoring"
+    ],
+    "related": [
+      "client actions",
+      "error code",
+      "sccm versions",
+      "co-managed workloads",
+      "reporting services point"
+    ],
+    "aliases": [
+      "advertisement status",
+      "ADVERTISEMENT STATUS"
+    ],
+    "use_case": "An endpoint engineer uses Advertisement Status to configure hybrid device management, trigger client policies, or diagnose issues in SCCM environments.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "error code": {
+    "eli5": "Error Code is like a job list, update, or error note that helps IT teams keep computers working and talking to each other.",
+    "boss": "Error Code includes SCCM roles, client actions, licensing models, common error conditions, and hybrid Intune integration features that support endpoint lifecycle management and troubleshooting.",
+    "sysadmin": "Error Code refers to an SCCM site role, client-triggered action, device state message, version identifier, or known issue used for managing clients, monitoring performance, and resolving deployment failures.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udda5\ufe0f\ud83d\udce2\ud83d\udcca",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Automation",
+      "Monitoring"
+    ],
+    "related": [
+      "client actions",
+      "error code",
+      "sccm versions",
+      "co-managed workloads",
+      "reporting services point"
+    ],
+    "aliases": [
+      "error code",
+      "ERROR CODE"
+    ],
+    "use_case": "An endpoint engineer uses Error Code to configure hybrid device management, trigger client policies, or diagnose issues in SCCM environments.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "success code": {
+    "eli5": "Success Code is like a job list, update, or error note that helps IT teams keep computers working and talking to each other.",
+    "boss": "Success Code includes SCCM roles, client actions, licensing models, common error conditions, and hybrid Intune integration features that support endpoint lifecycle management and troubleshooting.",
+    "sysadmin": "Success Code refers to an SCCM site role, client-triggered action, device state message, version identifier, or known issue used for managing clients, monitoring performance, and resolving deployment failures.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udda5\ufe0f\ud83d\udce2\ud83d\udcca",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Automation",
+      "Monitoring"
+    ],
+    "related": [
+      "client actions",
+      "error code",
+      "sccm versions",
+      "co-managed workloads",
+      "reporting services point"
+    ],
+    "aliases": [
+      "success code",
+      "SUCCESS CODE"
+    ],
+    "use_case": "An endpoint engineer uses Success Code to configure hybrid device management, trigger client policies, or diagnose issues in SCCM environments.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "message viewer": {
+    "eli5": "Message Viewer is like a job list, update, or error note that helps IT teams keep computers working and talking to each other.",
+    "boss": "Message Viewer includes SCCM roles, client actions, licensing models, common error conditions, and hybrid Intune integration features that support endpoint lifecycle management and troubleshooting.",
+    "sysadmin": "Message Viewer refers to an SCCM site role, client-triggered action, device state message, version identifier, or known issue used for managing clients, monitoring performance, and resolving deployment failures.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udda5\ufe0f\ud83d\udce2\ud83d\udcca",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Automation",
+      "Monitoring"
+    ],
+    "related": [
+      "client actions",
+      "error code",
+      "sccm versions",
+      "co-managed workloads",
+      "reporting services point"
+    ],
+    "aliases": [
+      "message viewer",
+      "MESSAGE VIEWER"
+    ],
+    "use_case": "An endpoint engineer uses Message Viewer to configure hybrid device management, trigger client policies, or diagnose issues in SCCM environments.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "sccm versions": {
+    "eli5": "SCCM Versions is like a job list, update, or error note that helps IT teams keep computers working and talking to each other.",
+    "boss": "SCCM Versions includes SCCM roles, client actions, licensing models, common error conditions, and hybrid Intune integration features that support endpoint lifecycle management and troubleshooting.",
+    "sysadmin": "SCCM Versions refers to an SCCM site role, client-triggered action, device state message, version identifier, or known issue used for managing clients, monitoring performance, and resolving deployment failures.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udda5\ufe0f\ud83d\udce2\ud83d\udcca",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Automation",
+      "Monitoring"
+    ],
+    "related": [
+      "client actions",
+      "error code",
+      "sccm versions",
+      "co-managed workloads",
+      "reporting services point"
+    ],
+    "aliases": [
+      "sccm versions",
+      "SCCM VERSIONS"
+    ],
+    "use_case": "An endpoint engineer uses SCCM Versions to configure hybrid device management, trigger client policies, or diagnose issues in SCCM environments.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "sccm 2012": {
+    "eli5": "SCCM 2012 is like a job list, update, or error note that helps IT teams keep computers working and talking to each other.",
+    "boss": "SCCM 2012 includes SCCM roles, client actions, licensing models, common error conditions, and hybrid Intune integration features that support endpoint lifecycle management and troubleshooting.",
+    "sysadmin": "SCCM 2012 refers to an SCCM site role, client-triggered action, device state message, version identifier, or known issue used for managing clients, monitoring performance, and resolving deployment failures.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udda5\ufe0f\ud83d\udce2\ud83d\udcca",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Automation",
+      "Monitoring"
+    ],
+    "related": [
+      "client actions",
+      "error code",
+      "sccm versions",
+      "co-managed workloads",
+      "reporting services point"
+    ],
+    "aliases": [
+      "sccm 2012",
+      "SCCM 2012"
+    ],
+    "use_case": "An endpoint engineer uses SCCM 2012 to configure hybrid device management, trigger client policies, or diagnose issues in SCCM environments.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "current branch (cb)": {
+    "eli5": "Current Branch (CB) is like a job list, update, or error note that helps IT teams keep computers working and talking to each other.",
+    "boss": "Current Branch (CB) includes SCCM roles, client actions, licensing models, common error conditions, and hybrid Intune integration features that support endpoint lifecycle management and troubleshooting.",
+    "sysadmin": "Current Branch (CB) refers to an SCCM site role, client-triggered action, device state message, version identifier, or known issue used for managing clients, monitoring performance, and resolving deployment failures.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udda5\ufe0f\ud83d\udce2\ud83d\udcca",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Automation",
+      "Monitoring"
+    ],
+    "related": [
+      "client actions",
+      "error code",
+      "sccm versions",
+      "co-managed workloads",
+      "reporting services point"
+    ],
+    "aliases": [
+      "current branch (cb)",
+      "CURRENT BRANCH (CB)"
+    ],
+    "use_case": "An endpoint engineer uses Current Branch (CB) to configure hybrid device management, trigger client policies, or diagnose issues in SCCM environments.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "technical preview": {
+    "eli5": "Technical Preview is like a job list, update, or error note that helps IT teams keep computers working and talking to each other.",
+    "boss": "Technical Preview includes SCCM roles, client actions, licensing models, common error conditions, and hybrid Intune integration features that support endpoint lifecycle management and troubleshooting.",
+    "sysadmin": "Technical Preview refers to an SCCM site role, client-triggered action, device state message, version identifier, or known issue used for managing clients, monitoring performance, and resolving deployment failures.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udda5\ufe0f\ud83d\udce2\ud83d\udcca",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Automation",
+      "Monitoring"
+    ],
+    "related": [
+      "client actions",
+      "error code",
+      "sccm versions",
+      "co-managed workloads",
+      "reporting services point"
+    ],
+    "aliases": [
+      "technical preview",
+      "TECHNICAL PREVIEW"
+    ],
+    "use_case": "An endpoint engineer uses Technical Preview to configure hybrid device management, trigger client policies, or diagnose issues in SCCM environments.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "build number": {
+    "eli5": "Build Number is like a job list, update, or error note that helps IT teams keep computers working and talking to each other.",
+    "boss": "Build Number includes SCCM roles, client actions, licensing models, common error conditions, and hybrid Intune integration features that support endpoint lifecycle management and troubleshooting.",
+    "sysadmin": "Build Number refers to an SCCM site role, client-triggered action, device state message, version identifier, or known issue used for managing clients, monitoring performance, and resolving deployment failures.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udda5\ufe0f\ud83d\udce2\ud83d\udcca",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Automation",
+      "Monitoring"
+    ],
+    "related": [
+      "client actions",
+      "error code",
+      "sccm versions",
+      "co-managed workloads",
+      "reporting services point"
+    ],
+    "aliases": [
+      "build number",
+      "BUILD NUMBER"
+    ],
+    "use_case": "An endpoint engineer uses Build Number to configure hybrid device management, trigger client policies, or diagnose issues in SCCM environments.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "release date": {
+    "eli5": "Release Date is like a job list, update, or error note that helps IT teams keep computers working and talking to each other.",
+    "boss": "Release Date includes SCCM roles, client actions, licensing models, common error conditions, and hybrid Intune integration features that support endpoint lifecycle management and troubleshooting.",
+    "sysadmin": "Release Date refers to an SCCM site role, client-triggered action, device state message, version identifier, or known issue used for managing clients, monitoring performance, and resolving deployment failures.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udda5\ufe0f\ud83d\udce2\ud83d\udcca",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Automation",
+      "Monitoring"
+    ],
+    "related": [
+      "client actions",
+      "error code",
+      "sccm versions",
+      "co-managed workloads",
+      "reporting services point"
+    ],
+    "aliases": [
+      "release date",
+      "RELEASE DATE"
+    ],
+    "use_case": "An endpoint engineer uses Release Date to configure hybrid device management, trigger client policies, or diagnose issues in SCCM environments.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "hotfix rollup": {
+    "eli5": "Hotfix Rollup is like a job list, update, or error note that helps IT teams keep computers working and talking to each other.",
+    "boss": "Hotfix Rollup includes SCCM roles, client actions, licensing models, common error conditions, and hybrid Intune integration features that support endpoint lifecycle management and troubleshooting.",
+    "sysadmin": "Hotfix Rollup refers to an SCCM site role, client-triggered action, device state message, version identifier, or known issue used for managing clients, monitoring performance, and resolving deployment failures.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udda5\ufe0f\ud83d\udce2\ud83d\udcca",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Automation",
+      "Monitoring"
+    ],
+    "related": [
+      "client actions",
+      "error code",
+      "sccm versions",
+      "co-managed workloads",
+      "reporting services point"
+    ],
+    "aliases": [
+      "hotfix rollup",
+      "HOTFIX ROLLUP"
+    ],
+    "use_case": "An endpoint engineer uses Hotfix Rollup to configure hybrid device management, trigger client policies, or diagnose issues in SCCM environments.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "baseline version": {
+    "eli5": "Baseline Version is like a job list, update, or error note that helps IT teams keep computers working and talking to each other.",
+    "boss": "Baseline Version includes SCCM roles, client actions, licensing models, common error conditions, and hybrid Intune integration features that support endpoint lifecycle management and troubleshooting.",
+    "sysadmin": "Baseline Version refers to an SCCM site role, client-triggered action, device state message, version identifier, or known issue used for managing clients, monitoring performance, and resolving deployment failures.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udda5\ufe0f\ud83d\udce2\ud83d\udcca",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Automation",
+      "Monitoring"
+    ],
+    "related": [
+      "client actions",
+      "error code",
+      "sccm versions",
+      "co-managed workloads",
+      "reporting services point"
+    ],
+    "aliases": [
+      "baseline version",
+      "BASELINE VERSION"
+    ],
+    "use_case": "An endpoint engineer uses Baseline Version to configure hybrid device management, trigger client policies, or diagnose issues in SCCM environments.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "in-console update": {
+    "eli5": "In-Console Update is like a job list, update, or error note that helps IT teams keep computers working and talking to each other.",
+    "boss": "In-Console Update includes SCCM roles, client actions, licensing models, common error conditions, and hybrid Intune integration features that support endpoint lifecycle management and troubleshooting.",
+    "sysadmin": "In-Console Update refers to an SCCM site role, client-triggered action, device state message, version identifier, or known issue used for managing clients, monitoring performance, and resolving deployment failures.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udda5\ufe0f\ud83d\udce2\ud83d\udcca",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Automation",
+      "Monitoring"
+    ],
+    "related": [
+      "client actions",
+      "error code",
+      "sccm versions",
+      "co-managed workloads",
+      "reporting services point"
+    ],
+    "aliases": [
+      "in-console update",
+      "IN-CONSOLE UPDATE"
+    ],
+    "use_case": "An endpoint engineer uses In-Console Update to configure hybrid device management, trigger client policies, or diagnose issues in SCCM environments.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "known issues": {
+    "eli5": "Known Issues is like a job list, update, or error note that helps IT teams keep computers working and talking to each other.",
+    "boss": "Known Issues includes SCCM roles, client actions, licensing models, common error conditions, and hybrid Intune integration features that support endpoint lifecycle management and troubleshooting.",
+    "sysadmin": "Known Issues refers to an SCCM site role, client-triggered action, device state message, version identifier, or known issue used for managing clients, monitoring performance, and resolving deployment failures.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udda5\ufe0f\ud83d\udce2\ud83d\udcca",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Automation",
+      "Monitoring"
+    ],
+    "related": [
+      "client actions",
+      "error code",
+      "sccm versions",
+      "co-managed workloads",
+      "reporting services point"
+    ],
+    "aliases": [
+      "known issues",
+      "KNOWN ISSUES"
+    ],
+    "use_case": "An endpoint engineer uses Known Issues to configure hybrid device management, trigger client policies, or diagnose issues in SCCM environments.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "slow replication": {
+    "eli5": "Slow Replication is like a job list, update, or error note that helps IT teams keep computers working and talking to each other.",
+    "boss": "Slow Replication includes SCCM roles, client actions, licensing models, common error conditions, and hybrid Intune integration features that support endpoint lifecycle management and troubleshooting.",
+    "sysadmin": "Slow Replication refers to an SCCM site role, client-triggered action, device state message, version identifier, or known issue used for managing clients, monitoring performance, and resolving deployment failures.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udda5\ufe0f\ud83d\udce2\ud83d\udcca",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Automation",
+      "Monitoring"
+    ],
+    "related": [
+      "client actions",
+      "error code",
+      "sccm versions",
+      "co-managed workloads",
+      "reporting services point"
+    ],
+    "aliases": [
+      "slow replication",
+      "SLOW REPLICATION"
+    ],
+    "use_case": "An endpoint engineer uses Slow Replication to configure hybrid device management, trigger client policies, or diagnose issues in SCCM environments.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "wmi corruption": {
+    "eli5": "WMI Corruption is like a job list, update, or error note that helps IT teams keep computers working and talking to each other.",
+    "boss": "WMI Corruption includes SCCM roles, client actions, licensing models, common error conditions, and hybrid Intune integration features that support endpoint lifecycle management and troubleshooting.",
+    "sysadmin": "WMI Corruption refers to an SCCM site role, client-triggered action, device state message, version identifier, or known issue used for managing clients, monitoring performance, and resolving deployment failures.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udda5\ufe0f\ud83d\udce2\ud83d\udcca",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Automation",
+      "Monitoring"
+    ],
+    "related": [
+      "client actions",
+      "error code",
+      "sccm versions",
+      "co-managed workloads",
+      "reporting services point"
+    ],
+    "aliases": [
+      "wmi corruption",
+      "WMI CORRUPTION"
+    ],
+    "use_case": "An endpoint engineer uses WMI Corruption to configure hybrid device management, trigger client policies, or diagnose issues in SCCM environments.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "broken pxe boot": {
+    "eli5": "Broken PXE Boot is like a job list, update, or error note that helps IT teams keep computers working and talking to each other.",
+    "boss": "Broken PXE Boot includes SCCM roles, client actions, licensing models, common error conditions, and hybrid Intune integration features that support endpoint lifecycle management and troubleshooting.",
+    "sysadmin": "Broken PXE Boot refers to an SCCM site role, client-triggered action, device state message, version identifier, or known issue used for managing clients, monitoring performance, and resolving deployment failures.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udda5\ufe0f\ud83d\udce2\ud83d\udcca",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Automation",
+      "Monitoring"
+    ],
+    "related": [
+      "client actions",
+      "error code",
+      "sccm versions",
+      "co-managed workloads",
+      "reporting services point"
+    ],
+    "aliases": [
+      "broken pxe boot",
+      "BROKEN PXE BOOT"
+    ],
+    "use_case": "An endpoint engineer uses Broken PXE Boot to configure hybrid device management, trigger client policies, or diagnose issues in SCCM environments.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "mp not responding": {
+    "eli5": "MP Not Responding is like a job list, update, or error note that helps IT teams keep computers working and talking to each other.",
+    "boss": "MP Not Responding includes SCCM roles, client actions, licensing models, common error conditions, and hybrid Intune integration features that support endpoint lifecycle management and troubleshooting.",
+    "sysadmin": "MP Not Responding refers to an SCCM site role, client-triggered action, device state message, version identifier, or known issue used for managing clients, monitoring performance, and resolving deployment failures.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udda5\ufe0f\ud83d\udce2\ud83d\udcca",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Automation",
+      "Monitoring"
+    ],
+    "related": [
+      "client actions",
+      "error code",
+      "sccm versions",
+      "co-managed workloads",
+      "reporting services point"
+    ],
+    "aliases": [
+      "mp not responding",
+      "MP NOT RESPONDING"
+    ],
+    "use_case": "An endpoint engineer uses MP Not Responding to configure hybrid device management, trigger client policies, or diagnose issues in SCCM environments.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "client not reporting": {
+    "eli5": "Client Not Reporting is like a job list, update, or error note that helps IT teams keep computers working and talking to each other.",
+    "boss": "Client Not Reporting includes SCCM roles, client actions, licensing models, common error conditions, and hybrid Intune integration features that support endpoint lifecycle management and troubleshooting.",
+    "sysadmin": "Client Not Reporting refers to an SCCM site role, client-triggered action, device state message, version identifier, or known issue used for managing clients, monitoring performance, and resolving deployment failures.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udda5\ufe0f\ud83d\udce2\ud83d\udcca",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Automation",
+      "Monitoring"
+    ],
+    "related": [
+      "client actions",
+      "error code",
+      "sccm versions",
+      "co-managed workloads",
+      "reporting services point"
+    ],
+    "aliases": [
+      "client not reporting",
+      "CLIENT NOT REPORTING"
+    ],
+    "use_case": "An endpoint engineer uses Client Not Reporting to configure hybrid device management, trigger client policies, or diagnose issues in SCCM environments.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "content stuck in progress": {
+    "eli5": "Content Stuck In Progress is like a job list, update, or error note that helps IT teams keep computers working and talking to each other.",
+    "boss": "Content Stuck In Progress includes SCCM roles, client actions, licensing models, common error conditions, and hybrid Intune integration features that support endpoint lifecycle management and troubleshooting.",
+    "sysadmin": "Content Stuck In Progress refers to an SCCM site role, client-triggered action, device state message, version identifier, or known issue used for managing clients, monitoring performance, and resolving deployment failures.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udda5\ufe0f\ud83d\udce2\ud83d\udcca",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Automation",
+      "Monitoring"
+    ],
+    "related": [
+      "client actions",
+      "error code",
+      "sccm versions",
+      "co-managed workloads",
+      "reporting services point"
+    ],
+    "aliases": [
+      "content stuck in progress",
+      "CONTENT STUCK IN PROGRESS"
+    ],
+    "use_case": "An endpoint engineer uses Content Stuck In Progress to configure hybrid device management, trigger client policies, or diagnose issues in SCCM environments.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "expired certificate": {
+    "eli5": "Expired Certificate is like a job list, update, or error note that helps IT teams keep computers working and talking to each other.",
+    "boss": "Expired Certificate includes SCCM roles, client actions, licensing models, common error conditions, and hybrid Intune integration features that support endpoint lifecycle management and troubleshooting.",
+    "sysadmin": "Expired Certificate refers to an SCCM site role, client-triggered action, device state message, version identifier, or known issue used for managing clients, monitoring performance, and resolving deployment failures.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udda5\ufe0f\ud83d\udce2\ud83d\udcca",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Automation",
+      "Monitoring"
+    ],
+    "related": [
+      "client actions",
+      "error code",
+      "sccm versions",
+      "co-managed workloads",
+      "reporting services point"
+    ],
+    "aliases": [
+      "expired certificate",
+      "EXPIRED CERTIFICATE"
+    ],
+    "use_case": "An endpoint engineer uses Expired Certificate to configure hybrid device management, trigger client policies, or diagnose issues in SCCM environments.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "failed ts step": {
+    "eli5": "Failed TS Step is like a job list, update, or error note that helps IT teams keep computers working and talking to each other.",
+    "boss": "Failed TS Step includes SCCM roles, client actions, licensing models, common error conditions, and hybrid Intune integration features that support endpoint lifecycle management and troubleshooting.",
+    "sysadmin": "Failed TS Step refers to an SCCM site role, client-triggered action, device state message, version identifier, or known issue used for managing clients, monitoring performance, and resolving deployment failures.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udda5\ufe0f\ud83d\udce2\ud83d\udcca",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Automation",
+      "Monitoring"
+    ],
+    "related": [
+      "client actions",
+      "error code",
+      "sccm versions",
+      "co-managed workloads",
+      "reporting services point"
+    ],
+    "aliases": [
+      "failed ts step",
+      "FAILED TS STEP"
+    ],
+    "use_case": "An endpoint engineer uses Failed TS Step to configure hybrid device management, trigger client policies, or diagnose issues in SCCM environments.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "code 0x80004005": {
+    "eli5": "Code 0x80004005 is like a job list, update, or error note that helps IT teams keep computers working and talking to each other.",
+    "boss": "Code 0x80004005 includes SCCM roles, client actions, licensing models, common error conditions, and hybrid Intune integration features that support endpoint lifecycle management and troubleshooting.",
+    "sysadmin": "Code 0x80004005 refers to an SCCM site role, client-triggered action, device state message, version identifier, or known issue used for managing clients, monitoring performance, and resolving deployment failures.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udda5\ufe0f\ud83d\udce2\ud83d\udcca",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Automation",
+      "Monitoring"
+    ],
+    "related": [
+      "client actions",
+      "error code",
+      "sccm versions",
+      "co-managed workloads",
+      "reporting services point"
+    ],
+    "aliases": [
+      "code 0x80004005",
+      "CODE 0X80004005"
+    ],
+    "use_case": "An endpoint engineer uses Code 0x80004005 to configure hybrid device management, trigger client policies, or diagnose issues in SCCM environments.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "collections limit": {
+    "eli5": "Collections Limit is like a job list, update, or error note that helps IT teams keep computers working and talking to each other.",
+    "boss": "Collections Limit includes SCCM roles, client actions, licensing models, common error conditions, and hybrid Intune integration features that support endpoint lifecycle management and troubleshooting.",
+    "sysadmin": "Collections Limit refers to an SCCM site role, client-triggered action, device state message, version identifier, or known issue used for managing clients, monitoring performance, and resolving deployment failures.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udda5\ufe0f\ud83d\udce2\ud83d\udcca",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Automation",
+      "Monitoring"
+    ],
+    "related": [
+      "client actions",
+      "error code",
+      "sccm versions",
+      "co-managed workloads",
+      "reporting services point"
+    ],
+    "aliases": [
+      "collections limit",
+      "COLLECTIONS LIMIT"
+    ],
+    "use_case": "An endpoint engineer uses Collections Limit to configure hybrid device management, trigger client policies, or diagnose issues in SCCM environments.",
+    "jargon_score": 5,
+    "level": "Expert"
+  }
+}

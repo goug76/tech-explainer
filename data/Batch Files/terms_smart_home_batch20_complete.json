@@ -1,0 +1,69 @@
+{
+  "postcss": {
+    "eli5": "PostCSS is like a magic tool that cleans and upgrades your CSS before it\u2019s used.",
+    "boss": "PostCSS is a tool that processes CSS with plugins to transform, optimize, and extend stylesheets for better performance and compatibility.",
+    "sysadmin": "PostCSS parses CSS into an abstract syntax tree (AST) and allows transformation via plugins like Autoprefixer or nesting rules before bundling.",
+    "emoji": "\ud83e\uddfc\ud83c\udfa8\ud83d\udd27",
+    "categories": [
+      "Web",
+      "CSS",
+      "Build Tools"
+    ],
+    "related": [
+      "Autoprefixer",
+      "Tailwind CSS",
+      "SCSS"
+    ],
+    "aliases": [
+      "CSS Processor"
+    ],
+    "use_case": "Used to add vendor prefixes and minify CSS before shipping to production.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "autoprefixer": {
+    "eli5": "It\u2019s a tool that adds the right browser labels to your CSS so it works everywhere.",
+    "boss": "Autoprefixer automatically adds vendor-specific prefixes to CSS rules based on browser compatibility data.",
+    "sysadmin": "Autoprefixer is a PostCSS plugin that uses data from Can I Use to insert required prefixes (e.g., -webkit-) during CSS compilation.",
+    "emoji": "\ud83d\ude80\ud83e\udde9\ud83e\uddfe",
+    "categories": [
+      "Web",
+      "CSS",
+      "Build Tools"
+    ],
+    "related": [
+      "PostCSS",
+      "Tailwind CSS",
+      "Babel"
+    ],
+    "aliases": [
+      "CSS Prefixer"
+    ],
+    "use_case": "Used to ensure flexbox layouts work across Safari, Chrome, and Firefox.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "tailwindcss": {
+    "eli5": "Tailwind is like LEGO blocks for websites\u2014you stack utility classes to build designs fast.",
+    "boss": "Tailwind CSS is a utility-first framework that lets developers rapidly build designs using small, reusable class names.",
+    "sysadmin": "Tailwind is a PostCSS-based CSS framework offering atomic class utilities for styling, with support for responsive, hover, and theme customization.",
+    "emoji": "\ud83e\uddf1\ud83d\udca8\ud83c\udfa8",
+    "categories": [
+      "Web",
+      "CSS",
+      "Frameworks"
+    ],
+    "related": [
+      "PostCSS",
+      "Bootstrap",
+      "Styled Components"
+    ],
+    "aliases": [
+      "Tailwind",
+      "Tailwind CSS"
+    ],
+    "use_case": "Used to quickly prototype and build responsive UIs using utility classes.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  }
+}

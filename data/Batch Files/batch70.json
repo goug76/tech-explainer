@@ -1,0 +1,1402 @@
+{
+  "reporting": {
+    "eli5": "Reporting is like a tool, checklist, or secret file that helps your IT team check, fix, or report what computers are doing.",
+    "boss": "Reporting includes SCCM/MECM reporting, compliance, inventory, and role-based security tools used to monitor, manage, and audit enterprise environments.",
+    "sysadmin": "Reporting refers to a reporting engine, query type, compliance rule, user role, or logging utility used to retrieve inventory, enforce policies, and troubleshoot endpoints in a managed environment.",
+    "emoji": "\ud83d\udcca\ud83d\udee0\ufe0f\ud83d\udd0d\ud83e\uddfe",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Monitoring",
+      "Analytics",
+      "Security"
+    ],
+    "related": [
+      "ssrs",
+      "compliance policy",
+      "device collection",
+      "custom mof",
+      "execmgr.log"
+    ],
+    "aliases": [
+      "reporting",
+      "REPORTING"
+    ],
+    "use_case": "An SCCM admin uses Reporting to generate reports, manage access, enforce baselines, or view logs for operational insight.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "ssrs (sql server reporting services)": {
+    "eli5": "SSRS (SQL Server Reporting Services) is like a tool, checklist, or secret file that helps your IT team check, fix, or report what computers are doing.",
+    "boss": "SSRS (SQL Server Reporting Services) includes SCCM/MECM reporting, compliance, inventory, and role-based security tools used to monitor, manage, and audit enterprise environments.",
+    "sysadmin": "SSRS (SQL Server Reporting Services) refers to a reporting engine, query type, compliance rule, user role, or logging utility used to retrieve inventory, enforce policies, and troubleshoot endpoints in a managed environment.",
+    "emoji": "\ud83d\udcca\ud83d\udee0\ufe0f\ud83d\udd0d\ud83e\uddfe",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Monitoring",
+      "Analytics",
+      "Security"
+    ],
+    "related": [
+      "ssrs",
+      "compliance policy",
+      "device collection",
+      "custom mof",
+      "execmgr.log"
+    ],
+    "aliases": [
+      "ssrs (sql server reporting services)",
+      "SSRS (SQL SERVER REPORTING SERVICES)"
+    ],
+    "use_case": "An SCCM admin uses SSRS (SQL Server Reporting Services) to generate reports, manage access, enforce baselines, or view logs for operational insight.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "report builder": {
+    "eli5": "Report Builder is like a tool, checklist, or secret file that helps your IT team check, fix, or report what computers are doing.",
+    "boss": "Report Builder includes SCCM/MECM reporting, compliance, inventory, and role-based security tools used to monitor, manage, and audit enterprise environments.",
+    "sysadmin": "Report Builder refers to a reporting engine, query type, compliance rule, user role, or logging utility used to retrieve inventory, enforce policies, and troubleshoot endpoints in a managed environment.",
+    "emoji": "\ud83d\udcca\ud83d\udee0\ufe0f\ud83d\udd0d\ud83e\uddfe",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Monitoring",
+      "Analytics",
+      "Security"
+    ],
+    "related": [
+      "ssrs",
+      "compliance policy",
+      "device collection",
+      "custom mof",
+      "execmgr.log"
+    ],
+    "aliases": [
+      "report builder",
+      "REPORT BUILDER"
+    ],
+    "use_case": "An SCCM admin uses Report Builder to generate reports, manage access, enforce baselines, or view logs for operational insight.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "built-in reports": {
+    "eli5": "Built-In Reports is like a tool, checklist, or secret file that helps your IT team check, fix, or report what computers are doing.",
+    "boss": "Built-In Reports includes SCCM/MECM reporting, compliance, inventory, and role-based security tools used to monitor, manage, and audit enterprise environments.",
+    "sysadmin": "Built-In Reports refers to a reporting engine, query type, compliance rule, user role, or logging utility used to retrieve inventory, enforce policies, and troubleshoot endpoints in a managed environment.",
+    "emoji": "\ud83d\udcca\ud83d\udee0\ufe0f\ud83d\udd0d\ud83e\uddfe",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Monitoring",
+      "Analytics",
+      "Security"
+    ],
+    "related": [
+      "ssrs",
+      "compliance policy",
+      "device collection",
+      "custom mof",
+      "execmgr.log"
+    ],
+    "aliases": [
+      "built-in reports",
+      "BUILT-IN REPORTS"
+    ],
+    "use_case": "An SCCM admin uses Built-In Reports to generate reports, manage access, enforce baselines, or view logs for operational insight.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "custom reports": {
+    "eli5": "Custom Reports is like a tool, checklist, or secret file that helps your IT team check, fix, or report what computers are doing.",
+    "boss": "Custom Reports includes SCCM/MECM reporting, compliance, inventory, and role-based security tools used to monitor, manage, and audit enterprise environments.",
+    "sysadmin": "Custom Reports refers to a reporting engine, query type, compliance rule, user role, or logging utility used to retrieve inventory, enforce policies, and troubleshoot endpoints in a managed environment.",
+    "emoji": "\ud83d\udcca\ud83d\udee0\ufe0f\ud83d\udd0d\ud83e\uddfe",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Monitoring",
+      "Analytics",
+      "Security"
+    ],
+    "related": [
+      "ssrs",
+      "compliance policy",
+      "device collection",
+      "custom mof",
+      "execmgr.log"
+    ],
+    "aliases": [
+      "custom reports",
+      "CUSTOM REPORTS"
+    ],
+    "use_case": "An SCCM admin uses Custom Reports to generate reports, manage access, enforce baselines, or view logs for operational insight.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "sql query": {
+    "eli5": "SQL Query is like a tool, checklist, or secret file that helps your IT team check, fix, or report what computers are doing.",
+    "boss": "SQL Query includes SCCM/MECM reporting, compliance, inventory, and role-based security tools used to monitor, manage, and audit enterprise environments.",
+    "sysadmin": "SQL Query refers to a reporting engine, query type, compliance rule, user role, or logging utility used to retrieve inventory, enforce policies, and troubleshoot endpoints in a managed environment.",
+    "emoji": "\ud83d\udcca\ud83d\udee0\ufe0f\ud83d\udd0d\ud83e\uddfe",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Monitoring",
+      "Analytics",
+      "Security"
+    ],
+    "related": [
+      "ssrs",
+      "compliance policy",
+      "device collection",
+      "custom mof",
+      "execmgr.log"
+    ],
+    "aliases": [
+      "sql query",
+      "SQL QUERY"
+    ],
+    "use_case": "An SCCM admin uses SQL Query to generate reports, manage access, enforce baselines, or view logs for operational insight.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "wql query": {
+    "eli5": "WQL Query is like a tool, checklist, or secret file that helps your IT team check, fix, or report what computers are doing.",
+    "boss": "WQL Query includes SCCM/MECM reporting, compliance, inventory, and role-based security tools used to monitor, manage, and audit enterprise environments.",
+    "sysadmin": "WQL Query refers to a reporting engine, query type, compliance rule, user role, or logging utility used to retrieve inventory, enforce policies, and troubleshoot endpoints in a managed environment.",
+    "emoji": "\ud83d\udcca\ud83d\udee0\ufe0f\ud83d\udd0d\ud83e\uddfe",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Monitoring",
+      "Analytics",
+      "Security"
+    ],
+    "related": [
+      "ssrs",
+      "compliance policy",
+      "device collection",
+      "custom mof",
+      "execmgr.log"
+    ],
+    "aliases": [
+      "wql query",
+      "WQL QUERY"
+    ],
+    "use_case": "An SCCM admin uses WQL Query to generate reports, manage access, enforce baselines, or view logs for operational insight.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "cmpivot": {
+    "eli5": "CMPivot is like a tool, checklist, or secret file that helps your IT team check, fix, or report what computers are doing.",
+    "boss": "CMPivot includes SCCM/MECM reporting, compliance, inventory, and role-based security tools used to monitor, manage, and audit enterprise environments.",
+    "sysadmin": "CMPivot refers to a reporting engine, query type, compliance rule, user role, or logging utility used to retrieve inventory, enforce policies, and troubleshoot endpoints in a managed environment.",
+    "emoji": "\ud83d\udcca\ud83d\udee0\ufe0f\ud83d\udd0d\ud83e\uddfe",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Monitoring",
+      "Analytics",
+      "Security"
+    ],
+    "related": [
+      "ssrs",
+      "compliance policy",
+      "device collection",
+      "custom mof",
+      "execmgr.log"
+    ],
+    "aliases": [
+      "cmpivot",
+      "CMPIVOT"
+    ],
+    "use_case": "An SCCM admin uses CMPivot to generate reports, manage access, enforce baselines, or view logs for operational insight.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "collections": {
+    "eli5": "Collections is like a tool, checklist, or secret file that helps your IT team check, fix, or report what computers are doing.",
+    "boss": "Collections includes SCCM/MECM reporting, compliance, inventory, and role-based security tools used to monitor, manage, and audit enterprise environments.",
+    "sysadmin": "Collections refers to a reporting engine, query type, compliance rule, user role, or logging utility used to retrieve inventory, enforce policies, and troubleshoot endpoints in a managed environment.",
+    "emoji": "\ud83d\udcca\ud83d\udee0\ufe0f\ud83d\udd0d\ud83e\uddfe",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Monitoring",
+      "Analytics",
+      "Security"
+    ],
+    "related": [
+      "ssrs",
+      "compliance policy",
+      "device collection",
+      "custom mof",
+      "execmgr.log"
+    ],
+    "aliases": [
+      "collections",
+      "COLLECTIONS"
+    ],
+    "use_case": "An SCCM admin uses Collections to generate reports, manage access, enforce baselines, or view logs for operational insight.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "device collection": {
+    "eli5": "Device Collection is like a tool, checklist, or secret file that helps your IT team check, fix, or report what computers are doing.",
+    "boss": "Device Collection includes SCCM/MECM reporting, compliance, inventory, and role-based security tools used to monitor, manage, and audit enterprise environments.",
+    "sysadmin": "Device Collection refers to a reporting engine, query type, compliance rule, user role, or logging utility used to retrieve inventory, enforce policies, and troubleshoot endpoints in a managed environment.",
+    "emoji": "\ud83d\udcca\ud83d\udee0\ufe0f\ud83d\udd0d\ud83e\uddfe",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Monitoring",
+      "Analytics",
+      "Security"
+    ],
+    "related": [
+      "ssrs",
+      "compliance policy",
+      "device collection",
+      "custom mof",
+      "execmgr.log"
+    ],
+    "aliases": [
+      "device collection",
+      "DEVICE COLLECTION"
+    ],
+    "use_case": "An SCCM admin uses Device Collection to generate reports, manage access, enforce baselines, or view logs for operational insight.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "user collection": {
+    "eli5": "User Collection is like a tool, checklist, or secret file that helps your IT team check, fix, or report what computers are doing.",
+    "boss": "User Collection includes SCCM/MECM reporting, compliance, inventory, and role-based security tools used to monitor, manage, and audit enterprise environments.",
+    "sysadmin": "User Collection refers to a reporting engine, query type, compliance rule, user role, or logging utility used to retrieve inventory, enforce policies, and troubleshoot endpoints in a managed environment.",
+    "emoji": "\ud83d\udcca\ud83d\udee0\ufe0f\ud83d\udd0d\ud83e\uddfe",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Monitoring",
+      "Analytics",
+      "Security"
+    ],
+    "related": [
+      "ssrs",
+      "compliance policy",
+      "device collection",
+      "custom mof",
+      "execmgr.log"
+    ],
+    "aliases": [
+      "user collection",
+      "USER COLLECTION"
+    ],
+    "use_case": "An SCCM admin uses User Collection to generate reports, manage access, enforce baselines, or view logs for operational insight.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "query rule": {
+    "eli5": "Query Rule is like a tool, checklist, or secret file that helps your IT team check, fix, or report what computers are doing.",
+    "boss": "Query Rule includes SCCM/MECM reporting, compliance, inventory, and role-based security tools used to monitor, manage, and audit enterprise environments.",
+    "sysadmin": "Query Rule refers to a reporting engine, query type, compliance rule, user role, or logging utility used to retrieve inventory, enforce policies, and troubleshoot endpoints in a managed environment.",
+    "emoji": "\ud83d\udcca\ud83d\udee0\ufe0f\ud83d\udd0d\ud83e\uddfe",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Monitoring",
+      "Analytics",
+      "Security"
+    ],
+    "related": [
+      "ssrs",
+      "compliance policy",
+      "device collection",
+      "custom mof",
+      "execmgr.log"
+    ],
+    "aliases": [
+      "query rule",
+      "QUERY RULE"
+    ],
+    "use_case": "An SCCM admin uses Query Rule to generate reports, manage access, enforce baselines, or view logs for operational insight.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "include collection": {
+    "eli5": "Include Collection is like a tool, checklist, or secret file that helps your IT team check, fix, or report what computers are doing.",
+    "boss": "Include Collection includes SCCM/MECM reporting, compliance, inventory, and role-based security tools used to monitor, manage, and audit enterprise environments.",
+    "sysadmin": "Include Collection refers to a reporting engine, query type, compliance rule, user role, or logging utility used to retrieve inventory, enforce policies, and troubleshoot endpoints in a managed environment.",
+    "emoji": "\ud83d\udcca\ud83d\udee0\ufe0f\ud83d\udd0d\ud83e\uddfe",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Monitoring",
+      "Analytics",
+      "Security"
+    ],
+    "related": [
+      "ssrs",
+      "compliance policy",
+      "device collection",
+      "custom mof",
+      "execmgr.log"
+    ],
+    "aliases": [
+      "include collection",
+      "INCLUDE COLLECTION"
+    ],
+    "use_case": "An SCCM admin uses Include Collection to generate reports, manage access, enforce baselines, or view logs for operational insight.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "exclude collection": {
+    "eli5": "Exclude Collection is like a tool, checklist, or secret file that helps your IT team check, fix, or report what computers are doing.",
+    "boss": "Exclude Collection includes SCCM/MECM reporting, compliance, inventory, and role-based security tools used to monitor, manage, and audit enterprise environments.",
+    "sysadmin": "Exclude Collection refers to a reporting engine, query type, compliance rule, user role, or logging utility used to retrieve inventory, enforce policies, and troubleshoot endpoints in a managed environment.",
+    "emoji": "\ud83d\udcca\ud83d\udee0\ufe0f\ud83d\udd0d\ud83e\uddfe",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Monitoring",
+      "Analytics",
+      "Security"
+    ],
+    "related": [
+      "ssrs",
+      "compliance policy",
+      "device collection",
+      "custom mof",
+      "execmgr.log"
+    ],
+    "aliases": [
+      "exclude collection",
+      "EXCLUDE COLLECTION"
+    ],
+    "use_case": "An SCCM admin uses Exclude Collection to generate reports, manage access, enforce baselines, or view logs for operational insight.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "incremental update": {
+    "eli5": "Incremental Update is like a tool, checklist, or secret file that helps your IT team check, fix, or report what computers are doing.",
+    "boss": "Incremental Update includes SCCM/MECM reporting, compliance, inventory, and role-based security tools used to monitor, manage, and audit enterprise environments.",
+    "sysadmin": "Incremental Update refers to a reporting engine, query type, compliance rule, user role, or logging utility used to retrieve inventory, enforce policies, and troubleshoot endpoints in a managed environment.",
+    "emoji": "\ud83d\udcca\ud83d\udee0\ufe0f\ud83d\udd0d\ud83e\uddfe",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Monitoring",
+      "Analytics",
+      "Security"
+    ],
+    "related": [
+      "ssrs",
+      "compliance policy",
+      "device collection",
+      "custom mof",
+      "execmgr.log"
+    ],
+    "aliases": [
+      "incremental update",
+      "INCREMENTAL UPDATE"
+    ],
+    "use_case": "An SCCM admin uses Incremental Update to generate reports, manage access, enforce baselines, or view logs for operational insight.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "refresh schedule": {
+    "eli5": "Refresh Schedule is like a tool, checklist, or secret file that helps your IT team check, fix, or report what computers are doing.",
+    "boss": "Refresh Schedule includes SCCM/MECM reporting, compliance, inventory, and role-based security tools used to monitor, manage, and audit enterprise environments.",
+    "sysadmin": "Refresh Schedule refers to a reporting engine, query type, compliance rule, user role, or logging utility used to retrieve inventory, enforce policies, and troubleshoot endpoints in a managed environment.",
+    "emoji": "\ud83d\udcca\ud83d\udee0\ufe0f\ud83d\udd0d\ud83e\uddfe",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Monitoring",
+      "Analytics",
+      "Security"
+    ],
+    "related": [
+      "ssrs",
+      "compliance policy",
+      "device collection",
+      "custom mof",
+      "execmgr.log"
+    ],
+    "aliases": [
+      "refresh schedule",
+      "REFRESH SCHEDULE"
+    ],
+    "use_case": "An SCCM admin uses Refresh Schedule to generate reports, manage access, enforce baselines, or view logs for operational insight.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "asset intelligence": {
+    "eli5": "Asset Intelligence is like a tool, checklist, or secret file that helps your IT team check, fix, or report what computers are doing.",
+    "boss": "Asset Intelligence includes SCCM/MECM reporting, compliance, inventory, and role-based security tools used to monitor, manage, and audit enterprise environments.",
+    "sysadmin": "Asset Intelligence refers to a reporting engine, query type, compliance rule, user role, or logging utility used to retrieve inventory, enforce policies, and troubleshoot endpoints in a managed environment.",
+    "emoji": "\ud83d\udcca\ud83d\udee0\ufe0f\ud83d\udd0d\ud83e\uddfe",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Monitoring",
+      "Analytics",
+      "Security"
+    ],
+    "related": [
+      "ssrs",
+      "compliance policy",
+      "device collection",
+      "custom mof",
+      "execmgr.log"
+    ],
+    "aliases": [
+      "asset intelligence",
+      "ASSET INTELLIGENCE"
+    ],
+    "use_case": "An SCCM admin uses Asset Intelligence to generate reports, manage access, enforce baselines, or view logs for operational insight.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "file collection": {
+    "eli5": "File Collection is like a tool, checklist, or secret file that helps your IT team check, fix, or report what computers are doing.",
+    "boss": "File Collection includes SCCM/MECM reporting, compliance, inventory, and role-based security tools used to monitor, manage, and audit enterprise environments.",
+    "sysadmin": "File Collection refers to a reporting engine, query type, compliance rule, user role, or logging utility used to retrieve inventory, enforce policies, and troubleshoot endpoints in a managed environment.",
+    "emoji": "\ud83d\udcca\ud83d\udee0\ufe0f\ud83d\udd0d\ud83e\uddfe",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Monitoring",
+      "Analytics",
+      "Security"
+    ],
+    "related": [
+      "ssrs",
+      "compliance policy",
+      "device collection",
+      "custom mof",
+      "execmgr.log"
+    ],
+    "aliases": [
+      "file collection",
+      "FILE COLLECTION"
+    ],
+    "use_case": "An SCCM admin uses File Collection to generate reports, manage access, enforce baselines, or view logs for operational insight.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "inventory class": {
+    "eli5": "Inventory Class is like a tool, checklist, or secret file that helps your IT team check, fix, or report what computers are doing.",
+    "boss": "Inventory Class includes SCCM/MECM reporting, compliance, inventory, and role-based security tools used to monitor, manage, and audit enterprise environments.",
+    "sysadmin": "Inventory Class refers to a reporting engine, query type, compliance rule, user role, or logging utility used to retrieve inventory, enforce policies, and troubleshoot endpoints in a managed environment.",
+    "emoji": "\ud83d\udcca\ud83d\udee0\ufe0f\ud83d\udd0d\ud83e\uddfe",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Monitoring",
+      "Analytics",
+      "Security"
+    ],
+    "related": [
+      "ssrs",
+      "compliance policy",
+      "device collection",
+      "custom mof",
+      "execmgr.log"
+    ],
+    "aliases": [
+      "inventory class",
+      "INVENTORY CLASS"
+    ],
+    "use_case": "An SCCM admin uses Inventory Class to generate reports, manage access, enforce baselines, or view logs for operational insight.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "custom mof": {
+    "eli5": "Custom MOF is like a tool, checklist, or secret file that helps your IT team check, fix, or report what computers are doing.",
+    "boss": "Custom MOF includes SCCM/MECM reporting, compliance, inventory, and role-based security tools used to monitor, manage, and audit enterprise environments.",
+    "sysadmin": "Custom MOF refers to a reporting engine, query type, compliance rule, user role, or logging utility used to retrieve inventory, enforce policies, and troubleshoot endpoints in a managed environment.",
+    "emoji": "\ud83d\udcca\ud83d\udee0\ufe0f\ud83d\udd0d\ud83e\uddfe",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Monitoring",
+      "Analytics",
+      "Security"
+    ],
+    "related": [
+      "ssrs",
+      "compliance policy",
+      "device collection",
+      "custom mof",
+      "execmgr.log"
+    ],
+    "aliases": [
+      "custom mof",
+      "CUSTOM MOF"
+    ],
+    "use_case": "An SCCM admin uses Custom MOF to generate reports, manage access, enforce baselines, or view logs for operational insight.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "inventory cycle": {
+    "eli5": "Inventory Cycle is like a tool, checklist, or secret file that helps your IT team check, fix, or report what computers are doing.",
+    "boss": "Inventory Cycle includes SCCM/MECM reporting, compliance, inventory, and role-based security tools used to monitor, manage, and audit enterprise environments.",
+    "sysadmin": "Inventory Cycle refers to a reporting engine, query type, compliance rule, user role, or logging utility used to retrieve inventory, enforce policies, and troubleshoot endpoints in a managed environment.",
+    "emoji": "\ud83d\udcca\ud83d\udee0\ufe0f\ud83d\udd0d\ud83e\uddfe",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Monitoring",
+      "Analytics",
+      "Security"
+    ],
+    "related": [
+      "ssrs",
+      "compliance policy",
+      "device collection",
+      "custom mof",
+      "execmgr.log"
+    ],
+    "aliases": [
+      "inventory cycle",
+      "INVENTORY CYCLE"
+    ],
+    "use_case": "An SCCM admin uses Inventory Cycle to generate reports, manage access, enforce baselines, or view logs for operational insight.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "remote tools": {
+    "eli5": "Remote Tools is like a tool, checklist, or secret file that helps your IT team check, fix, or report what computers are doing.",
+    "boss": "Remote Tools includes SCCM/MECM reporting, compliance, inventory, and role-based security tools used to monitor, manage, and audit enterprise environments.",
+    "sysadmin": "Remote Tools refers to a reporting engine, query type, compliance rule, user role, or logging utility used to retrieve inventory, enforce policies, and troubleshoot endpoints in a managed environment.",
+    "emoji": "\ud83d\udcca\ud83d\udee0\ufe0f\ud83d\udd0d\ud83e\uddfe",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Monitoring",
+      "Analytics",
+      "Security"
+    ],
+    "related": [
+      "ssrs",
+      "compliance policy",
+      "device collection",
+      "custom mof",
+      "execmgr.log"
+    ],
+    "aliases": [
+      "remote tools",
+      "REMOTE TOOLS"
+    ],
+    "use_case": "An SCCM admin uses Remote Tools to generate reports, manage access, enforce baselines, or view logs for operational insight.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "remote control": {
+    "eli5": "Remote Control is like a tool, checklist, or secret file that helps your IT team check, fix, or report what computers are doing.",
+    "boss": "Remote Control includes SCCM/MECM reporting, compliance, inventory, and role-based security tools used to monitor, manage, and audit enterprise environments.",
+    "sysadmin": "Remote Control refers to a reporting engine, query type, compliance rule, user role, or logging utility used to retrieve inventory, enforce policies, and troubleshoot endpoints in a managed environment.",
+    "emoji": "\ud83d\udcca\ud83d\udee0\ufe0f\ud83d\udd0d\ud83e\uddfe",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Monitoring",
+      "Analytics",
+      "Security"
+    ],
+    "related": [
+      "ssrs",
+      "compliance policy",
+      "device collection",
+      "custom mof",
+      "execmgr.log"
+    ],
+    "aliases": [
+      "remote control",
+      "REMOTE CONTROL"
+    ],
+    "use_case": "An SCCM admin uses Remote Control to generate reports, manage access, enforce baselines, or view logs for operational insight.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "quick assist": {
+    "eli5": "Quick Assist is like a tool, checklist, or secret file that helps your IT team check, fix, or report what computers are doing.",
+    "boss": "Quick Assist includes SCCM/MECM reporting, compliance, inventory, and role-based security tools used to monitor, manage, and audit enterprise environments.",
+    "sysadmin": "Quick Assist refers to a reporting engine, query type, compliance rule, user role, or logging utility used to retrieve inventory, enforce policies, and troubleshoot endpoints in a managed environment.",
+    "emoji": "\ud83d\udcca\ud83d\udee0\ufe0f\ud83d\udd0d\ud83e\uddfe",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Monitoring",
+      "Analytics",
+      "Security"
+    ],
+    "related": [
+      "ssrs",
+      "compliance policy",
+      "device collection",
+      "custom mof",
+      "execmgr.log"
+    ],
+    "aliases": [
+      "quick assist",
+      "QUICK ASSIST"
+    ],
+    "use_case": "An SCCM admin uses Quick Assist to generate reports, manage access, enforce baselines, or view logs for operational insight.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "realvnc integration": {
+    "eli5": "RealVNC Integration is like a tool, checklist, or secret file that helps your IT team check, fix, or report what computers are doing.",
+    "boss": "RealVNC Integration includes SCCM/MECM reporting, compliance, inventory, and role-based security tools used to monitor, manage, and audit enterprise environments.",
+    "sysadmin": "RealVNC Integration refers to a reporting engine, query type, compliance rule, user role, or logging utility used to retrieve inventory, enforce policies, and troubleshoot endpoints in a managed environment.",
+    "emoji": "\ud83d\udcca\ud83d\udee0\ufe0f\ud83d\udd0d\ud83e\uddfe",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Monitoring",
+      "Analytics",
+      "Security"
+    ],
+    "related": [
+      "ssrs",
+      "compliance policy",
+      "device collection",
+      "custom mof",
+      "execmgr.log"
+    ],
+    "aliases": [
+      "realvnc integration",
+      "REALVNC INTEGRATION"
+    ],
+    "use_case": "An SCCM admin uses RealVNC Integration to generate reports, manage access, enforce baselines, or view logs for operational insight.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "perms required": {
+    "eli5": "Perms Required is like a tool, checklist, or secret file that helps your IT team check, fix, or report what computers are doing.",
+    "boss": "Perms Required includes SCCM/MECM reporting, compliance, inventory, and role-based security tools used to monitor, manage, and audit enterprise environments.",
+    "sysadmin": "Perms Required refers to a reporting engine, query type, compliance rule, user role, or logging utility used to retrieve inventory, enforce policies, and troubleshoot endpoints in a managed environment.",
+    "emoji": "\ud83d\udcca\ud83d\udee0\ufe0f\ud83d\udd0d\ud83e\uddfe",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Monitoring",
+      "Analytics",
+      "Security"
+    ],
+    "related": [
+      "ssrs",
+      "compliance policy",
+      "device collection",
+      "custom mof",
+      "execmgr.log"
+    ],
+    "aliases": [
+      "perms required",
+      "PERMS REQUIRED"
+    ],
+    "use_case": "An SCCM admin uses Perms Required to generate reports, manage access, enforce baselines, or view logs for operational insight.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "compliance": {
+    "eli5": "Compliance is like a tool, checklist, or secret file that helps your IT team check, fix, or report what computers are doing.",
+    "boss": "Compliance includes SCCM/MECM reporting, compliance, inventory, and role-based security tools used to monitor, manage, and audit enterprise environments.",
+    "sysadmin": "Compliance refers to a reporting engine, query type, compliance rule, user role, or logging utility used to retrieve inventory, enforce policies, and troubleshoot endpoints in a managed environment.",
+    "emoji": "\ud83d\udcca\ud83d\udee0\ufe0f\ud83d\udd0d\ud83e\uddfe",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Monitoring",
+      "Analytics",
+      "Security"
+    ],
+    "related": [
+      "ssrs",
+      "compliance policy",
+      "device collection",
+      "custom mof",
+      "execmgr.log"
+    ],
+    "aliases": [
+      "compliance",
+      "COMPLIANCE"
+    ],
+    "use_case": "An SCCM admin uses Compliance to generate reports, manage access, enforce baselines, or view logs for operational insight.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "configuration baseline": {
+    "eli5": "Configuration Baseline is like a tool, checklist, or secret file that helps your IT team check, fix, or report what computers are doing.",
+    "boss": "Configuration Baseline includes SCCM/MECM reporting, compliance, inventory, and role-based security tools used to monitor, manage, and audit enterprise environments.",
+    "sysadmin": "Configuration Baseline refers to a reporting engine, query type, compliance rule, user role, or logging utility used to retrieve inventory, enforce policies, and troubleshoot endpoints in a managed environment.",
+    "emoji": "\ud83d\udcca\ud83d\udee0\ufe0f\ud83d\udd0d\ud83e\uddfe",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Monitoring",
+      "Analytics",
+      "Security"
+    ],
+    "related": [
+      "ssrs",
+      "compliance policy",
+      "device collection",
+      "custom mof",
+      "execmgr.log"
+    ],
+    "aliases": [
+      "configuration baseline",
+      "CONFIGURATION BASELINE"
+    ],
+    "use_case": "An SCCM admin uses Configuration Baseline to generate reports, manage access, enforce baselines, or view logs for operational insight.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "configuration item (ci)": {
+    "eli5": "Configuration Item (CI) is like a tool, checklist, or secret file that helps your IT team check, fix, or report what computers are doing.",
+    "boss": "Configuration Item (CI) includes SCCM/MECM reporting, compliance, inventory, and role-based security tools used to monitor, manage, and audit enterprise environments.",
+    "sysadmin": "Configuration Item (CI) refers to a reporting engine, query type, compliance rule, user role, or logging utility used to retrieve inventory, enforce policies, and troubleshoot endpoints in a managed environment.",
+    "emoji": "\ud83d\udcca\ud83d\udee0\ufe0f\ud83d\udd0d\ud83e\uddfe",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Monitoring",
+      "Analytics",
+      "Security"
+    ],
+    "related": [
+      "ssrs",
+      "compliance policy",
+      "device collection",
+      "custom mof",
+      "execmgr.log"
+    ],
+    "aliases": [
+      "configuration item (ci)",
+      "CONFIGURATION ITEM (CI)"
+    ],
+    "use_case": "An SCCM admin uses Configuration Item (CI) to generate reports, manage access, enforce baselines, or view logs for operational insight.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "compliance evaluation": {
+    "eli5": "Compliance Evaluation is like a tool, checklist, or secret file that helps your IT team check, fix, or report what computers are doing.",
+    "boss": "Compliance Evaluation includes SCCM/MECM reporting, compliance, inventory, and role-based security tools used to monitor, manage, and audit enterprise environments.",
+    "sysadmin": "Compliance Evaluation refers to a reporting engine, query type, compliance rule, user role, or logging utility used to retrieve inventory, enforce policies, and troubleshoot endpoints in a managed environment.",
+    "emoji": "\ud83d\udcca\ud83d\udee0\ufe0f\ud83d\udd0d\ud83e\uddfe",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Monitoring",
+      "Analytics",
+      "Security"
+    ],
+    "related": [
+      "ssrs",
+      "compliance policy",
+      "device collection",
+      "custom mof",
+      "execmgr.log"
+    ],
+    "aliases": [
+      "compliance evaluation",
+      "COMPLIANCE EVALUATION"
+    ],
+    "use_case": "An SCCM admin uses Compliance Evaluation to generate reports, manage access, enforce baselines, or view logs for operational insight.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "remediation script": {
+    "eli5": "Remediation Script is like a tool, checklist, or secret file that helps your IT team check, fix, or report what computers are doing.",
+    "boss": "Remediation Script includes SCCM/MECM reporting, compliance, inventory, and role-based security tools used to monitor, manage, and audit enterprise environments.",
+    "sysadmin": "Remediation Script refers to a reporting engine, query type, compliance rule, user role, or logging utility used to retrieve inventory, enforce policies, and troubleshoot endpoints in a managed environment.",
+    "emoji": "\ud83d\udcca\ud83d\udee0\ufe0f\ud83d\udd0d\ud83e\uddfe",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Monitoring",
+      "Analytics",
+      "Security"
+    ],
+    "related": [
+      "ssrs",
+      "compliance policy",
+      "device collection",
+      "custom mof",
+      "execmgr.log"
+    ],
+    "aliases": [
+      "remediation script",
+      "REMEDIATION SCRIPT"
+    ],
+    "use_case": "An SCCM admin uses Remediation Script to generate reports, manage access, enforce baselines, or view logs for operational insight.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "desired state": {
+    "eli5": "Desired State is like a tool, checklist, or secret file that helps your IT team check, fix, or report what computers are doing.",
+    "boss": "Desired State includes SCCM/MECM reporting, compliance, inventory, and role-based security tools used to monitor, manage, and audit enterprise environments.",
+    "sysadmin": "Desired State refers to a reporting engine, query type, compliance rule, user role, or logging utility used to retrieve inventory, enforce policies, and troubleshoot endpoints in a managed environment.",
+    "emoji": "\ud83d\udcca\ud83d\udee0\ufe0f\ud83d\udd0d\ud83e\uddfe",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Monitoring",
+      "Analytics",
+      "Security"
+    ],
+    "related": [
+      "ssrs",
+      "compliance policy",
+      "device collection",
+      "custom mof",
+      "execmgr.log"
+    ],
+    "aliases": [
+      "desired state",
+      "DESIRED STATE"
+    ],
+    "use_case": "An SCCM admin uses Desired State to generate reports, manage access, enforce baselines, or view logs for operational insight.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "compliance policy (intune)": {
+    "eli5": "Compliance Policy (Intune) is like a tool, checklist, or secret file that helps your IT team check, fix, or report what computers are doing.",
+    "boss": "Compliance Policy (Intune) includes SCCM/MECM reporting, compliance, inventory, and role-based security tools used to monitor, manage, and audit enterprise environments.",
+    "sysadmin": "Compliance Policy (Intune) refers to a reporting engine, query type, compliance rule, user role, or logging utility used to retrieve inventory, enforce policies, and troubleshoot endpoints in a managed environment.",
+    "emoji": "\ud83d\udcca\ud83d\udee0\ufe0f\ud83d\udd0d\ud83e\uddfe",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Monitoring",
+      "Analytics",
+      "Security"
+    ],
+    "related": [
+      "ssrs",
+      "compliance policy",
+      "device collection",
+      "custom mof",
+      "execmgr.log"
+    ],
+    "aliases": [
+      "compliance policy (intune)",
+      "COMPLIANCE POLICY (INTUNE)"
+    ],
+    "use_case": "An SCCM admin uses Compliance Policy (Intune) to generate reports, manage access, enforce baselines, or view logs for operational insight.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "software metering": {
+    "eli5": "Software Metering is like a tool, checklist, or secret file that helps your IT team check, fix, or report what computers are doing.",
+    "boss": "Software Metering includes SCCM/MECM reporting, compliance, inventory, and role-based security tools used to monitor, manage, and audit enterprise environments.",
+    "sysadmin": "Software Metering refers to a reporting engine, query type, compliance rule, user role, or logging utility used to retrieve inventory, enforce policies, and troubleshoot endpoints in a managed environment.",
+    "emoji": "\ud83d\udcca\ud83d\udee0\ufe0f\ud83d\udd0d\ud83e\uddfe",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Monitoring",
+      "Analytics",
+      "Security"
+    ],
+    "related": [
+      "ssrs",
+      "compliance policy",
+      "device collection",
+      "custom mof",
+      "execmgr.log"
+    ],
+    "aliases": [
+      "software metering",
+      "SOFTWARE METERING"
+    ],
+    "use_case": "An SCCM admin uses Software Metering to generate reports, manage access, enforce baselines, or view logs for operational insight.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "license tracking": {
+    "eli5": "License Tracking is like a tool, checklist, or secret file that helps your IT team check, fix, or report what computers are doing.",
+    "boss": "License Tracking includes SCCM/MECM reporting, compliance, inventory, and role-based security tools used to monitor, manage, and audit enterprise environments.",
+    "sysadmin": "License Tracking refers to a reporting engine, query type, compliance rule, user role, or logging utility used to retrieve inventory, enforce policies, and troubleshoot endpoints in a managed environment.",
+    "emoji": "\ud83d\udcca\ud83d\udee0\ufe0f\ud83d\udd0d\ud83e\uddfe",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Monitoring",
+      "Analytics",
+      "Security"
+    ],
+    "related": [
+      "ssrs",
+      "compliance policy",
+      "device collection",
+      "custom mof",
+      "execmgr.log"
+    ],
+    "aliases": [
+      "license tracking",
+      "LICENSE TRACKING"
+    ],
+    "use_case": "An SCCM admin uses License Tracking to generate reports, manage access, enforce baselines, or view logs for operational insight.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "software title": {
+    "eli5": "Software Title is like a tool, checklist, or secret file that helps your IT team check, fix, or report what computers are doing.",
+    "boss": "Software Title includes SCCM/MECM reporting, compliance, inventory, and role-based security tools used to monitor, manage, and audit enterprise environments.",
+    "sysadmin": "Software Title refers to a reporting engine, query type, compliance rule, user role, or logging utility used to retrieve inventory, enforce policies, and troubleshoot endpoints in a managed environment.",
+    "emoji": "\ud83d\udcca\ud83d\udee0\ufe0f\ud83d\udd0d\ud83e\uddfe",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Monitoring",
+      "Analytics",
+      "Security"
+    ],
+    "related": [
+      "ssrs",
+      "compliance policy",
+      "device collection",
+      "custom mof",
+      "execmgr.log"
+    ],
+    "aliases": [
+      "software title",
+      "SOFTWARE TITLE"
+    ],
+    "use_case": "An SCCM admin uses Software Title to generate reports, manage access, enforce baselines, or view logs for operational insight.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "role-based administration": {
+    "eli5": "Role-Based Administration is like a tool, checklist, or secret file that helps your IT team check, fix, or report what computers are doing.",
+    "boss": "Role-Based Administration includes SCCM/MECM reporting, compliance, inventory, and role-based security tools used to monitor, manage, and audit enterprise environments.",
+    "sysadmin": "Role-Based Administration refers to a reporting engine, query type, compliance rule, user role, or logging utility used to retrieve inventory, enforce policies, and troubleshoot endpoints in a managed environment.",
+    "emoji": "\ud83d\udcca\ud83d\udee0\ufe0f\ud83d\udd0d\ud83e\uddfe",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Monitoring",
+      "Analytics",
+      "Security"
+    ],
+    "related": [
+      "ssrs",
+      "compliance policy",
+      "device collection",
+      "custom mof",
+      "execmgr.log"
+    ],
+    "aliases": [
+      "role-based administration",
+      "ROLE-BASED ADMINISTRATION"
+    ],
+    "use_case": "An SCCM admin uses Role-Based Administration to generate reports, manage access, enforce baselines, or view logs for operational insight.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "security scope": {
+    "eli5": "Security Scope is like a tool, checklist, or secret file that helps your IT team check, fix, or report what computers are doing.",
+    "boss": "Security Scope includes SCCM/MECM reporting, compliance, inventory, and role-based security tools used to monitor, manage, and audit enterprise environments.",
+    "sysadmin": "Security Scope refers to a reporting engine, query type, compliance rule, user role, or logging utility used to retrieve inventory, enforce policies, and troubleshoot endpoints in a managed environment.",
+    "emoji": "\ud83d\udcca\ud83d\udee0\ufe0f\ud83d\udd0d\ud83e\uddfe",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Monitoring",
+      "Analytics",
+      "Security"
+    ],
+    "related": [
+      "ssrs",
+      "compliance policy",
+      "device collection",
+      "custom mof",
+      "execmgr.log"
+    ],
+    "aliases": [
+      "security scope",
+      "SECURITY SCOPE"
+    ],
+    "use_case": "An SCCM admin uses Security Scope to generate reports, manage access, enforce baselines, or view logs for operational insight.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "custom role": {
+    "eli5": "Custom Role is like a tool, checklist, or secret file that helps your IT team check, fix, or report what computers are doing.",
+    "boss": "Custom Role includes SCCM/MECM reporting, compliance, inventory, and role-based security tools used to monitor, manage, and audit enterprise environments.",
+    "sysadmin": "Custom Role refers to a reporting engine, query type, compliance rule, user role, or logging utility used to retrieve inventory, enforce policies, and troubleshoot endpoints in a managed environment.",
+    "emoji": "\ud83d\udcca\ud83d\udee0\ufe0f\ud83d\udd0d\ud83e\uddfe",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Monitoring",
+      "Analytics",
+      "Security"
+    ],
+    "related": [
+      "ssrs",
+      "compliance policy",
+      "device collection",
+      "custom mof",
+      "execmgr.log"
+    ],
+    "aliases": [
+      "custom role",
+      "CUSTOM ROLE"
+    ],
+    "use_case": "An SCCM admin uses Custom Role to generate reports, manage access, enforce baselines, or view logs for operational insight.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "administrative user": {
+    "eli5": "Administrative User is like a tool, checklist, or secret file that helps your IT team check, fix, or report what computers are doing.",
+    "boss": "Administrative User includes SCCM/MECM reporting, compliance, inventory, and role-based security tools used to monitor, manage, and audit enterprise environments.",
+    "sysadmin": "Administrative User refers to a reporting engine, query type, compliance rule, user role, or logging utility used to retrieve inventory, enforce policies, and troubleshoot endpoints in a managed environment.",
+    "emoji": "\ud83d\udcca\ud83d\udee0\ufe0f\ud83d\udd0d\ud83e\uddfe",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Monitoring",
+      "Analytics",
+      "Security"
+    ],
+    "related": [
+      "ssrs",
+      "compliance policy",
+      "device collection",
+      "custom mof",
+      "execmgr.log"
+    ],
+    "aliases": [
+      "administrative user",
+      "ADMINISTRATIVE USER"
+    ],
+    "use_case": "An SCCM admin uses Administrative User to generate reports, manage access, enforce baselines, or view logs for operational insight.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "rba viewer": {
+    "eli5": "RBA Viewer is like a tool, checklist, or secret file that helps your IT team check, fix, or report what computers are doing.",
+    "boss": "RBA Viewer includes SCCM/MECM reporting, compliance, inventory, and role-based security tools used to monitor, manage, and audit enterprise environments.",
+    "sysadmin": "RBA Viewer refers to a reporting engine, query type, compliance rule, user role, or logging utility used to retrieve inventory, enforce policies, and troubleshoot endpoints in a managed environment.",
+    "emoji": "\ud83d\udcca\ud83d\udee0\ufe0f\ud83d\udd0d\ud83e\uddfe",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Monitoring",
+      "Analytics",
+      "Security"
+    ],
+    "related": [
+      "ssrs",
+      "compliance policy",
+      "device collection",
+      "custom mof",
+      "execmgr.log"
+    ],
+    "aliases": [
+      "rba viewer",
+      "RBA VIEWER"
+    ],
+    "use_case": "An SCCM admin uses RBA Viewer to generate reports, manage access, enforce baselines, or view logs for operational insight.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "logs": {
+    "eli5": "Logs is like a tool, checklist, or secret file that helps your IT team check, fix, or report what computers are doing.",
+    "boss": "Logs includes SCCM/MECM reporting, compliance, inventory, and role-based security tools used to monitor, manage, and audit enterprise environments.",
+    "sysadmin": "Logs refers to a reporting engine, query type, compliance rule, user role, or logging utility used to retrieve inventory, enforce policies, and troubleshoot endpoints in a managed environment.",
+    "emoji": "\ud83d\udcca\ud83d\udee0\ufe0f\ud83d\udd0d\ud83e\uddfe",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Monitoring",
+      "Analytics",
+      "Security"
+    ],
+    "related": [
+      "ssrs",
+      "compliance policy",
+      "device collection",
+      "custom mof",
+      "execmgr.log"
+    ],
+    "aliases": [
+      "logs",
+      "LOGS"
+    ],
+    "use_case": "An SCCM admin uses Logs to generate reports, manage access, enforce baselines, or view logs for operational insight.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "log files": {
+    "eli5": "Log Files is like a tool, checklist, or secret file that helps your IT team check, fix, or report what computers are doing.",
+    "boss": "Log Files includes SCCM/MECM reporting, compliance, inventory, and role-based security tools used to monitor, manage, and audit enterprise environments.",
+    "sysadmin": "Log Files refers to a reporting engine, query type, compliance rule, user role, or logging utility used to retrieve inventory, enforce policies, and troubleshoot endpoints in a managed environment.",
+    "emoji": "\ud83d\udcca\ud83d\udee0\ufe0f\ud83d\udd0d\ud83e\uddfe",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Monitoring",
+      "Analytics",
+      "Security"
+    ],
+    "related": [
+      "ssrs",
+      "compliance policy",
+      "device collection",
+      "custom mof",
+      "execmgr.log"
+    ],
+    "aliases": [
+      "log files",
+      "LOG FILES"
+    ],
+    "use_case": "An SCCM admin uses Log Files to generate reports, manage access, enforce baselines, or view logs for operational insight.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "logs directory": {
+    "eli5": "Logs Directory is like a tool, checklist, or secret file that helps your IT team check, fix, or report what computers are doing.",
+    "boss": "Logs Directory includes SCCM/MECM reporting, compliance, inventory, and role-based security tools used to monitor, manage, and audit enterprise environments.",
+    "sysadmin": "Logs Directory refers to a reporting engine, query type, compliance rule, user role, or logging utility used to retrieve inventory, enforce policies, and troubleshoot endpoints in a managed environment.",
+    "emoji": "\ud83d\udcca\ud83d\udee0\ufe0f\ud83d\udd0d\ud83e\uddfe",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Monitoring",
+      "Analytics",
+      "Security"
+    ],
+    "related": [
+      "ssrs",
+      "compliance policy",
+      "device collection",
+      "custom mof",
+      "execmgr.log"
+    ],
+    "aliases": [
+      "logs directory",
+      "LOGS DIRECTORY"
+    ],
+    "use_case": "An SCCM admin uses Logs Directory to generate reports, manage access, enforce baselines, or view logs for operational insight.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "client logs": {
+    "eli5": "Client Logs is like a tool, checklist, or secret file that helps your IT team check, fix, or report what computers are doing.",
+    "boss": "Client Logs includes SCCM/MECM reporting, compliance, inventory, and role-based security tools used to monitor, manage, and audit enterprise environments.",
+    "sysadmin": "Client Logs refers to a reporting engine, query type, compliance rule, user role, or logging utility used to retrieve inventory, enforce policies, and troubleshoot endpoints in a managed environment.",
+    "emoji": "\ud83d\udcca\ud83d\udee0\ufe0f\ud83d\udd0d\ud83e\uddfe",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Monitoring",
+      "Analytics",
+      "Security"
+    ],
+    "related": [
+      "ssrs",
+      "compliance policy",
+      "device collection",
+      "custom mof",
+      "execmgr.log"
+    ],
+    "aliases": [
+      "client logs",
+      "CLIENT LOGS"
+    ],
+    "use_case": "An SCCM admin uses Client Logs to generate reports, manage access, enforce baselines, or view logs for operational insight.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "server logs": {
+    "eli5": "Server Logs is like a tool, checklist, or secret file that helps your IT team check, fix, or report what computers are doing.",
+    "boss": "Server Logs includes SCCM/MECM reporting, compliance, inventory, and role-based security tools used to monitor, manage, and audit enterprise environments.",
+    "sysadmin": "Server Logs refers to a reporting engine, query type, compliance rule, user role, or logging utility used to retrieve inventory, enforce policies, and troubleshoot endpoints in a managed environment.",
+    "emoji": "\ud83d\udcca\ud83d\udee0\ufe0f\ud83d\udd0d\ud83e\uddfe",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Monitoring",
+      "Analytics",
+      "Security"
+    ],
+    "related": [
+      "ssrs",
+      "compliance policy",
+      "device collection",
+      "custom mof",
+      "execmgr.log"
+    ],
+    "aliases": [
+      "server logs",
+      "SERVER LOGS"
+    ],
+    "use_case": "An SCCM admin uses Server Logs to generate reports, manage access, enforce baselines, or view logs for operational insight.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "smsts.log": {
+    "eli5": "smsts.log is like a tool, checklist, or secret file that helps your IT team check, fix, or report what computers are doing.",
+    "boss": "smsts.log includes SCCM/MECM reporting, compliance, inventory, and role-based security tools used to monitor, manage, and audit enterprise environments.",
+    "sysadmin": "smsts.log refers to a reporting engine, query type, compliance rule, user role, or logging utility used to retrieve inventory, enforce policies, and troubleshoot endpoints in a managed environment.",
+    "emoji": "\ud83d\udcca\ud83d\udee0\ufe0f\ud83d\udd0d\ud83e\uddfe",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Monitoring",
+      "Analytics",
+      "Security"
+    ],
+    "related": [
+      "ssrs",
+      "compliance policy",
+      "device collection",
+      "custom mof",
+      "execmgr.log"
+    ],
+    "aliases": [
+      "smsts.log",
+      "SMSTS.LOG"
+    ],
+    "use_case": "An SCCM admin uses smsts.log to generate reports, manage access, enforce baselines, or view logs for operational insight.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "ccmsetup.log": {
+    "eli5": "ccmsetup.log is like a tool, checklist, or secret file that helps your IT team check, fix, or report what computers are doing.",
+    "boss": "ccmsetup.log includes SCCM/MECM reporting, compliance, inventory, and role-based security tools used to monitor, manage, and audit enterprise environments.",
+    "sysadmin": "ccmsetup.log refers to a reporting engine, query type, compliance rule, user role, or logging utility used to retrieve inventory, enforce policies, and troubleshoot endpoints in a managed environment.",
+    "emoji": "\ud83d\udcca\ud83d\udee0\ufe0f\ud83d\udd0d\ud83e\uddfe",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Monitoring",
+      "Analytics",
+      "Security"
+    ],
+    "related": [
+      "ssrs",
+      "compliance policy",
+      "device collection",
+      "custom mof",
+      "execmgr.log"
+    ],
+    "aliases": [
+      "ccmsetup.log",
+      "CCMSETUP.LOG"
+    ],
+    "use_case": "An SCCM admin uses ccmsetup.log to generate reports, manage access, enforce baselines, or view logs for operational insight.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "locationservices.log": {
+    "eli5": "locationservices.log is like a tool, checklist, or secret file that helps your IT team check, fix, or report what computers are doing.",
+    "boss": "locationservices.log includes SCCM/MECM reporting, compliance, inventory, and role-based security tools used to monitor, manage, and audit enterprise environments.",
+    "sysadmin": "locationservices.log refers to a reporting engine, query type, compliance rule, user role, or logging utility used to retrieve inventory, enforce policies, and troubleshoot endpoints in a managed environment.",
+    "emoji": "\ud83d\udcca\ud83d\udee0\ufe0f\ud83d\udd0d\ud83e\uddfe",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Monitoring",
+      "Analytics",
+      "Security"
+    ],
+    "related": [
+      "ssrs",
+      "compliance policy",
+      "device collection",
+      "custom mof",
+      "execmgr.log"
+    ],
+    "aliases": [
+      "locationservices.log",
+      "LOCATIONSERVICES.LOG"
+    ],
+    "use_case": "An SCCM admin uses locationservices.log to generate reports, manage access, enforce baselines, or view logs for operational insight.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "execmgr.log": {
+    "eli5": "execmgr.log is like a tool, checklist, or secret file that helps your IT team check, fix, or report what computers are doing.",
+    "boss": "execmgr.log includes SCCM/MECM reporting, compliance, inventory, and role-based security tools used to monitor, manage, and audit enterprise environments.",
+    "sysadmin": "execmgr.log refers to a reporting engine, query type, compliance rule, user role, or logging utility used to retrieve inventory, enforce policies, and troubleshoot endpoints in a managed environment.",
+    "emoji": "\ud83d\udcca\ud83d\udee0\ufe0f\ud83d\udd0d\ud83e\uddfe",
+    "categories": [
+      "Enterprise",
+      "Windows",
+      "Configuration Management",
+      "Monitoring",
+      "Analytics",
+      "Security"
+    ],
+    "related": [
+      "ssrs",
+      "compliance policy",
+      "device collection",
+      "custom mof",
+      "execmgr.log"
+    ],
+    "aliases": [
+      "execmgr.log",
+      "EXECMGR.LOG"
+    ],
+    "use_case": "An SCCM admin uses execmgr.log to generate reports, manage access, enforce baselines, or view logs for operational insight.",
+    "jargon_score": 5,
+    "level": "Expert"
+  }
+}

@@ -1,0 +1,1352 @@
+{
+  "cryptsetup": {
+    "eli5": "Cryptsetup is like a secret rule, vault, or trick to keep computer stuff safe from bad guys or mistakes.",
+    "boss": "Cryptsetup covers encryption tools, key management systems, compliance standards, and attack strategies used to protect digital assets and comply with security regulations.",
+    "sysadmin": "Cryptsetup refers to a cryptographic tool, attack vector, encryption compliance spec, key lifecycle operation, or secure erasure method used to ensure end-to-end confidentiality and data integrity.",
+    "emoji": "\ud83d\udd11\ud83e\uddf0\ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83e\uddea\ud83d\udee1\ufe0f",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Cloud",
+      "Compliance"
+    ],
+    "related": [
+      "luks",
+      "vault",
+      "gdpr",
+      "side channel attack",
+      "key rotation"
+    ],
+    "aliases": [
+      "cryptsetup",
+      "CRYPTSETUP"
+    ],
+    "use_case": "An infosec engineer uses Cryptsetup to store encryption keys, prevent brute-force attacks, or meet industry security standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "luks (linux unified key setup)": {
+    "eli5": "LUKS (Linux Unified Key Setup) is like a secret rule, vault, or trick to keep computer stuff safe from bad guys or mistakes.",
+    "boss": "LUKS (Linux Unified Key Setup) covers encryption tools, key management systems, compliance standards, and attack strategies used to protect digital assets and comply with security regulations.",
+    "sysadmin": "LUKS (Linux Unified Key Setup) refers to a cryptographic tool, attack vector, encryption compliance spec, key lifecycle operation, or secure erasure method used to ensure end-to-end confidentiality and data integrity.",
+    "emoji": "\ud83d\udd11\ud83e\uddf0\ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83e\uddea\ud83d\udee1\ufe0f",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Cloud",
+      "Compliance"
+    ],
+    "related": [
+      "luks",
+      "vault",
+      "gdpr",
+      "side channel attack",
+      "key rotation"
+    ],
+    "aliases": [
+      "luks (linux unified key setup)",
+      "LUKS (LINUX UNIFIED KEY SETUP)"
+    ],
+    "use_case": "An infosec engineer uses LUKS (Linux Unified Key Setup) to store encryption keys, prevent brute-force attacks, or meet industry security standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "filevault": {
+    "eli5": "FileVault is like a secret rule, vault, or trick to keep computer stuff safe from bad guys or mistakes.",
+    "boss": "FileVault covers encryption tools, key management systems, compliance standards, and attack strategies used to protect digital assets and comply with security regulations.",
+    "sysadmin": "FileVault refers to a cryptographic tool, attack vector, encryption compliance spec, key lifecycle operation, or secure erasure method used to ensure end-to-end confidentiality and data integrity.",
+    "emoji": "\ud83d\udd11\ud83e\uddf0\ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83e\uddea\ud83d\udee1\ufe0f",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Cloud",
+      "Compliance"
+    ],
+    "related": [
+      "luks",
+      "vault",
+      "gdpr",
+      "side channel attack",
+      "key rotation"
+    ],
+    "aliases": [
+      "filevault",
+      "FILEVAULT"
+    ],
+    "use_case": "An infosec engineer uses FileVault to store encryption keys, prevent brute-force attacks, or meet industry security standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "truecrypt (deprecated)": {
+    "eli5": "TrueCrypt (deprecated) is like a secret rule, vault, or trick to keep computer stuff safe from bad guys or mistakes.",
+    "boss": "TrueCrypt (deprecated) covers encryption tools, key management systems, compliance standards, and attack strategies used to protect digital assets and comply with security regulations.",
+    "sysadmin": "TrueCrypt (deprecated) refers to a cryptographic tool, attack vector, encryption compliance spec, key lifecycle operation, or secure erasure method used to ensure end-to-end confidentiality and data integrity.",
+    "emoji": "\ud83d\udd11\ud83e\uddf0\ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83e\uddea\ud83d\udee1\ufe0f",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Cloud",
+      "Compliance"
+    ],
+    "related": [
+      "luks",
+      "vault",
+      "gdpr",
+      "side channel attack",
+      "key rotation"
+    ],
+    "aliases": [
+      "truecrypt (deprecated)",
+      "TRUECRYPT (DEPRECATED)"
+    ],
+    "use_case": "An infosec engineer uses TrueCrypt (deprecated) to store encryption keys, prevent brute-force attacks, or meet industry security standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "key rotation": {
+    "eli5": "Key Rotation is like a secret rule, vault, or trick to keep computer stuff safe from bad guys or mistakes.",
+    "boss": "Key Rotation covers encryption tools, key management systems, compliance standards, and attack strategies used to protect digital assets and comply with security regulations.",
+    "sysadmin": "Key Rotation refers to a cryptographic tool, attack vector, encryption compliance spec, key lifecycle operation, or secure erasure method used to ensure end-to-end confidentiality and data integrity.",
+    "emoji": "\ud83d\udd11\ud83e\uddf0\ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83e\uddea\ud83d\udee1\ufe0f",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Cloud",
+      "Compliance"
+    ],
+    "related": [
+      "luks",
+      "vault",
+      "gdpr",
+      "side channel attack",
+      "key rotation"
+    ],
+    "aliases": [
+      "key rotation",
+      "KEY ROTATION"
+    ],
+    "use_case": "An infosec engineer uses Key Rotation to store encryption keys, prevent brute-force attacks, or meet industry security standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "key wrapping": {
+    "eli5": "Key Wrapping is like a secret rule, vault, or trick to keep computer stuff safe from bad guys or mistakes.",
+    "boss": "Key Wrapping covers encryption tools, key management systems, compliance standards, and attack strategies used to protect digital assets and comply with security regulations.",
+    "sysadmin": "Key Wrapping refers to a cryptographic tool, attack vector, encryption compliance spec, key lifecycle operation, or secure erasure method used to ensure end-to-end confidentiality and data integrity.",
+    "emoji": "\ud83d\udd11\ud83e\uddf0\ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83e\uddea\ud83d\udee1\ufe0f",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Cloud",
+      "Compliance"
+    ],
+    "related": [
+      "luks",
+      "vault",
+      "gdpr",
+      "side channel attack",
+      "key rotation"
+    ],
+    "aliases": [
+      "key wrapping",
+      "KEY WRAPPING"
+    ],
+    "use_case": "An infosec engineer uses Key Wrapping to store encryption keys, prevent brute-force attacks, or meet industry security standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "key splitting": {
+    "eli5": "Key Splitting is like a secret rule, vault, or trick to keep computer stuff safe from bad guys or mistakes.",
+    "boss": "Key Splitting covers encryption tools, key management systems, compliance standards, and attack strategies used to protect digital assets and comply with security regulations.",
+    "sysadmin": "Key Splitting refers to a cryptographic tool, attack vector, encryption compliance spec, key lifecycle operation, or secure erasure method used to ensure end-to-end confidentiality and data integrity.",
+    "emoji": "\ud83d\udd11\ud83e\uddf0\ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83e\uddea\ud83d\udee1\ufe0f",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Cloud",
+      "Compliance"
+    ],
+    "related": [
+      "luks",
+      "vault",
+      "gdpr",
+      "side channel attack",
+      "key rotation"
+    ],
+    "aliases": [
+      "key splitting",
+      "KEY SPLITTING"
+    ],
+    "use_case": "An infosec engineer uses Key Splitting to store encryption keys, prevent brute-force attacks, or meet industry security standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "key escrow": {
+    "eli5": "Key Escrow is like a secret rule, vault, or trick to keep computer stuff safe from bad guys or mistakes.",
+    "boss": "Key Escrow covers encryption tools, key management systems, compliance standards, and attack strategies used to protect digital assets and comply with security regulations.",
+    "sysadmin": "Key Escrow refers to a cryptographic tool, attack vector, encryption compliance spec, key lifecycle operation, or secure erasure method used to ensure end-to-end confidentiality and data integrity.",
+    "emoji": "\ud83d\udd11\ud83e\uddf0\ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83e\uddea\ud83d\udee1\ufe0f",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Cloud",
+      "Compliance"
+    ],
+    "related": [
+      "luks",
+      "vault",
+      "gdpr",
+      "side channel attack",
+      "key rotation"
+    ],
+    "aliases": [
+      "key escrow",
+      "KEY ESCROW"
+    ],
+    "use_case": "An infosec engineer uses Key Escrow to store encryption keys, prevent brute-force attacks, or meet industry security standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "key vault": {
+    "eli5": "Key Vault is like a secret rule, vault, or trick to keep computer stuff safe from bad guys or mistakes.",
+    "boss": "Key Vault covers encryption tools, key management systems, compliance standards, and attack strategies used to protect digital assets and comply with security regulations.",
+    "sysadmin": "Key Vault refers to a cryptographic tool, attack vector, encryption compliance spec, key lifecycle operation, or secure erasure method used to ensure end-to-end confidentiality and data integrity.",
+    "emoji": "\ud83d\udd11\ud83e\uddf0\ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83e\uddea\ud83d\udee1\ufe0f",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Cloud",
+      "Compliance"
+    ],
+    "related": [
+      "luks",
+      "vault",
+      "gdpr",
+      "side channel attack",
+      "key rotation"
+    ],
+    "aliases": [
+      "key vault",
+      "KEY VAULT"
+    ],
+    "use_case": "An infosec engineer uses Key Vault to store encryption keys, prevent brute-force attacks, or meet industry security standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "aws kms": {
+    "eli5": "AWS KMS is like a secret rule, vault, or trick to keep computer stuff safe from bad guys or mistakes.",
+    "boss": "AWS KMS covers encryption tools, key management systems, compliance standards, and attack strategies used to protect digital assets and comply with security regulations.",
+    "sysadmin": "AWS KMS refers to a cryptographic tool, attack vector, encryption compliance spec, key lifecycle operation, or secure erasure method used to ensure end-to-end confidentiality and data integrity.",
+    "emoji": "\ud83d\udd11\ud83e\uddf0\ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83e\uddea\ud83d\udee1\ufe0f",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Cloud",
+      "Compliance"
+    ],
+    "related": [
+      "luks",
+      "vault",
+      "gdpr",
+      "side channel attack",
+      "key rotation"
+    ],
+    "aliases": [
+      "aws kms",
+      "AWS KMS"
+    ],
+    "use_case": "An infosec engineer uses AWS KMS to store encryption keys, prevent brute-force attacks, or meet industry security standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "azure key vault": {
+    "eli5": "Azure Key Vault is like a secret rule, vault, or trick to keep computer stuff safe from bad guys or mistakes.",
+    "boss": "Azure Key Vault covers encryption tools, key management systems, compliance standards, and attack strategies used to protect digital assets and comply with security regulations.",
+    "sysadmin": "Azure Key Vault refers to a cryptographic tool, attack vector, encryption compliance spec, key lifecycle operation, or secure erasure method used to ensure end-to-end confidentiality and data integrity.",
+    "emoji": "\ud83d\udd11\ud83e\uddf0\ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83e\uddea\ud83d\udee1\ufe0f",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Cloud",
+      "Compliance"
+    ],
+    "related": [
+      "luks",
+      "vault",
+      "gdpr",
+      "side channel attack",
+      "key rotation"
+    ],
+    "aliases": [
+      "azure key vault",
+      "AZURE KEY VAULT"
+    ],
+    "use_case": "An infosec engineer uses Azure Key Vault to store encryption keys, prevent brute-force attacks, or meet industry security standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "google cloud kms": {
+    "eli5": "Google Cloud KMS is like a secret rule, vault, or trick to keep computer stuff safe from bad guys or mistakes.",
+    "boss": "Google Cloud KMS covers encryption tools, key management systems, compliance standards, and attack strategies used to protect digital assets and comply with security regulations.",
+    "sysadmin": "Google Cloud KMS refers to a cryptographic tool, attack vector, encryption compliance spec, key lifecycle operation, or secure erasure method used to ensure end-to-end confidentiality and data integrity.",
+    "emoji": "\ud83d\udd11\ud83e\uddf0\ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83e\uddea\ud83d\udee1\ufe0f",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Cloud",
+      "Compliance"
+    ],
+    "related": [
+      "luks",
+      "vault",
+      "gdpr",
+      "side channel attack",
+      "key rotation"
+    ],
+    "aliases": [
+      "google cloud kms",
+      "GOOGLE CLOUD KMS"
+    ],
+    "use_case": "An infosec engineer uses Google Cloud KMS to store encryption keys, prevent brute-force attacks, or meet industry security standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "hashicorp vault": {
+    "eli5": "HashiCorp Vault is like a secret rule, vault, or trick to keep computer stuff safe from bad guys or mistakes.",
+    "boss": "HashiCorp Vault covers encryption tools, key management systems, compliance standards, and attack strategies used to protect digital assets and comply with security regulations.",
+    "sysadmin": "HashiCorp Vault refers to a cryptographic tool, attack vector, encryption compliance spec, key lifecycle operation, or secure erasure method used to ensure end-to-end confidentiality and data integrity.",
+    "emoji": "\ud83d\udd11\ud83e\uddf0\ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83e\uddea\ud83d\udee1\ufe0f",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Cloud",
+      "Compliance"
+    ],
+    "related": [
+      "luks",
+      "vault",
+      "gdpr",
+      "side channel attack",
+      "key rotation"
+    ],
+    "aliases": [
+      "hashicorp vault",
+      "HASHICORP VAULT"
+    ],
+    "use_case": "An infosec engineer uses HashiCorp Vault to store encryption keys, prevent brute-force attacks, or meet industry security standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "dictionary attack": {
+    "eli5": "Dictionary Attack is like a secret rule, vault, or trick to keep computer stuff safe from bad guys or mistakes.",
+    "boss": "Dictionary Attack covers encryption tools, key management systems, compliance standards, and attack strategies used to protect digital assets and comply with security regulations.",
+    "sysadmin": "Dictionary Attack refers to a cryptographic tool, attack vector, encryption compliance spec, key lifecycle operation, or secure erasure method used to ensure end-to-end confidentiality and data integrity.",
+    "emoji": "\ud83d\udd11\ud83e\uddf0\ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83e\uddea\ud83d\udee1\ufe0f",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Cloud",
+      "Compliance"
+    ],
+    "related": [
+      "luks",
+      "vault",
+      "gdpr",
+      "side channel attack",
+      "key rotation"
+    ],
+    "aliases": [
+      "dictionary attack",
+      "DICTIONARY ATTACK"
+    ],
+    "use_case": "An infosec engineer uses Dictionary Attack to store encryption keys, prevent brute-force attacks, or meet industry security standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "rainbow table": {
+    "eli5": "Rainbow Table is like a secret rule, vault, or trick to keep computer stuff safe from bad guys or mistakes.",
+    "boss": "Rainbow Table covers encryption tools, key management systems, compliance standards, and attack strategies used to protect digital assets and comply with security regulations.",
+    "sysadmin": "Rainbow Table refers to a cryptographic tool, attack vector, encryption compliance spec, key lifecycle operation, or secure erasure method used to ensure end-to-end confidentiality and data integrity.",
+    "emoji": "\ud83d\udd11\ud83e\uddf0\ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83e\uddea\ud83d\udee1\ufe0f",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Cloud",
+      "Compliance"
+    ],
+    "related": [
+      "luks",
+      "vault",
+      "gdpr",
+      "side channel attack",
+      "key rotation"
+    ],
+    "aliases": [
+      "rainbow table",
+      "RAINBOW TABLE"
+    ],
+    "use_case": "An infosec engineer uses Rainbow Table to store encryption keys, prevent brute-force attacks, or meet industry security standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "pre-image attack": {
+    "eli5": "Pre-Image Attack is like a secret rule, vault, or trick to keep computer stuff safe from bad guys or mistakes.",
+    "boss": "Pre-Image Attack covers encryption tools, key management systems, compliance standards, and attack strategies used to protect digital assets and comply with security regulations.",
+    "sysadmin": "Pre-Image Attack refers to a cryptographic tool, attack vector, encryption compliance spec, key lifecycle operation, or secure erasure method used to ensure end-to-end confidentiality and data integrity.",
+    "emoji": "\ud83d\udd11\ud83e\uddf0\ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83e\uddea\ud83d\udee1\ufe0f",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Cloud",
+      "Compliance"
+    ],
+    "related": [
+      "luks",
+      "vault",
+      "gdpr",
+      "side channel attack",
+      "key rotation"
+    ],
+    "aliases": [
+      "pre-image attack",
+      "PRE-IMAGE ATTACK"
+    ],
+    "use_case": "An infosec engineer uses Pre-Image Attack to store encryption keys, prevent brute-force attacks, or meet industry security standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "collision attack": {
+    "eli5": "Collision Attack is like a secret rule, vault, or trick to keep computer stuff safe from bad guys or mistakes.",
+    "boss": "Collision Attack covers encryption tools, key management systems, compliance standards, and attack strategies used to protect digital assets and comply with security regulations.",
+    "sysadmin": "Collision Attack refers to a cryptographic tool, attack vector, encryption compliance spec, key lifecycle operation, or secure erasure method used to ensure end-to-end confidentiality and data integrity.",
+    "emoji": "\ud83d\udd11\ud83e\uddf0\ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83e\uddea\ud83d\udee1\ufe0f",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Cloud",
+      "Compliance"
+    ],
+    "related": [
+      "luks",
+      "vault",
+      "gdpr",
+      "side channel attack",
+      "key rotation"
+    ],
+    "aliases": [
+      "collision attack",
+      "COLLISION ATTACK"
+    ],
+    "use_case": "An infosec engineer uses Collision Attack to store encryption keys, prevent brute-force attacks, or meet industry security standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "chosen plaintext attack": {
+    "eli5": "Chosen Plaintext Attack is like a secret rule, vault, or trick to keep computer stuff safe from bad guys or mistakes.",
+    "boss": "Chosen Plaintext Attack covers encryption tools, key management systems, compliance standards, and attack strategies used to protect digital assets and comply with security regulations.",
+    "sysadmin": "Chosen Plaintext Attack refers to a cryptographic tool, attack vector, encryption compliance spec, key lifecycle operation, or secure erasure method used to ensure end-to-end confidentiality and data integrity.",
+    "emoji": "\ud83d\udd11\ud83e\uddf0\ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83e\uddea\ud83d\udee1\ufe0f",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Cloud",
+      "Compliance"
+    ],
+    "related": [
+      "luks",
+      "vault",
+      "gdpr",
+      "side channel attack",
+      "key rotation"
+    ],
+    "aliases": [
+      "chosen plaintext attack",
+      "CHOSEN PLAINTEXT ATTACK"
+    ],
+    "use_case": "An infosec engineer uses Chosen Plaintext Attack to store encryption keys, prevent brute-force attacks, or meet industry security standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "chosen ciphertext attack": {
+    "eli5": "Chosen Ciphertext Attack is like a secret rule, vault, or trick to keep computer stuff safe from bad guys or mistakes.",
+    "boss": "Chosen Ciphertext Attack covers encryption tools, key management systems, compliance standards, and attack strategies used to protect digital assets and comply with security regulations.",
+    "sysadmin": "Chosen Ciphertext Attack refers to a cryptographic tool, attack vector, encryption compliance spec, key lifecycle operation, or secure erasure method used to ensure end-to-end confidentiality and data integrity.",
+    "emoji": "\ud83d\udd11\ud83e\uddf0\ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83e\uddea\ud83d\udee1\ufe0f",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Cloud",
+      "Compliance"
+    ],
+    "related": [
+      "luks",
+      "vault",
+      "gdpr",
+      "side channel attack",
+      "key rotation"
+    ],
+    "aliases": [
+      "chosen ciphertext attack",
+      "CHOSEN CIPHERTEXT ATTACK"
+    ],
+    "use_case": "An infosec engineer uses Chosen Ciphertext Attack to store encryption keys, prevent brute-force attacks, or meet industry security standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "side channel attack": {
+    "eli5": "Side Channel Attack is like a secret rule, vault, or trick to keep computer stuff safe from bad guys or mistakes.",
+    "boss": "Side Channel Attack covers encryption tools, key management systems, compliance standards, and attack strategies used to protect digital assets and comply with security regulations.",
+    "sysadmin": "Side Channel Attack refers to a cryptographic tool, attack vector, encryption compliance spec, key lifecycle operation, or secure erasure method used to ensure end-to-end confidentiality and data integrity.",
+    "emoji": "\ud83d\udd11\ud83e\uddf0\ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83e\uddea\ud83d\udee1\ufe0f",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Cloud",
+      "Compliance"
+    ],
+    "related": [
+      "luks",
+      "vault",
+      "gdpr",
+      "side channel attack",
+      "key rotation"
+    ],
+    "aliases": [
+      "side channel attack",
+      "SIDE CHANNEL ATTACK"
+    ],
+    "use_case": "An infosec engineer uses Side Channel Attack to store encryption keys, prevent brute-force attacks, or meet industry security standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "timing attack": {
+    "eli5": "Timing Attack is like a secret rule, vault, or trick to keep computer stuff safe from bad guys or mistakes.",
+    "boss": "Timing Attack covers encryption tools, key management systems, compliance standards, and attack strategies used to protect digital assets and comply with security regulations.",
+    "sysadmin": "Timing Attack refers to a cryptographic tool, attack vector, encryption compliance spec, key lifecycle operation, or secure erasure method used to ensure end-to-end confidentiality and data integrity.",
+    "emoji": "\ud83d\udd11\ud83e\uddf0\ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83e\uddea\ud83d\udee1\ufe0f",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Cloud",
+      "Compliance"
+    ],
+    "related": [
+      "luks",
+      "vault",
+      "gdpr",
+      "side channel attack",
+      "key rotation"
+    ],
+    "aliases": [
+      "timing attack",
+      "TIMING ATTACK"
+    ],
+    "use_case": "An infosec engineer uses Timing Attack to store encryption keys, prevent brute-force attacks, or meet industry security standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "cryptanalysis": {
+    "eli5": "Cryptanalysis is like a secret rule, vault, or trick to keep computer stuff safe from bad guys or mistakes.",
+    "boss": "Cryptanalysis covers encryption tools, key management systems, compliance standards, and attack strategies used to protect digital assets and comply with security regulations.",
+    "sysadmin": "Cryptanalysis refers to a cryptographic tool, attack vector, encryption compliance spec, key lifecycle operation, or secure erasure method used to ensure end-to-end confidentiality and data integrity.",
+    "emoji": "\ud83d\udd11\ud83e\uddf0\ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83e\uddea\ud83d\udee1\ufe0f",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Cloud",
+      "Compliance"
+    ],
+    "related": [
+      "luks",
+      "vault",
+      "gdpr",
+      "side channel attack",
+      "key rotation"
+    ],
+    "aliases": [
+      "cryptanalysis",
+      "CRYPTANALYSIS"
+    ],
+    "use_case": "An infosec engineer uses Cryptanalysis to store encryption keys, prevent brute-force attacks, or meet industry security standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "quantum cryptography": {
+    "eli5": "Quantum Cryptography is like a secret rule, vault, or trick to keep computer stuff safe from bad guys or mistakes.",
+    "boss": "Quantum Cryptography covers encryption tools, key management systems, compliance standards, and attack strategies used to protect digital assets and comply with security regulations.",
+    "sysadmin": "Quantum Cryptography refers to a cryptographic tool, attack vector, encryption compliance spec, key lifecycle operation, or secure erasure method used to ensure end-to-end confidentiality and data integrity.",
+    "emoji": "\ud83d\udd11\ud83e\uddf0\ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83e\uddea\ud83d\udee1\ufe0f",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Cloud",
+      "Compliance"
+    ],
+    "related": [
+      "luks",
+      "vault",
+      "gdpr",
+      "side channel attack",
+      "key rotation"
+    ],
+    "aliases": [
+      "quantum cryptography",
+      "QUANTUM CRYPTOGRAPHY"
+    ],
+    "use_case": "An infosec engineer uses Quantum Cryptography to store encryption keys, prevent brute-force attacks, or meet industry security standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "post-quantum cryptography": {
+    "eli5": "Post-Quantum Cryptography is like a secret rule, vault, or trick to keep computer stuff safe from bad guys or mistakes.",
+    "boss": "Post-Quantum Cryptography covers encryption tools, key management systems, compliance standards, and attack strategies used to protect digital assets and comply with security regulations.",
+    "sysadmin": "Post-Quantum Cryptography refers to a cryptographic tool, attack vector, encryption compliance spec, key lifecycle operation, or secure erasure method used to ensure end-to-end confidentiality and data integrity.",
+    "emoji": "\ud83d\udd11\ud83e\uddf0\ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83e\uddea\ud83d\udee1\ufe0f",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Cloud",
+      "Compliance"
+    ],
+    "related": [
+      "luks",
+      "vault",
+      "gdpr",
+      "side channel attack",
+      "key rotation"
+    ],
+    "aliases": [
+      "post-quantum cryptography",
+      "POST-QUANTUM CRYPTOGRAPHY"
+    ],
+    "use_case": "An infosec engineer uses Post-Quantum Cryptography to store encryption keys, prevent brute-force attacks, or meet industry security standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "homomorphic encryption": {
+    "eli5": "Homomorphic Encryption is like a secret rule, vault, or trick to keep computer stuff safe from bad guys or mistakes.",
+    "boss": "Homomorphic Encryption covers encryption tools, key management systems, compliance standards, and attack strategies used to protect digital assets and comply with security regulations.",
+    "sysadmin": "Homomorphic Encryption refers to a cryptographic tool, attack vector, encryption compliance spec, key lifecycle operation, or secure erasure method used to ensure end-to-end confidentiality and data integrity.",
+    "emoji": "\ud83d\udd11\ud83e\uddf0\ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83e\uddea\ud83d\udee1\ufe0f",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Cloud",
+      "Compliance"
+    ],
+    "related": [
+      "luks",
+      "vault",
+      "gdpr",
+      "side channel attack",
+      "key rotation"
+    ],
+    "aliases": [
+      "homomorphic encryption",
+      "HOMOMORPHIC ENCRYPTION"
+    ],
+    "use_case": "An infosec engineer uses Homomorphic Encryption to store encryption keys, prevent brute-force attacks, or meet industry security standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "elliptic curve": {
+    "eli5": "Elliptic Curve is like a secret rule, vault, or trick to keep computer stuff safe from bad guys or mistakes.",
+    "boss": "Elliptic Curve covers encryption tools, key management systems, compliance standards, and attack strategies used to protect digital assets and comply with security regulations.",
+    "sysadmin": "Elliptic Curve refers to a cryptographic tool, attack vector, encryption compliance spec, key lifecycle operation, or secure erasure method used to ensure end-to-end confidentiality and data integrity.",
+    "emoji": "\ud83d\udd11\ud83e\uddf0\ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83e\uddea\ud83d\udee1\ufe0f",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Cloud",
+      "Compliance"
+    ],
+    "related": [
+      "luks",
+      "vault",
+      "gdpr",
+      "side channel attack",
+      "key rotation"
+    ],
+    "aliases": [
+      "elliptic curve",
+      "ELLIPTIC CURVE"
+    ],
+    "use_case": "An infosec engineer uses Elliptic Curve to store encryption keys, prevent brute-force attacks, or meet industry security standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "random number generator (rng)": {
+    "eli5": "Random Number Generator (RNG) is like a secret rule, vault, or trick to keep computer stuff safe from bad guys or mistakes.",
+    "boss": "Random Number Generator (RNG) covers encryption tools, key management systems, compliance standards, and attack strategies used to protect digital assets and comply with security regulations.",
+    "sysadmin": "Random Number Generator (RNG) refers to a cryptographic tool, attack vector, encryption compliance spec, key lifecycle operation, or secure erasure method used to ensure end-to-end confidentiality and data integrity.",
+    "emoji": "\ud83d\udd11\ud83e\uddf0\ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83e\uddea\ud83d\udee1\ufe0f",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Cloud",
+      "Compliance"
+    ],
+    "related": [
+      "luks",
+      "vault",
+      "gdpr",
+      "side channel attack",
+      "key rotation"
+    ],
+    "aliases": [
+      "random number generator (rng)",
+      "RANDOM NUMBER GENERATOR (RNG)"
+    ],
+    "use_case": "An infosec engineer uses Random Number Generator (RNG) to store encryption keys, prevent brute-force attacks, or meet industry security standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "pseudo-random number generator (prng)": {
+    "eli5": "Pseudo-Random Number Generator (PRNG) is like a secret rule, vault, or trick to keep computer stuff safe from bad guys or mistakes.",
+    "boss": "Pseudo-Random Number Generator (PRNG) covers encryption tools, key management systems, compliance standards, and attack strategies used to protect digital assets and comply with security regulations.",
+    "sysadmin": "Pseudo-Random Number Generator (PRNG) refers to a cryptographic tool, attack vector, encryption compliance spec, key lifecycle operation, or secure erasure method used to ensure end-to-end confidentiality and data integrity.",
+    "emoji": "\ud83d\udd11\ud83e\uddf0\ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83e\uddea\ud83d\udee1\ufe0f",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Cloud",
+      "Compliance"
+    ],
+    "related": [
+      "luks",
+      "vault",
+      "gdpr",
+      "side channel attack",
+      "key rotation"
+    ],
+    "aliases": [
+      "pseudo-random number generator (prng)",
+      "PSEUDO-RANDOM NUMBER GENERATOR (PRNG)"
+    ],
+    "use_case": "An infosec engineer uses Pseudo-Random Number Generator (PRNG) to store encryption keys, prevent brute-force attacks, or meet industry security standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "cryptographically secure rng (csprng)": {
+    "eli5": "Cryptographically Secure RNG (CSPRNG) is like a secret rule, vault, or trick to keep computer stuff safe from bad guys or mistakes.",
+    "boss": "Cryptographically Secure RNG (CSPRNG) covers encryption tools, key management systems, compliance standards, and attack strategies used to protect digital assets and comply with security regulations.",
+    "sysadmin": "Cryptographically Secure RNG (CSPRNG) refers to a cryptographic tool, attack vector, encryption compliance spec, key lifecycle operation, or secure erasure method used to ensure end-to-end confidentiality and data integrity.",
+    "emoji": "\ud83d\udd11\ud83e\uddf0\ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83e\uddea\ud83d\udee1\ufe0f",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Cloud",
+      "Compliance"
+    ],
+    "related": [
+      "luks",
+      "vault",
+      "gdpr",
+      "side channel attack",
+      "key rotation"
+    ],
+    "aliases": [
+      "cryptographically secure rng (csprng)",
+      "CRYPTOGRAPHICALLY SECURE RNG (CSPRNG)"
+    ],
+    "use_case": "An infosec engineer uses Cryptographically Secure RNG (CSPRNG) to store encryption keys, prevent brute-force attacks, or meet industry security standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "fips 140-2": {
+    "eli5": "FIPS 140-2 is like a secret rule, vault, or trick to keep computer stuff safe from bad guys or mistakes.",
+    "boss": "FIPS 140-2 covers encryption tools, key management systems, compliance standards, and attack strategies used to protect digital assets and comply with security regulations.",
+    "sysadmin": "FIPS 140-2 refers to a cryptographic tool, attack vector, encryption compliance spec, key lifecycle operation, or secure erasure method used to ensure end-to-end confidentiality and data integrity.",
+    "emoji": "\ud83d\udd11\ud83e\uddf0\ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83e\uddea\ud83d\udee1\ufe0f",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Cloud",
+      "Compliance"
+    ],
+    "related": [
+      "luks",
+      "vault",
+      "gdpr",
+      "side channel attack",
+      "key rotation"
+    ],
+    "aliases": [
+      "fips 140-2",
+      "FIPS 140-2"
+    ],
+    "use_case": "An infosec engineer uses FIPS 140-2 to store encryption keys, prevent brute-force attacks, or meet industry security standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "nist recommendations": {
+    "eli5": "NIST Recommendations is like a secret rule, vault, or trick to keep computer stuff safe from bad guys or mistakes.",
+    "boss": "NIST Recommendations covers encryption tools, key management systems, compliance standards, and attack strategies used to protect digital assets and comply with security regulations.",
+    "sysadmin": "NIST Recommendations refers to a cryptographic tool, attack vector, encryption compliance spec, key lifecycle operation, or secure erasure method used to ensure end-to-end confidentiality and data integrity.",
+    "emoji": "\ud83d\udd11\ud83e\uddf0\ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83e\uddea\ud83d\udee1\ufe0f",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Cloud",
+      "Compliance"
+    ],
+    "related": [
+      "luks",
+      "vault",
+      "gdpr",
+      "side channel attack",
+      "key rotation"
+    ],
+    "aliases": [
+      "nist recommendations",
+      "NIST RECOMMENDATIONS"
+    ],
+    "use_case": "An infosec engineer uses NIST Recommendations to store encryption keys, prevent brute-force attacks, or meet industry security standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "nsa suite b": {
+    "eli5": "NSA Suite B is like a secret rule, vault, or trick to keep computer stuff safe from bad guys or mistakes.",
+    "boss": "NSA Suite B covers encryption tools, key management systems, compliance standards, and attack strategies used to protect digital assets and comply with security regulations.",
+    "sysadmin": "NSA Suite B refers to a cryptographic tool, attack vector, encryption compliance spec, key lifecycle operation, or secure erasure method used to ensure end-to-end confidentiality and data integrity.",
+    "emoji": "\ud83d\udd11\ud83e\uddf0\ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83e\uddea\ud83d\udee1\ufe0f",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Cloud",
+      "Compliance"
+    ],
+    "related": [
+      "luks",
+      "vault",
+      "gdpr",
+      "side channel attack",
+      "key rotation"
+    ],
+    "aliases": [
+      "nsa suite b",
+      "NSA SUITE B"
+    ],
+    "use_case": "An infosec engineer uses NSA Suite B to store encryption keys, prevent brute-force attacks, or meet industry security standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "common criteria": {
+    "eli5": "Common Criteria is like a secret rule, vault, or trick to keep computer stuff safe from bad guys or mistakes.",
+    "boss": "Common Criteria covers encryption tools, key management systems, compliance standards, and attack strategies used to protect digital assets and comply with security regulations.",
+    "sysadmin": "Common Criteria refers to a cryptographic tool, attack vector, encryption compliance spec, key lifecycle operation, or secure erasure method used to ensure end-to-end confidentiality and data integrity.",
+    "emoji": "\ud83d\udd11\ud83e\uddf0\ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83e\uddea\ud83d\udee1\ufe0f",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Cloud",
+      "Compliance"
+    ],
+    "related": [
+      "luks",
+      "vault",
+      "gdpr",
+      "side channel attack",
+      "key rotation"
+    ],
+    "aliases": [
+      "common criteria",
+      "COMMON CRITERIA"
+    ],
+    "use_case": "An infosec engineer uses Common Criteria to store encryption keys, prevent brute-force attacks, or meet industry security standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "iso/iec 27001": {
+    "eli5": "ISO/IEC 27001 is like a secret rule, vault, or trick to keep computer stuff safe from bad guys or mistakes.",
+    "boss": "ISO/IEC 27001 covers encryption tools, key management systems, compliance standards, and attack strategies used to protect digital assets and comply with security regulations.",
+    "sysadmin": "ISO/IEC 27001 refers to a cryptographic tool, attack vector, encryption compliance spec, key lifecycle operation, or secure erasure method used to ensure end-to-end confidentiality and data integrity.",
+    "emoji": "\ud83d\udd11\ud83e\uddf0\ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83e\uddea\ud83d\udee1\ufe0f",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Cloud",
+      "Compliance"
+    ],
+    "related": [
+      "luks",
+      "vault",
+      "gdpr",
+      "side channel attack",
+      "key rotation"
+    ],
+    "aliases": [
+      "iso/iec 27001",
+      "ISO/IEC 27001"
+    ],
+    "use_case": "An infosec engineer uses ISO/IEC 27001 to store encryption keys, prevent brute-force attacks, or meet industry security standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "gdpr encryption requirements": {
+    "eli5": "GDPR Encryption Requirements is like a secret rule, vault, or trick to keep computer stuff safe from bad guys or mistakes.",
+    "boss": "GDPR Encryption Requirements covers encryption tools, key management systems, compliance standards, and attack strategies used to protect digital assets and comply with security regulations.",
+    "sysadmin": "GDPR Encryption Requirements refers to a cryptographic tool, attack vector, encryption compliance spec, key lifecycle operation, or secure erasure method used to ensure end-to-end confidentiality and data integrity.",
+    "emoji": "\ud83d\udd11\ud83e\uddf0\ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83e\uddea\ud83d\udee1\ufe0f",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Cloud",
+      "Compliance"
+    ],
+    "related": [
+      "luks",
+      "vault",
+      "gdpr",
+      "side channel attack",
+      "key rotation"
+    ],
+    "aliases": [
+      "gdpr encryption requirements",
+      "GDPR ENCRYPTION REQUIREMENTS"
+    ],
+    "use_case": "An infosec engineer uses GDPR Encryption Requirements to store encryption keys, prevent brute-force attacks, or meet industry security standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "hipaa encryption compliance": {
+    "eli5": "HIPAA Encryption Compliance is like a secret rule, vault, or trick to keep computer stuff safe from bad guys or mistakes.",
+    "boss": "HIPAA Encryption Compliance covers encryption tools, key management systems, compliance standards, and attack strategies used to protect digital assets and comply with security regulations.",
+    "sysadmin": "HIPAA Encryption Compliance refers to a cryptographic tool, attack vector, encryption compliance spec, key lifecycle operation, or secure erasure method used to ensure end-to-end confidentiality and data integrity.",
+    "emoji": "\ud83d\udd11\ud83e\uddf0\ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83e\uddea\ud83d\udee1\ufe0f",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Cloud",
+      "Compliance"
+    ],
+    "related": [
+      "luks",
+      "vault",
+      "gdpr",
+      "side channel attack",
+      "key rotation"
+    ],
+    "aliases": [
+      "hipaa encryption compliance",
+      "HIPAA ENCRYPTION COMPLIANCE"
+    ],
+    "use_case": "An infosec engineer uses HIPAA Encryption Compliance to store encryption keys, prevent brute-force attacks, or meet industry security standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "base64": {
+    "eli5": "Base64 is like a secret rule, vault, or trick to keep computer stuff safe from bad guys or mistakes.",
+    "boss": "Base64 covers encryption tools, key management systems, compliance standards, and attack strategies used to protect digital assets and comply with security regulations.",
+    "sysadmin": "Base64 refers to a cryptographic tool, attack vector, encryption compliance spec, key lifecycle operation, or secure erasure method used to ensure end-to-end confidentiality and data integrity.",
+    "emoji": "\ud83d\udd11\ud83e\uddf0\ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83e\uddea\ud83d\udee1\ufe0f",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Cloud",
+      "Compliance"
+    ],
+    "related": [
+      "luks",
+      "vault",
+      "gdpr",
+      "side channel attack",
+      "key rotation"
+    ],
+    "aliases": [
+      "base64",
+      "BASE64"
+    ],
+    "use_case": "An infosec engineer uses Base64 to store encryption keys, prevent brute-force attacks, or meet industry security standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "base58": {
+    "eli5": "Base58 is like a secret rule, vault, or trick to keep computer stuff safe from bad guys or mistakes.",
+    "boss": "Base58 covers encryption tools, key management systems, compliance standards, and attack strategies used to protect digital assets and comply with security regulations.",
+    "sysadmin": "Base58 refers to a cryptographic tool, attack vector, encryption compliance spec, key lifecycle operation, or secure erasure method used to ensure end-to-end confidentiality and data integrity.",
+    "emoji": "\ud83d\udd11\ud83e\uddf0\ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83e\uddea\ud83d\udee1\ufe0f",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Cloud",
+      "Compliance"
+    ],
+    "related": [
+      "luks",
+      "vault",
+      "gdpr",
+      "side channel attack",
+      "key rotation"
+    ],
+    "aliases": [
+      "base58",
+      "BASE58"
+    ],
+    "use_case": "An infosec engineer uses Base58 to store encryption keys, prevent brute-force attacks, or meet industry security standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "base32": {
+    "eli5": "Base32 is like a secret rule, vault, or trick to keep computer stuff safe from bad guys or mistakes.",
+    "boss": "Base32 covers encryption tools, key management systems, compliance standards, and attack strategies used to protect digital assets and comply with security regulations.",
+    "sysadmin": "Base32 refers to a cryptographic tool, attack vector, encryption compliance spec, key lifecycle operation, or secure erasure method used to ensure end-to-end confidentiality and data integrity.",
+    "emoji": "\ud83d\udd11\ud83e\uddf0\ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83e\uddea\ud83d\udee1\ufe0f",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Cloud",
+      "Compliance"
+    ],
+    "related": [
+      "luks",
+      "vault",
+      "gdpr",
+      "side channel attack",
+      "key rotation"
+    ],
+    "aliases": [
+      "base32",
+      "BASE32"
+    ],
+    "use_case": "An infosec engineer uses Base32 to store encryption keys, prevent brute-force attacks, or meet industry security standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "pem format": {
+    "eli5": "PEM Format is like a secret rule, vault, or trick to keep computer stuff safe from bad guys or mistakes.",
+    "boss": "PEM Format covers encryption tools, key management systems, compliance standards, and attack strategies used to protect digital assets and comply with security regulations.",
+    "sysadmin": "PEM Format refers to a cryptographic tool, attack vector, encryption compliance spec, key lifecycle operation, or secure erasure method used to ensure end-to-end confidentiality and data integrity.",
+    "emoji": "\ud83d\udd11\ud83e\uddf0\ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83e\uddea\ud83d\udee1\ufe0f",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Cloud",
+      "Compliance"
+    ],
+    "related": [
+      "luks",
+      "vault",
+      "gdpr",
+      "side channel attack",
+      "key rotation"
+    ],
+    "aliases": [
+      "pem format",
+      "PEM FORMAT"
+    ],
+    "use_case": "An infosec engineer uses PEM Format to store encryption keys, prevent brute-force attacks, or meet industry security standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "der format": {
+    "eli5": "DER Format is like a secret rule, vault, or trick to keep computer stuff safe from bad guys or mistakes.",
+    "boss": "DER Format covers encryption tools, key management systems, compliance standards, and attack strategies used to protect digital assets and comply with security regulations.",
+    "sysadmin": "DER Format refers to a cryptographic tool, attack vector, encryption compliance spec, key lifecycle operation, or secure erasure method used to ensure end-to-end confidentiality and data integrity.",
+    "emoji": "\ud83d\udd11\ud83e\uddf0\ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83e\uddea\ud83d\udee1\ufe0f",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Cloud",
+      "Compliance"
+    ],
+    "related": [
+      "luks",
+      "vault",
+      "gdpr",
+      "side channel attack",
+      "key rotation"
+    ],
+    "aliases": [
+      "der format",
+      "DER FORMAT"
+    ],
+    "use_case": "An infosec engineer uses DER Format to store encryption keys, prevent brute-force attacks, or meet industry security standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "jwk (json web key)": {
+    "eli5": "JWK (JSON Web Key) is like a secret rule, vault, or trick to keep computer stuff safe from bad guys or mistakes.",
+    "boss": "JWK (JSON Web Key) covers encryption tools, key management systems, compliance standards, and attack strategies used to protect digital assets and comply with security regulations.",
+    "sysadmin": "JWK (JSON Web Key) refers to a cryptographic tool, attack vector, encryption compliance spec, key lifecycle operation, or secure erasure method used to ensure end-to-end confidentiality and data integrity.",
+    "emoji": "\ud83d\udd11\ud83e\uddf0\ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83e\uddea\ud83d\udee1\ufe0f",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Cloud",
+      "Compliance"
+    ],
+    "related": [
+      "luks",
+      "vault",
+      "gdpr",
+      "side channel attack",
+      "key rotation"
+    ],
+    "aliases": [
+      "jwk (json web key)",
+      "JWK (JSON WEB KEY)"
+    ],
+    "use_case": "An infosec engineer uses JWK (JSON Web Key) to store encryption keys, prevent brute-force attacks, or meet industry security standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "jwks (key set)": {
+    "eli5": "JWKS (Key Set) is like a secret rule, vault, or trick to keep computer stuff safe from bad guys or mistakes.",
+    "boss": "JWKS (Key Set) covers encryption tools, key management systems, compliance standards, and attack strategies used to protect digital assets and comply with security regulations.",
+    "sysadmin": "JWKS (Key Set) refers to a cryptographic tool, attack vector, encryption compliance spec, key lifecycle operation, or secure erasure method used to ensure end-to-end confidentiality and data integrity.",
+    "emoji": "\ud83d\udd11\ud83e\uddf0\ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83e\uddea\ud83d\udee1\ufe0f",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Cloud",
+      "Compliance"
+    ],
+    "related": [
+      "luks",
+      "vault",
+      "gdpr",
+      "side channel attack",
+      "key rotation"
+    ],
+    "aliases": [
+      "jwks (key set)",
+      "JWKS (KEY SET)"
+    ],
+    "use_case": "An infosec engineer uses JWKS (Key Set) to store encryption keys, prevent brute-force attacks, or meet industry security standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "jwe (encrypted jwt)": {
+    "eli5": "JWE (Encrypted JWT) is like a secret rule, vault, or trick to keep computer stuff safe from bad guys or mistakes.",
+    "boss": "JWE (Encrypted JWT) covers encryption tools, key management systems, compliance standards, and attack strategies used to protect digital assets and comply with security regulations.",
+    "sysadmin": "JWE (Encrypted JWT) refers to a cryptographic tool, attack vector, encryption compliance spec, key lifecycle operation, or secure erasure method used to ensure end-to-end confidentiality and data integrity.",
+    "emoji": "\ud83d\udd11\ud83e\uddf0\ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83e\uddea\ud83d\udee1\ufe0f",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Cloud",
+      "Compliance"
+    ],
+    "related": [
+      "luks",
+      "vault",
+      "gdpr",
+      "side channel attack",
+      "key rotation"
+    ],
+    "aliases": [
+      "jwe (encrypted jwt)",
+      "JWE (ENCRYPTED JWT)"
+    ],
+    "use_case": "An infosec engineer uses JWE (Encrypted JWT) to store encryption keys, prevent brute-force attacks, or meet industry security standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "jws (signed jwt)": {
+    "eli5": "JWS (Signed JWT) is like a secret rule, vault, or trick to keep computer stuff safe from bad guys or mistakes.",
+    "boss": "JWS (Signed JWT) covers encryption tools, key management systems, compliance standards, and attack strategies used to protect digital assets and comply with security regulations.",
+    "sysadmin": "JWS (Signed JWT) refers to a cryptographic tool, attack vector, encryption compliance spec, key lifecycle operation, or secure erasure method used to ensure end-to-end confidentiality and data integrity.",
+    "emoji": "\ud83d\udd11\ud83e\uddf0\ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83e\uddea\ud83d\udee1\ufe0f",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Cloud",
+      "Compliance"
+    ],
+    "related": [
+      "luks",
+      "vault",
+      "gdpr",
+      "side channel attack",
+      "key rotation"
+    ],
+    "aliases": [
+      "jws (signed jwt)",
+      "JWS (SIGNED JWT)"
+    ],
+    "use_case": "An infosec engineer uses JWS (Signed JWT) to store encryption keys, prevent brute-force attacks, or meet industry security standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "tokenization": {
+    "eli5": "Tokenization is like a secret rule, vault, or trick to keep computer stuff safe from bad guys or mistakes.",
+    "boss": "Tokenization covers encryption tools, key management systems, compliance standards, and attack strategies used to protect digital assets and comply with security regulations.",
+    "sysadmin": "Tokenization refers to a cryptographic tool, attack vector, encryption compliance spec, key lifecycle operation, or secure erasure method used to ensure end-to-end confidentiality and data integrity.",
+    "emoji": "\ud83d\udd11\ud83e\uddf0\ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83e\uddea\ud83d\udee1\ufe0f",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Cloud",
+      "Compliance"
+    ],
+    "related": [
+      "luks",
+      "vault",
+      "gdpr",
+      "side channel attack",
+      "key rotation"
+    ],
+    "aliases": [
+      "tokenization",
+      "TOKENIZATION"
+    ],
+    "use_case": "An infosec engineer uses Tokenization to store encryption keys, prevent brute-force attacks, or meet industry security standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "obfuscation": {
+    "eli5": "Obfuscation is like a secret rule, vault, or trick to keep computer stuff safe from bad guys or mistakes.",
+    "boss": "Obfuscation covers encryption tools, key management systems, compliance standards, and attack strategies used to protect digital assets and comply with security regulations.",
+    "sysadmin": "Obfuscation refers to a cryptographic tool, attack vector, encryption compliance spec, key lifecycle operation, or secure erasure method used to ensure end-to-end confidentiality and data integrity.",
+    "emoji": "\ud83d\udd11\ud83e\uddf0\ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83e\uddea\ud83d\udee1\ufe0f",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Cloud",
+      "Compliance"
+    ],
+    "related": [
+      "luks",
+      "vault",
+      "gdpr",
+      "side channel attack",
+      "key rotation"
+    ],
+    "aliases": [
+      "obfuscation",
+      "OBFUSCATION"
+    ],
+    "use_case": "An infosec engineer uses Obfuscation to store encryption keys, prevent brute-force attacks, or meet industry security standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "redaction": {
+    "eli5": "Redaction is like a secret rule, vault, or trick to keep computer stuff safe from bad guys or mistakes.",
+    "boss": "Redaction covers encryption tools, key management systems, compliance standards, and attack strategies used to protect digital assets and comply with security regulations.",
+    "sysadmin": "Redaction refers to a cryptographic tool, attack vector, encryption compliance spec, key lifecycle operation, or secure erasure method used to ensure end-to-end confidentiality and data integrity.",
+    "emoji": "\ud83d\udd11\ud83e\uddf0\ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83e\uddea\ud83d\udee1\ufe0f",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Cloud",
+      "Compliance"
+    ],
+    "related": [
+      "luks",
+      "vault",
+      "gdpr",
+      "side channel attack",
+      "key rotation"
+    ],
+    "aliases": [
+      "redaction",
+      "REDACTION"
+    ],
+    "use_case": "An infosec engineer uses Redaction to store encryption keys, prevent brute-force attacks, or meet industry security standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "secure erase": {
+    "eli5": "Secure Erase is like a secret rule, vault, or trick to keep computer stuff safe from bad guys or mistakes.",
+    "boss": "Secure Erase covers encryption tools, key management systems, compliance standards, and attack strategies used to protect digital assets and comply with security regulations.",
+    "sysadmin": "Secure Erase refers to a cryptographic tool, attack vector, encryption compliance spec, key lifecycle operation, or secure erasure method used to ensure end-to-end confidentiality and data integrity.",
+    "emoji": "\ud83d\udd11\ud83e\uddf0\ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83e\uddea\ud83d\udee1\ufe0f",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Cloud",
+      "Compliance"
+    ],
+    "related": [
+      "luks",
+      "vault",
+      "gdpr",
+      "side channel attack",
+      "key rotation"
+    ],
+    "aliases": [
+      "secure erase",
+      "SECURE ERASE"
+    ],
+    "use_case": "An infosec engineer uses Secure Erase to store encryption keys, prevent brute-force attacks, or meet industry security standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "shredding": {
+    "eli5": "Shredding is like a secret rule, vault, or trick to keep computer stuff safe from bad guys or mistakes.",
+    "boss": "Shredding covers encryption tools, key management systems, compliance standards, and attack strategies used to protect digital assets and comply with security regulations.",
+    "sysadmin": "Shredding refers to a cryptographic tool, attack vector, encryption compliance spec, key lifecycle operation, or secure erasure method used to ensure end-to-end confidentiality and data integrity.",
+    "emoji": "\ud83d\udd11\ud83e\uddf0\ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83e\uddea\ud83d\udee1\ufe0f",
+    "categories": [
+      "Encryption",
+      "Security",
+      "Privacy",
+      "Cloud",
+      "Compliance"
+    ],
+    "related": [
+      "luks",
+      "vault",
+      "gdpr",
+      "side channel attack",
+      "key rotation"
+    ],
+    "aliases": [
+      "shredding",
+      "SHREDDING"
+    ],
+    "use_case": "An infosec engineer uses Shredding to store encryption keys, prevent brute-force attacks, or meet industry security standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  }
+}

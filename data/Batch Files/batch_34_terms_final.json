@@ -1,0 +1,211 @@
+{
+  "bash": {
+    "eli5": "Bash is like talking to your computer using special words to tell it what to do.",
+    "boss": "Bash is a Unix shell and scripting language widely used for command-line tasks and automation.",
+    "sysadmin": "Bash (Bourne Again SHell) is a POSIX-compliant shell with command-line editing, scripting, variables, and control flow.",
+    "emoji": "\ud83d\udcbb\ud83d\udc1a\ud83d\udcdc",
+    "categories": [
+      "CLI",
+      "Linux",
+      "Scripting"
+    ],
+    "related": [
+      "Zsh",
+      "Shell Script",
+      "Terminal"
+    ],
+    "aliases": [
+      "Bourne Again Shell"
+    ],
+    "use_case": "Used to write automation scripts for server maintenance and backups.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "zsh": {
+    "eli5": "Zsh is like a fancier version of Bash with more helpful tricks.",
+    "boss": "Zsh is an extended Unix shell that enhances user productivity with plugins and customization features.",
+    "sysadmin": "Zsh supports advanced tab completion, globbing, themes (like Oh My Zsh), and is compatible with Bash scripting.",
+    "emoji": "\ud83d\udca1\ud83d\udc1a\ud83c\udfa8",
+    "categories": [
+      "CLI",
+      "Linux",
+      "Scripting"
+    ],
+    "related": [
+      "Bash",
+      "Fish",
+      "Shell Prompt"
+    ],
+    "aliases": [
+      "Z Shell"
+    ],
+    "use_case": "Used as a developer-friendly shell with productivity plugins on macOS and Linux.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "fish": {
+    "eli5": "Fish is a super friendly shell that finishes your sentences and makes life easier.",
+    "boss": "Fish is a user-centric shell with modern features and syntax designed for ease of use.",
+    "sysadmin": "Fish (Friendly Interactive SHell) includes autosuggestions, syntax highlighting, and human-readable scripting syntax out of the box.",
+    "emoji": "\ud83d\udc1f\ud83c\udfaf\ud83d\udcac",
+    "categories": [
+      "CLI",
+      "Linux",
+      "Scripting"
+    ],
+    "related": [
+      "Zsh",
+      "Bash",
+      "Shell Prompt"
+    ],
+    "aliases": [
+      "Friendly Interactive Shell"
+    ],
+    "use_case": "Used by developers for a fast and user-friendly terminal experience with minimal configuration.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "sh": {
+    "eli5": "sh is like the grandparent of all the other shells\u2014simple and gets the job done.",
+    "boss": "sh is the original Unix shell used to run scripts and execute commands on Unix systems.",
+    "sysadmin": "sh (Bourne Shell) is a lightweight shell commonly used in minimal environments and for basic scripting.",
+    "emoji": "\ud83d\udcdc\ud83e\uddd3\ud83d\udda5\ufe0f",
+    "categories": [
+      "CLI",
+      "Linux",
+      "Scripting"
+    ],
+    "related": [
+      "Bash",
+      "Shell Script",
+      "POSIX"
+    ],
+    "aliases": [
+      "Bourne Shell"
+    ],
+    "use_case": "Used in minimal containers or POSIX-compliant scripts for wide compatibility.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "shell_prompt": {
+    "eli5": "The shell prompt is the blinking spot where your computer waits for you to tell it something.",
+    "boss": "The shell prompt is the interface in a terminal where users input commands.",
+    "sysadmin": "Shell prompts are customizable strings displayed in interactive shells, often showing user, hostname, or path.",
+    "emoji": "\ud83d\udd32\u2328\ufe0f\ud83d\uddb1\ufe0f",
+    "categories": [
+      "CLI",
+      "Linux"
+    ],
+    "related": [
+      "Terminal",
+      "Login Shell",
+      "Interactive Shell"
+    ],
+    "aliases": [
+      "Command Prompt"
+    ],
+    "use_case": "Used to input shell commands interactively, such as `ls` or `cd /etc`.",
+    "jargon_score": 1,
+    "level": "Beginner"
+  },
+  "login_shell": {
+    "eli5": "A login shell is the first shell that welcomes you when you log in to your computer.",
+    "boss": "A login shell is the initial shell that sets up your environment when you log into a Unix system.",
+    "sysadmin": "Login shells read startup files like `.bash_profile` or `.zprofile` and initialize environment variables for user sessions.",
+    "emoji": "\ud83d\udd10\ud83d\udc1a\ud83d\udc4b",
+    "categories": [
+      "Linux",
+      "CLI"
+    ],
+    "related": [
+      "Interactive Shell",
+      "Shell Prompt",
+      "Terminal"
+    ],
+    "aliases": [],
+    "use_case": "Used to configure PATH variables and user profiles at login time.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "interactive_shell": {
+    "eli5": "An interactive shell is the one you talk to by typing commands and getting instant replies.",
+    "boss": "An interactive shell is a command-line interface that accepts user input and displays output immediately.",
+    "sysadmin": "Interactive shells respond to user inputs with prompts, tab completion, and command history, typically running in terminals.",
+    "emoji": "\ud83d\udcac\ud83d\udcdf\ud83d\udd04",
+    "categories": [
+      "Linux",
+      "CLI"
+    ],
+    "related": [
+      "Login Shell",
+      "Shell Prompt",
+      "REPL"
+    ],
+    "aliases": [],
+    "use_case": "Used when opening a terminal session to run commands directly.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "shell_script": {
+    "eli5": "A shell script is a list of computer chores written down so the shell does them for you.",
+    "boss": "A shell script is a file containing a series of shell commands that automate tasks.",
+    "sysadmin": "Shell scripts use scripting languages like Bash to execute sequences of commands, logic, and file operations automatically.",
+    "emoji": "\ud83d\udcdc\u2699\ufe0f\ud83d\udca1",
+    "categories": [
+      "Scripting",
+      "Automation",
+      "CLI"
+    ],
+    "related": [
+      "Bash",
+      "sh",
+      "Shebang"
+    ],
+    "aliases": [],
+    "use_case": "Used to back up logs or restart services on a scheduled basis.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "command_line": {
+    "eli5": "The command line is a place where you type instructions to tell your computer what to do.",
+    "boss": "The command line is a text-based interface used to run programs and manage systems.",
+    "sysadmin": "The command line interface (CLI) processes textual input to execute commands, offering more control and scripting than GUIs.",
+    "emoji": "\u2328\ufe0f\ud83d\udcc4\ud83d\udda5\ufe0f",
+    "categories": [
+      "CLI",
+      "Linux",
+      "Scripting"
+    ],
+    "related": [
+      "Shell",
+      "Terminal",
+      "REPL"
+    ],
+    "aliases": [],
+    "use_case": "Used to manage servers, install packages, and automate tasks.",
+    "jargon_score": 1,
+    "level": "Beginner"
+  },
+  "cli_command_line_interface": {
+    "eli5": "CLI is like texting your computer instructions instead of clicking buttons.",
+    "boss": "CLI stands for Command Line Interface, which lets users control systems via typed commands.",
+    "sysadmin": "The CLI allows direct interaction with the OS or apps using commands, flags, and scripts for powerful automation and precision.",
+    "emoji": "\ud83d\udcbb\ud83e\uddfe\ud83d\udce2",
+    "categories": [
+      "CLI",
+      "Linux",
+      "Automation"
+    ],
+    "related": [
+      "Terminal",
+      "Shell",
+      "Command Line"
+    ],
+    "aliases": [
+      "Command Line Interface"
+    ],
+    "use_case": "Used to deploy apps, configure networks, or run diagnostics quickly.",
+    "jargon_score": 1,
+    "level": "Beginner"
+  }
+}

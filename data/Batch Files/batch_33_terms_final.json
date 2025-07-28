@@ -1,0 +1,200 @@
+{
+  "splA": {
+    "eli5": "SPLA is like renting software from Microsoft every month instead of buying it.",
+    "boss": "SPLA is a Microsoft licensing model that lets service providers rent Microsoft software on a monthly basis.",
+    "sysadmin": "The Services Provider License Agreement (SPLA) allows hosting companies to provide Microsoft products to customers on a pay-as-you-go basis.",
+    "emoji": "\ud83d\udcc4\ud83d\udcb0\ud83d\udd01",
+    "categories": [
+      "Licensing",
+      "Enterprise",
+      "Microsoft"
+    ],
+    "related": [
+      "OEM License",
+      "License Server",
+      "VMware SPLA"
+    ],
+    "aliases": [
+      "Services Provider License Agreement"
+    ],
+    "use_case": "Used by hosting companies to license Windows Server for customer VMs.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "oem_license": {
+    "eli5": "An OEM License is like software that comes with your computer and stays with it forever.",
+    "boss": "An OEM License ties software to the hardware it was purchased with, commonly seen in prebuilt computers.",
+    "sysadmin": "OEM (Original Equipment Manufacturer) licenses are non-transferable and bound to a single device, often preinstalled on PCs.",
+    "emoji": "\ud83d\udcbb\ud83d\udd10\ud83d\udce6",
+    "categories": [
+      "Licensing",
+      "Microsoft"
+    ],
+    "related": [
+      "SPLA",
+      "Volume Licensing",
+      "Retail License"
+    ],
+    "aliases": [
+      "Original Equipment Manufacturer License"
+    ],
+    "use_case": "Used when Windows is preinstalled on brand-name laptops or desktops.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "power_and_cooling": {
+    "eli5": "Power and cooling is how you keep your computers from overheating and make sure they don\u2019t lose electricity.",
+    "boss": "Power and cooling systems ensure IT equipment runs reliably and safely in data centers or server rooms.",
+    "sysadmin": "Power and cooling covers UPS, PDUs, HVAC, airflow design, and redundancy planning to maintain uptime and performance.",
+    "emoji": "\u26a1\u2744\ufe0f\ud83d\udca8",
+    "categories": [
+      "Infrastructure",
+      "Data Center"
+    ],
+    "related": [
+      "Redundant PSU",
+      "Smart PDU",
+      "Rack Cooling"
+    ],
+    "aliases": [],
+    "use_case": "Used in server rooms to prevent downtime due to overheating or power failure.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "redundant_psu": {
+    "eli5": "A redundant PSU is like having two batteries\u2014if one dies, the other keeps your toy running.",
+    "boss": "A redundant power supply unit (PSU) provides backup power to critical servers in case one PSU fails.",
+    "sysadmin": "Redundant PSUs are dual (or more) hot-swappable power supplies in a server chassis for continuous power delivery.",
+    "emoji": "\ud83d\udd0c\ud83e\uddef\u2699\ufe0f",
+    "categories": [
+      "Infrastructure",
+      "Hardware"
+    ],
+    "related": [
+      "Power Budget",
+      "Smart PDU",
+      "UPS"
+    ],
+    "aliases": [
+      "Dual PSU",
+      "Redundant Power Supply"
+    ],
+    "use_case": "Used in rackmount servers to maintain uptime during a PSU failure or maintenance.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "power_budget": {
+    "eli5": "Power budget is like making sure your power strip isn\u2019t overloaded with too many devices.",
+    "boss": "A power budget calculates the total electricity needed by equipment to avoid overloads.",
+    "sysadmin": "Power budgeting estimates cumulative wattage of servers, switches, and gear to stay within rack or circuit limits.",
+    "emoji": "\ud83d\udd0b\ud83d\udcca\ud83d\udccf",
+    "categories": [
+      "Infrastructure",
+      "Data Center"
+    ],
+    "related": [
+      "Power & Cooling",
+      "Redundant PSU",
+      "Smart PDU"
+    ],
+    "aliases": [],
+    "use_case": "Used to plan the number of servers per rack without exceeding power limits.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "thermal_envelope": {
+    "eli5": "The thermal envelope is like the comfy temperature zone where your computer doesn\u2019t get too hot.",
+    "boss": "The thermal envelope defines the safe operating temperature and heat output range for electronic components.",
+    "sysadmin": "It represents the maximum thermal load a device can generate while staying within acceptable temperature limits under cooling design.",
+    "emoji": "\ud83c\udf21\ufe0f\ud83d\udce6\ud83e\uddca",
+    "categories": [
+      "Infrastructure",
+      "Data Center"
+    ],
+    "related": [
+      "Power & Cooling",
+      "Rack Cooling",
+      "Fan Controller"
+    ],
+    "aliases": [],
+    "use_case": "Used to ensure that server racks stay within safe operating temperatures.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "hot_aisle_cold_aisle": {
+    "eli5": "Hot and cold aisles are like sitting people in a room so heat doesn\u2019t bounce around and make everyone sweat.",
+    "boss": "This layout strategy separates the fronts and backs of servers to improve airflow and cooling in data centers.",
+    "sysadmin": "The hot aisle/cold aisle layout aligns racks so cold air is drawn in from one side while hot exhaust is expelled into another aisle.",
+    "emoji": "\ud83d\udd25\ud83e\uddca\ud83d\udeaa",
+    "categories": [
+      "Infrastructure",
+      "Data Center"
+    ],
+    "related": [
+      "Rack Cooling",
+      "Thermal Envelope",
+      "Airflow Sensor"
+    ],
+    "aliases": [],
+    "use_case": "Used to optimize cooling efficiency and airflow in server environments.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "data_center_cooling": {
+    "eli5": "Data center cooling is the air conditioner that keeps all the computer rooms from melting.",
+    "boss": "Data center cooling ensures IT systems operate safely by removing heat through HVAC and airflow management.",
+    "sysadmin": "Cooling systems include CRAC units, containment layouts, fans, and sensors to maintain ideal thermal conditions in data halls.",
+    "emoji": "\u2744\ufe0f\ud83c\udfe2\ud83d\udca8",
+    "categories": [
+      "Infrastructure",
+      "Data Center"
+    ],
+    "related": [
+      "Rack Cooling",
+      "Cooling Unit",
+      "Hot Aisle / Cold Aisle"
+    ],
+    "aliases": [],
+    "use_case": "Used to design energy-efficient cooling systems in hyperscale and enterprise data centers.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "rack_cooling": {
+    "eli5": "Rack cooling is like blowing cool air directly into a crowded bookshelf of computers.",
+    "boss": "Rack cooling targets heat at the rack level using airflow or liquid systems to prevent equipment failures.",
+    "sysadmin": "It involves fan trays, liquid cooling doors, or in-rack HVAC to cool high-density server racks individually.",
+    "emoji": "\ud83e\uddca\ud83d\uddc4\ufe0f\ud83d\udca8",
+    "categories": [
+      "Infrastructure",
+      "Data Center"
+    ],
+    "related": [
+      "Hot Aisle / Cold Aisle",
+      "Fan Controller",
+      "Thermal Envelope"
+    ],
+    "aliases": [],
+    "use_case": "Used when standard room cooling isn\u2019t enough for high-density hardware configurations.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "fan_controller": {
+    "eli5": "A fan controller is like a smart switch that speeds up fans when it gets hot and slows them when it\u2019s cool.",
+    "boss": "A fan controller automatically adjusts fan speeds based on temperature sensors to manage cooling efficiently.",
+    "sysadmin": "It interfaces with sensors or motherboard firmware to vary airflow dynamically, improving energy usage and noise reduction.",
+    "emoji": "\ud83c\udf2c\ufe0f\ud83d\udcc8\ud83c\udf00",
+    "categories": [
+      "Infrastructure",
+      "Hardware"
+    ],
+    "related": [
+      "Rack Cooling",
+      "Environment Sensor",
+      "Smart PDU"
+    ],
+    "aliases": [],
+    "use_case": "Used in server racks to prevent overheating while reducing power and noise.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  }
+}

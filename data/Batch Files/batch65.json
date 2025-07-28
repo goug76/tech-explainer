@@ -1,0 +1,1352 @@
+{
+  "certificate-based authentication": {
+    "eli5": "Certificate-Based Authentication is like a secret handshake, special rule, or security feature that helps you stay private and safe online.",
+    "boss": "Certificate-Based Authentication includes VPN protocols, encryption methods, and privacy features essential for ensuring secure, uninterrupted remote access and anonymous browsing.",
+    "sysadmin": "Certificate-Based Authentication refers to an encryption cipher, VPN topology, authentication method, or leak prevention mechanism used in configuring secure and private VPN connections.",
+    "emoji": "\ud83d\udd10\ud83c\udf0d\ud83d\udcf6\ud83d\udd75\ufe0f",
+    "categories": [
+      "VPN",
+      "Security",
+      "Encryption",
+      "Privacy",
+      "Networking"
+    ],
+    "related": [
+      "tls handshake",
+      "dns leak protection",
+      "vpn logs",
+      "mesh vpn",
+      "certificate-based authentication"
+    ],
+    "aliases": [
+      "certificate-based authentication",
+      "CERTIFICATE-BASED AUTHENTICATION"
+    ],
+    "use_case": "A VPN provider or security engineer uses Certificate-Based Authentication to establish secure tunnels, protect user data, or enforce privacy policies.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "mutual authentication": {
+    "eli5": "Mutual Authentication is like a secret handshake, special rule, or security feature that helps you stay private and safe online.",
+    "boss": "Mutual Authentication includes VPN protocols, encryption methods, and privacy features essential for ensuring secure, uninterrupted remote access and anonymous browsing.",
+    "sysadmin": "Mutual Authentication refers to an encryption cipher, VPN topology, authentication method, or leak prevention mechanism used in configuring secure and private VPN connections.",
+    "emoji": "\ud83d\udd10\ud83c\udf0d\ud83d\udcf6\ud83d\udd75\ufe0f",
+    "categories": [
+      "VPN",
+      "Security",
+      "Encryption",
+      "Privacy",
+      "Networking"
+    ],
+    "related": [
+      "tls handshake",
+      "dns leak protection",
+      "vpn logs",
+      "mesh vpn",
+      "certificate-based authentication"
+    ],
+    "aliases": [
+      "mutual authentication",
+      "MUTUAL AUTHENTICATION"
+    ],
+    "use_case": "A VPN provider or security engineer uses Mutual Authentication to establish secure tunnels, protect user data, or enforce privacy policies.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "cipher suite": {
+    "eli5": "Cipher Suite is like a secret handshake, special rule, or security feature that helps you stay private and safe online.",
+    "boss": "Cipher Suite includes VPN protocols, encryption methods, and privacy features essential for ensuring secure, uninterrupted remote access and anonymous browsing.",
+    "sysadmin": "Cipher Suite refers to an encryption cipher, VPN topology, authentication method, or leak prevention mechanism used in configuring secure and private VPN connections.",
+    "emoji": "\ud83d\udd10\ud83c\udf0d\ud83d\udcf6\ud83d\udd75\ufe0f",
+    "categories": [
+      "VPN",
+      "Security",
+      "Encryption",
+      "Privacy",
+      "Networking"
+    ],
+    "related": [
+      "tls handshake",
+      "dns leak protection",
+      "vpn logs",
+      "mesh vpn",
+      "certificate-based authentication"
+    ],
+    "aliases": [
+      "cipher suite",
+      "CIPHER SUITE"
+    ],
+    "use_case": "A VPN provider or security engineer uses Cipher Suite to establish secure tunnels, protect user data, or enforce privacy policies.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "aes-256": {
+    "eli5": "AES-256 is like a secret handshake, special rule, or security feature that helps you stay private and safe online.",
+    "boss": "AES-256 includes VPN protocols, encryption methods, and privacy features essential for ensuring secure, uninterrupted remote access and anonymous browsing.",
+    "sysadmin": "AES-256 refers to an encryption cipher, VPN topology, authentication method, or leak prevention mechanism used in configuring secure and private VPN connections.",
+    "emoji": "\ud83d\udd10\ud83c\udf0d\ud83d\udcf6\ud83d\udd75\ufe0f",
+    "categories": [
+      "VPN",
+      "Security",
+      "Encryption",
+      "Privacy",
+      "Networking"
+    ],
+    "related": [
+      "tls handshake",
+      "dns leak protection",
+      "vpn logs",
+      "mesh vpn",
+      "certificate-based authentication"
+    ],
+    "aliases": [
+      "aes-256",
+      "AES-256"
+    ],
+    "use_case": "A VPN provider or security engineer uses AES-256 to establish secure tunnels, protect user data, or enforce privacy policies.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "hmac": {
+    "eli5": "HMAC is like a secret handshake, special rule, or security feature that helps you stay private and safe online.",
+    "boss": "HMAC includes VPN protocols, encryption methods, and privacy features essential for ensuring secure, uninterrupted remote access and anonymous browsing.",
+    "sysadmin": "HMAC refers to an encryption cipher, VPN topology, authentication method, or leak prevention mechanism used in configuring secure and private VPN connections.",
+    "emoji": "\ud83d\udd10\ud83c\udf0d\ud83d\udcf6\ud83d\udd75\ufe0f",
+    "categories": [
+      "VPN",
+      "Security",
+      "Encryption",
+      "Privacy",
+      "Networking"
+    ],
+    "related": [
+      "tls handshake",
+      "dns leak protection",
+      "vpn logs",
+      "mesh vpn",
+      "certificate-based authentication"
+    ],
+    "aliases": [
+      "hmac",
+      "HMAC"
+    ],
+    "use_case": "A VPN provider or security engineer uses HMAC to establish secure tunnels, protect user data, or enforce privacy policies.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "perfect forward secrecy (pfs)": {
+    "eli5": "Perfect Forward Secrecy (PFS) is like a secret handshake, special rule, or security feature that helps you stay private and safe online.",
+    "boss": "Perfect Forward Secrecy (PFS) includes VPN protocols, encryption methods, and privacy features essential for ensuring secure, uninterrupted remote access and anonymous browsing.",
+    "sysadmin": "Perfect Forward Secrecy (PFS) refers to an encryption cipher, VPN topology, authentication method, or leak prevention mechanism used in configuring secure and private VPN connections.",
+    "emoji": "\ud83d\udd10\ud83c\udf0d\ud83d\udcf6\ud83d\udd75\ufe0f",
+    "categories": [
+      "VPN",
+      "Security",
+      "Encryption",
+      "Privacy",
+      "Networking"
+    ],
+    "related": [
+      "tls handshake",
+      "dns leak protection",
+      "vpn logs",
+      "mesh vpn",
+      "certificate-based authentication"
+    ],
+    "aliases": [
+      "perfect forward secrecy (pfs)",
+      "PERFECT FORWARD SECRECY (PFS)"
+    ],
+    "use_case": "A VPN provider or security engineer uses Perfect Forward Secrecy (PFS) to establish secure tunnels, protect user data, or enforce privacy policies.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "tls handshake": {
+    "eli5": "TLS Handshake is like a secret handshake, special rule, or security feature that helps you stay private and safe online.",
+    "boss": "TLS Handshake includes VPN protocols, encryption methods, and privacy features essential for ensuring secure, uninterrupted remote access and anonymous browsing.",
+    "sysadmin": "TLS Handshake refers to an encryption cipher, VPN topology, authentication method, or leak prevention mechanism used in configuring secure and private VPN connections.",
+    "emoji": "\ud83d\udd10\ud83c\udf0d\ud83d\udcf6\ud83d\udd75\ufe0f",
+    "categories": [
+      "VPN",
+      "Security",
+      "Encryption",
+      "Privacy",
+      "Networking"
+    ],
+    "related": [
+      "tls handshake",
+      "dns leak protection",
+      "vpn logs",
+      "mesh vpn",
+      "certificate-based authentication"
+    ],
+    "aliases": [
+      "tls handshake",
+      "TLS HANDSHAKE"
+    ],
+    "use_case": "A VPN provider or security engineer uses TLS Handshake to establish secure tunnels, protect user data, or enforce privacy policies.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "diffie-hellman": {
+    "eli5": "Diffie-Hellman is like a secret handshake, special rule, or security feature that helps you stay private and safe online.",
+    "boss": "Diffie-Hellman includes VPN protocols, encryption methods, and privacy features essential for ensuring secure, uninterrupted remote access and anonymous browsing.",
+    "sysadmin": "Diffie-Hellman refers to an encryption cipher, VPN topology, authentication method, or leak prevention mechanism used in configuring secure and private VPN connections.",
+    "emoji": "\ud83d\udd10\ud83c\udf0d\ud83d\udcf6\ud83d\udd75\ufe0f",
+    "categories": [
+      "VPN",
+      "Security",
+      "Encryption",
+      "Privacy",
+      "Networking"
+    ],
+    "related": [
+      "tls handshake",
+      "dns leak protection",
+      "vpn logs",
+      "mesh vpn",
+      "certificate-based authentication"
+    ],
+    "aliases": [
+      "diffie-hellman",
+      "DIFFIE-HELLMAN"
+    ],
+    "use_case": "A VPN provider or security engineer uses Diffie-Hellman to establish secure tunnels, protect user data, or enforce privacy policies.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "elliptic curve diffie-hellman (ecdh)": {
+    "eli5": "Elliptic Curve Diffie-Hellman (ECDH) is like a secret handshake, special rule, or security feature that helps you stay private and safe online.",
+    "boss": "Elliptic Curve Diffie-Hellman (ECDH) includes VPN protocols, encryption methods, and privacy features essential for ensuring secure, uninterrupted remote access and anonymous browsing.",
+    "sysadmin": "Elliptic Curve Diffie-Hellman (ECDH) refers to an encryption cipher, VPN topology, authentication method, or leak prevention mechanism used in configuring secure and private VPN connections.",
+    "emoji": "\ud83d\udd10\ud83c\udf0d\ud83d\udcf6\ud83d\udd75\ufe0f",
+    "categories": [
+      "VPN",
+      "Security",
+      "Encryption",
+      "Privacy",
+      "Networking"
+    ],
+    "related": [
+      "tls handshake",
+      "dns leak protection",
+      "vpn logs",
+      "mesh vpn",
+      "certificate-based authentication"
+    ],
+    "aliases": [
+      "elliptic curve diffie-hellman (ecdh)",
+      "ELLIPTIC CURVE DIFFIE-HELLMAN (ECDH)"
+    ],
+    "use_case": "A VPN provider or security engineer uses Elliptic Curve Diffie-Hellman (ECDH) to establish secure tunnels, protect user data, or enforce privacy policies.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "vpn protocols": {
+    "eli5": "VPN Protocols is like a secret handshake, special rule, or security feature that helps you stay private and safe online.",
+    "boss": "VPN Protocols includes VPN protocols, encryption methods, and privacy features essential for ensuring secure, uninterrupted remote access and anonymous browsing.",
+    "sysadmin": "VPN Protocols refers to an encryption cipher, VPN topology, authentication method, or leak prevention mechanism used in configuring secure and private VPN connections.",
+    "emoji": "\ud83d\udd10\ud83c\udf0d\ud83d\udcf6\ud83d\udd75\ufe0f",
+    "categories": [
+      "VPN",
+      "Security",
+      "Encryption",
+      "Privacy",
+      "Networking"
+    ],
+    "related": [
+      "tls handshake",
+      "dns leak protection",
+      "vpn logs",
+      "mesh vpn",
+      "certificate-based authentication"
+    ],
+    "aliases": [
+      "vpn protocols",
+      "VPN PROTOCOLS"
+    ],
+    "use_case": "A VPN provider or security engineer uses VPN Protocols to establish secure tunnels, protect user data, or enforce privacy policies.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "l2tp": {
+    "eli5": "L2TP is like a secret handshake, special rule, or security feature that helps you stay private and safe online.",
+    "boss": "L2TP includes VPN protocols, encryption methods, and privacy features essential for ensuring secure, uninterrupted remote access and anonymous browsing.",
+    "sysadmin": "L2TP refers to an encryption cipher, VPN topology, authentication method, or leak prevention mechanism used in configuring secure and private VPN connections.",
+    "emoji": "\ud83d\udd10\ud83c\udf0d\ud83d\udcf6\ud83d\udd75\ufe0f",
+    "categories": [
+      "VPN",
+      "Security",
+      "Encryption",
+      "Privacy",
+      "Networking"
+    ],
+    "related": [
+      "tls handshake",
+      "dns leak protection",
+      "vpn logs",
+      "mesh vpn",
+      "certificate-based authentication"
+    ],
+    "aliases": [
+      "l2tp",
+      "L2TP"
+    ],
+    "use_case": "A VPN provider or security engineer uses L2TP to establish secure tunnels, protect user data, or enforce privacy policies.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "pptp": {
+    "eli5": "PPTP is like a secret handshake, special rule, or security feature that helps you stay private and safe online.",
+    "boss": "PPTP includes VPN protocols, encryption methods, and privacy features essential for ensuring secure, uninterrupted remote access and anonymous browsing.",
+    "sysadmin": "PPTP refers to an encryption cipher, VPN topology, authentication method, or leak prevention mechanism used in configuring secure and private VPN connections.",
+    "emoji": "\ud83d\udd10\ud83c\udf0d\ud83d\udcf6\ud83d\udd75\ufe0f",
+    "categories": [
+      "VPN",
+      "Security",
+      "Encryption",
+      "Privacy",
+      "Networking"
+    ],
+    "related": [
+      "tls handshake",
+      "dns leak protection",
+      "vpn logs",
+      "mesh vpn",
+      "certificate-based authentication"
+    ],
+    "aliases": [
+      "pptp",
+      "PPTP"
+    ],
+    "use_case": "A VPN provider or security engineer uses PPTP to establish secure tunnels, protect user data, or enforce privacy policies.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "ssl": {
+    "eli5": "SSL is like a secret handshake, special rule, or security feature that helps you stay private and safe online.",
+    "boss": "SSL includes VPN protocols, encryption methods, and privacy features essential for ensuring secure, uninterrupted remote access and anonymous browsing.",
+    "sysadmin": "SSL refers to an encryption cipher, VPN topology, authentication method, or leak prevention mechanism used in configuring secure and private VPN connections.",
+    "emoji": "\ud83d\udd10\ud83c\udf0d\ud83d\udcf6\ud83d\udd75\ufe0f",
+    "categories": [
+      "VPN",
+      "Security",
+      "Encryption",
+      "Privacy",
+      "Networking"
+    ],
+    "related": [
+      "tls handshake",
+      "dns leak protection",
+      "vpn logs",
+      "mesh vpn",
+      "certificate-based authentication"
+    ],
+    "aliases": [
+      "ssl",
+      "SSL"
+    ],
+    "use_case": "A VPN provider or security engineer uses SSL to establish secure tunnels, protect user data, or enforce privacy policies.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "dtls": {
+    "eli5": "DTLS is like a secret handshake, special rule, or security feature that helps you stay private and safe online.",
+    "boss": "DTLS includes VPN protocols, encryption methods, and privacy features essential for ensuring secure, uninterrupted remote access and anonymous browsing.",
+    "sysadmin": "DTLS refers to an encryption cipher, VPN topology, authentication method, or leak prevention mechanism used in configuring secure and private VPN connections.",
+    "emoji": "\ud83d\udd10\ud83c\udf0d\ud83d\udcf6\ud83d\udd75\ufe0f",
+    "categories": [
+      "VPN",
+      "Security",
+      "Encryption",
+      "Privacy",
+      "Networking"
+    ],
+    "related": [
+      "tls handshake",
+      "dns leak protection",
+      "vpn logs",
+      "mesh vpn",
+      "certificate-based authentication"
+    ],
+    "aliases": [
+      "dtls",
+      "DTLS"
+    ],
+    "use_case": "A VPN provider or security engineer uses DTLS to establish secure tunnels, protect user data, or enforce privacy policies.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "vpn features": {
+    "eli5": "VPN Features is like a secret handshake, special rule, or security feature that helps you stay private and safe online.",
+    "boss": "VPN Features includes VPN protocols, encryption methods, and privacy features essential for ensuring secure, uninterrupted remote access and anonymous browsing.",
+    "sysadmin": "VPN Features refers to an encryption cipher, VPN topology, authentication method, or leak prevention mechanism used in configuring secure and private VPN connections.",
+    "emoji": "\ud83d\udd10\ud83c\udf0d\ud83d\udcf6\ud83d\udd75\ufe0f",
+    "categories": [
+      "VPN",
+      "Security",
+      "Encryption",
+      "Privacy",
+      "Networking"
+    ],
+    "related": [
+      "tls handshake",
+      "dns leak protection",
+      "vpn logs",
+      "mesh vpn",
+      "certificate-based authentication"
+    ],
+    "aliases": [
+      "vpn features",
+      "VPN FEATURES"
+    ],
+    "use_case": "A VPN provider or security engineer uses VPN Features to establish secure tunnels, protect user data, or enforce privacy policies.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "always-on vpn": {
+    "eli5": "Always-On VPN is like a secret handshake, special rule, or security feature that helps you stay private and safe online.",
+    "boss": "Always-On VPN includes VPN protocols, encryption methods, and privacy features essential for ensuring secure, uninterrupted remote access and anonymous browsing.",
+    "sysadmin": "Always-On VPN refers to an encryption cipher, VPN topology, authentication method, or leak prevention mechanism used in configuring secure and private VPN connections.",
+    "emoji": "\ud83d\udd10\ud83c\udf0d\ud83d\udcf6\ud83d\udd75\ufe0f",
+    "categories": [
+      "VPN",
+      "Security",
+      "Encryption",
+      "Privacy",
+      "Networking"
+    ],
+    "related": [
+      "tls handshake",
+      "dns leak protection",
+      "vpn logs",
+      "mesh vpn",
+      "certificate-based authentication"
+    ],
+    "aliases": [
+      "always-on vpn",
+      "ALWAYS-ON VPN"
+    ],
+    "use_case": "A VPN provider or security engineer uses Always-On VPN to establish secure tunnels, protect user data, or enforce privacy policies.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "auto-reconnect": {
+    "eli5": "Auto-Reconnect is like a secret handshake, special rule, or security feature that helps you stay private and safe online.",
+    "boss": "Auto-Reconnect includes VPN protocols, encryption methods, and privacy features essential for ensuring secure, uninterrupted remote access and anonymous browsing.",
+    "sysadmin": "Auto-Reconnect refers to an encryption cipher, VPN topology, authentication method, or leak prevention mechanism used in configuring secure and private VPN connections.",
+    "emoji": "\ud83d\udd10\ud83c\udf0d\ud83d\udcf6\ud83d\udd75\ufe0f",
+    "categories": [
+      "VPN",
+      "Security",
+      "Encryption",
+      "Privacy",
+      "Networking"
+    ],
+    "related": [
+      "tls handshake",
+      "dns leak protection",
+      "vpn logs",
+      "mesh vpn",
+      "certificate-based authentication"
+    ],
+    "aliases": [
+      "auto-reconnect",
+      "AUTO-RECONNECT"
+    ],
+    "use_case": "A VPN provider or security engineer uses Auto-Reconnect to establish secure tunnels, protect user data, or enforce privacy policies.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "kill switch": {
+    "eli5": "Kill Switch is like a secret handshake, special rule, or security feature that helps you stay private and safe online.",
+    "boss": "Kill Switch includes VPN protocols, encryption methods, and privacy features essential for ensuring secure, uninterrupted remote access and anonymous browsing.",
+    "sysadmin": "Kill Switch refers to an encryption cipher, VPN topology, authentication method, or leak prevention mechanism used in configuring secure and private VPN connections.",
+    "emoji": "\ud83d\udd10\ud83c\udf0d\ud83d\udcf6\ud83d\udd75\ufe0f",
+    "categories": [
+      "VPN",
+      "Security",
+      "Encryption",
+      "Privacy",
+      "Networking"
+    ],
+    "related": [
+      "tls handshake",
+      "dns leak protection",
+      "vpn logs",
+      "mesh vpn",
+      "certificate-based authentication"
+    ],
+    "aliases": [
+      "kill switch",
+      "KILL SWITCH"
+    ],
+    "use_case": "A VPN provider or security engineer uses Kill Switch to establish secure tunnels, protect user data, or enforce privacy policies.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "ipv6 leak protection": {
+    "eli5": "IPv6 Leak Protection is like a secret handshake, special rule, or security feature that helps you stay private and safe online.",
+    "boss": "IPv6 Leak Protection includes VPN protocols, encryption methods, and privacy features essential for ensuring secure, uninterrupted remote access and anonymous browsing.",
+    "sysadmin": "IPv6 Leak Protection refers to an encryption cipher, VPN topology, authentication method, or leak prevention mechanism used in configuring secure and private VPN connections.",
+    "emoji": "\ud83d\udd10\ud83c\udf0d\ud83d\udcf6\ud83d\udd75\ufe0f",
+    "categories": [
+      "VPN",
+      "Security",
+      "Encryption",
+      "Privacy",
+      "Networking"
+    ],
+    "related": [
+      "tls handshake",
+      "dns leak protection",
+      "vpn logs",
+      "mesh vpn",
+      "certificate-based authentication"
+    ],
+    "aliases": [
+      "ipv6 leak protection",
+      "IPV6 LEAK PROTECTION"
+    ],
+    "use_case": "A VPN provider or security engineer uses IPv6 Leak Protection to establish secure tunnels, protect user data, or enforce privacy policies.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "dns leak protection": {
+    "eli5": "DNS Leak Protection is like a secret handshake, special rule, or security feature that helps you stay private and safe online.",
+    "boss": "DNS Leak Protection includes VPN protocols, encryption methods, and privacy features essential for ensuring secure, uninterrupted remote access and anonymous browsing.",
+    "sysadmin": "DNS Leak Protection refers to an encryption cipher, VPN topology, authentication method, or leak prevention mechanism used in configuring secure and private VPN connections.",
+    "emoji": "\ud83d\udd10\ud83c\udf0d\ud83d\udcf6\ud83d\udd75\ufe0f",
+    "categories": [
+      "VPN",
+      "Security",
+      "Encryption",
+      "Privacy",
+      "Networking"
+    ],
+    "related": [
+      "tls handshake",
+      "dns leak protection",
+      "vpn logs",
+      "mesh vpn",
+      "certificate-based authentication"
+    ],
+    "aliases": [
+      "dns leak protection",
+      "DNS LEAK PROTECTION"
+    ],
+    "use_case": "A VPN provider or security engineer uses DNS Leak Protection to establish secure tunnels, protect user data, or enforce privacy policies.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "obfuscated server": {
+    "eli5": "Obfuscated Server is like a secret handshake, special rule, or security feature that helps you stay private and safe online.",
+    "boss": "Obfuscated Server includes VPN protocols, encryption methods, and privacy features essential for ensuring secure, uninterrupted remote access and anonymous browsing.",
+    "sysadmin": "Obfuscated Server refers to an encryption cipher, VPN topology, authentication method, or leak prevention mechanism used in configuring secure and private VPN connections.",
+    "emoji": "\ud83d\udd10\ud83c\udf0d\ud83d\udcf6\ud83d\udd75\ufe0f",
+    "categories": [
+      "VPN",
+      "Security",
+      "Encryption",
+      "Privacy",
+      "Networking"
+    ],
+    "related": [
+      "tls handshake",
+      "dns leak protection",
+      "vpn logs",
+      "mesh vpn",
+      "certificate-based authentication"
+    ],
+    "aliases": [
+      "obfuscated server",
+      "OBFUSCATED SERVER"
+    ],
+    "use_case": "A VPN provider or security engineer uses Obfuscated Server to establish secure tunnels, protect user data, or enforce privacy policies.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "double vpn": {
+    "eli5": "Double VPN is like a secret handshake, special rule, or security feature that helps you stay private and safe online.",
+    "boss": "Double VPN includes VPN protocols, encryption methods, and privacy features essential for ensuring secure, uninterrupted remote access and anonymous browsing.",
+    "sysadmin": "Double VPN refers to an encryption cipher, VPN topology, authentication method, or leak prevention mechanism used in configuring secure and private VPN connections.",
+    "emoji": "\ud83d\udd10\ud83c\udf0d\ud83d\udcf6\ud83d\udd75\ufe0f",
+    "categories": [
+      "VPN",
+      "Security",
+      "Encryption",
+      "Privacy",
+      "Networking"
+    ],
+    "related": [
+      "tls handshake",
+      "dns leak protection",
+      "vpn logs",
+      "mesh vpn",
+      "certificate-based authentication"
+    ],
+    "aliases": [
+      "double vpn",
+      "DOUBLE VPN"
+    ],
+    "use_case": "A VPN provider or security engineer uses Double VPN to establish secure tunnels, protect user data, or enforce privacy policies.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "multi-hop vpn": {
+    "eli5": "Multi-Hop VPN is like a secret handshake, special rule, or security feature that helps you stay private and safe online.",
+    "boss": "Multi-Hop VPN includes VPN protocols, encryption methods, and privacy features essential for ensuring secure, uninterrupted remote access and anonymous browsing.",
+    "sysadmin": "Multi-Hop VPN refers to an encryption cipher, VPN topology, authentication method, or leak prevention mechanism used in configuring secure and private VPN connections.",
+    "emoji": "\ud83d\udd10\ud83c\udf0d\ud83d\udcf6\ud83d\udd75\ufe0f",
+    "categories": [
+      "VPN",
+      "Security",
+      "Encryption",
+      "Privacy",
+      "Networking"
+    ],
+    "related": [
+      "tls handshake",
+      "dns leak protection",
+      "vpn logs",
+      "mesh vpn",
+      "certificate-based authentication"
+    ],
+    "aliases": [
+      "multi-hop vpn",
+      "MULTI-HOP VPN"
+    ],
+    "use_case": "A VPN provider or security engineer uses Multi-Hop VPN to establish secure tunnels, protect user data, or enforce privacy policies.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "tor over vpn": {
+    "eli5": "Tor Over VPN is like a secret handshake, special rule, or security feature that helps you stay private and safe online.",
+    "boss": "Tor Over VPN includes VPN protocols, encryption methods, and privacy features essential for ensuring secure, uninterrupted remote access and anonymous browsing.",
+    "sysadmin": "Tor Over VPN refers to an encryption cipher, VPN topology, authentication method, or leak prevention mechanism used in configuring secure and private VPN connections.",
+    "emoji": "\ud83d\udd10\ud83c\udf0d\ud83d\udcf6\ud83d\udd75\ufe0f",
+    "categories": [
+      "VPN",
+      "Security",
+      "Encryption",
+      "Privacy",
+      "Networking"
+    ],
+    "related": [
+      "tls handshake",
+      "dns leak protection",
+      "vpn logs",
+      "mesh vpn",
+      "certificate-based authentication"
+    ],
+    "aliases": [
+      "tor over vpn",
+      "TOR OVER VPN"
+    ],
+    "use_case": "A VPN provider or security engineer uses Tor Over VPN to establish secure tunnels, protect user data, or enforce privacy policies.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "vpn bypass": {
+    "eli5": "VPN Bypass is like a secret handshake, special rule, or security feature that helps you stay private and safe online.",
+    "boss": "VPN Bypass includes VPN protocols, encryption methods, and privacy features essential for ensuring secure, uninterrupted remote access and anonymous browsing.",
+    "sysadmin": "VPN Bypass refers to an encryption cipher, VPN topology, authentication method, or leak prevention mechanism used in configuring secure and private VPN connections.",
+    "emoji": "\ud83d\udd10\ud83c\udf0d\ud83d\udcf6\ud83d\udd75\ufe0f",
+    "categories": [
+      "VPN",
+      "Security",
+      "Encryption",
+      "Privacy",
+      "Networking"
+    ],
+    "related": [
+      "tls handshake",
+      "dns leak protection",
+      "vpn logs",
+      "mesh vpn",
+      "certificate-based authentication"
+    ],
+    "aliases": [
+      "vpn bypass",
+      "VPN BYPASS"
+    ],
+    "use_case": "A VPN provider or security engineer uses VPN Bypass to establish secure tunnels, protect user data, or enforce privacy policies.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "vpn authentication methods": {
+    "eli5": "VPN Authentication Methods is like a secret handshake, special rule, or security feature that helps you stay private and safe online.",
+    "boss": "VPN Authentication Methods includes VPN protocols, encryption methods, and privacy features essential for ensuring secure, uninterrupted remote access and anonymous browsing.",
+    "sysadmin": "VPN Authentication Methods refers to an encryption cipher, VPN topology, authentication method, or leak prevention mechanism used in configuring secure and private VPN connections.",
+    "emoji": "\ud83d\udd10\ud83c\udf0d\ud83d\udcf6\ud83d\udd75\ufe0f",
+    "categories": [
+      "VPN",
+      "Security",
+      "Encryption",
+      "Privacy",
+      "Networking"
+    ],
+    "related": [
+      "tls handshake",
+      "dns leak protection",
+      "vpn logs",
+      "mesh vpn",
+      "certificate-based authentication"
+    ],
+    "aliases": [
+      "vpn authentication methods",
+      "VPN AUTHENTICATION METHODS"
+    ],
+    "use_case": "A VPN provider or security engineer uses VPN Authentication Methods to establish secure tunnels, protect user data, or enforce privacy policies.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "username/password": {
+    "eli5": "Username/Password is like a secret handshake, special rule, or security feature that helps you stay private and safe online.",
+    "boss": "Username/Password includes VPN protocols, encryption methods, and privacy features essential for ensuring secure, uninterrupted remote access and anonymous browsing.",
+    "sysadmin": "Username/Password refers to an encryption cipher, VPN topology, authentication method, or leak prevention mechanism used in configuring secure and private VPN connections.",
+    "emoji": "\ud83d\udd10\ud83c\udf0d\ud83d\udcf6\ud83d\udd75\ufe0f",
+    "categories": [
+      "VPN",
+      "Security",
+      "Encryption",
+      "Privacy",
+      "Networking"
+    ],
+    "related": [
+      "tls handshake",
+      "dns leak protection",
+      "vpn logs",
+      "mesh vpn",
+      "certificate-based authentication"
+    ],
+    "aliases": [
+      "username/password",
+      "USERNAME/PASSWORD"
+    ],
+    "use_case": "A VPN provider or security engineer uses Username/Password to establish secure tunnels, protect user data, or enforce privacy policies.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "sso (single sign-on)": {
+    "eli5": "SSO (Single Sign-On) is like a secret handshake, special rule, or security feature that helps you stay private and safe online.",
+    "boss": "SSO (Single Sign-On) includes VPN protocols, encryption methods, and privacy features essential for ensuring secure, uninterrupted remote access and anonymous browsing.",
+    "sysadmin": "SSO (Single Sign-On) refers to an encryption cipher, VPN topology, authentication method, or leak prevention mechanism used in configuring secure and private VPN connections.",
+    "emoji": "\ud83d\udd10\ud83c\udf0d\ud83d\udcf6\ud83d\udd75\ufe0f",
+    "categories": [
+      "VPN",
+      "Security",
+      "Encryption",
+      "Privacy",
+      "Networking"
+    ],
+    "related": [
+      "tls handshake",
+      "dns leak protection",
+      "vpn logs",
+      "mesh vpn",
+      "certificate-based authentication"
+    ],
+    "aliases": [
+      "sso (single sign-on)",
+      "SSO (SINGLE SIGN-ON)"
+    ],
+    "use_case": "A VPN provider or security engineer uses SSO (Single Sign-On) to establish secure tunnels, protect user data, or enforce privacy policies.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "2fa / mfa": {
+    "eli5": "2FA / MFA is like a secret handshake, special rule, or security feature that helps you stay private and safe online.",
+    "boss": "2FA / MFA includes VPN protocols, encryption methods, and privacy features essential for ensuring secure, uninterrupted remote access and anonymous browsing.",
+    "sysadmin": "2FA / MFA refers to an encryption cipher, VPN topology, authentication method, or leak prevention mechanism used in configuring secure and private VPN connections.",
+    "emoji": "\ud83d\udd10\ud83c\udf0d\ud83d\udcf6\ud83d\udd75\ufe0f",
+    "categories": [
+      "VPN",
+      "Security",
+      "Encryption",
+      "Privacy",
+      "Networking"
+    ],
+    "related": [
+      "tls handshake",
+      "dns leak protection",
+      "vpn logs",
+      "mesh vpn",
+      "certificate-based authentication"
+    ],
+    "aliases": [
+      "2fa / mfa",
+      "2FA / MFA"
+    ],
+    "use_case": "A VPN provider or security engineer uses 2FA / MFA to establish secure tunnels, protect user data, or enforce privacy policies.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "smart card": {
+    "eli5": "Smart Card is like a secret handshake, special rule, or security feature that helps you stay private and safe online.",
+    "boss": "Smart Card includes VPN protocols, encryption methods, and privacy features essential for ensuring secure, uninterrupted remote access and anonymous browsing.",
+    "sysadmin": "Smart Card refers to an encryption cipher, VPN topology, authentication method, or leak prevention mechanism used in configuring secure and private VPN connections.",
+    "emoji": "\ud83d\udd10\ud83c\udf0d\ud83d\udcf6\ud83d\udd75\ufe0f",
+    "categories": [
+      "VPN",
+      "Security",
+      "Encryption",
+      "Privacy",
+      "Networking"
+    ],
+    "related": [
+      "tls handshake",
+      "dns leak protection",
+      "vpn logs",
+      "mesh vpn",
+      "certificate-based authentication"
+    ],
+    "aliases": [
+      "smart card",
+      "SMART CARD"
+    ],
+    "use_case": "A VPN provider or security engineer uses Smart Card to establish secure tunnels, protect user data, or enforce privacy policies.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "x.509 certificate": {
+    "eli5": "X.509 Certificate is like a secret handshake, special rule, or security feature that helps you stay private and safe online.",
+    "boss": "X.509 Certificate includes VPN protocols, encryption methods, and privacy features essential for ensuring secure, uninterrupted remote access and anonymous browsing.",
+    "sysadmin": "X.509 Certificate refers to an encryption cipher, VPN topology, authentication method, or leak prevention mechanism used in configuring secure and private VPN connections.",
+    "emoji": "\ud83d\udd10\ud83c\udf0d\ud83d\udcf6\ud83d\udd75\ufe0f",
+    "categories": [
+      "VPN",
+      "Security",
+      "Encryption",
+      "Privacy",
+      "Networking"
+    ],
+    "related": [
+      "tls handshake",
+      "dns leak protection",
+      "vpn logs",
+      "mesh vpn",
+      "certificate-based authentication"
+    ],
+    "aliases": [
+      "x.509 certificate",
+      "X.509 CERTIFICATE"
+    ],
+    "use_case": "A VPN provider or security engineer uses X.509 Certificate to establish secure tunnels, protect user data, or enforce privacy policies.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "vpn topologies": {
+    "eli5": "VPN Topologies is like a secret handshake, special rule, or security feature that helps you stay private and safe online.",
+    "boss": "VPN Topologies includes VPN protocols, encryption methods, and privacy features essential for ensuring secure, uninterrupted remote access and anonymous browsing.",
+    "sysadmin": "VPN Topologies refers to an encryption cipher, VPN topology, authentication method, or leak prevention mechanism used in configuring secure and private VPN connections.",
+    "emoji": "\ud83d\udd10\ud83c\udf0d\ud83d\udcf6\ud83d\udd75\ufe0f",
+    "categories": [
+      "VPN",
+      "Security",
+      "Encryption",
+      "Privacy",
+      "Networking"
+    ],
+    "related": [
+      "tls handshake",
+      "dns leak protection",
+      "vpn logs",
+      "mesh vpn",
+      "certificate-based authentication"
+    ],
+    "aliases": [
+      "vpn topologies",
+      "VPN TOPOLOGIES"
+    ],
+    "use_case": "A VPN provider or security engineer uses VPN Topologies to establish secure tunnels, protect user data, or enforce privacy policies.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "hub-and-spoke": {
+    "eli5": "Hub-and-Spoke is like a secret handshake, special rule, or security feature that helps you stay private and safe online.",
+    "boss": "Hub-and-Spoke includes VPN protocols, encryption methods, and privacy features essential for ensuring secure, uninterrupted remote access and anonymous browsing.",
+    "sysadmin": "Hub-and-Spoke refers to an encryption cipher, VPN topology, authentication method, or leak prevention mechanism used in configuring secure and private VPN connections.",
+    "emoji": "\ud83d\udd10\ud83c\udf0d\ud83d\udcf6\ud83d\udd75\ufe0f",
+    "categories": [
+      "VPN",
+      "Security",
+      "Encryption",
+      "Privacy",
+      "Networking"
+    ],
+    "related": [
+      "tls handshake",
+      "dns leak protection",
+      "vpn logs",
+      "mesh vpn",
+      "certificate-based authentication"
+    ],
+    "aliases": [
+      "hub-and-spoke",
+      "HUB-AND-SPOKE"
+    ],
+    "use_case": "A VPN provider or security engineer uses Hub-and-Spoke to establish secure tunnels, protect user data, or enforce privacy policies.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "mesh vpn": {
+    "eli5": "Mesh VPN is like a secret handshake, special rule, or security feature that helps you stay private and safe online.",
+    "boss": "Mesh VPN includes VPN protocols, encryption methods, and privacy features essential for ensuring secure, uninterrupted remote access and anonymous browsing.",
+    "sysadmin": "Mesh VPN refers to an encryption cipher, VPN topology, authentication method, or leak prevention mechanism used in configuring secure and private VPN connections.",
+    "emoji": "\ud83d\udd10\ud83c\udf0d\ud83d\udcf6\ud83d\udd75\ufe0f",
+    "categories": [
+      "VPN",
+      "Security",
+      "Encryption",
+      "Privacy",
+      "Networking"
+    ],
+    "related": [
+      "tls handshake",
+      "dns leak protection",
+      "vpn logs",
+      "mesh vpn",
+      "certificate-based authentication"
+    ],
+    "aliases": [
+      "mesh vpn",
+      "MESH VPN"
+    ],
+    "use_case": "A VPN provider or security engineer uses Mesh VPN to establish secure tunnels, protect user data, or enforce privacy policies.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "vpn bridging": {
+    "eli5": "VPN Bridging is like a secret handshake, special rule, or security feature that helps you stay private and safe online.",
+    "boss": "VPN Bridging includes VPN protocols, encryption methods, and privacy features essential for ensuring secure, uninterrupted remote access and anonymous browsing.",
+    "sysadmin": "VPN Bridging refers to an encryption cipher, VPN topology, authentication method, or leak prevention mechanism used in configuring secure and private VPN connections.",
+    "emoji": "\ud83d\udd10\ud83c\udf0d\ud83d\udcf6\ud83d\udd75\ufe0f",
+    "categories": [
+      "VPN",
+      "Security",
+      "Encryption",
+      "Privacy",
+      "Networking"
+    ],
+    "related": [
+      "tls handshake",
+      "dns leak protection",
+      "vpn logs",
+      "mesh vpn",
+      "certificate-based authentication"
+    ],
+    "aliases": [
+      "vpn bridging",
+      "VPN BRIDGING"
+    ],
+    "use_case": "A VPN provider or security engineer uses VPN Bridging to establish secure tunnels, protect user data, or enforce privacy policies.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "vpn on devices": {
+    "eli5": "VPN on Devices is like a secret handshake, special rule, or security feature that helps you stay private and safe online.",
+    "boss": "VPN on Devices includes VPN protocols, encryption methods, and privacy features essential for ensuring secure, uninterrupted remote access and anonymous browsing.",
+    "sysadmin": "VPN on Devices refers to an encryption cipher, VPN topology, authentication method, or leak prevention mechanism used in configuring secure and private VPN connections.",
+    "emoji": "\ud83d\udd10\ud83c\udf0d\ud83d\udcf6\ud83d\udd75\ufe0f",
+    "categories": [
+      "VPN",
+      "Security",
+      "Encryption",
+      "Privacy",
+      "Networking"
+    ],
+    "related": [
+      "tls handshake",
+      "dns leak protection",
+      "vpn logs",
+      "mesh vpn",
+      "certificate-based authentication"
+    ],
+    "aliases": [
+      "vpn on devices",
+      "VPN ON DEVICES"
+    ],
+    "use_case": "A VPN provider or security engineer uses VPN on Devices to establish secure tunnels, protect user data, or enforce privacy policies.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "mobile vpn": {
+    "eli5": "Mobile VPN is like a secret handshake, special rule, or security feature that helps you stay private and safe online.",
+    "boss": "Mobile VPN includes VPN protocols, encryption methods, and privacy features essential for ensuring secure, uninterrupted remote access and anonymous browsing.",
+    "sysadmin": "Mobile VPN refers to an encryption cipher, VPN topology, authentication method, or leak prevention mechanism used in configuring secure and private VPN connections.",
+    "emoji": "\ud83d\udd10\ud83c\udf0d\ud83d\udcf6\ud83d\udd75\ufe0f",
+    "categories": [
+      "VPN",
+      "Security",
+      "Encryption",
+      "Privacy",
+      "Networking"
+    ],
+    "related": [
+      "tls handshake",
+      "dns leak protection",
+      "vpn logs",
+      "mesh vpn",
+      "certificate-based authentication"
+    ],
+    "aliases": [
+      "mobile vpn",
+      "MOBILE VPN"
+    ],
+    "use_case": "A VPN provider or security engineer uses Mobile VPN to establish secure tunnels, protect user data, or enforce privacy policies.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "vpn app": {
+    "eli5": "VPN App is like a secret handshake, special rule, or security feature that helps you stay private and safe online.",
+    "boss": "VPN App includes VPN protocols, encryption methods, and privacy features essential for ensuring secure, uninterrupted remote access and anonymous browsing.",
+    "sysadmin": "VPN App refers to an encryption cipher, VPN topology, authentication method, or leak prevention mechanism used in configuring secure and private VPN connections.",
+    "emoji": "\ud83d\udd10\ud83c\udf0d\ud83d\udcf6\ud83d\udd75\ufe0f",
+    "categories": [
+      "VPN",
+      "Security",
+      "Encryption",
+      "Privacy",
+      "Networking"
+    ],
+    "related": [
+      "tls handshake",
+      "dns leak protection",
+      "vpn logs",
+      "mesh vpn",
+      "certificate-based authentication"
+    ],
+    "aliases": [
+      "vpn app",
+      "VPN APP"
+    ],
+    "use_case": "A VPN provider or security engineer uses VPN App to establish secure tunnels, protect user data, or enforce privacy policies.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "router vpn": {
+    "eli5": "Router VPN is like a secret handshake, special rule, or security feature that helps you stay private and safe online.",
+    "boss": "Router VPN includes VPN protocols, encryption methods, and privacy features essential for ensuring secure, uninterrupted remote access and anonymous browsing.",
+    "sysadmin": "Router VPN refers to an encryption cipher, VPN topology, authentication method, or leak prevention mechanism used in configuring secure and private VPN connections.",
+    "emoji": "\ud83d\udd10\ud83c\udf0d\ud83d\udcf6\ud83d\udd75\ufe0f",
+    "categories": [
+      "VPN",
+      "Security",
+      "Encryption",
+      "Privacy",
+      "Networking"
+    ],
+    "related": [
+      "tls handshake",
+      "dns leak protection",
+      "vpn logs",
+      "mesh vpn",
+      "certificate-based authentication"
+    ],
+    "aliases": [
+      "router vpn",
+      "ROUTER VPN"
+    ],
+    "use_case": "A VPN provider or security engineer uses Router VPN to establish secure tunnels, protect user data, or enforce privacy policies.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "browser vpn": {
+    "eli5": "Browser VPN is like a secret handshake, special rule, or security feature that helps you stay private and safe online.",
+    "boss": "Browser VPN includes VPN protocols, encryption methods, and privacy features essential for ensuring secure, uninterrupted remote access and anonymous browsing.",
+    "sysadmin": "Browser VPN refers to an encryption cipher, VPN topology, authentication method, or leak prevention mechanism used in configuring secure and private VPN connections.",
+    "emoji": "\ud83d\udd10\ud83c\udf0d\ud83d\udcf6\ud83d\udd75\ufe0f",
+    "categories": [
+      "VPN",
+      "Security",
+      "Encryption",
+      "Privacy",
+      "Networking"
+    ],
+    "related": [
+      "tls handshake",
+      "dns leak protection",
+      "vpn logs",
+      "mesh vpn",
+      "certificate-based authentication"
+    ],
+    "aliases": [
+      "browser vpn",
+      "BROWSER VPN"
+    ],
+    "use_case": "A VPN provider or security engineer uses Browser VPN to establish secure tunnels, protect user data, or enforce privacy policies.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "vpn extension": {
+    "eli5": "VPN Extension is like a secret handshake, special rule, or security feature that helps you stay private and safe online.",
+    "boss": "VPN Extension includes VPN protocols, encryption methods, and privacy features essential for ensuring secure, uninterrupted remote access and anonymous browsing.",
+    "sysadmin": "VPN Extension refers to an encryption cipher, VPN topology, authentication method, or leak prevention mechanism used in configuring secure and private VPN connections.",
+    "emoji": "\ud83d\udd10\ud83c\udf0d\ud83d\udcf6\ud83d\udd75\ufe0f",
+    "categories": [
+      "VPN",
+      "Security",
+      "Encryption",
+      "Privacy",
+      "Networking"
+    ],
+    "related": [
+      "tls handshake",
+      "dns leak protection",
+      "vpn logs",
+      "mesh vpn",
+      "certificate-based authentication"
+    ],
+    "aliases": [
+      "vpn extension",
+      "VPN EXTENSION"
+    ],
+    "use_case": "A VPN provider or security engineer uses VPN Extension to establish secure tunnels, protect user data, or enforce privacy policies.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "vpn compatibility": {
+    "eli5": "VPN Compatibility is like a secret handshake, special rule, or security feature that helps you stay private and safe online.",
+    "boss": "VPN Compatibility includes VPN protocols, encryption methods, and privacy features essential for ensuring secure, uninterrupted remote access and anonymous browsing.",
+    "sysadmin": "VPN Compatibility refers to an encryption cipher, VPN topology, authentication method, or leak prevention mechanism used in configuring secure and private VPN connections.",
+    "emoji": "\ud83d\udd10\ud83c\udf0d\ud83d\udcf6\ud83d\udd75\ufe0f",
+    "categories": [
+      "VPN",
+      "Security",
+      "Encryption",
+      "Privacy",
+      "Networking"
+    ],
+    "related": [
+      "tls handshake",
+      "dns leak protection",
+      "vpn logs",
+      "mesh vpn",
+      "certificate-based authentication"
+    ],
+    "aliases": [
+      "vpn compatibility",
+      "VPN COMPATIBILITY"
+    ],
+    "use_case": "A VPN provider or security engineer uses VPN Compatibility to establish secure tunnels, protect user data, or enforce privacy policies.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "vpn logs": {
+    "eli5": "VPN Logs is like a secret handshake, special rule, or security feature that helps you stay private and safe online.",
+    "boss": "VPN Logs includes VPN protocols, encryption methods, and privacy features essential for ensuring secure, uninterrupted remote access and anonymous browsing.",
+    "sysadmin": "VPN Logs refers to an encryption cipher, VPN topology, authentication method, or leak prevention mechanism used in configuring secure and private VPN connections.",
+    "emoji": "\ud83d\udd10\ud83c\udf0d\ud83d\udcf6\ud83d\udd75\ufe0f",
+    "categories": [
+      "VPN",
+      "Security",
+      "Encryption",
+      "Privacy",
+      "Networking"
+    ],
+    "related": [
+      "tls handshake",
+      "dns leak protection",
+      "vpn logs",
+      "mesh vpn",
+      "certificate-based authentication"
+    ],
+    "aliases": [
+      "vpn logs",
+      "VPN LOGS"
+    ],
+    "use_case": "A VPN provider or security engineer uses VPN Logs to establish secure tunnels, protect user data, or enforce privacy policies.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "no-logs policy": {
+    "eli5": "No-Logs Policy is like a secret handshake, special rule, or security feature that helps you stay private and safe online.",
+    "boss": "No-Logs Policy includes VPN protocols, encryption methods, and privacy features essential for ensuring secure, uninterrupted remote access and anonymous browsing.",
+    "sysadmin": "No-Logs Policy refers to an encryption cipher, VPN topology, authentication method, or leak prevention mechanism used in configuring secure and private VPN connections.",
+    "emoji": "\ud83d\udd10\ud83c\udf0d\ud83d\udcf6\ud83d\udd75\ufe0f",
+    "categories": [
+      "VPN",
+      "Security",
+      "Encryption",
+      "Privacy",
+      "Networking"
+    ],
+    "related": [
+      "tls handshake",
+      "dns leak protection",
+      "vpn logs",
+      "mesh vpn",
+      "certificate-based authentication"
+    ],
+    "aliases": [
+      "no-logs policy",
+      "NO-LOGS POLICY"
+    ],
+    "use_case": "A VPN provider or security engineer uses No-Logs Policy to establish secure tunnels, protect user data, or enforce privacy policies.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "connection logs": {
+    "eli5": "Connection Logs is like a secret handshake, special rule, or security feature that helps you stay private and safe online.",
+    "boss": "Connection Logs includes VPN protocols, encryption methods, and privacy features essential for ensuring secure, uninterrupted remote access and anonymous browsing.",
+    "sysadmin": "Connection Logs refers to an encryption cipher, VPN topology, authentication method, or leak prevention mechanism used in configuring secure and private VPN connections.",
+    "emoji": "\ud83d\udd10\ud83c\udf0d\ud83d\udcf6\ud83d\udd75\ufe0f",
+    "categories": [
+      "VPN",
+      "Security",
+      "Encryption",
+      "Privacy",
+      "Networking"
+    ],
+    "related": [
+      "tls handshake",
+      "dns leak protection",
+      "vpn logs",
+      "mesh vpn",
+      "certificate-based authentication"
+    ],
+    "aliases": [
+      "connection logs",
+      "CONNECTION LOGS"
+    ],
+    "use_case": "A VPN provider or security engineer uses Connection Logs to establish secure tunnels, protect user data, or enforce privacy policies.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "usage logs": {
+    "eli5": "Usage Logs is like a secret handshake, special rule, or security feature that helps you stay private and safe online.",
+    "boss": "Usage Logs includes VPN protocols, encryption methods, and privacy features essential for ensuring secure, uninterrupted remote access and anonymous browsing.",
+    "sysadmin": "Usage Logs refers to an encryption cipher, VPN topology, authentication method, or leak prevention mechanism used in configuring secure and private VPN connections.",
+    "emoji": "\ud83d\udd10\ud83c\udf0d\ud83d\udcf6\ud83d\udd75\ufe0f",
+    "categories": [
+      "VPN",
+      "Security",
+      "Encryption",
+      "Privacy",
+      "Networking"
+    ],
+    "related": [
+      "tls handshake",
+      "dns leak protection",
+      "vpn logs",
+      "mesh vpn",
+      "certificate-based authentication"
+    ],
+    "aliases": [
+      "usage logs",
+      "USAGE LOGS"
+    ],
+    "use_case": "A VPN provider or security engineer uses Usage Logs to establish secure tunnels, protect user data, or enforce privacy policies.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "vpn security concerns": {
+    "eli5": "VPN Security Concerns is like a secret handshake, special rule, or security feature that helps you stay private and safe online.",
+    "boss": "VPN Security Concerns includes VPN protocols, encryption methods, and privacy features essential for ensuring secure, uninterrupted remote access and anonymous browsing.",
+    "sysadmin": "VPN Security Concerns refers to an encryption cipher, VPN topology, authentication method, or leak prevention mechanism used in configuring secure and private VPN connections.",
+    "emoji": "\ud83d\udd10\ud83c\udf0d\ud83d\udcf6\ud83d\udd75\ufe0f",
+    "categories": [
+      "VPN",
+      "Security",
+      "Encryption",
+      "Privacy",
+      "Networking"
+    ],
+    "related": [
+      "tls handshake",
+      "dns leak protection",
+      "vpn logs",
+      "mesh vpn",
+      "certificate-based authentication"
+    ],
+    "aliases": [
+      "vpn security concerns",
+      "VPN SECURITY CONCERNS"
+    ],
+    "use_case": "A VPN provider or security engineer uses VPN Security Concerns to establish secure tunnels, protect user data, or enforce privacy policies.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "data logging": {
+    "eli5": "Data Logging is like a secret handshake, special rule, or security feature that helps you stay private and safe online.",
+    "boss": "Data Logging includes VPN protocols, encryption methods, and privacy features essential for ensuring secure, uninterrupted remote access and anonymous browsing.",
+    "sysadmin": "Data Logging refers to an encryption cipher, VPN topology, authentication method, or leak prevention mechanism used in configuring secure and private VPN connections.",
+    "emoji": "\ud83d\udd10\ud83c\udf0d\ud83d\udcf6\ud83d\udd75\ufe0f",
+    "categories": [
+      "VPN",
+      "Security",
+      "Encryption",
+      "Privacy",
+      "Networking"
+    ],
+    "related": [
+      "tls handshake",
+      "dns leak protection",
+      "vpn logs",
+      "mesh vpn",
+      "certificate-based authentication"
+    ],
+    "aliases": [
+      "data logging",
+      "DATA LOGGING"
+    ],
+    "use_case": "A VPN provider or security engineer uses Data Logging to establish secure tunnels, protect user data, or enforce privacy policies.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "ip leak": {
+    "eli5": "IP Leak is like a secret handshake, special rule, or security feature that helps you stay private and safe online.",
+    "boss": "IP Leak includes VPN protocols, encryption methods, and privacy features essential for ensuring secure, uninterrupted remote access and anonymous browsing.",
+    "sysadmin": "IP Leak refers to an encryption cipher, VPN topology, authentication method, or leak prevention mechanism used in configuring secure and private VPN connections.",
+    "emoji": "\ud83d\udd10\ud83c\udf0d\ud83d\udcf6\ud83d\udd75\ufe0f",
+    "categories": [
+      "VPN",
+      "Security",
+      "Encryption",
+      "Privacy",
+      "Networking"
+    ],
+    "related": [
+      "tls handshake",
+      "dns leak protection",
+      "vpn logs",
+      "mesh vpn",
+      "certificate-based authentication"
+    ],
+    "aliases": [
+      "ip leak",
+      "IP LEAK"
+    ],
+    "use_case": "A VPN provider or security engineer uses IP Leak to establish secure tunnels, protect user data, or enforce privacy policies.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  },
+  "webrtc leak": {
+    "eli5": "WebRTC Leak is like a secret handshake, special rule, or security feature that helps you stay private and safe online.",
+    "boss": "WebRTC Leak includes VPN protocols, encryption methods, and privacy features essential for ensuring secure, uninterrupted remote access and anonymous browsing.",
+    "sysadmin": "WebRTC Leak refers to an encryption cipher, VPN topology, authentication method, or leak prevention mechanism used in configuring secure and private VPN connections.",
+    "emoji": "\ud83d\udd10\ud83c\udf0d\ud83d\udcf6\ud83d\udd75\ufe0f",
+    "categories": [
+      "VPN",
+      "Security",
+      "Encryption",
+      "Privacy",
+      "Networking"
+    ],
+    "related": [
+      "tls handshake",
+      "dns leak protection",
+      "vpn logs",
+      "mesh vpn",
+      "certificate-based authentication"
+    ],
+    "aliases": [
+      "webrtc leak",
+      "WEBRTC LEAK"
+    ],
+    "use_case": "A VPN provider or security engineer uses WebRTC Leak to establish secure tunnels, protect user data, or enforce privacy policies.",
+    "jargon_score": 5,
+    "level": "Advanced"
+  }
+}

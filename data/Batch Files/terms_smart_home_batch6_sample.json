@@ -1,0 +1,63 @@
+{
+  "lan": {
+    "eli5": "LAN is like all your home gadgets talking to each other in the same room.",
+    "boss": "A LAN (Local Area Network) connects devices within a limited area like a home or office for fast communication.",
+    "sysadmin": "LANs use Ethernet or Wi-Fi to connect endpoints within a small geographic area, typically relying on switches, routers, and private IPs.",
+    "emoji": "\ud83c\udfe0\ud83d\udcf6\ud83d\udd17",
+    "categories": [
+      "Networking"
+    ],
+    "related": [
+      "WAN",
+      "Ethernet",
+      "Switch"
+    ],
+    "aliases": [
+      "Local Area Network"
+    ],
+    "use_case": "Used to connect your computer, printer, and smart devices to your home router.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "wan": {
+    "eli5": "A WAN is like a bunch of homes or cities all connected together.",
+    "boss": "A WAN (Wide Area Network) connects networks over large distances, like the internet or company branches.",
+    "sysadmin": "WANs link LANs across locations using leased lines, MPLS, VPNs, or the internet, and often require routing protocols and NAT.",
+    "emoji": "\ud83c\udf10\ud83d\udce1\ud83c\udf0d",
+    "categories": [
+      "Networking"
+    ],
+    "related": [
+      "LAN",
+      "VPN",
+      "Router"
+    ],
+    "aliases": [
+      "Wide Area Network"
+    ],
+    "use_case": "Used by companies to connect branch offices across cities.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "wlan": {
+    "eli5": "WLAN is your Wi-Fi\u2014it\u2019s how you get the internet without wires.",
+    "boss": "A WLAN (Wireless LAN) connects devices wirelessly within a local area, typically using Wi-Fi standards.",
+    "sysadmin": "WLANs follow IEEE 802.11 standards and provide network access over 2.4GHz/5GHz/6GHz bands using SSIDs, APs, and security protocols like WPA3.",
+    "emoji": "\ud83d\udcf6\ud83d\udcf2\ud83c\udfe0",
+    "categories": [
+      "Networking",
+      "Wi-Fi"
+    ],
+    "related": [
+      "Wi-Fi",
+      "Access Point",
+      "SSID"
+    ],
+    "aliases": [
+      "Wireless LAN"
+    ],
+    "use_case": "Used to allow phones, laptops, and smart devices to connect without Ethernet cables.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  }
+}

@@ -1,0 +1,1353 @@
+{
+  "wim file": {
+    "eli5": "WIM File is like a tool, setting, or file that helps your computer install stuff, fix problems, or stay organized.",
+    "boss": "WIM File is used in Windows for deploying operating systems, automating installations, or troubleshooting file and network operations.",
+    "sysadmin": "WIM File refers to a deployment tool, installer format, policy command, or system-level executable used for software management, group policy application, or file/network troubleshooting.",
+    "emoji": "\ud83d\udce6\ud83e\uddf0\ud83d\udda5\ufe0f",
+    "categories": [
+      "Windows",
+      "Configuration Management",
+      "Backup",
+      "Infrastructure",
+      "DevOps"
+    ],
+    "related": [
+      "winget",
+      "msi",
+      "dism",
+      "robocopy",
+      "gpupdate"
+    ],
+    "aliases": [
+      "wim file",
+      "WIM FILE"
+    ],
+    "use_case": "An IT pro uses WIM File to automate software deployments, inspect group policy results, or manage files across systems.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "iso file": {
+    "eli5": "ISO File is like a tool, setting, or file that helps your computer install stuff, fix problems, or stay organized.",
+    "boss": "ISO File is used in Windows for deploying operating systems, automating installations, or troubleshooting file and network operations.",
+    "sysadmin": "ISO File refers to a deployment tool, installer format, policy command, or system-level executable used for software management, group policy application, or file/network troubleshooting.",
+    "emoji": "\ud83d\udce6\ud83e\uddf0\ud83d\udda5\ufe0f",
+    "categories": [
+      "Windows",
+      "Configuration Management",
+      "Backup",
+      "Infrastructure",
+      "DevOps"
+    ],
+    "related": [
+      "winget",
+      "msi",
+      "dism",
+      "robocopy",
+      "gpupdate"
+    ],
+    "aliases": [
+      "iso file",
+      "ISO FILE",
+      "iso"
+    ],
+    "use_case": "An IT pro uses ISO File to automate software deployments, inspect group policy results, or manage files across systems.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "task sequence": {
+    "eli5": "Task Sequence is like a tool, setting, or file that helps your computer install stuff, fix problems, or stay organized.",
+    "boss": "Task Sequence is used in Windows for deploying operating systems, automating installations, or troubleshooting file and network operations.",
+    "sysadmin": "Task Sequence refers to a deployment tool, installer format, policy command, or system-level executable used for software management, group policy application, or file/network troubleshooting.",
+    "emoji": "\ud83d\udce6\ud83e\uddf0\ud83d\udda5\ufe0f",
+    "categories": [
+      "Windows",
+      "Configuration Management",
+      "Backup",
+      "Infrastructure",
+      "DevOps"
+    ],
+    "related": [
+      "winget",
+      "msi",
+      "dism",
+      "robocopy",
+      "gpupdate"
+    ],
+    "aliases": [
+      "task sequence",
+      "TASK SEQUENCE"
+    ],
+    "use_case": "An IT pro uses Task Sequence to automate software deployments, inspect group policy results, or manage files across systems.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "deployment share": {
+    "eli5": "Deployment Share is like a tool, setting, or file that helps your computer install stuff, fix problems, or stay organized.",
+    "boss": "Deployment Share is used in Windows for deploying operating systems, automating installations, or troubleshooting file and network operations.",
+    "sysadmin": "Deployment Share refers to a deployment tool, installer format, policy command, or system-level executable used for software management, group policy application, or file/network troubleshooting.",
+    "emoji": "\ud83d\udce6\ud83e\uddf0\ud83d\udda5\ufe0f",
+    "categories": [
+      "Windows",
+      "Configuration Management",
+      "Backup",
+      "Infrastructure",
+      "DevOps"
+    ],
+    "related": [
+      "winget",
+      "msi",
+      "dism",
+      "robocopy",
+      "gpupdate"
+    ],
+    "aliases": [
+      "deployment share",
+      "DEPLOYMENT SHARE"
+    ],
+    "use_case": "An IT pro uses Deployment Share to automate software deployments, inspect group policy results, or manage files across systems.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "osd (operating system deployment)": {
+    "eli5": "OSD (Operating System Deployment) is like a tool, setting, or file that helps your computer install stuff, fix problems, or stay organized.",
+    "boss": "OSD (Operating System Deployment) is used in Windows for deploying operating systems, automating installations, or troubleshooting file and network operations.",
+    "sysadmin": "OSD (Operating System Deployment) refers to a deployment tool, installer format, policy command, or system-level executable used for software management, group policy application, or file/network troubleshooting.",
+    "emoji": "\ud83d\udce6\ud83e\uddf0\ud83d\udda5\ufe0f",
+    "categories": [
+      "Windows",
+      "Configuration Management",
+      "Backup",
+      "Infrastructure",
+      "DevOps"
+    ],
+    "related": [
+      "winget",
+      "msi",
+      "dism",
+      "robocopy",
+      "gpupdate"
+    ],
+    "aliases": [
+      "osd (operating system deployment)",
+      "OSD (OPERATING SYSTEM DEPLOYMENT)"
+    ],
+    "use_case": "An IT pro uses OSD (Operating System Deployment) to automate software deployments, inspect group policy results, or manage files across systems.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "windows installer": {
+    "eli5": "Windows Installer is like a tool, setting, or file that helps your computer install stuff, fix problems, or stay organized.",
+    "boss": "Windows Installer is used in Windows for deploying operating systems, automating installations, or troubleshooting file and network operations.",
+    "sysadmin": "Windows Installer refers to a deployment tool, installer format, policy command, or system-level executable used for software management, group policy application, or file/network troubleshooting.",
+    "emoji": "\ud83d\udce6\ud83e\uddf0\ud83d\udda5\ufe0f",
+    "categories": [
+      "Windows",
+      "Configuration Management",
+      "Backup",
+      "Infrastructure",
+      "DevOps"
+    ],
+    "related": [
+      "winget",
+      "msi",
+      "dism",
+      "robocopy",
+      "gpupdate"
+    ],
+    "aliases": [
+      "windows installer",
+      "WINDOWS INSTALLER"
+    ],
+    "use_case": "An IT pro uses Windows Installer to automate software deployments, inspect group policy results, or manage files across systems.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "msi": {
+    "eli5": "MSI is like a tool, setting, or file that helps your computer install stuff, fix problems, or stay organized.",
+    "boss": "MSI is used in Windows for deploying operating systems, automating installations, or troubleshooting file and network operations.",
+    "sysadmin": "MSI refers to a deployment tool, installer format, policy command, or system-level executable used for software management, group policy application, or file/network troubleshooting.",
+    "emoji": "\ud83d\udce6\ud83e\uddf0\ud83d\udda5\ufe0f",
+    "categories": [
+      "Windows",
+      "Configuration Management",
+      "Backup",
+      "Infrastructure",
+      "DevOps"
+    ],
+    "related": [
+      "winget",
+      "msi",
+      "dism",
+      "robocopy",
+      "gpupdate"
+    ],
+    "aliases": [
+      "msi",
+      "MSI"
+    ],
+    "use_case": "An IT pro uses MSI to automate software deployments, inspect group policy results, or manage files across systems.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "msu": {
+    "eli5": "MSU is like a tool, setting, or file that helps your computer install stuff, fix problems, or stay organized.",
+    "boss": "MSU is used in Windows for deploying operating systems, automating installations, or troubleshooting file and network operations.",
+    "sysadmin": "MSU refers to a deployment tool, installer format, policy command, or system-level executable used for software management, group policy application, or file/network troubleshooting.",
+    "emoji": "\ud83d\udce6\ud83e\uddf0\ud83d\udda5\ufe0f",
+    "categories": [
+      "Windows",
+      "Configuration Management",
+      "Backup",
+      "Infrastructure",
+      "DevOps"
+    ],
+    "related": [
+      "winget",
+      "msi",
+      "dism",
+      "robocopy",
+      "gpupdate"
+    ],
+    "aliases": [
+      "msu",
+      "MSU"
+    ],
+    "use_case": "An IT pro uses MSU to automate software deployments, inspect group policy results, or manage files across systems.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "exe installer": {
+    "eli5": "EXE Installer is like a tool, setting, or file that helps your computer install stuff, fix problems, or stay organized.",
+    "boss": "EXE Installer is used in Windows for deploying operating systems, automating installations, or troubleshooting file and network operations.",
+    "sysadmin": "EXE Installer refers to a deployment tool, installer format, policy command, or system-level executable used for software management, group policy application, or file/network troubleshooting.",
+    "emoji": "\ud83d\udce6\ud83e\uddf0\ud83d\udda5\ufe0f",
+    "categories": [
+      "Windows",
+      "Configuration Management",
+      "Backup",
+      "Infrastructure",
+      "DevOps"
+    ],
+    "related": [
+      "winget",
+      "msi",
+      "dism",
+      "robocopy",
+      "gpupdate"
+    ],
+    "aliases": [
+      "exe installer",
+      "EXE INSTALLER"
+    ],
+    "use_case": "An IT pro uses EXE Installer to automate software deployments, inspect group policy results, or manage files across systems.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "app installer": {
+    "eli5": "App Installer is like a tool, setting, or file that helps your computer install stuff, fix problems, or stay organized.",
+    "boss": "App Installer is used in Windows for deploying operating systems, automating installations, or troubleshooting file and network operations.",
+    "sysadmin": "App Installer refers to a deployment tool, installer format, policy command, or system-level executable used for software management, group policy application, or file/network troubleshooting.",
+    "emoji": "\ud83d\udce6\ud83e\uddf0\ud83d\udda5\ufe0f",
+    "categories": [
+      "Windows",
+      "Configuration Management",
+      "Backup",
+      "Infrastructure",
+      "DevOps"
+    ],
+    "related": [
+      "winget",
+      "msi",
+      "dism",
+      "robocopy",
+      "gpupdate"
+    ],
+    "aliases": [
+      "app installer",
+      "APP INSTALLER"
+    ],
+    "use_case": "An IT pro uses App Installer to automate software deployments, inspect group policy results, or manage files across systems.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "winget": {
+    "eli5": "Winget is like a tool, setting, or file that helps your computer install stuff, fix problems, or stay organized.",
+    "boss": "Winget is used in Windows for deploying operating systems, automating installations, or troubleshooting file and network operations.",
+    "sysadmin": "Winget refers to a deployment tool, installer format, policy command, or system-level executable used for software management, group policy application, or file/network troubleshooting.",
+    "emoji": "\ud83d\udce6\ud83e\uddf0\ud83d\udda5\ufe0f",
+    "categories": [
+      "Windows",
+      "Configuration Management",
+      "Backup",
+      "Infrastructure",
+      "DevOps"
+    ],
+    "related": [
+      "winget",
+      "msi",
+      "dism",
+      "robocopy",
+      "gpupdate"
+    ],
+    "aliases": [
+      "winget",
+      "WINGET"
+    ],
+    "use_case": "An IT pro uses Winget to automate software deployments, inspect group policy results, or manage files across systems.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "chocolatey": {
+    "eli5": "Chocolatey is like a tool, setting, or file that helps your computer install stuff, fix problems, or stay organized.",
+    "boss": "Chocolatey is used in Windows for deploying operating systems, automating installations, or troubleshooting file and network operations.",
+    "sysadmin": "Chocolatey refers to a deployment tool, installer format, policy command, or system-level executable used for software management, group policy application, or file/network troubleshooting.",
+    "emoji": "\ud83d\udce6\ud83e\uddf0\ud83d\udda5\ufe0f",
+    "categories": [
+      "Windows",
+      "Configuration Management",
+      "Backup",
+      "Infrastructure",
+      "DevOps"
+    ],
+    "related": [
+      "winget",
+      "msi",
+      "dism",
+      "robocopy",
+      "gpupdate"
+    ],
+    "aliases": [
+      "chocolatey",
+      "CHOCOLATEY"
+    ],
+    "use_case": "An IT pro uses Chocolatey to automate software deployments, inspect group policy results, or manage files across systems.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "scoop": {
+    "eli5": "Scoop is like a tool, setting, or file that helps your computer install stuff, fix problems, or stay organized.",
+    "boss": "Scoop is used in Windows for deploying operating systems, automating installations, or troubleshooting file and network operations.",
+    "sysadmin": "Scoop refers to a deployment tool, installer format, policy command, or system-level executable used for software management, group policy application, or file/network troubleshooting.",
+    "emoji": "\ud83d\udce6\ud83e\uddf0\ud83d\udda5\ufe0f",
+    "categories": [
+      "Windows",
+      "Configuration Management",
+      "Backup",
+      "Infrastructure",
+      "DevOps"
+    ],
+    "related": [
+      "winget",
+      "msi",
+      "dism",
+      "robocopy",
+      "gpupdate"
+    ],
+    "aliases": [
+      "scoop",
+      "SCOOP"
+    ],
+    "use_case": "An IT pro uses Scoop to automate software deployments, inspect group policy results, or manage files across systems.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "gpupdate": {
+    "eli5": "gpupdate is like a tool, setting, or file that helps your computer install stuff, fix problems, or stay organized.",
+    "boss": "gpupdate is used in Windows for deploying operating systems, automating installations, or troubleshooting file and network operations.",
+    "sysadmin": "gpupdate refers to a deployment tool, installer format, policy command, or system-level executable used for software management, group policy application, or file/network troubleshooting.",
+    "emoji": "\ud83d\udce6\ud83e\uddf0\ud83d\udda5\ufe0f",
+    "categories": [
+      "Windows",
+      "Configuration Management",
+      "Backup",
+      "Infrastructure",
+      "DevOps"
+    ],
+    "related": [
+      "winget",
+      "msi",
+      "dism",
+      "robocopy",
+      "gpupdate"
+    ],
+    "aliases": [
+      "gpupdate",
+      "GPUPDATE"
+    ],
+    "use_case": "An IT pro uses gpupdate to automate software deployments, inspect group policy results, or manage files across systems.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "gpresult": {
+    "eli5": "gpresult is like a tool, setting, or file that helps your computer install stuff, fix problems, or stay organized.",
+    "boss": "gpresult is used in Windows for deploying operating systems, automating installations, or troubleshooting file and network operations.",
+    "sysadmin": "gpresult refers to a deployment tool, installer format, policy command, or system-level executable used for software management, group policy application, or file/network troubleshooting.",
+    "emoji": "\ud83d\udce6\ud83e\uddf0\ud83d\udda5\ufe0f",
+    "categories": [
+      "Windows",
+      "Configuration Management",
+      "Backup",
+      "Infrastructure",
+      "DevOps"
+    ],
+    "related": [
+      "winget",
+      "msi",
+      "dism",
+      "robocopy",
+      "gpupdate"
+    ],
+    "aliases": [
+      "gpresult",
+      "GPRESULT"
+    ],
+    "use_case": "An IT pro uses gpresult to automate software deployments, inspect group policy results, or manage files across systems.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "rsop (resultant set of policy)": {
+    "eli5": "RSOP (Resultant Set of Policy) is like a tool, setting, or file that helps your computer install stuff, fix problems, or stay organized.",
+    "boss": "RSOP (Resultant Set of Policy) is used in Windows for deploying operating systems, automating installations, or troubleshooting file and network operations.",
+    "sysadmin": "RSOP (Resultant Set of Policy) refers to a deployment tool, installer format, policy command, or system-level executable used for software management, group policy application, or file/network troubleshooting.",
+    "emoji": "\ud83d\udce6\ud83e\uddf0\ud83d\udda5\ufe0f",
+    "categories": [
+      "Windows",
+      "Configuration Management",
+      "Backup",
+      "Infrastructure",
+      "DevOps"
+    ],
+    "related": [
+      "winget",
+      "msi",
+      "dism",
+      "robocopy",
+      "gpupdate"
+    ],
+    "aliases": [
+      "rsop (resultant set of policy)",
+      "RSOP (RESULTANT SET OF POLICY)"
+    ],
+    "use_case": "An IT pro uses RSOP (Resultant Set of Policy) to automate software deployments, inspect group policy results, or manage files across systems.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "lgpo": {
+    "eli5": "LGPO is like a tool, setting, or file that helps your computer install stuff, fix problems, or stay organized.",
+    "boss": "LGPO is used in Windows for deploying operating systems, automating installations, or troubleshooting file and network operations.",
+    "sysadmin": "LGPO refers to a deployment tool, installer format, policy command, or system-level executable used for software management, group policy application, or file/network troubleshooting.",
+    "emoji": "\ud83d\udce6\ud83e\uddf0\ud83d\udda5\ufe0f",
+    "categories": [
+      "Windows",
+      "Configuration Management",
+      "Backup",
+      "Infrastructure",
+      "DevOps"
+    ],
+    "related": [
+      "winget",
+      "msi",
+      "dism",
+      "robocopy",
+      "gpupdate"
+    ],
+    "aliases": [
+      "lgpo",
+      "LGPO"
+    ],
+    "use_case": "An IT pro uses LGPO to automate software deployments, inspect group policy results, or manage files across systems.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "security filtering": {
+    "eli5": "Security Filtering is like a tool, setting, or file that helps your computer install stuff, fix problems, or stay organized.",
+    "boss": "Security Filtering is used in Windows for deploying operating systems, automating installations, or troubleshooting file and network operations.",
+    "sysadmin": "Security Filtering refers to a deployment tool, installer format, policy command, or system-level executable used for software management, group policy application, or file/network troubleshooting.",
+    "emoji": "\ud83d\udce6\ud83e\uddf0\ud83d\udda5\ufe0f",
+    "categories": [
+      "Windows",
+      "Configuration Management",
+      "Backup",
+      "Infrastructure",
+      "DevOps"
+    ],
+    "related": [
+      "winget",
+      "msi",
+      "dism",
+      "robocopy",
+      "gpupdate"
+    ],
+    "aliases": [
+      "security filtering",
+      "SECURITY FILTERING"
+    ],
+    "use_case": "An IT pro uses Security Filtering to automate software deployments, inspect group policy results, or manage files across systems.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "wmi filtering": {
+    "eli5": "WMI Filtering is like a tool, setting, or file that helps your computer install stuff, fix problems, or stay organized.",
+    "boss": "WMI Filtering is used in Windows for deploying operating systems, automating installations, or troubleshooting file and network operations.",
+    "sysadmin": "WMI Filtering refers to a deployment tool, installer format, policy command, or system-level executable used for software management, group policy application, or file/network troubleshooting.",
+    "emoji": "\ud83d\udce6\ud83e\uddf0\ud83d\udda5\ufe0f",
+    "categories": [
+      "Windows",
+      "Configuration Management",
+      "Backup",
+      "Infrastructure",
+      "DevOps"
+    ],
+    "related": [
+      "winget",
+      "msi",
+      "dism",
+      "robocopy",
+      "gpupdate"
+    ],
+    "aliases": [
+      "wmi filtering",
+      "WMI FILTERING"
+    ],
+    "use_case": "An IT pro uses WMI Filtering to automate software deployments, inspect group policy results, or manage files across systems.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "loopback processing": {
+    "eli5": "Loopback Processing is like a tool, setting, or file that helps your computer install stuff, fix problems, or stay organized.",
+    "boss": "Loopback Processing is used in Windows for deploying operating systems, automating installations, or troubleshooting file and network operations.",
+    "sysadmin": "Loopback Processing refers to a deployment tool, installer format, policy command, or system-level executable used for software management, group policy application, or file/network troubleshooting.",
+    "emoji": "\ud83d\udce6\ud83e\uddf0\ud83d\udda5\ufe0f",
+    "categories": [
+      "Windows",
+      "Configuration Management",
+      "Backup",
+      "Infrastructure",
+      "DevOps"
+    ],
+    "related": [
+      "winget",
+      "msi",
+      "dism",
+      "robocopy",
+      "gpupdate"
+    ],
+    "aliases": [
+      "loopback processing",
+      "LOOPBACK PROCESSING"
+    ],
+    "use_case": "An IT pro uses Loopback Processing to automate software deployments, inspect group policy results, or manage files across systems.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "logon scripts": {
+    "eli5": "Logon Scripts is like a tool, setting, or file that helps your computer install stuff, fix problems, or stay organized.",
+    "boss": "Logon Scripts is used in Windows for deploying operating systems, automating installations, or troubleshooting file and network operations.",
+    "sysadmin": "Logon Scripts refers to a deployment tool, installer format, policy command, or system-level executable used for software management, group policy application, or file/network troubleshooting.",
+    "emoji": "\ud83d\udce6\ud83e\uddf0\ud83d\udda5\ufe0f",
+    "categories": [
+      "Windows",
+      "Configuration Management",
+      "Backup",
+      "Infrastructure",
+      "DevOps"
+    ],
+    "related": [
+      "winget",
+      "msi",
+      "dism",
+      "robocopy",
+      "gpupdate"
+    ],
+    "aliases": [
+      "logon scripts",
+      "LOGON SCRIPTS"
+    ],
+    "use_case": "An IT pro uses Logon Scripts to automate software deployments, inspect group policy results, or manage files across systems.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "file system tools": {
+    "eli5": "File System Tools is like a tool, setting, or file that helps your computer install stuff, fix problems, or stay organized.",
+    "boss": "File System Tools is used in Windows for deploying operating systems, automating installations, or troubleshooting file and network operations.",
+    "sysadmin": "File System Tools refers to a deployment tool, installer format, policy command, or system-level executable used for software management, group policy application, or file/network troubleshooting.",
+    "emoji": "\ud83d\udce6\ud83e\uddf0\ud83d\udda5\ufe0f",
+    "categories": [
+      "Windows",
+      "Configuration Management",
+      "Backup",
+      "Infrastructure",
+      "DevOps"
+    ],
+    "related": [
+      "winget",
+      "msi",
+      "dism",
+      "robocopy",
+      "gpupdate"
+    ],
+    "aliases": [
+      "file system tools",
+      "FILE SYSTEM TOOLS"
+    ],
+    "use_case": "An IT pro uses File System Tools to automate software deployments, inspect group policy results, or manage files across systems.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "chkdsk": {
+    "eli5": "chkdsk is like a tool, setting, or file that helps your computer install stuff, fix problems, or stay organized.",
+    "boss": "chkdsk is used in Windows for deploying operating systems, automating installations, or troubleshooting file and network operations.",
+    "sysadmin": "chkdsk refers to a deployment tool, installer format, policy command, or system-level executable used for software management, group policy application, or file/network troubleshooting.",
+    "emoji": "\ud83d\udce6\ud83e\uddf0\ud83d\udda5\ufe0f",
+    "categories": [
+      "Windows",
+      "Configuration Management",
+      "Backup",
+      "Infrastructure",
+      "DevOps"
+    ],
+    "related": [
+      "winget",
+      "msi",
+      "dism",
+      "robocopy",
+      "gpupdate"
+    ],
+    "aliases": [
+      "chkdsk",
+      "CHKDSK"
+    ],
+    "use_case": "An IT pro uses chkdsk to automate software deployments, inspect group policy results, or manage files across systems.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "sfc /scannow": {
+    "eli5": "sfc /scannow is like a tool, setting, or file that helps your computer install stuff, fix problems, or stay organized.",
+    "boss": "sfc /scannow is used in Windows for deploying operating systems, automating installations, or troubleshooting file and network operations.",
+    "sysadmin": "sfc /scannow refers to a deployment tool, installer format, policy command, or system-level executable used for software management, group policy application, or file/network troubleshooting.",
+    "emoji": "\ud83d\udce6\ud83e\uddf0\ud83d\udda5\ufe0f",
+    "categories": [
+      "Windows",
+      "Configuration Management",
+      "Backup",
+      "Infrastructure",
+      "DevOps"
+    ],
+    "related": [
+      "winget",
+      "msi",
+      "dism",
+      "robocopy",
+      "gpupdate"
+    ],
+    "aliases": [
+      "sfc /scannow",
+      "SFC /SCANNOW"
+    ],
+    "use_case": "An IT pro uses sfc /scannow to automate software deployments, inspect group policy results, or manage files across systems.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "dism /online /cleanup-image": {
+    "eli5": "DISM /Online /Cleanup-Image is like a tool, setting, or file that helps your computer install stuff, fix problems, or stay organized.",
+    "boss": "DISM /Online /Cleanup-Image is used in Windows for deploying operating systems, automating installations, or troubleshooting file and network operations.",
+    "sysadmin": "DISM /Online /Cleanup-Image refers to a deployment tool, installer format, policy command, or system-level executable used for software management, group policy application, or file/network troubleshooting.",
+    "emoji": "\ud83d\udce6\ud83e\uddf0\ud83d\udda5\ufe0f",
+    "categories": [
+      "Windows",
+      "Configuration Management",
+      "Backup",
+      "Infrastructure",
+      "DevOps"
+    ],
+    "related": [
+      "winget",
+      "msi",
+      "dism",
+      "robocopy",
+      "gpupdate"
+    ],
+    "aliases": [
+      "dism /online /cleanup-image",
+      "DISM /ONLINE /CLEANUP-IMAGE"
+    ],
+    "use_case": "An IT pro uses DISM /Online /Cleanup-Image to automate software deployments, inspect group policy results, or manage files across systems.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "defrag": {
+    "eli5": "defrag is like a tool, setting, or file that helps your computer install stuff, fix problems, or stay organized.",
+    "boss": "defrag is used in Windows for deploying operating systems, automating installations, or troubleshooting file and network operations.",
+    "sysadmin": "defrag refers to a deployment tool, installer format, policy command, or system-level executable used for software management, group policy application, or file/network troubleshooting.",
+    "emoji": "\ud83d\udce6\ud83e\uddf0\ud83d\udda5\ufe0f",
+    "categories": [
+      "Windows",
+      "Configuration Management",
+      "Backup",
+      "Infrastructure",
+      "DevOps"
+    ],
+    "related": [
+      "winget",
+      "msi",
+      "dism",
+      "robocopy",
+      "gpupdate"
+    ],
+    "aliases": [
+      "defrag",
+      "DEFRAG"
+    ],
+    "use_case": "An IT pro uses defrag to automate software deployments, inspect group policy results, or manage files across systems.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "fsutil": {
+    "eli5": "fsutil is like a tool, setting, or file that helps your computer install stuff, fix problems, or stay organized.",
+    "boss": "fsutil is used in Windows for deploying operating systems, automating installations, or troubleshooting file and network operations.",
+    "sysadmin": "fsutil refers to a deployment tool, installer format, policy command, or system-level executable used for software management, group policy application, or file/network troubleshooting.",
+    "emoji": "\ud83d\udce6\ud83e\uddf0\ud83d\udda5\ufe0f",
+    "categories": [
+      "Windows",
+      "Configuration Management",
+      "Backup",
+      "Infrastructure",
+      "DevOps"
+    ],
+    "related": [
+      "winget",
+      "msi",
+      "dism",
+      "robocopy",
+      "gpupdate"
+    ],
+    "aliases": [
+      "fsutil",
+      "FSUTIL"
+    ],
+    "use_case": "An IT pro uses fsutil to automate software deployments, inspect group policy results, or manage files across systems.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "robocopy": {
+    "eli5": "robocopy is like a tool, setting, or file that helps your computer install stuff, fix problems, or stay organized.",
+    "boss": "robocopy is used in Windows for deploying operating systems, automating installations, or troubleshooting file and network operations.",
+    "sysadmin": "robocopy refers to a deployment tool, installer format, policy command, or system-level executable used for software management, group policy application, or file/network troubleshooting.",
+    "emoji": "\ud83d\udce6\ud83e\uddf0\ud83d\udda5\ufe0f",
+    "categories": [
+      "Windows",
+      "Configuration Management",
+      "Backup",
+      "Infrastructure",
+      "DevOps"
+    ],
+    "related": [
+      "winget",
+      "msi",
+      "dism",
+      "robocopy",
+      "gpupdate"
+    ],
+    "aliases": [
+      "robocopy",
+      "ROBOCOPY"
+    ],
+    "use_case": "An IT pro uses robocopy to automate software deployments, inspect group policy results, or manage files across systems.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "xcopy": {
+    "eli5": "xcopy is like a tool, setting, or file that helps your computer install stuff, fix problems, or stay organized.",
+    "boss": "xcopy is used in Windows for deploying operating systems, automating installations, or troubleshooting file and network operations.",
+    "sysadmin": "xcopy refers to a deployment tool, installer format, policy command, or system-level executable used for software management, group policy application, or file/network troubleshooting.",
+    "emoji": "\ud83d\udce6\ud83e\uddf0\ud83d\udda5\ufe0f",
+    "categories": [
+      "Windows",
+      "Configuration Management",
+      "Backup",
+      "Infrastructure",
+      "DevOps"
+    ],
+    "related": [
+      "winget",
+      "msi",
+      "dism",
+      "robocopy",
+      "gpupdate"
+    ],
+    "aliases": [
+      "xcopy",
+      "XCOPY"
+    ],
+    "use_case": "An IT pro uses xcopy to automate software deployments, inspect group policy results, or manage files across systems.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "copy": {
+    "eli5": "copy is like a tool, setting, or file that helps your computer install stuff, fix problems, or stay organized.",
+    "boss": "copy is used in Windows for deploying operating systems, automating installations, or troubleshooting file and network operations.",
+    "sysadmin": "copy refers to a deployment tool, installer format, policy command, or system-level executable used for software management, group policy application, or file/network troubleshooting.",
+    "emoji": "\ud83d\udce6\ud83e\uddf0\ud83d\udda5\ufe0f",
+    "categories": [
+      "Windows",
+      "Configuration Management",
+      "Backup",
+      "Infrastructure",
+      "DevOps"
+    ],
+    "related": [
+      "winget",
+      "msi",
+      "dism",
+      "robocopy",
+      "gpupdate"
+    ],
+    "aliases": [
+      "copy",
+      "COPY"
+    ],
+    "use_case": "An IT pro uses copy to automate software deployments, inspect group policy results, or manage files across systems.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "move": {
+    "eli5": "move is like a tool, setting, or file that helps your computer install stuff, fix problems, or stay organized.",
+    "boss": "move is used in Windows for deploying operating systems, automating installations, or troubleshooting file and network operations.",
+    "sysadmin": "move refers to a deployment tool, installer format, policy command, or system-level executable used for software management, group policy application, or file/network troubleshooting.",
+    "emoji": "\ud83d\udce6\ud83e\uddf0\ud83d\udda5\ufe0f",
+    "categories": [
+      "Windows",
+      "Configuration Management",
+      "Backup",
+      "Infrastructure",
+      "DevOps"
+    ],
+    "related": [
+      "winget",
+      "msi",
+      "dism",
+      "robocopy",
+      "gpupdate"
+    ],
+    "aliases": [
+      "move",
+      "MOVE"
+    ],
+    "use_case": "An IT pro uses move to automate software deployments, inspect group policy results, or manage files across systems.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "del": {
+    "eli5": "del is like a tool, setting, or file that helps your computer install stuff, fix problems, or stay organized.",
+    "boss": "del is used in Windows for deploying operating systems, automating installations, or troubleshooting file and network operations.",
+    "sysadmin": "del refers to a deployment tool, installer format, policy command, or system-level executable used for software management, group policy application, or file/network troubleshooting.",
+    "emoji": "\ud83d\udce6\ud83e\uddf0\ud83d\udda5\ufe0f",
+    "categories": [
+      "Windows",
+      "Configuration Management",
+      "Backup",
+      "Infrastructure",
+      "DevOps"
+    ],
+    "related": [
+      "winget",
+      "msi",
+      "dism",
+      "robocopy",
+      "gpupdate"
+    ],
+    "aliases": [
+      "del",
+      "DEL"
+    ],
+    "use_case": "An IT pro uses del to automate software deployments, inspect group policy results, or manage files across systems.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "tracert": {
+    "eli5": "tracert is like a tool, setting, or file that helps your computer install stuff, fix problems, or stay organized.",
+    "boss": "tracert is used in Windows for deploying operating systems, automating installations, or troubleshooting file and network operations.",
+    "sysadmin": "tracert refers to a deployment tool, installer format, policy command, or system-level executable used for software management, group policy application, or file/network troubleshooting.",
+    "emoji": "\ud83d\udce6\ud83e\uddf0\ud83d\udda5\ufe0f",
+    "categories": [
+      "Windows",
+      "Configuration Management",
+      "Backup",
+      "Infrastructure",
+      "DevOps"
+    ],
+    "related": [
+      "winget",
+      "msi",
+      "dism",
+      "robocopy",
+      "gpupdate"
+    ],
+    "aliases": [
+      "tracert",
+      "TRACERT"
+    ],
+    "use_case": "An IT pro uses tracert to automate software deployments, inspect group policy results, or manage files across systems.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "route": {
+    "eli5": "route is like a tool, setting, or file that helps your computer install stuff, fix problems, or stay organized.",
+    "boss": "route is used in Windows for deploying operating systems, automating installations, or troubleshooting file and network operations.",
+    "sysadmin": "route refers to a deployment tool, installer format, policy command, or system-level executable used for software management, group policy application, or file/network troubleshooting.",
+    "emoji": "\ud83d\udce6\ud83e\uddf0\ud83d\udda5\ufe0f",
+    "categories": [
+      "Windows",
+      "Configuration Management",
+      "Backup",
+      "Infrastructure",
+      "DevOps"
+    ],
+    "related": [
+      "winget",
+      "msi",
+      "dism",
+      "robocopy",
+      "gpupdate"
+    ],
+    "aliases": [
+      "route",
+      "ROUTE"
+    ],
+    "use_case": "An IT pro uses route to automate software deployments, inspect group policy results, or manage files across systems.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "netsh": {
+    "eli5": "netsh is like a tool, setting, or file that helps your computer install stuff, fix problems, or stay organized.",
+    "boss": "netsh is used in Windows for deploying operating systems, automating installations, or troubleshooting file and network operations.",
+    "sysadmin": "netsh refers to a deployment tool, installer format, policy command, or system-level executable used for software management, group policy application, or file/network troubleshooting.",
+    "emoji": "\ud83d\udce6\ud83e\uddf0\ud83d\udda5\ufe0f",
+    "categories": [
+      "Windows",
+      "Configuration Management",
+      "Backup",
+      "Infrastructure",
+      "DevOps"
+    ],
+    "related": [
+      "winget",
+      "msi",
+      "dism",
+      "robocopy",
+      "gpupdate"
+    ],
+    "aliases": [
+      "netsh",
+      "NETSH"
+    ],
+    "use_case": "An IT pro uses netsh to automate software deployments, inspect group policy results, or manage files across systems.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "nbtstat": {
+    "eli5": "nbtstat is like a tool, setting, or file that helps your computer install stuff, fix problems, or stay organized.",
+    "boss": "nbtstat is used in Windows for deploying operating systems, automating installations, or troubleshooting file and network operations.",
+    "sysadmin": "nbtstat refers to a deployment tool, installer format, policy command, or system-level executable used for software management, group policy application, or file/network troubleshooting.",
+    "emoji": "\ud83d\udce6\ud83e\uddf0\ud83d\udda5\ufe0f",
+    "categories": [
+      "Windows",
+      "Configuration Management",
+      "Backup",
+      "Infrastructure",
+      "DevOps"
+    ],
+    "related": [
+      "winget",
+      "msi",
+      "dism",
+      "robocopy",
+      "gpupdate"
+    ],
+    "aliases": [
+      "nbtstat",
+      "NBTSTAT"
+    ],
+    "use_case": "An IT pro uses nbtstat to automate software deployments, inspect group policy results, or manage files across systems.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "getmac": {
+    "eli5": "getmac is like a tool, setting, or file that helps your computer install stuff, fix problems, or stay organized.",
+    "boss": "getmac is used in Windows for deploying operating systems, automating installations, or troubleshooting file and network operations.",
+    "sysadmin": "getmac refers to a deployment tool, installer format, policy command, or system-level executable used for software management, group policy application, or file/network troubleshooting.",
+    "emoji": "\ud83d\udce6\ud83e\uddf0\ud83d\udda5\ufe0f",
+    "categories": [
+      "Windows",
+      "Configuration Management",
+      "Backup",
+      "Infrastructure",
+      "DevOps"
+    ],
+    "related": [
+      "winget",
+      "msi",
+      "dism",
+      "robocopy",
+      "gpupdate"
+    ],
+    "aliases": [
+      "getmac",
+      "GETMAC"
+    ],
+    "use_case": "An IT pro uses getmac to automate software deployments, inspect group policy results, or manage files across systems.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "remote desktop protocol": {
+    "eli5": "Remote Desktop Protocol is like a tool, setting, or file that helps your computer install stuff, fix problems, or stay organized.",
+    "boss": "Remote Desktop Protocol is used in Windows for deploying operating systems, automating installations, or troubleshooting file and network operations.",
+    "sysadmin": "Remote Desktop Protocol refers to a deployment tool, installer format, policy command, or system-level executable used for software management, group policy application, or file/network troubleshooting.",
+    "emoji": "\ud83d\udce6\ud83e\uddf0\ud83d\udda5\ufe0f",
+    "categories": [
+      "Windows",
+      "Configuration Management",
+      "Backup",
+      "Infrastructure",
+      "DevOps"
+    ],
+    "related": [
+      "winget",
+      "msi",
+      "dism",
+      "robocopy",
+      "gpupdate"
+    ],
+    "aliases": [
+      "remote desktop protocol",
+      "REMOTE DESKTOP PROTOCOL"
+    ],
+    "use_case": "An IT pro uses Remote Desktop Protocol to automate software deployments, inspect group policy results, or manage files across systems.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "workgroup": {
+    "eli5": "Workgroup is like a tool, setting, or file that helps your computer install stuff, fix problems, or stay organized.",
+    "boss": "Workgroup is used in Windows for deploying operating systems, automating installations, or troubleshooting file and network operations.",
+    "sysadmin": "Workgroup refers to a deployment tool, installer format, policy command, or system-level executable used for software management, group policy application, or file/network troubleshooting.",
+    "emoji": "\ud83d\udce6\ud83e\uddf0\ud83d\udda5\ufe0f",
+    "categories": [
+      "Windows",
+      "Configuration Management",
+      "Backup",
+      "Infrastructure",
+      "DevOps"
+    ],
+    "related": [
+      "winget",
+      "msi",
+      "dism",
+      "robocopy",
+      "gpupdate"
+    ],
+    "aliases": [
+      "workgroup",
+      "WORKGROUP"
+    ],
+    "use_case": "An IT pro uses Workgroup to automate software deployments, inspect group policy results, or manage files across systems.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "domain join": {
+    "eli5": "Domain Join is like a tool, setting, or file that helps your computer install stuff, fix problems, or stay organized.",
+    "boss": "Domain Join is used in Windows for deploying operating systems, automating installations, or troubleshooting file and network operations.",
+    "sysadmin": "Domain Join refers to a deployment tool, installer format, policy command, or system-level executable used for software management, group policy application, or file/network troubleshooting.",
+    "emoji": "\ud83d\udce6\ud83e\uddf0\ud83d\udda5\ufe0f",
+    "categories": [
+      "Windows",
+      "Configuration Management",
+      "Backup",
+      "Infrastructure",
+      "DevOps"
+    ],
+    "related": [
+      "winget",
+      "msi",
+      "dism",
+      "robocopy",
+      "gpupdate"
+    ],
+    "aliases": [
+      "domain join",
+      "DOMAIN JOIN"
+    ],
+    "use_case": "An IT pro uses Domain Join to automate software deployments, inspect group policy results, or manage files across systems.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "offline files": {
+    "eli5": "Offline Files is like a tool, setting, or file that helps your computer install stuff, fix problems, or stay organized.",
+    "boss": "Offline Files is used in Windows for deploying operating systems, automating installations, or troubleshooting file and network operations.",
+    "sysadmin": "Offline Files refers to a deployment tool, installer format, policy command, or system-level executable used for software management, group policy application, or file/network troubleshooting.",
+    "emoji": "\ud83d\udce6\ud83e\uddf0\ud83d\udda5\ufe0f",
+    "categories": [
+      "Windows",
+      "Configuration Management",
+      "Backup",
+      "Infrastructure",
+      "DevOps"
+    ],
+    "related": [
+      "winget",
+      "msi",
+      "dism",
+      "robocopy",
+      "gpupdate"
+    ],
+    "aliases": [
+      "offline files",
+      "OFFLINE FILES"
+    ],
+    "use_case": "An IT pro uses Offline Files to automate software deployments, inspect group policy results, or manage files across systems.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "homegroup (deprecated)": {
+    "eli5": "HomeGroup (deprecated) is like a tool, setting, or file that helps your computer install stuff, fix problems, or stay organized.",
+    "boss": "HomeGroup (deprecated) is used in Windows for deploying operating systems, automating installations, or troubleshooting file and network operations.",
+    "sysadmin": "HomeGroup (deprecated) refers to a deployment tool, installer format, policy command, or system-level executable used for software management, group policy application, or file/network troubleshooting.",
+    "emoji": "\ud83d\udce6\ud83e\uddf0\ud83d\udda5\ufe0f",
+    "categories": [
+      "Windows",
+      "Configuration Management",
+      "Backup",
+      "Infrastructure",
+      "DevOps"
+    ],
+    "related": [
+      "winget",
+      "msi",
+      "dism",
+      "robocopy",
+      "gpupdate"
+    ],
+    "aliases": [
+      "homegroup (deprecated)",
+      "HOMEGROUP (DEPRECATED)"
+    ],
+    "use_case": "An IT pro uses HomeGroup (deprecated) to automate software deployments, inspect group policy results, or manage files across systems.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "processes & services": {
+    "eli5": "Processes & Services is like a tool, setting, or file that helps your computer install stuff, fix problems, or stay organized.",
+    "boss": "Processes & Services is used in Windows for deploying operating systems, automating installations, or troubleshooting file and network operations.",
+    "sysadmin": "Processes & Services refers to a deployment tool, installer format, policy command, or system-level executable used for software management, group policy application, or file/network troubleshooting.",
+    "emoji": "\ud83d\udce6\ud83e\uddf0\ud83d\udda5\ufe0f",
+    "categories": [
+      "Windows",
+      "Configuration Management",
+      "Backup",
+      "Infrastructure",
+      "DevOps"
+    ],
+    "related": [
+      "winget",
+      "msi",
+      "dism",
+      "robocopy",
+      "gpupdate"
+    ],
+    "aliases": [
+      "processes & services",
+      "PROCESSES & SERVICES"
+    ],
+    "use_case": "An IT pro uses Processes & Services to automate software deployments, inspect group policy results, or manage files across systems.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "svchost.exe": {
+    "eli5": "svchost.exe is like a tool, setting, or file that helps your computer install stuff, fix problems, or stay organized.",
+    "boss": "svchost.exe is used in Windows for deploying operating systems, automating installations, or troubleshooting file and network operations.",
+    "sysadmin": "svchost.exe refers to a deployment tool, installer format, policy command, or system-level executable used for software management, group policy application, or file/network troubleshooting.",
+    "emoji": "\ud83d\udce6\ud83e\uddf0\ud83d\udda5\ufe0f",
+    "categories": [
+      "Windows",
+      "Configuration Management",
+      "Backup",
+      "Infrastructure",
+      "DevOps"
+    ],
+    "related": [
+      "winget",
+      "msi",
+      "dism",
+      "robocopy",
+      "gpupdate"
+    ],
+    "aliases": [
+      "svchost.exe",
+      "SVCHOST.EXE"
+    ],
+    "use_case": "An IT pro uses svchost.exe to automate software deployments, inspect group policy results, or manage files across systems.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "winlogon.exe": {
+    "eli5": "winlogon.exe is like a tool, setting, or file that helps your computer install stuff, fix problems, or stay organized.",
+    "boss": "winlogon.exe is used in Windows for deploying operating systems, automating installations, or troubleshooting file and network operations.",
+    "sysadmin": "winlogon.exe refers to a deployment tool, installer format, policy command, or system-level executable used for software management, group policy application, or file/network troubleshooting.",
+    "emoji": "\ud83d\udce6\ud83e\uddf0\ud83d\udda5\ufe0f",
+    "categories": [
+      "Windows",
+      "Configuration Management",
+      "Backup",
+      "Infrastructure",
+      "DevOps"
+    ],
+    "related": [
+      "winget",
+      "msi",
+      "dism",
+      "robocopy",
+      "gpupdate"
+    ],
+    "aliases": [
+      "winlogon.exe",
+      "WINLOGON.EXE"
+    ],
+    "use_case": "An IT pro uses winlogon.exe to automate software deployments, inspect group policy results, or manage files across systems.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "lsass.exe": {
+    "eli5": "lsass.exe is like a tool, setting, or file that helps your computer install stuff, fix problems, or stay organized.",
+    "boss": "lsass.exe is used in Windows for deploying operating systems, automating installations, or troubleshooting file and network operations.",
+    "sysadmin": "lsass.exe refers to a deployment tool, installer format, policy command, or system-level executable used for software management, group policy application, or file/network troubleshooting.",
+    "emoji": "\ud83d\udce6\ud83e\uddf0\ud83d\udda5\ufe0f",
+    "categories": [
+      "Windows",
+      "Configuration Management",
+      "Backup",
+      "Infrastructure",
+      "DevOps"
+    ],
+    "related": [
+      "winget",
+      "msi",
+      "dism",
+      "robocopy",
+      "gpupdate"
+    ],
+    "aliases": [
+      "lsass.exe",
+      "LSASS.EXE"
+    ],
+    "use_case": "An IT pro uses lsass.exe to automate software deployments, inspect group policy results, or manage files across systems.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "services.exe": {
+    "eli5": "services.exe is like a tool, setting, or file that helps your computer install stuff, fix problems, or stay organized.",
+    "boss": "services.exe is used in Windows for deploying operating systems, automating installations, or troubleshooting file and network operations.",
+    "sysadmin": "services.exe refers to a deployment tool, installer format, policy command, or system-level executable used for software management, group policy application, or file/network troubleshooting.",
+    "emoji": "\ud83d\udce6\ud83e\uddf0\ud83d\udda5\ufe0f",
+    "categories": [
+      "Windows",
+      "Configuration Management",
+      "Backup",
+      "Infrastructure",
+      "DevOps"
+    ],
+    "related": [
+      "winget",
+      "msi",
+      "dism",
+      "robocopy",
+      "gpupdate"
+    ],
+    "aliases": [
+      "services.exe",
+      "SERVICES.EXE"
+    ],
+    "use_case": "An IT pro uses services.exe to automate software deployments, inspect group policy results, or manage files across systems.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "system idle process": {
+    "eli5": "System Idle Process is like a tool, setting, or file that helps your computer install stuff, fix problems, or stay organized.",
+    "boss": "System Idle Process is used in Windows for deploying operating systems, automating installations, or troubleshooting file and network operations.",
+    "sysadmin": "System Idle Process refers to a deployment tool, installer format, policy command, or system-level executable used for software management, group policy application, or file/network troubleshooting.",
+    "emoji": "\ud83d\udce6\ud83e\uddf0\ud83d\udda5\ufe0f",
+    "categories": [
+      "Windows",
+      "Configuration Management",
+      "Backup",
+      "Infrastructure",
+      "DevOps"
+    ],
+    "related": [
+      "winget",
+      "msi",
+      "dism",
+      "robocopy",
+      "gpupdate"
+    ],
+    "aliases": [
+      "system idle process",
+      "SYSTEM IDLE PROCESS"
+    ],
+    "use_case": "An IT pro uses System Idle Process to automate software deployments, inspect group policy results, or manage files across systems.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "spooler service": {
+    "eli5": "Spooler Service is like a tool, setting, or file that helps your computer install stuff, fix problems, or stay organized.",
+    "boss": "Spooler Service is used in Windows for deploying operating systems, automating installations, or troubleshooting file and network operations.",
+    "sysadmin": "Spooler Service refers to a deployment tool, installer format, policy command, or system-level executable used for software management, group policy application, or file/network troubleshooting.",
+    "emoji": "\ud83d\udce6\ud83e\uddf0\ud83d\udda5\ufe0f",
+    "categories": [
+      "Windows",
+      "Configuration Management",
+      "Backup",
+      "Infrastructure",
+      "DevOps"
+    ],
+    "related": [
+      "winget",
+      "msi",
+      "dism",
+      "robocopy",
+      "gpupdate"
+    ],
+    "aliases": [
+      "spooler service",
+      "SPOOLER SERVICE"
+    ],
+    "use_case": "An IT pro uses Spooler Service to automate software deployments, inspect group policy results, or manage files across systems.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "windows search": {
+    "eli5": "Windows Search is like a tool, setting, or file that helps your computer install stuff, fix problems, or stay organized.",
+    "boss": "Windows Search is used in Windows for deploying operating systems, automating installations, or troubleshooting file and network operations.",
+    "sysadmin": "Windows Search refers to a deployment tool, installer format, policy command, or system-level executable used for software management, group policy application, or file/network troubleshooting.",
+    "emoji": "\ud83d\udce6\ud83e\uddf0\ud83d\udda5\ufe0f",
+    "categories": [
+      "Windows",
+      "Configuration Management",
+      "Backup",
+      "Infrastructure",
+      "DevOps"
+    ],
+    "related": [
+      "winget",
+      "msi",
+      "dism",
+      "robocopy",
+      "gpupdate"
+    ],
+    "aliases": [
+      "windows search",
+      "WINDOWS SEARCH"
+    ],
+    "use_case": "An IT pro uses Windows Search to automate software deployments, inspect group policy results, or manage files across systems.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  }
+}

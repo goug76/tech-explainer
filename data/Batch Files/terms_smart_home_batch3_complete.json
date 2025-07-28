@@ -1,0 +1,70 @@
+{
+  "powermetering": {
+    "eli5": "It\u2019s like a smart ruler that tells how much electricity your devices are using.",
+    "boss": "Power metering is the process of measuring real-time energy usage to enable smarter decisions and automations.",
+    "sysadmin": "Power metering uses current transformers or shunt resistors to measure voltage, amperage, and power (W, Wh, kWh) for IoT monitoring.",
+    "emoji": "\u26a1\ud83d\udcca\ud83d\udd0c",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Energy"
+    ],
+    "related": [
+      "Power Consumption",
+      "Energy Monitoring",
+      "Smart Plug"
+    ],
+    "aliases": [
+      "Energy Metering"
+    ],
+    "use_case": "Used to track energy use from large appliances like washers or HVAC systems.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "powerconsumption": {
+    "eli5": "Power consumption is how much juice your gadgets use while they run.",
+    "boss": "Power consumption refers to the amount of energy used by a device or system, useful for monitoring efficiency.",
+    "sysadmin": "It is measured in watts (W) or kilowatt-hours (kWh), often reported by smart plugs, sensors, or energy panels.",
+    "emoji": "\ud83d\udd0b\u26a1\ud83d\udcc9",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Energy"
+    ],
+    "related": [
+      "Power Metering",
+      "Energy Monitoring",
+      "Smart Outlet"
+    ],
+    "aliases": [
+      "Energy Usage",
+      "Electricity Consumption"
+    ],
+    "use_case": "Used to identify power-hungry devices and reduce overall energy bills.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "overtheairotaupdates": {
+    "eli5": "It\u2019s like sending a new brain to your device without plugging anything in.",
+    "boss": "OTA (Over-the-Air) updates deliver firmware or software improvements wirelessly to smart home devices.",
+    "sysadmin": "OTA updates use Wi-Fi or Zigbee/Z-Wave management protocols to patch or upgrade device firmware securely over the network.",
+    "emoji": "\ud83d\udcf6\ud83d\udce6\ud83d\udd01",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Automation"
+    ],
+    "related": [
+      "Flash Firmware",
+      "Custom Firmware",
+      "Tuya Convert"
+    ],
+    "aliases": [
+      "OTA Update",
+      "Over-the-Air"
+    ],
+    "use_case": "Used to improve a device\u2019s security or add features without removing it from service.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  }
+}

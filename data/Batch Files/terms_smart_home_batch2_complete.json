@@ -1,0 +1,1178 @@
+{
+  "myq": {
+    "eli5": "MyQ is like a remote control for your garage door you can use from anywhere.",
+    "boss": "MyQ is a smart garage door opener platform from Chamberlain that enables remote monitoring and control via mobile app or integrations.",
+    "sysadmin": "MyQ devices communicate over Wi-Fi and use proprietary cloud APIs. While closed-source, some integrations exist via HomeBridge and MQTT workarounds.",
+    "emoji": "\ud83d\udeaa\ud83d\udcf1\ud83d\udce1",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Cloud"
+    ],
+    "related": [
+      "Garage Door Opener",
+      "Home Assistant",
+      "SmartThings",
+      "IFTTT"
+    ],
+    "aliases": [
+      "Chamberlain MyQ"
+    ],
+    "use_case": "Used to open or close a garage door from your phone while away from home.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "augustsmartlock": {
+    "eli5": "August is like a magic lock you can open with your phone instead of a key.",
+    "boss": "August Smart Locks retrofit your existing deadbolt, enabling keyless entry and app control with integration into smart home ecosystems.",
+    "sysadmin": "August locks use Bluetooth, Wi-Fi, and Z-Wave (Pro models), supporting HomeKit, Alexa, Google, and automations with optional bridge.",
+    "emoji": "\ud83d\udd10\ud83d\udcf1\ud83c\udfe0",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Security"
+    ],
+    "related": [
+      "Smart Lock",
+      "Yale Assure Lock",
+      "HomeKit",
+      "Z-Wave"
+    ],
+    "aliases": [
+      "August Lock",
+      "August"
+    ],
+    "use_case": "Used to unlock your door remotely for a visitor while you're at work.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "yaleassurelock": {
+    "eli5": "Yale Assure is a lock that doesn\u2019t need a key\u2014it uses a keypad or your phone.",
+    "boss": "Yale Assure Lock is a smart deadbolt with keyless entry, offering support for major smart home platforms.",
+    "sysadmin": "Yale Assure Lock supports Z-Wave, Zigbee, and Wi-Fi modules for integration with systems like SmartThings, HomeKit, and Alexa.",
+    "emoji": "\ud83d\udd22\ud83d\udeaa\ud83d\udd10",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Security"
+    ],
+    "related": [
+      "August Smart Lock",
+      "Z-Wave",
+      "Smart Lock",
+      "HomeKit"
+    ],
+    "aliases": [
+      "Yale Smart Lock",
+      "Assure Lock"
+    ],
+    "use_case": "Used to allow keypad-based or app-based entry into your home without a physical key.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "levellock": {
+    "eli5": "Level Lock hides all the smart stuff inside the door so it looks like a regular lock.",
+    "boss": "Level Lock is a discreet smart lock designed to fit inside traditional hardware while supporting modern features and automation.",
+    "sysadmin": "Level Lock works via Bluetooth and HomeKit (or Matter), with some models using Thread for low-energy smart home integration.",
+    "emoji": "\ud83d\udee0\ufe0f\ud83d\udd12\ud83e\udde0",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Security"
+    ],
+    "related": [
+      "HomeKit",
+      "Matter",
+      "Smart Lock",
+      "August Smart Lock"
+    ],
+    "aliases": [
+      "Level",
+      "Level Bolt",
+      "Level Lock"
+    ],
+    "use_case": "Used to make a front door smart without changing the appearance of the existing lock.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "schlageencode": {
+    "eli5": "Schlage Encode is a smart lock that talks to your Wi-Fi so you can control it anywhere.",
+    "boss": "Schlage Encode is a smart lock series with built-in Wi-Fi for keyless entry, remote access, and voice assistant integration.",
+    "sysadmin": "Schlage Encode operates over Wi-Fi and supports Alexa and Google Assistant, with app control and encryption for remote locking.",
+    "emoji": "\ud83d\udd10\ud83d\udcf6\ud83d\udcf2",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Security"
+    ],
+    "related": [
+      "August Smart Lock",
+      "Yale Assure Lock",
+      "Wi-Fi",
+      "Alexa"
+    ],
+    "aliases": [
+      "Encode Lock",
+      "Schlage Lock"
+    ],
+    "use_case": "Used to create temporary codes for guests and lock/unlock via app remotely.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "nuki": {
+    "eli5": "Nuki is a smart key turner that lets your phone lock or unlock the door.",
+    "boss": "Nuki is a smart lock system popular in Europe that attaches to existing locks for app and remote control.",
+    "sysadmin": "Nuki Smart Locks support Bluetooth, Wi-Fi, and optional bridge integrations for Apple HomeKit, Alexa, Google, and web APIs.",
+    "emoji": "\ud83d\udd11\ud83d\udcf2\ud83d\udece\ufe0f",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Security"
+    ],
+    "related": [
+      "Smart Lock",
+      "August",
+      "Yale",
+      "Home Assistant"
+    ],
+    "aliases": [
+      "Nuki Smart Lock"
+    ],
+    "use_case": "Used to auto-unlock the door as you arrive home using Bluetooth proximity.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "smartlock": {
+    "eli5": "A smart lock is like a regular lock, but you can unlock it with your phone or a code.",
+    "boss": "Smart locks replace or augment traditional door locks, enabling keyless entry and remote control via apps or automation.",
+    "sysadmin": "Smart locks use Bluetooth, Wi-Fi, Z-Wave, Zigbee, or Thread to communicate with hubs, assistants, or mobile apps for access control.",
+    "emoji": "\ud83d\udd12\ud83d\udcf1\ud83d\udcf6",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Security"
+    ],
+    "related": [
+      "August Smart Lock",
+      "Yale Assure Lock",
+      "Level Lock",
+      "HomeKit"
+    ],
+    "aliases": [
+      "Smart Door Lock",
+      "Keyless Lock"
+    ],
+    "use_case": "Used to lock your door automatically when you leave the house using geofencing.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "smartthermostat": {
+    "eli5": "It\u2019s a smart temperature knob that knows when to turn the heat or AC up or down.",
+    "boss": "Smart thermostats automate home heating and cooling based on schedules, presence, and voice or app control.",
+    "sysadmin": "Smart thermostats connect over Wi-Fi, supporting platforms like Alexa, Google, HomeKit, and can integrate with sensors and IFTTT.",
+    "emoji": "\ud83c\udf21\ufe0f\ud83d\udcf2\ud83c\udfe0",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Energy"
+    ],
+    "related": [
+      "Nest",
+      "Ecobee",
+      "Home Assistant",
+      "IFTTT"
+    ],
+    "aliases": [
+      "Wi-Fi Thermostat",
+      "Connected Thermostat"
+    ],
+    "use_case": "Used to automatically reduce heating when nobody is home, saving energy.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "smartplug": {
+    "eli5": "A smart plug is like a remote switch you can control with your phone.",
+    "boss": "Smart plugs allow you to remotely control and automate power to devices using an app or voice assistant.",
+    "sysadmin": "Smart plugs communicate over Wi-Fi, Zigbee, or Z-Wave and support schedules, energy monitoring, and automation triggers.",
+    "emoji": "\ud83d\udd0c\ud83d\udcf6\u26a1",
+    "categories": [
+      "Smart Home",
+      "IoT"
+    ],
+    "related": [
+      "Smart Switch",
+      "TP-Link Kasa",
+      "Shelly",
+      "Tasmota"
+    ],
+    "aliases": [
+      "Wi-Fi Plug",
+      "Smart Outlet"
+    ],
+    "use_case": "Used to automate lamps or coffee makers based on time or scenes.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "smartswitch": {
+    "eli5": "A smart switch is a light switch you can tap in real life or on your phone.",
+    "boss": "Smart switches replace traditional wall switches to allow for remote, voice, and automated control of lights or fans.",
+    "sysadmin": "Smart switches use Wi-Fi, Zigbee, or Z-Wave and integrate with platforms like Home Assistant, Alexa, and Google Home.",
+    "emoji": "\ud83c\udf9a\ufe0f\ud83d\udcf1\ud83d\udca1",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Lighting"
+    ],
+    "related": [
+      "Smart Plug",
+      "Smart Dimmer",
+      "Smart Bulb",
+      "TP-Link Kasa"
+    ],
+    "aliases": [
+      "Wi-Fi Switch",
+      "Connected Switch"
+    ],
+    "use_case": "Used to control lights via app, voice, or motion sensor triggers.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "smartbulb": {
+    "eli5": "A smart bulb is a light that can change colors or turn on/off using your phone or voice.",
+    "boss": "Smart bulbs are Wi-Fi or Zigbee-enabled lights that support remote control, dimming, color changes, and automation.",
+    "sysadmin": "Smart bulbs use protocols like Zigbee, Z-Wave, Bluetooth, or Wi-Fi, and can integrate with platforms like Alexa, Google, and Home Assistant.",
+    "emoji": "\ud83d\udca1\ud83d\udcf1\ud83c\udf08",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Lighting"
+    ],
+    "related": [
+      "Smart Dimmer",
+      "Smart Switch",
+      "Philips Hue",
+      "LIFX"
+    ],
+    "aliases": [
+      "Wi-Fi Bulb",
+      "Connected Light",
+      "Color Bulb"
+    ],
+    "use_case": "Used to schedule lights to turn on at sunset or respond to voice commands.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "smartoutlet": {
+    "eli5": "A smart outlet is like a power socket you can turn on and off with your phone.",
+    "boss": "Smart outlets let you control plugged-in devices remotely and can track energy usage.",
+    "sysadmin": "Smart outlets are typically Wi-Fi, Zigbee, or Z-Wave controlled devices that support toggling power, automation, and reporting via API or app.",
+    "emoji": "\ud83d\udd0c\ud83d\udcf2\u26a1",
+    "categories": [
+      "Smart Home",
+      "IoT"
+    ],
+    "related": [
+      "Smart Plug",
+      "Smart Switch",
+      "Energy Monitoring"
+    ],
+    "aliases": [
+      "Wi-Fi Outlet",
+      "Connected Outlet"
+    ],
+    "use_case": "Used to cut power to a space heater remotely for safety.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "smartdimmer": {
+    "eli5": "A smart dimmer is a light switch that lets you adjust brightness from your phone.",
+    "boss": "Smart dimmers allow remote or automated control of lighting levels via apps, voice assistants, or schedules.",
+    "sysadmin": "Smart dimmers use Zigbee, Z-Wave, or Wi-Fi, and typically require a neutral wire; some offer scene control and multi-tap triggers.",
+    "emoji": "\ud83c\udf9b\ufe0f\ud83d\udcf1\ud83d\udca1",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Lighting"
+    ],
+    "related": [
+      "Smart Switch",
+      "Smart Bulb",
+      "Lutron",
+      "Home Assistant"
+    ],
+    "aliases": [
+      "Wi-Fi Dimmer",
+      "Connected Dimmer"
+    ],
+    "use_case": "Used to gradually dim bedroom lights at night for better sleep.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "smartfancontroller": {
+    "eli5": "It\u2019s like a smart light switch, but for your ceiling fan speed.",
+    "boss": "Smart fan controllers automate and remotely control ceiling fan speed using voice or app interfaces.",
+    "sysadmin": "Smart fan controllers use Wi-Fi, Z-Wave, or Zigbee and support multiple speed settings, often integrated into wall switches.",
+    "emoji": "\ud83c\udf00\ud83c\udf9b\ufe0f\ud83d\udcf2",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Automation"
+    ],
+    "related": [
+      "Ceiling Fan Module",
+      "Smart Switch",
+      "Smart Dimmer"
+    ],
+    "aliases": [
+      "Fan Switch",
+      "Smart Ceiling Fan Controller"
+    ],
+    "use_case": "Used to automatically set fan speed based on room temperature or schedule.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "ceilingfanmodule": {
+    "eli5": "This hides in your fan and makes it smart\u2014without changing your switch.",
+    "boss": "Ceiling fan modules convert standard fans into smart devices controlled via apps or voice assistants.",
+    "sysadmin": "Modules install inside the fan housing and use protocols like RF, Zigbee, or Wi-Fi, often paired with hubs like Bond or BroadLink.",
+    "emoji": "\ud83e\ude9b\ud83c\udf00\ud83d\udcf6",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Automation"
+    ],
+    "related": [
+      "Smart Fan Controller",
+      "IR Hub",
+      "Smart Switch"
+    ],
+    "aliases": [
+      "Fan Control Module",
+      "Smart Fan Kit"
+    ],
+    "use_case": "Used to upgrade a ceiling fan to work with Alexa and schedules without replacing the wall switch.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "garagedooropener": {
+    "eli5": "A garage door opener lets you open the big car door with a button\u2014or your phone if it\u2019s smart.",
+    "boss": "Smart garage door openers allow remote control, alerts, and automation for your garage from anywhere.",
+    "sysadmin": "Smart openers use Wi-Fi or integrate with hubs to control relays and sensors, often via apps, Alexa, Google, or MyQ systems.",
+    "emoji": "\ud83d\ude97\ud83d\udcf2\ud83d\udeaa",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Automation",
+      "Security"
+    ],
+    "related": [
+      "MyQ",
+      "Smart Sensor",
+      "Home Assistant",
+      "Relay Controller"
+    ],
+    "aliases": [
+      "Wi-Fi Garage Opener",
+      "Connected Garage Controller"
+    ],
+    "use_case": "Used to auto-close the garage if left open after 10 PM.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "smartsensor": {
+    "eli5": "Smart sensors notice things\u2014like motion or water\u2014and tell your smart home about it.",
+    "boss": "Smart sensors detect conditions like motion, temperature, or water and trigger automation actions or alerts.",
+    "sysadmin": "Smart sensors use Zigbee, Z-Wave, Wi-Fi, or BLE to transmit event data and often support battery monitoring and tamper alerts.",
+    "emoji": "\ud83e\udde0\ud83d\udce1\ud83d\udcc8",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Monitoring",
+      "Security"
+    ],
+    "related": [
+      "Contact Sensor",
+      "Motion Sensor",
+      "Leak Sensor",
+      "Temperature Sensor"
+    ],
+    "aliases": [
+      "IoT Sensor",
+      "Connected Sensor"
+    ],
+    "use_case": "Used to turn on hallway lights when motion is detected at night.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "contactsensor": {
+    "eli5": "A contact sensor tells you if a door or window is open or closed.",
+    "boss": "Contact sensors detect the open or closed state of doors, windows, or drawers and trigger automations or alerts.",
+    "sysadmin": "Typically Zigbee or Z-Wave based, contact sensors use magnetic fields to detect state changes and send events to hubs or assistants.",
+    "emoji": "\ud83d\udeaa\ud83e\uddf2\ud83d\udcec",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Security"
+    ],
+    "related": [
+      "Motion Sensor",
+      "Smart Sensor",
+      "Home Assistant",
+      "Aqara"
+    ],
+    "aliases": [
+      "Open/Close Sensor",
+      "Door Sensor",
+      "Window Sensor"
+    ],
+    "use_case": "Used to send a phone alert if a door is opened while the system is armed.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "motionsensor": {
+    "eli5": "Motion sensors are like smart eyes that know when something moves.",
+    "boss": "Motion sensors detect movement and trigger smart home events like lighting or alerts.",
+    "sysadmin": "These sensors use PIR (passive infrared), microwave, or mmWave tech and report activity via Zigbee, Z-Wave, or Wi-Fi.",
+    "emoji": "\ud83d\udc41\ufe0f\ud83d\udeb6\u200d\u2642\ufe0f\ud83d\udca1",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Security",
+      "Automation"
+    ],
+    "related": [
+      "Contact Sensor",
+      "Occupancy Sensor",
+      "Light Sensor",
+      "Aqara"
+    ],
+    "aliases": [
+      "PIR Sensor",
+      "Motion Detector"
+    ],
+    "use_case": "Used to turn on lights in a hallway when someone walks by.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "vibrationsensor": {
+    "eli5": "It feels when something shakes or moves\u2014like if someone knocks or tampers.",
+    "boss": "Vibration sensors detect physical movement and are used for security or equipment monitoring.",
+    "sysadmin": "These sensors use accelerometers or piezoelectric elements to report shock/vibration events via Zigbee or BLE.",
+    "emoji": "\ud83d\udca5\ud83d\udce6\ud83d\udcf3",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Security",
+      "Monitoring"
+    ],
+    "related": [
+      "Contact Sensor",
+      "Smart Sensor",
+      "Motion Sensor"
+    ],
+    "aliases": [
+      "Shock Sensor",
+      "Impact Sensor"
+    ],
+    "use_case": "Used to detect if a window is hit or tampered with.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "leaksensor": {
+    "eli5": "A leak sensor is like a smart towel that tells you when water shows up where it shouldn\u2019t.",
+    "boss": "Leak sensors detect water presence and notify you instantly to prevent damage.",
+    "sysadmin": "Leak sensors use probes or conductive pads to detect moisture and transmit alerts via Zigbee, Z-Wave, or Wi-Fi.",
+    "emoji": "\ud83d\udca7\ud83d\udea8\ud83d\udce1",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Monitoring"
+    ],
+    "related": [
+      "Water Shutoff Valve",
+      "Smart Sensor",
+      "Home Assistant",
+      "IFTTT"
+    ],
+    "aliases": [
+      "Water Sensor",
+      "Flood Sensor"
+    ],
+    "use_case": "Used to alert you if your washing machine leaks onto the floor.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "watershutoffvalve": {
+    "eli5": "This gadget turns off the water for you if there's a leak.",
+    "boss": "Smart water shutoff valves can automatically cut off water supply when leaks are detected.",
+    "sysadmin": "These valves integrate with leak sensors and home automation systems via Z-Wave, Zigbee, or Wi-Fi for remote/manual control.",
+    "emoji": "\ud83d\udebf\ud83d\uded1\ud83d\udd27",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Security",
+      "Automation"
+    ],
+    "related": [
+      "Leak Sensor",
+      "Smart Sensor",
+      "Home Assistant"
+    ],
+    "aliases": [
+      "Smart Valve",
+      "Water Main Controller"
+    ],
+    "use_case": "Used to auto-shutoff water when a leak sensor triggers in the laundry room.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "airqualitysensor": {
+    "eli5": "It\u2019s a smart nose that can tell if the air is fresh or funky.",
+    "boss": "Air quality sensors monitor pollutants and conditions like PM2.5 or VOCs for health and automation.",
+    "sysadmin": "These sensors detect particulates, gases, and sometimes temperature/humidity, reporting data via Wi-Fi, Zigbee, or MQTT.",
+    "emoji": "\ud83c\udf2b\ufe0f\ud83c\udf21\ufe0f\ud83c\udfe0",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Monitoring"
+    ],
+    "related": [
+      "CO/CO2 Sensor",
+      "Smart Thermostat",
+      "Automation"
+    ],
+    "aliases": [
+      "IAQ Sensor",
+      "Air Sensor"
+    ],
+    "use_case": "Used to run the air purifier when indoor pollution exceeds a safe level.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "co/co2sensor": {
+    "eli5": "These are smart sniffers that alert you if there\u2019s dangerous gas in the air.",
+    "boss": "CO/CO2 sensors monitor carbon monoxide or dioxide levels for safety and air quality control.",
+    "sysadmin": "CO sensors detect toxic gas using electrochemical tech; CO\u2082 sensors use NDIR and may report data over Zigbee or Wi-Fi.",
+    "emoji": "\u2620\ufe0f\ud83c\udfe0\ud83d\udcdf",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Monitoring"
+    ],
+    "related": [
+      "Air Quality Sensor",
+      "Smoke Detector",
+      "Smart Thermostat"
+    ],
+    "aliases": [
+      "CO Sensor",
+      "CO2 Sensor",
+      "Carbon Monoxide Detector"
+    ],
+    "use_case": "Used to send an alert and turn on ventilation when CO\u2082 levels get too high indoors.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "temperaturesensor": {
+    "eli5": "A smart thermometer that tells your home how warm or cold it is.",
+    "boss": "Temperature sensors help automate climate control by feeding data to smart thermostats or triggers.",
+    "sysadmin": "Sensors report real-time temperature readings over BLE, Zigbee, or MQTT and integrate into scenes or logic.",
+    "emoji": "\ud83c\udf21\ufe0f\ud83d\udcc8\ud83d\udce1",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Monitoring"
+    ],
+    "related": [
+      "Smart Thermostat",
+      "Humidity Sensor",
+      "Motion Sensor"
+    ],
+    "aliases": [
+      "Temp Sensor",
+      "Thermometer Sensor"
+    ],
+    "use_case": "Used to adjust HVAC when a room gets too hot.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "humiditysensor": {
+    "eli5": "It tells your home how sweaty or dry the air feels.",
+    "boss": "Humidity sensors track moisture levels to improve comfort and prevent issues like mold.",
+    "sysadmin": "These sensors provide relative humidity data via Zigbee, BLE, or MQTT for smart automations.",
+    "emoji": "\ud83d\udca7\ud83d\udcca\ud83c\udfe0",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Monitoring"
+    ],
+    "related": [
+      "Temperature Sensor",
+      "Air Quality Sensor",
+      "Smart Thermostat"
+    ],
+    "aliases": [
+      "Humidity Detector",
+      "RH Sensor"
+    ],
+    "use_case": "Used to turn on a humidifier when the air is too dry.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "lightsensor": {
+    "eli5": "It sees how bright it is and can tell lights when to turn on or off.",
+    "boss": "Light sensors measure brightness and help automate lighting or blinds based on sunlight.",
+    "sysadmin": "These sensors use photodiodes or LDRs to report lux levels, interfacing via Zigbee, MQTT, or GPIO.",
+    "emoji": "\ud83d\udd06\ud83d\udcc9\ud83d\udcf2",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Monitoring"
+    ],
+    "related": [
+      "Motion Sensor",
+      "Smart Bulb",
+      "Home Assistant"
+    ],
+    "aliases": [
+      "Ambient Light Sensor",
+      "Lux Sensor"
+    ],
+    "use_case": "Used to open blinds when sunlight is below a certain threshold.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "occupancysensor": {
+    "eli5": "It figures out if someone is in the room\u2014even if they\u2019re not moving.",
+    "boss": "Occupancy sensors detect presence using advanced techniques beyond basic motion sensing.",
+    "sysadmin": "These use mmWave, ultrasonic, or radar sensing to determine presence, with high accuracy and continuous detection.",
+    "emoji": "\ud83e\uddcd\ud83d\udce1\ud83d\udc40",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Monitoring"
+    ],
+    "related": [
+      "Motion Sensor",
+      "Presence Detection",
+      "Home Assistant"
+    ],
+    "aliases": [
+      "Presence Sensor",
+      "Occupancy Detector"
+    ],
+    "use_case": "Used to pause media when no one is in the room.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "smartdoorbell": {
+    "eli5": "It\u2019s a doorbell with a camera that tells you who\u2019s there\u2014even when you're not home.",
+    "boss": "Smart doorbells combine video, motion alerts, and 2-way audio to enhance entryway awareness.",
+    "sysadmin": "Smart doorbells use Wi-Fi to stream video, integrate with apps, record to cloud/local storage, and support automations.",
+    "emoji": "\ud83d\udeaa\ud83d\udd14\ud83d\udcf7",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Security",
+      "Cloud"
+    ],
+    "related": [
+      "Smart Camera",
+      "Ring",
+      "Eufy",
+      "Google Home"
+    ],
+    "aliases": [
+      "Video Doorbell",
+      "Wi-Fi Doorbell"
+    ],
+    "use_case": "Used to talk to delivery drivers from your phone even if you're away.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "smartcamera": {
+    "eli5": "A smart camera watches over your home and lets you see from your phone.",
+    "boss": "Smart cameras provide live monitoring, motion alerts, and cloud/local recording for home security.",
+    "sysadmin": "Cameras stream video over RTSP, ONVIF, or proprietary protocols with motion detection, night vision, and API hooks.",
+    "emoji": "\ud83d\udcf7\ud83d\udce1\ud83c\udfe0",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Security",
+      "Cloud"
+    ],
+    "related": [
+      "Indoor Camera",
+      "Outdoor Camera",
+      "Floodlight Camera",
+      "Home Assistant"
+    ],
+    "aliases": [
+      "Wi-Fi Camera",
+      "Security Cam"
+    ],
+    "use_case": "Used to view live feeds of home areas and get alerts for motion.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "indoorcamera": {
+    "eli5": "It\u2019s a camera you put inside to see what\u2019s happening at home.",
+    "boss": "Indoor cameras help monitor interior rooms for activity, pets, or security concerns.",
+    "sysadmin": "Typically Wi-Fi-based, these cameras support RTSP/cloud recording, motion alerts, and app integration.",
+    "emoji": "\ud83c\udfe0\ud83d\udcf7\ud83d\udc40",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Security"
+    ],
+    "related": [
+      "Smart Camera",
+      "Pet Camera",
+      "Home Assistant"
+    ],
+    "aliases": [
+      "Indoor Cam"
+    ],
+    "use_case": "Used to check if pets are behaving while you're at work.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "outdoorcamera": {
+    "eli5": "It\u2019s a camera made to watch outside and not get ruined by rain or snow.",
+    "boss": "Outdoor cameras provide exterior monitoring with weatherproofing and enhanced motion detection.",
+    "sysadmin": "These IP65+ rated cameras stream over Wi-Fi or Ethernet, often supporting night vision, PIR, and cloud/local recording.",
+    "emoji": "\ud83c\udf27\ufe0f\ud83d\udcf9\ud83c\udfe1",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Security"
+    ],
+    "related": [
+      "Floodlight Camera",
+      "Smart Camera",
+      "Ring"
+    ],
+    "aliases": [
+      "Outdoor Cam",
+      "Weatherproof Camera"
+    ],
+    "use_case": "Used to detect people or vehicles approaching your driveway.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "floodlightcamera": {
+    "eli5": "It\u2019s a camera with a super bright light that turns on when someone walks by.",
+    "boss": "Floodlight cameras combine outdoor security cameras with motion-triggered lighting.",
+    "sysadmin": "These devices pair bright LED lights with PIR/motion sensors and smart camera streaming, typically over Wi-Fi.",
+    "emoji": "\ud83d\udca1\ud83d\udcf9\ud83d\udea8",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Security"
+    ],
+    "related": [
+      "Outdoor Camera",
+      "Smart Camera",
+      "Ring"
+    ],
+    "aliases": [
+      "Floodlight Cam"
+    ],
+    "use_case": "Used to light up and record your yard when motion is detected at night.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "petcamera": {
+    "eli5": "A pet camera lets you check on your furry friends when you\u2019re away\u2014and sometimes even talk to them.",
+    "boss": "Pet cameras offer live video, 2-way audio, and sometimes treat-dispensing to monitor and interact with pets remotely.",
+    "sysadmin": "These typically stream over Wi-Fi, support cloud recording, and offer app-based features like alerts or pan/tilt.",
+    "emoji": "\ud83d\udc3e\ud83d\udcf8\ud83c\udf99\ufe0f",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Security"
+    ],
+    "related": [
+      "Indoor Camera",
+      "Smart Camera",
+      "Alexa"
+    ],
+    "aliases": [
+      "Pet Monitor",
+      "Treat Camera"
+    ],
+    "use_case": "Used to see and speak to your dog while you're at work.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "smartspeaker": {
+    "eli5": "It\u2019s a speaker that talks back and helps control your smart home.",
+    "boss": "Smart speakers combine voice assistant technology with music playback and smart home control.",
+    "sysadmin": "Smart speakers integrate with ecosystems like Alexa or Google, connect over Wi-Fi/Bluetooth, and act as smart hubs.",
+    "emoji": "\ud83d\udd0a\ud83e\udde0\ud83c\udfb6",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Voice Assistant"
+    ],
+    "related": [
+      "Smart Display",
+      "Google Home",
+      "Amazon Alexa"
+    ],
+    "aliases": [
+      "Voice Speaker",
+      "Assistant Speaker"
+    ],
+    "use_case": "Used to play music, control lights, and set timers with voice commands.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "smartdisplay": {
+    "eli5": "A smart display is like a speaker with a screen that shows you things too.",
+    "boss": "Smart displays offer visual and voice-controlled interfaces for controlling your home and getting information.",
+    "sysadmin": "These devices run Google Assistant or Alexa, show video feeds, dashboards, and enable touchscreen interactions.",
+    "emoji": "\ud83d\udda5\ufe0f\ud83c\udfa4\ud83c\udfe0",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Voice Assistant"
+    ],
+    "related": [
+      "Smart Speaker",
+      "Google Nest Hub",
+      "Echo Show"
+    ],
+    "aliases": [
+      "Voice Display",
+      "Assistant Display"
+    ],
+    "use_case": "Used to watch security camera feeds and control smart lights with a tap or voice.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "intercomsystem": {
+    "eli5": "An intercom lets you talk to people in other rooms without yelling.",
+    "boss": "Smart intercoms allow 2-way communication across rooms or devices, often over Wi-Fi.",
+    "sysadmin": "These systems use mobile apps, BLE/Wi-Fi for audio transmission, and often integrate with doorbells or smart displays.",
+    "emoji": "\ud83d\udcde\ud83c\udfe0\ud83c\udfa4",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Communication"
+    ],
+    "related": [
+      "Smart Display",
+      "Voice Assistant",
+      "Indoor Camera"
+    ],
+    "aliases": [
+      "Smart Intercom",
+      "Home Intercom"
+    ],
+    "use_case": "Used to talk to kids in another room from your phone or smart display.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "smarttv": {
+    "eli5": "A smart TV connects to the internet so you can watch shows without cable.",
+    "boss": "Smart TVs integrate streaming apps, voice assistants, and smart home dashboards into one display.",
+    "sysadmin": "Smart TVs run Android TV, Roku, Tizen, or WebOS and support integrations via APIs or casting protocols like DLNA/Chromecast.",
+    "emoji": "\ud83d\udcfa\ud83c\udf10\ud83d\udd79\ufe0f",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Entertainment"
+    ],
+    "related": [
+      "Smart Display",
+      "IR Blaster",
+      "Voice Assistant"
+    ],
+    "aliases": [
+      "Connected TV",
+      "Internet TV"
+    ],
+    "use_case": "Used to stream Netflix and show your security camera feed on command.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "irhub": {
+    "eli5": "An IR hub is like a smart remote that controls old-school devices with invisible beams.",
+    "boss": "IR hubs centralize control of infrared-only devices through apps or automation platforms.",
+    "sysadmin": "They emit IR signals using learned codes and expose them via LAN/cloud APIs, often paired with apps like BroadLink or Logitech Harmony.",
+    "emoji": "\ud83d\udce1\ud83d\udd79\ufe0f\ud83d\udcfa",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Automation"
+    ],
+    "related": [
+      "IR Blaster",
+      "Smart TV",
+      "Home Assistant"
+    ],
+    "aliases": [
+      "Infrared Hub",
+      "Universal Remote Hub"
+    ],
+    "use_case": "Used to turn on an old TV using your phone or Alexa voice command.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "irblaster": {
+    "eli5": "An IR blaster pretends to be a remote and presses buttons for you using light.",
+    "boss": "IR blasters simulate remote control commands to operate TVs, AC units, and other IR-based devices.",
+    "sysadmin": "IR blasters emit 38kHz-modulated signals to control consumer electronics via local API, RF pairing, or pre-coded commands.",
+    "emoji": "\ud83d\udcf2\ud83d\udcfa\ud83d\udce1",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Automation"
+    ],
+    "related": [
+      "IR Hub",
+      "Smart TV",
+      "Remote Control"
+    ],
+    "aliases": [
+      "Infrared Blaster",
+      "Smart Remote"
+    ],
+    "use_case": "Used to control a legacy AC unit with automation routines in Home Assistant.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "voiceassistant": {
+    "eli5": "It\u2019s a robot voice that helps you do things when you talk to it.",
+    "boss": "Voice assistants like Alexa, Google Assistant, and Siri allow hands-free control of smart devices and services.",
+    "sysadmin": "Voice assistants process voice commands via cloud NLP, integrate with smart home APIs, and trigger routines or actions.",
+    "emoji": "\ud83d\udde3\ufe0f\ud83e\udde0\ud83c\udf99\ufe0f",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Voice Assistant"
+    ],
+    "related": [
+      "Smart Speaker",
+      "Smart Display",
+      "Routine",
+      "Scene"
+    ],
+    "aliases": [
+      "Digital Assistant",
+      "AI Assistant"
+    ],
+    "use_case": "Used to control lights, get weather, or trigger scenes by saying 'Good morning.'",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "routine": {
+    "eli5": "A routine is a list of things your smart home does together when you ask.",
+    "boss": "Routines are sequences of automated actions triggered by a voice command, schedule, or event.",
+    "sysadmin": "Routines execute predefined actions like toggling devices, speaking phrases, or running scripts based on triggers.",
+    "emoji": "\ud83d\udcdd\u2699\ufe0f\ud83c\udfe0",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Automation"
+    ],
+    "related": [
+      "Scene",
+      "Automation",
+      "Voice Assistant"
+    ],
+    "aliases": [
+      "Automation Routine",
+      "Smart Routine"
+    ],
+    "use_case": "Used to turn on lights, play music, and read the weather when you say 'Good morning.'",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "automation": {
+    "eli5": "It\u2019s when your smart home does stuff by itself, like magic.",
+    "boss": "Automations trigger smart actions based on time, events, or sensor inputs without manual commands.",
+    "sysadmin": "Automations use if/then logic or YAML/flow editors in platforms like Home Assistant or Node-RED to trigger device behavior.",
+    "emoji": "\ud83e\udd16\u23f0\ud83d\udcf2",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Automation"
+    ],
+    "related": [
+      "Routine",
+      "Scene",
+      "Home Assistant",
+      "Node-RED"
+    ],
+    "aliases": [
+      "Smart Automation",
+      "Rule Engine"
+    ],
+    "use_case": "Used to turn off all lights and lock doors when everyone leaves home.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "scene": {
+    "eli5": "A scene is like a preset that sets your lights, music, and temperature just right.",
+    "boss": "Scenes let you control multiple devices with one command for moods, activities, or events.",
+    "sysadmin": "Scenes define the target state of devices and are executed manually or via routines, automations, or voice.",
+    "emoji": "\ud83c\udfac\ud83c\udfe1\ud83c\udfad",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Automation"
+    ],
+    "related": [
+      "Routine",
+      "Automation",
+      "Smart Bulb"
+    ],
+    "aliases": [
+      "Mood Scene",
+      "Lighting Scene"
+    ],
+    "use_case": "Used to set a 'Movie Night' scene with dimmed lights and AV equipment powered on.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "modetrigger": {
+    "eli5": "A mode tells your smart home what you\u2019re doing\u2014like \u2018Away\u2019 or \u2018Sleeping.\u2019",
+    "boss": "Modes are global states that let your automations behave differently based on overall home context.",
+    "sysadmin": "Modes act as conditional states (e.g., Home, Away, Night) used in rule engines to adjust automation logic.",
+    "emoji": "\ud83c\udf9b\ufe0f\ud83c\udfe0\ud83d\udd04",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Automation"
+    ],
+    "related": [
+      "Routine",
+      "Automation",
+      "Presence Detection"
+    ],
+    "aliases": [
+      "Smart Mode",
+      "Home Mode"
+    ],
+    "use_case": "Used to enable security alerts only when the mode is set to 'Away.'",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "presencedetection": {
+    "eli5": "Your smart home notices when you're home\u2014or not\u2014and acts accordingly.",
+    "boss": "Presence detection lets your home change behavior based on whether someone is present.",
+    "sysadmin": "Achieved via GPS, network ping, Bluetooth, or occupancy sensors, and triggers automation rules based on presence.",
+    "emoji": "\ud83d\udccd\ud83c\udfc3\u200d\u2642\ufe0f\ud83d\udcf6",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Automation"
+    ],
+    "related": [
+      "Geofencing",
+      "Mode",
+      "Occupancy Sensor"
+    ],
+    "aliases": [
+      "Presence Sensor",
+      "Smart Presence"
+    ],
+    "use_case": "Used to turn on lights when someone arrives and disable them when everyone leaves.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "geofencing": {
+    "eli5": "Your phone draws a magic circle around your house to know when you come or go.",
+    "boss": "Geofencing uses your phone\u2019s GPS to trigger smart actions when entering or leaving a defined area.",
+    "sysadmin": "Geofencing sets location-based triggers using mobile GPS and apps like Home Assistant, IFTTT, or Alexa.",
+    "emoji": "\ud83d\udccd\ud83d\udcf2\ud83d\uddfa\ufe0f",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Automation"
+    ],
+    "related": [
+      "Presence Detection",
+      "Routine",
+      "Mode"
+    ],
+    "aliases": [
+      "Geo Fence",
+      "Location Trigger"
+    ],
+    "use_case": "Used to unlock the front door and turn on lights when you arrive home.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "roombasedautomation": {
+    "eli5": "Each room in your house can do its own smart tricks when someone\u2019s there.",
+    "boss": "Room-based automation triggers actions specific to individual spaces based on sensors or activity.",
+    "sysadmin": "This uses motion, light, or presence sensors assigned to rooms to scope automations within areas.",
+    "emoji": "\ud83d\udeaa\ud83c\udfe0\ud83d\udccd",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Automation"
+    ],
+    "related": [
+      "Automation",
+      "Scene",
+      "Occupancy Sensor"
+    ],
+    "aliases": [
+      "Room Automation",
+      "Zoned Automation"
+    ],
+    "use_case": "Used to turn on bathroom lights when motion is detected\u2014without affecting the rest of the house.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "devicegrouping": {
+    "eli5": "Grouping lets you control lots of things together\u2014like turning off all lights at once.",
+    "boss": "Device grouping lets multiple devices be controlled as one\u2014for ease of use and automation.",
+    "sysadmin": "Groups are logical collections defined in hubs or platforms to send a single command to multiple devices.",
+    "emoji": "\ud83e\uddfa\ud83d\udd17\ud83d\udcf2",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Automation"
+    ],
+    "related": [
+      "Scene",
+      "Routine",
+      "Smart Bulb"
+    ],
+    "aliases": [
+      "Device Group",
+      "Group Control"
+    ],
+    "use_case": "Used to turn off all lights in a room with one voice command.",
+    "jargon_score": 2,
+    "level": "Beginner"
+  },
+  "energymonitoring": {
+    "eli5": "It\u2019s like a smart meter that tells you how much electricity your gadgets are using.",
+    "boss": "Energy monitoring lets users track electricity usage to save power and optimize automation.",
+    "sysadmin": "Devices use current sensors (CT clamps or shunt resistors) to measure energy consumption and report via MQTT, Zigbee, or REST APIs.",
+    "emoji": "\u26a1\ud83d\udcc9\ud83d\udd0b",
+    "categories": [
+      "Smart Home",
+      "IoT",
+      "Energy"
+    ],
+    "related": [
+      "Smart Plug",
+      "Home Assistant",
+      "Smart Outlet"
+    ],
+    "aliases": [
+      "Power Monitoring",
+      "Electricity Monitoring"
+    ],
+    "use_case": "Used to identify which devices are using too much power and automate based on that.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  }
+}

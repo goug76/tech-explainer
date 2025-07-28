@@ -1,0 +1,66 @@
+{
+  "owasp": {
+    "eli5": "OWASP is like a safety checklist for website builders to help keep hackers out.",
+    "boss": "OWASP is a nonprofit that creates guidelines and tools to help developers build secure web applications.",
+    "sysadmin": "The Open Worldwide Application Security Project (OWASP) provides open-source tools, awareness resources, and security testing guidance for web security.",
+    "emoji": "\ud83c\udf10\ud83d\udd10\ud83d\udccb",
+    "categories": [
+      "Security",
+      "Web"
+    ],
+    "related": [
+      "OWASP Top 10",
+      "CWE",
+      "SAST"
+    ],
+    "aliases": [
+      "Open Worldwide Application Security Project"
+    ],
+    "use_case": "Used by developers to follow secure coding practices and assess app vulnerabilities.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "owasptop10": {
+    "eli5": "It\u2019s OWASP\u2019s list of the top 10 most common mistakes hackers love to find.",
+    "boss": "The OWASP Top 10 is a regularly updated list of the most critical web application security risks.",
+    "sysadmin": "This list includes categories like Injection, Broken Auth, and Security Misconfigurations based on real-world data and exploits.",
+    "emoji": "\ud83d\udd1f\ud83d\udca3\ud83c\udf10",
+    "categories": [
+      "Security",
+      "Web"
+    ],
+    "related": [
+      "OWASP",
+      "XSS",
+      "SQLi",
+      "CSRF"
+    ],
+    "aliases": [
+      "Top 10 Web Vulnerabilities"
+    ],
+    "use_case": "Used by dev teams as a baseline for web application security audits.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "cwecommonweaknessenumeration": {
+    "eli5": "CWE is a big list of all the things that can go wrong in software.",
+    "boss": "CWE is a standardized catalog of software weaknesses maintained by MITRE, helping to classify and prevent bugs.",
+    "sysadmin": "The Common Weakness Enumeration (CWE) lists known software security flaws such as buffer overflows, race conditions, and bad validation logic.",
+    "emoji": "\ud83d\udcda\ud83e\udeb2\ud83d\udd0d",
+    "categories": [
+      "Security"
+    ],
+    "related": [
+      "CVE",
+      "OWASP",
+      "SAST"
+    ],
+    "aliases": [
+      "CWE",
+      "Common Weakness Enumeration"
+    ],
+    "use_case": "Used by tools to classify vulnerabilities in code scans and reports.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  }
+}

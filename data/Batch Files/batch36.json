@@ -1,0 +1,1252 @@
+{
+  "/lost+found": {
+    "eli5": "/lost+found is like a tool or label that helps the computer understand or organize something.",
+    "boss": "/lost+found is a core concept or command used in Linux/Unix systems for managing users, filesystems, or boot processes.",
+    "sysadmin": "/lost+found is a Linux/Unix command or component used for managing system-level configurations, user permissions, bootloaders, or filesystems.",
+    "emoji": "\ud83d\udc27\ud83d\udcbb\ud83d\udcc2",
+    "categories": [
+      "Linux",
+      "Filesystem",
+      "Infrastructure"
+    ],
+    "related": [
+      "chmod",
+      "chown",
+      "fstab",
+      "bootloader",
+      "inode"
+    ],
+    "aliases": [
+      "/lost+found",
+      "/LOST+FOUND"
+    ],
+    "use_case": "A sysadmin uses /lost+found during server setup or maintenance to configure the system properly.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "package manager": {
+    "eli5": "Package Manager is like a tool or label that helps the computer understand or organize something.",
+    "boss": "Package Manager is a core concept or command used in Linux/Unix systems for managing users, filesystems, or boot processes.",
+    "sysadmin": "Package Manager is a Linux/Unix command or component used for managing system-level configurations, user permissions, bootloaders, or filesystems.",
+    "emoji": "\ud83d\udc27\ud83d\udcbb\ud83d\udcc2",
+    "categories": [
+      "Linux",
+      "Filesystem",
+      "Infrastructure"
+    ],
+    "related": [
+      "chmod",
+      "chown",
+      "fstab",
+      "bootloader",
+      "inode"
+    ],
+    "aliases": [
+      "package manager",
+      "PACKAGE MANAGER"
+    ],
+    "use_case": "A sysadmin uses Package Manager during server setup or maintenance to configure the system properly.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "apt": {
+    "eli5": "apt is like a tool or label that helps the computer understand or organize something.",
+    "boss": "apt is a core concept or command used in Linux/Unix systems for managing users, filesystems, or boot processes.",
+    "sysadmin": "apt is a Linux/Unix command or component used for managing system-level configurations, user permissions, bootloaders, or filesystems.",
+    "emoji": "\ud83d\udc27\ud83d\udcbb\ud83d\udcc2",
+    "categories": [
+      "Linux",
+      "Filesystem",
+      "Infrastructure"
+    ],
+    "related": [
+      "chmod",
+      "chown",
+      "fstab",
+      "bootloader",
+      "inode"
+    ],
+    "aliases": [
+      "apt",
+      "APT"
+    ],
+    "use_case": "A sysadmin uses apt during server setup or maintenance to configure the system properly.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "dpkg": {
+    "eli5": "dpkg is like a tool or label that helps the computer understand or organize something.",
+    "boss": "dpkg is a core concept or command used in Linux/Unix systems for managing users, filesystems, or boot processes.",
+    "sysadmin": "dpkg is a Linux/Unix command or component used for managing system-level configurations, user permissions, bootloaders, or filesystems.",
+    "emoji": "\ud83d\udc27\ud83d\udcbb\ud83d\udcc2",
+    "categories": [
+      "Linux",
+      "Filesystem",
+      "Infrastructure"
+    ],
+    "related": [
+      "chmod",
+      "chown",
+      "fstab",
+      "bootloader",
+      "inode"
+    ],
+    "aliases": [
+      "dpkg",
+      "DPKG"
+    ],
+    "use_case": "A sysadmin uses dpkg during server setup or maintenance to configure the system properly.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "yum": {
+    "eli5": "yum is like a tool or label that helps the computer understand or organize something.",
+    "boss": "yum is a core concept or command used in Linux/Unix systems for managing users, filesystems, or boot processes.",
+    "sysadmin": "yum is a Linux/Unix command or component used for managing system-level configurations, user permissions, bootloaders, or filesystems.",
+    "emoji": "\ud83d\udc27\ud83d\udcbb\ud83d\udcc2",
+    "categories": [
+      "Linux",
+      "Filesystem",
+      "Infrastructure"
+    ],
+    "related": [
+      "chmod",
+      "chown",
+      "fstab",
+      "bootloader",
+      "inode"
+    ],
+    "aliases": [
+      "yum",
+      "YUM"
+    ],
+    "use_case": "A sysadmin uses yum during server setup or maintenance to configure the system properly.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "dnf": {
+    "eli5": "dnf is like a tool or label that helps the computer understand or organize something.",
+    "boss": "dnf is a core concept or command used in Linux/Unix systems for managing users, filesystems, or boot processes.",
+    "sysadmin": "dnf is a Linux/Unix command or component used for managing system-level configurations, user permissions, bootloaders, or filesystems.",
+    "emoji": "\ud83d\udc27\ud83d\udcbb\ud83d\udcc2",
+    "categories": [
+      "Linux",
+      "Filesystem",
+      "Infrastructure"
+    ],
+    "related": [
+      "chmod",
+      "chown",
+      "fstab",
+      "bootloader",
+      "inode"
+    ],
+    "aliases": [
+      "dnf",
+      "DNF"
+    ],
+    "use_case": "A sysadmin uses dnf during server setup or maintenance to configure the system properly.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "rpm": {
+    "eli5": "rpm is like a tool or label that helps the computer understand or organize something.",
+    "boss": "rpm is a core concept or command used in Linux/Unix systems for managing users, filesystems, or boot processes.",
+    "sysadmin": "rpm is a Linux/Unix command or component used for managing system-level configurations, user permissions, bootloaders, or filesystems.",
+    "emoji": "\ud83d\udc27\ud83d\udcbb\ud83d\udcc2",
+    "categories": [
+      "Linux",
+      "Filesystem",
+      "Infrastructure"
+    ],
+    "related": [
+      "chmod",
+      "chown",
+      "fstab",
+      "bootloader",
+      "inode"
+    ],
+    "aliases": [
+      "rpm",
+      "RPM"
+    ],
+    "use_case": "A sysadmin uses rpm during server setup or maintenance to configure the system properly.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "pacman": {
+    "eli5": "pacman is like a tool or label that helps the computer understand or organize something.",
+    "boss": "pacman is a core concept or command used in Linux/Unix systems for managing users, filesystems, or boot processes.",
+    "sysadmin": "pacman is a Linux/Unix command or component used for managing system-level configurations, user permissions, bootloaders, or filesystems.",
+    "emoji": "\ud83d\udc27\ud83d\udcbb\ud83d\udcc2",
+    "categories": [
+      "Linux",
+      "Filesystem",
+      "Infrastructure"
+    ],
+    "related": [
+      "chmod",
+      "chown",
+      "fstab",
+      "bootloader",
+      "inode"
+    ],
+    "aliases": [
+      "pacman",
+      "PACMAN"
+    ],
+    "use_case": "A sysadmin uses pacman during server setup or maintenance to configure the system properly.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "zypper": {
+    "eli5": "zypper is like a tool or label that helps the computer understand or organize something.",
+    "boss": "zypper is a core concept or command used in Linux/Unix systems for managing users, filesystems, or boot processes.",
+    "sysadmin": "zypper is a Linux/Unix command or component used for managing system-level configurations, user permissions, bootloaders, or filesystems.",
+    "emoji": "\ud83d\udc27\ud83d\udcbb\ud83d\udcc2",
+    "categories": [
+      "Linux",
+      "Filesystem",
+      "Infrastructure"
+    ],
+    "related": [
+      "chmod",
+      "chown",
+      "fstab",
+      "bootloader",
+      "inode"
+    ],
+    "aliases": [
+      "zypper",
+      "ZYPPER"
+    ],
+    "use_case": "A sysadmin uses zypper during server setup or maintenance to configure the system properly.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "flatpak": {
+    "eli5": "flatpak is like a tool or label that helps the computer understand or organize something.",
+    "boss": "flatpak is a core concept or command used in Linux/Unix systems for managing users, filesystems, or boot processes.",
+    "sysadmin": "flatpak is a Linux/Unix command or component used for managing system-level configurations, user permissions, bootloaders, or filesystems.",
+    "emoji": "\ud83d\udc27\ud83d\udcbb\ud83d\udcc2",
+    "categories": [
+      "Linux",
+      "Filesystem",
+      "Infrastructure"
+    ],
+    "related": [
+      "chmod",
+      "chown",
+      "fstab",
+      "bootloader",
+      "inode"
+    ],
+    "aliases": [
+      "flatpak",
+      "FLATPAK"
+    ],
+    "use_case": "A sysadmin uses flatpak during server setup or maintenance to configure the system properly.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "snap": {
+    "eli5": "snap is like a tool or label that helps the computer understand or organize something.",
+    "boss": "snap is a core concept or command used in Linux/Unix systems for managing users, filesystems, or boot processes.",
+    "sysadmin": "snap is a Linux/Unix command or component used for managing system-level configurations, user permissions, bootloaders, or filesystems.",
+    "emoji": "\ud83d\udc27\ud83d\udcbb\ud83d\udcc2",
+    "categories": [
+      "Linux",
+      "Filesystem",
+      "Infrastructure"
+    ],
+    "related": [
+      "chmod",
+      "chown",
+      "fstab",
+      "bootloader",
+      "inode"
+    ],
+    "aliases": [
+      "snap",
+      "SNAP"
+    ],
+    "use_case": "A sysadmin uses snap during server setup or maintenance to configure the system properly.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "appimage": {
+    "eli5": "AppImage is like a tool or label that helps the computer understand or organize something.",
+    "boss": "AppImage is a core concept or command used in Linux/Unix systems for managing users, filesystems, or boot processes.",
+    "sysadmin": "AppImage is a Linux/Unix command or component used for managing system-level configurations, user permissions, bootloaders, or filesystems.",
+    "emoji": "\ud83d\udc27\ud83d\udcbb\ud83d\udcc2",
+    "categories": [
+      "Linux",
+      "Filesystem",
+      "Infrastructure"
+    ],
+    "related": [
+      "chmod",
+      "chown",
+      "fstab",
+      "bootloader",
+      "inode"
+    ],
+    "aliases": [
+      "appimage",
+      "APPIMAGE"
+    ],
+    "use_case": "A sysadmin uses AppImage during server setup or maintenance to configure the system properly.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "brew (linuxbrew)": {
+    "eli5": "brew (Linuxbrew) is like a tool or label that helps the computer understand or organize something.",
+    "boss": "brew (Linuxbrew) is a core concept or command used in Linux/Unix systems for managing users, filesystems, or boot processes.",
+    "sysadmin": "brew (Linuxbrew) is a Linux/Unix command or component used for managing system-level configurations, user permissions, bootloaders, or filesystems.",
+    "emoji": "\ud83d\udc27\ud83d\udcbb\ud83d\udcc2",
+    "categories": [
+      "Linux",
+      "Filesystem",
+      "Infrastructure"
+    ],
+    "related": [
+      "chmod",
+      "chown",
+      "fstab",
+      "bootloader",
+      "inode"
+    ],
+    "aliases": [
+      "brew (linuxbrew)",
+      "BREW (LINUXBREW)"
+    ],
+    "use_case": "A sysadmin uses brew (Linuxbrew) during server setup or maintenance to configure the system properly.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "file permissions": {
+    "eli5": "File Permissions is like a tool or label that helps the computer understand or organize something.",
+    "boss": "File Permissions is a core concept or command used in Linux/Unix systems for managing users, filesystems, or boot processes.",
+    "sysadmin": "File Permissions is a Linux/Unix command or component used for managing system-level configurations, user permissions, bootloaders, or filesystems.",
+    "emoji": "\ud83d\udc27\ud83d\udcbb\ud83d\udcc2",
+    "categories": [
+      "Linux",
+      "Filesystem",
+      "Infrastructure"
+    ],
+    "related": [
+      "chmod",
+      "chown",
+      "fstab",
+      "bootloader",
+      "inode"
+    ],
+    "aliases": [
+      "file permissions",
+      "FILE PERMISSIONS"
+    ],
+    "use_case": "A sysadmin uses File Permissions during server setup or maintenance to configure the system properly.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "read": {
+    "eli5": "Read is like a tool or label that helps the computer understand or organize something.",
+    "boss": "Read is a core concept or command used in Linux/Unix systems for managing users, filesystems, or boot processes.",
+    "sysadmin": "Read is a Linux/Unix command or component used for managing system-level configurations, user permissions, bootloaders, or filesystems.",
+    "emoji": "\ud83d\udc27\ud83d\udcbb\ud83d\udcc2",
+    "categories": [
+      "Linux",
+      "Filesystem",
+      "Infrastructure"
+    ],
+    "related": [
+      "chmod",
+      "chown",
+      "fstab",
+      "bootloader",
+      "inode"
+    ],
+    "aliases": [
+      "read",
+      "READ"
+    ],
+    "use_case": "A sysadmin uses Read during server setup or maintenance to configure the system properly.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "write": {
+    "eli5": "Write is like a tool or label that helps the computer understand or organize something.",
+    "boss": "Write is a core concept or command used in Linux/Unix systems for managing users, filesystems, or boot processes.",
+    "sysadmin": "Write is a Linux/Unix command or component used for managing system-level configurations, user permissions, bootloaders, or filesystems.",
+    "emoji": "\ud83d\udc27\ud83d\udcbb\ud83d\udcc2",
+    "categories": [
+      "Linux",
+      "Filesystem",
+      "Infrastructure"
+    ],
+    "related": [
+      "chmod",
+      "chown",
+      "fstab",
+      "bootloader",
+      "inode"
+    ],
+    "aliases": [
+      "write",
+      "WRITE"
+    ],
+    "use_case": "A sysadmin uses Write during server setup or maintenance to configure the system properly.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "execute": {
+    "eli5": "Execute is like a tool or label that helps the computer understand or organize something.",
+    "boss": "Execute is a core concept or command used in Linux/Unix systems for managing users, filesystems, or boot processes.",
+    "sysadmin": "Execute is a Linux/Unix command or component used for managing system-level configurations, user permissions, bootloaders, or filesystems.",
+    "emoji": "\ud83d\udc27\ud83d\udcbb\ud83d\udcc2",
+    "categories": [
+      "Linux",
+      "Filesystem",
+      "Infrastructure"
+    ],
+    "related": [
+      "chmod",
+      "chown",
+      "fstab",
+      "bootloader",
+      "inode"
+    ],
+    "aliases": [
+      "execute",
+      "EXECUTE"
+    ],
+    "use_case": "A sysadmin uses Execute during server setup or maintenance to configure the system properly.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "octal notation": {
+    "eli5": "Octal Notation is like a tool or label that helps the computer understand or organize something.",
+    "boss": "Octal Notation is a core concept or command used in Linux/Unix systems for managing users, filesystems, or boot processes.",
+    "sysadmin": "Octal Notation is a Linux/Unix command or component used for managing system-level configurations, user permissions, bootloaders, or filesystems.",
+    "emoji": "\ud83d\udc27\ud83d\udcbb\ud83d\udcc2",
+    "categories": [
+      "Linux",
+      "Filesystem",
+      "Infrastructure"
+    ],
+    "related": [
+      "chmod",
+      "chown",
+      "fstab",
+      "bootloader",
+      "inode"
+    ],
+    "aliases": [
+      "octal notation",
+      "OCTAL NOTATION"
+    ],
+    "use_case": "A sysadmin uses Octal Notation during server setup or maintenance to configure the system properly.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "recursive permissions": {
+    "eli5": "Recursive Permissions is like a tool or label that helps the computer understand or organize something.",
+    "boss": "Recursive Permissions is a core concept or command used in Linux/Unix systems for managing users, filesystems, or boot processes.",
+    "sysadmin": "Recursive Permissions is a Linux/Unix command or component used for managing system-level configurations, user permissions, bootloaders, or filesystems.",
+    "emoji": "\ud83d\udc27\ud83d\udcbb\ud83d\udcc2",
+    "categories": [
+      "Linux",
+      "Filesystem",
+      "Infrastructure"
+    ],
+    "related": [
+      "chmod",
+      "chown",
+      "fstab",
+      "bootloader",
+      "inode"
+    ],
+    "aliases": [
+      "recursive permissions",
+      "RECURSIVE PERMISSIONS"
+    ],
+    "use_case": "A sysadmin uses Recursive Permissions during server setup or maintenance to configure the system properly.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "ip": {
+    "eli5": "ip is like a tool or label that helps the computer understand or organize something.",
+    "boss": "ip is a core concept or command used in Linux/Unix systems for managing users, filesystems, or boot processes.",
+    "sysadmin": "ip is a Linux/Unix command or component used for managing system-level configurations, user permissions, bootloaders, or filesystems.",
+    "emoji": "\ud83d\udc27\ud83d\udcbb\ud83d\udcc2",
+    "categories": [
+      "Linux",
+      "Filesystem",
+      "Infrastructure"
+    ],
+    "related": [
+      "chmod",
+      "chown",
+      "fstab",
+      "bootloader",
+      "inode"
+    ],
+    "aliases": [
+      "ip",
+      "IP"
+    ],
+    "use_case": "A sysadmin uses ip during server setup or maintenance to configure the system properly.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "ip addr": {
+    "eli5": "ip addr is like a tool or label that helps the computer understand or organize something.",
+    "boss": "ip addr is a core concept or command used in Linux/Unix systems for managing users, filesystems, or boot processes.",
+    "sysadmin": "ip addr is a Linux/Unix command or component used for managing system-level configurations, user permissions, bootloaders, or filesystems.",
+    "emoji": "\ud83d\udc27\ud83d\udcbb\ud83d\udcc2",
+    "categories": [
+      "Linux",
+      "Filesystem",
+      "Infrastructure"
+    ],
+    "related": [
+      "chmod",
+      "chown",
+      "fstab",
+      "bootloader",
+      "inode"
+    ],
+    "aliases": [
+      "ip addr",
+      "IP ADDR"
+    ],
+    "use_case": "A sysadmin uses ip addr during server setup or maintenance to configure the system properly.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "ip link": {
+    "eli5": "ip link is like a tool or label that helps the computer understand or organize something.",
+    "boss": "ip link is a core concept or command used in Linux/Unix systems for managing users, filesystems, or boot processes.",
+    "sysadmin": "ip link is a Linux/Unix command or component used for managing system-level configurations, user permissions, bootloaders, or filesystems.",
+    "emoji": "\ud83d\udc27\ud83d\udcbb\ud83d\udcc2",
+    "categories": [
+      "Linux",
+      "Filesystem",
+      "Infrastructure"
+    ],
+    "related": [
+      "chmod",
+      "chown",
+      "fstab",
+      "bootloader",
+      "inode"
+    ],
+    "aliases": [
+      "ip link",
+      "IP LINK"
+    ],
+    "use_case": "A sysadmin uses ip link during server setup or maintenance to configure the system properly.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "ip route": {
+    "eli5": "ip route is like a tool or label that helps the computer understand or organize something.",
+    "boss": "ip route is a core concept or command used in Linux/Unix systems for managing users, filesystems, or boot processes.",
+    "sysadmin": "ip route is a Linux/Unix command or component used for managing system-level configurations, user permissions, bootloaders, or filesystems.",
+    "emoji": "\ud83d\udc27\ud83d\udcbb\ud83d\udcc2",
+    "categories": [
+      "Linux",
+      "Filesystem",
+      "Infrastructure"
+    ],
+    "related": [
+      "chmod",
+      "chown",
+      "fstab",
+      "bootloader",
+      "inode"
+    ],
+    "aliases": [
+      "ip route",
+      "IP ROUTE"
+    ],
+    "use_case": "A sysadmin uses ip route during server setup or maintenance to configure the system properly.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "nmcli": {
+    "eli5": "nmcli is like a tool or label that helps the computer understand or organize something.",
+    "boss": "nmcli is a core concept or command used in Linux/Unix systems for managing users, filesystems, or boot processes.",
+    "sysadmin": "nmcli is a Linux/Unix command or component used for managing system-level configurations, user permissions, bootloaders, or filesystems.",
+    "emoji": "\ud83d\udc27\ud83d\udcbb\ud83d\udcc2",
+    "categories": [
+      "Linux",
+      "Filesystem",
+      "Infrastructure"
+    ],
+    "related": [
+      "chmod",
+      "chown",
+      "fstab",
+      "bootloader",
+      "inode"
+    ],
+    "aliases": [
+      "nmcli",
+      "NMCLI"
+    ],
+    "use_case": "A sysadmin uses nmcli during server setup or maintenance to configure the system properly.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "netplan": {
+    "eli5": "netplan is like a tool or label that helps the computer understand or organize something.",
+    "boss": "netplan is a core concept or command used in Linux/Unix systems for managing users, filesystems, or boot processes.",
+    "sysadmin": "netplan is a Linux/Unix command or component used for managing system-level configurations, user permissions, bootloaders, or filesystems.",
+    "emoji": "\ud83d\udc27\ud83d\udcbb\ud83d\udcc2",
+    "categories": [
+      "Linux",
+      "Filesystem",
+      "Infrastructure"
+    ],
+    "related": [
+      "chmod",
+      "chown",
+      "fstab",
+      "bootloader",
+      "inode"
+    ],
+    "aliases": [
+      "netplan",
+      "NETPLAN"
+    ],
+    "use_case": "A sysadmin uses netplan during server setup or maintenance to configure the system properly.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "hostnamectl": {
+    "eli5": "hostnamectl is like a tool or label that helps the computer understand or organize something.",
+    "boss": "hostnamectl is a core concept or command used in Linux/Unix systems for managing users, filesystems, or boot processes.",
+    "sysadmin": "hostnamectl is a Linux/Unix command or component used for managing system-level configurations, user permissions, bootloaders, or filesystems.",
+    "emoji": "\ud83d\udc27\ud83d\udcbb\ud83d\udcc2",
+    "categories": [
+      "Linux",
+      "Filesystem",
+      "Infrastructure"
+    ],
+    "related": [
+      "chmod",
+      "chown",
+      "fstab",
+      "bootloader",
+      "inode"
+    ],
+    "aliases": [
+      "hostnamectl",
+      "HOSTNAMECTL"
+    ],
+    "use_case": "A sysadmin uses hostnamectl during server setup or maintenance to configure the system properly.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "curl": {
+    "eli5": "curl is like a tool or label that helps the computer understand or organize something.",
+    "boss": "curl is a core concept or command used in Linux/Unix systems for managing users, filesystems, or boot processes.",
+    "sysadmin": "curl is a Linux/Unix command or component used for managing system-level configurations, user permissions, bootloaders, or filesystems.",
+    "emoji": "\ud83d\udc27\ud83d\udcbb\ud83d\udcc2",
+    "categories": [
+      "Linux",
+      "Filesystem",
+      "Infrastructure"
+    ],
+    "related": [
+      "chmod",
+      "chown",
+      "fstab",
+      "bootloader",
+      "inode"
+    ],
+    "aliases": [
+      "curl",
+      "CURL"
+    ],
+    "use_case": "A sysadmin uses curl during server setup or maintenance to configure the system properly.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "wget": {
+    "eli5": "wget is like a tool or label that helps the computer understand or organize something.",
+    "boss": "wget is a core concept or command used in Linux/Unix systems for managing users, filesystems, or boot processes.",
+    "sysadmin": "wget is a Linux/Unix command or component used for managing system-level configurations, user permissions, bootloaders, or filesystems.",
+    "emoji": "\ud83d\udc27\ud83d\udcbb\ud83d\udcc2",
+    "categories": [
+      "Linux",
+      "Filesystem",
+      "Infrastructure"
+    ],
+    "related": [
+      "chmod",
+      "chown",
+      "fstab",
+      "bootloader",
+      "inode"
+    ],
+    "aliases": [
+      "wget",
+      "WGET"
+    ],
+    "use_case": "A sysadmin uses wget during server setup or maintenance to configure the system properly.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "ss": {
+    "eli5": "ss is like a tool or label that helps the computer understand or organize something.",
+    "boss": "ss is a core concept or command used in Linux/Unix systems for managing users, filesystems, or boot processes.",
+    "sysadmin": "ss is a Linux/Unix command or component used for managing system-level configurations, user permissions, bootloaders, or filesystems.",
+    "emoji": "\ud83d\udc27\ud83d\udcbb\ud83d\udcc2",
+    "categories": [
+      "Linux",
+      "Filesystem",
+      "Infrastructure"
+    ],
+    "related": [
+      "chmod",
+      "chown",
+      "fstab",
+      "bootloader",
+      "inode"
+    ],
+    "aliases": [
+      "ss",
+      "SS"
+    ],
+    "use_case": "A sysadmin uses ss during server setup or maintenance to configure the system properly.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "iptables": {
+    "eli5": "iptables is like a tool or label that helps the computer understand or organize something.",
+    "boss": "iptables is a core concept or command used in Linux/Unix systems for managing users, filesystems, or boot processes.",
+    "sysadmin": "iptables is a Linux/Unix command or component used for managing system-level configurations, user permissions, bootloaders, or filesystems.",
+    "emoji": "\ud83d\udc27\ud83d\udcbb\ud83d\udcc2",
+    "categories": [
+      "Linux",
+      "Filesystem",
+      "Infrastructure"
+    ],
+    "related": [
+      "chmod",
+      "chown",
+      "fstab",
+      "bootloader",
+      "inode"
+    ],
+    "aliases": [
+      "iptables",
+      "IPTABLES"
+    ],
+    "use_case": "A sysadmin uses iptables during server setup or maintenance to configure the system properly.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "nftables": {
+    "eli5": "nftables is like a tool or label that helps the computer understand or organize something.",
+    "boss": "nftables is a core concept or command used in Linux/Unix systems for managing users, filesystems, or boot processes.",
+    "sysadmin": "nftables is a Linux/Unix command or component used for managing system-level configurations, user permissions, bootloaders, or filesystems.",
+    "emoji": "\ud83d\udc27\ud83d\udcbb\ud83d\udcc2",
+    "categories": [
+      "Linux",
+      "Filesystem",
+      "Infrastructure"
+    ],
+    "related": [
+      "chmod",
+      "chown",
+      "fstab",
+      "bootloader",
+      "inode"
+    ],
+    "aliases": [
+      "nftables",
+      "NFTABLES"
+    ],
+    "use_case": "A sysadmin uses nftables during server setup or maintenance to configure the system properly.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "ufw": {
+    "eli5": "ufw is like a tool or label that helps the computer understand or organize something.",
+    "boss": "ufw is a core concept or command used in Linux/Unix systems for managing users, filesystems, or boot processes.",
+    "sysadmin": "ufw is a Linux/Unix command or component used for managing system-level configurations, user permissions, bootloaders, or filesystems.",
+    "emoji": "\ud83d\udc27\ud83d\udcbb\ud83d\udcc2",
+    "categories": [
+      "Linux",
+      "Filesystem",
+      "Infrastructure"
+    ],
+    "related": [
+      "chmod",
+      "chown",
+      "fstab",
+      "bootloader",
+      "inode"
+    ],
+    "aliases": [
+      "ufw",
+      "UFW"
+    ],
+    "use_case": "A sysadmin uses ufw during server setup or maintenance to configure the system properly.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "firewalld": {
+    "eli5": "firewalld is like a tool or label that helps the computer understand or organize something.",
+    "boss": "firewalld is a core concept or command used in Linux/Unix systems for managing users, filesystems, or boot processes.",
+    "sysadmin": "firewalld is a Linux/Unix command or component used for managing system-level configurations, user permissions, bootloaders, or filesystems.",
+    "emoji": "\ud83d\udc27\ud83d\udcbb\ud83d\udcc2",
+    "categories": [
+      "Linux",
+      "Filesystem",
+      "Infrastructure"
+    ],
+    "related": [
+      "chmod",
+      "chown",
+      "fstab",
+      "bootloader",
+      "inode"
+    ],
+    "aliases": [
+      "firewalld",
+      "FIREWALLD"
+    ],
+    "use_case": "A sysadmin uses firewalld during server setup or maintenance to configure the system properly.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "bridge-utils": {
+    "eli5": "bridge-utils is like a tool or label that helps the computer understand or organize something.",
+    "boss": "bridge-utils is a core concept or command used in Linux/Unix systems for managing users, filesystems, or boot processes.",
+    "sysadmin": "bridge-utils is a Linux/Unix command or component used for managing system-level configurations, user permissions, bootloaders, or filesystems.",
+    "emoji": "\ud83d\udc27\ud83d\udcbb\ud83d\udcc2",
+    "categories": [
+      "Linux",
+      "Filesystem",
+      "Infrastructure"
+    ],
+    "related": [
+      "chmod",
+      "chown",
+      "fstab",
+      "bootloader",
+      "inode"
+    ],
+    "aliases": [
+      "bridge-utils",
+      "BRIDGE-UTILS"
+    ],
+    "use_case": "A sysadmin uses bridge-utils during server setup or maintenance to configure the system properly.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "hostapd": {
+    "eli5": "hostapd is like a tool or label that helps the computer understand or organize something.",
+    "boss": "hostapd is a core concept or command used in Linux/Unix systems for managing users, filesystems, or boot processes.",
+    "sysadmin": "hostapd is a Linux/Unix command or component used for managing system-level configurations, user permissions, bootloaders, or filesystems.",
+    "emoji": "\ud83d\udc27\ud83d\udcbb\ud83d\udcc2",
+    "categories": [
+      "Linux",
+      "Filesystem",
+      "Infrastructure"
+    ],
+    "related": [
+      "chmod",
+      "chown",
+      "fstab",
+      "bootloader",
+      "inode"
+    ],
+    "aliases": [
+      "hostapd",
+      "HOSTAPD"
+    ],
+    "use_case": "A sysadmin uses hostapd during server setup or maintenance to configure the system properly.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "dhclient": {
+    "eli5": "dhclient is like a tool or label that helps the computer understand or organize something.",
+    "boss": "dhclient is a core concept or command used in Linux/Unix systems for managing users, filesystems, or boot processes.",
+    "sysadmin": "dhclient is a Linux/Unix command or component used for managing system-level configurations, user permissions, bootloaders, or filesystems.",
+    "emoji": "\ud83d\udc27\ud83d\udcbb\ud83d\udcc2",
+    "categories": [
+      "Linux",
+      "Filesystem",
+      "Infrastructure"
+    ],
+    "related": [
+      "chmod",
+      "chown",
+      "fstab",
+      "bootloader",
+      "inode"
+    ],
+    "aliases": [
+      "dhclient",
+      "DHCLIENT"
+    ],
+    "use_case": "A sysadmin uses dhclient during server setup or maintenance to configure the system properly.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "disk & storage": {
+    "eli5": "Disk & Storage is like a tool or label that helps the computer understand or organize something.",
+    "boss": "Disk & Storage is a core concept or command used in Linux/Unix systems for managing users, filesystems, or boot processes.",
+    "sysadmin": "Disk & Storage is a Linux/Unix command or component used for managing system-level configurations, user permissions, bootloaders, or filesystems.",
+    "emoji": "\ud83d\udc27\ud83d\udcbb\ud83d\udcc2",
+    "categories": [
+      "Linux",
+      "Filesystem",
+      "Infrastructure"
+    ],
+    "related": [
+      "chmod",
+      "chown",
+      "fstab",
+      "bootloader",
+      "inode"
+    ],
+    "aliases": [
+      "disk & storage",
+      "DISK & STORAGE"
+    ],
+    "use_case": "A sysadmin uses Disk & Storage during server setup or maintenance to configure the system properly.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "lsblk": {
+    "eli5": "lsblk is like a tool or label that helps the computer understand or organize something.",
+    "boss": "lsblk is a core concept or command used in Linux/Unix systems for managing users, filesystems, or boot processes.",
+    "sysadmin": "lsblk is a Linux/Unix command or component used for managing system-level configurations, user permissions, bootloaders, or filesystems.",
+    "emoji": "\ud83d\udc27\ud83d\udcbb\ud83d\udcc2",
+    "categories": [
+      "Linux",
+      "Filesystem",
+      "Infrastructure"
+    ],
+    "related": [
+      "chmod",
+      "chown",
+      "fstab",
+      "bootloader",
+      "inode"
+    ],
+    "aliases": [
+      "lsblk",
+      "LSBLK"
+    ],
+    "use_case": "A sysadmin uses lsblk during server setup or maintenance to configure the system properly.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "df": {
+    "eli5": "df is like a tool or label that helps the computer understand or organize something.",
+    "boss": "df is a core concept or command used in Linux/Unix systems for managing users, filesystems, or boot processes.",
+    "sysadmin": "df is a Linux/Unix command or component used for managing system-level configurations, user permissions, bootloaders, or filesystems.",
+    "emoji": "\ud83d\udc27\ud83d\udcbb\ud83d\udcc2",
+    "categories": [
+      "Linux",
+      "Filesystem",
+      "Infrastructure"
+    ],
+    "related": [
+      "chmod",
+      "chown",
+      "fstab",
+      "bootloader",
+      "inode"
+    ],
+    "aliases": [
+      "df",
+      "DF"
+    ],
+    "use_case": "A sysadmin uses df during server setup or maintenance to configure the system properly.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "du": {
+    "eli5": "du is like a tool or label that helps the computer understand or organize something.",
+    "boss": "du is a core concept or command used in Linux/Unix systems for managing users, filesystems, or boot processes.",
+    "sysadmin": "du is a Linux/Unix command or component used for managing system-level configurations, user permissions, bootloaders, or filesystems.",
+    "emoji": "\ud83d\udc27\ud83d\udcbb\ud83d\udcc2",
+    "categories": [
+      "Linux",
+      "Filesystem",
+      "Infrastructure"
+    ],
+    "related": [
+      "chmod",
+      "chown",
+      "fstab",
+      "bootloader",
+      "inode"
+    ],
+    "aliases": [
+      "du",
+      "DU"
+    ],
+    "use_case": "A sysadmin uses du during server setup or maintenance to configure the system properly.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "umount": {
+    "eli5": "umount is like a tool or label that helps the computer understand or organize something.",
+    "boss": "umount is a core concept or command used in Linux/Unix systems for managing users, filesystems, or boot processes.",
+    "sysadmin": "umount is a Linux/Unix command or component used for managing system-level configurations, user permissions, bootloaders, or filesystems.",
+    "emoji": "\ud83d\udc27\ud83d\udcbb\ud83d\udcc2",
+    "categories": [
+      "Linux",
+      "Filesystem",
+      "Infrastructure"
+    ],
+    "related": [
+      "chmod",
+      "chown",
+      "fstab",
+      "bootloader",
+      "inode"
+    ],
+    "aliases": [
+      "umount",
+      "UMOUNT"
+    ],
+    "use_case": "A sysadmin uses umount during server setup or maintenance to configure the system properly.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "fdisk": {
+    "eli5": "fdisk is like a tool or label that helps the computer understand or organize something.",
+    "boss": "fdisk is a core concept or command used in Linux/Unix systems for managing users, filesystems, or boot processes.",
+    "sysadmin": "fdisk is a Linux/Unix command or component used for managing system-level configurations, user permissions, bootloaders, or filesystems.",
+    "emoji": "\ud83d\udc27\ud83d\udcbb\ud83d\udcc2",
+    "categories": [
+      "Linux",
+      "Filesystem",
+      "Infrastructure"
+    ],
+    "related": [
+      "chmod",
+      "chown",
+      "fstab",
+      "bootloader",
+      "inode"
+    ],
+    "aliases": [
+      "fdisk",
+      "FDISK"
+    ],
+    "use_case": "A sysadmin uses fdisk during server setup or maintenance to configure the system properly.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "parted": {
+    "eli5": "parted is like a tool or label that helps the computer understand or organize something.",
+    "boss": "parted is a core concept or command used in Linux/Unix systems for managing users, filesystems, or boot processes.",
+    "sysadmin": "parted is a Linux/Unix command or component used for managing system-level configurations, user permissions, bootloaders, or filesystems.",
+    "emoji": "\ud83d\udc27\ud83d\udcbb\ud83d\udcc2",
+    "categories": [
+      "Linux",
+      "Filesystem",
+      "Infrastructure"
+    ],
+    "related": [
+      "chmod",
+      "chown",
+      "fstab",
+      "bootloader",
+      "inode"
+    ],
+    "aliases": [
+      "parted",
+      "PARTED"
+    ],
+    "use_case": "A sysadmin uses parted during server setup or maintenance to configure the system properly.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "mkfs": {
+    "eli5": "mkfs is like a tool or label that helps the computer understand or organize something.",
+    "boss": "mkfs is a core concept or command used in Linux/Unix systems for managing users, filesystems, or boot processes.",
+    "sysadmin": "mkfs is a Linux/Unix command or component used for managing system-level configurations, user permissions, bootloaders, or filesystems.",
+    "emoji": "\ud83d\udc27\ud83d\udcbb\ud83d\udcc2",
+    "categories": [
+      "Linux",
+      "Filesystem",
+      "Infrastructure"
+    ],
+    "related": [
+      "chmod",
+      "chown",
+      "fstab",
+      "bootloader",
+      "inode"
+    ],
+    "aliases": [
+      "mkfs",
+      "MKFS"
+    ],
+    "use_case": "A sysadmin uses mkfs during server setup or maintenance to configure the system properly.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "fsck": {
+    "eli5": "fsck is like a tool or label that helps the computer understand or organize something.",
+    "boss": "fsck is a core concept or command used in Linux/Unix systems for managing users, filesystems, or boot processes.",
+    "sysadmin": "fsck is a Linux/Unix command or component used for managing system-level configurations, user permissions, bootloaders, or filesystems.",
+    "emoji": "\ud83d\udc27\ud83d\udcbb\ud83d\udcc2",
+    "categories": [
+      "Linux",
+      "Filesystem",
+      "Infrastructure"
+    ],
+    "related": [
+      "chmod",
+      "chown",
+      "fstab",
+      "bootloader",
+      "inode"
+    ],
+    "aliases": [
+      "fsck",
+      "FSCK"
+    ],
+    "use_case": "A sysadmin uses fsck during server setup or maintenance to configure the system properly.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "blkid": {
+    "eli5": "blkid is like a tool or label that helps the computer understand or organize something.",
+    "boss": "blkid is a core concept or command used in Linux/Unix systems for managing users, filesystems, or boot processes.",
+    "sysadmin": "blkid is a Linux/Unix command or component used for managing system-level configurations, user permissions, bootloaders, or filesystems.",
+    "emoji": "\ud83d\udc27\ud83d\udcbb\ud83d\udcc2",
+    "categories": [
+      "Linux",
+      "Filesystem",
+      "Infrastructure"
+    ],
+    "related": [
+      "chmod",
+      "chown",
+      "fstab",
+      "bootloader",
+      "inode"
+    ],
+    "aliases": [
+      "blkid",
+      "BLKID"
+    ],
+    "use_case": "A sysadmin uses blkid during server setup or maintenance to configure the system properly.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "lvm": {
+    "eli5": "lvm is like a tool or label that helps the computer understand or organize something.",
+    "boss": "lvm is a core concept or command used in Linux/Unix systems for managing users, filesystems, or boot processes.",
+    "sysadmin": "lvm is a Linux/Unix command or component used for managing system-level configurations, user permissions, bootloaders, or filesystems.",
+    "emoji": "\ud83d\udc27\ud83d\udcbb\ud83d\udcc2",
+    "categories": [
+      "Linux",
+      "Filesystem",
+      "Infrastructure"
+    ],
+    "related": [
+      "chmod",
+      "chown",
+      "fstab",
+      "bootloader",
+      "inode"
+    ],
+    "aliases": [
+      "lvm",
+      "LVM"
+    ],
+    "use_case": "A sysadmin uses lvm during server setup or maintenance to configure the system properly.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "lvcreate": {
+    "eli5": "lvcreate is like a tool or label that helps the computer understand or organize something.",
+    "boss": "lvcreate is a core concept or command used in Linux/Unix systems for managing users, filesystems, or boot processes.",
+    "sysadmin": "lvcreate is a Linux/Unix command or component used for managing system-level configurations, user permissions, bootloaders, or filesystems.",
+    "emoji": "\ud83d\udc27\ud83d\udcbb\ud83d\udcc2",
+    "categories": [
+      "Linux",
+      "Filesystem",
+      "Infrastructure"
+    ],
+    "related": [
+      "chmod",
+      "chown",
+      "fstab",
+      "bootloader",
+      "inode"
+    ],
+    "aliases": [
+      "lvcreate",
+      "LVCREATE"
+    ],
+    "use_case": "A sysadmin uses lvcreate during server setup or maintenance to configure the system properly.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "vgcreate": {
+    "eli5": "vgcreate is like a tool or label that helps the computer understand or organize something.",
+    "boss": "vgcreate is a core concept or command used in Linux/Unix systems for managing users, filesystems, or boot processes.",
+    "sysadmin": "vgcreate is a Linux/Unix command or component used for managing system-level configurations, user permissions, bootloaders, or filesystems.",
+    "emoji": "\ud83d\udc27\ud83d\udcbb\ud83d\udcc2",
+    "categories": [
+      "Linux",
+      "Filesystem",
+      "Infrastructure"
+    ],
+    "related": [
+      "chmod",
+      "chown",
+      "fstab",
+      "bootloader",
+      "inode"
+    ],
+    "aliases": [
+      "vgcreate",
+      "VGCREATE"
+    ],
+    "use_case": "A sysadmin uses vgcreate during server setup or maintenance to configure the system properly.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  },
+  "pvcreate": {
+    "eli5": "pvcreate is like a tool or label that helps the computer understand or organize something.",
+    "boss": "pvcreate is a core concept or command used in Linux/Unix systems for managing users, filesystems, or boot processes.",
+    "sysadmin": "pvcreate is a Linux/Unix command or component used for managing system-level configurations, user permissions, bootloaders, or filesystems.",
+    "emoji": "\ud83d\udc27\ud83d\udcbb\ud83d\udcc2",
+    "categories": [
+      "Linux",
+      "Filesystem",
+      "Infrastructure"
+    ],
+    "related": [
+      "chmod",
+      "chown",
+      "fstab",
+      "bootloader",
+      "inode"
+    ],
+    "aliases": [
+      "pvcreate",
+      "PVCREATE"
+    ],
+    "use_case": "A sysadmin uses pvcreate during server setup or maintenance to configure the system properly.",
+    "jargon_score": 4,
+    "level": "Intermediate"
+  }
+}

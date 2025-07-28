@@ -1,0 +1,49 @@
+{
+  "apache": {
+    "eli5": "Apache is like a waiter that brings web pages to people when they ask for them.",
+    "boss": "Apache is a popular open-source web server used to serve websites and web apps over the internet.",
+    "sysadmin": "Apache HTTP Server is a modular, open-source web server supporting .htaccess, virtual hosts, and various modules for SSL, caching, and URL rewriting.",
+    "emoji": "\ud83e\uddd1\u200d\ud83c\udf73\ud83d\udcc4\ud83c\udf10",
+    "categories": [
+      "Web",
+      "Infrastructure",
+      "Open Source"
+    ],
+    "related": [
+      "LiteSpeed",
+      "Nginx",
+      "Static Hosting",
+      "Serverless"
+    ],
+    "aliases": [
+      "Apache HTTP Server",
+      "httpd"
+    ],
+    "use_case": "Used to serve PHP websites on a traditional LAMP stack.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "litespeed": {
+    "eli5": "LiteSpeed is a faster waiter than Apache who brings your web pages quickly.",
+    "boss": "LiteSpeed is a high-performance commercial web server that improves speed and efficiency over traditional options like Apache.",
+    "sysadmin": "LiteSpeed Web Server is a drop-in Apache replacement offering optimized performance, HTTP/3 support, and advanced caching mechanisms.",
+    "emoji": "\u26a1\ud83c\udf10\ud83d\ude80",
+    "categories": [
+      "Web",
+      "Infrastructure"
+    ],
+    "related": [
+      "Apache",
+      "Nginx",
+      "Serverless",
+      "Edge Caching"
+    ],
+    "aliases": [
+      "LiteSpeed Web Server",
+      "LSWS"
+    ],
+    "use_case": "Used by hosting providers for faster content delivery and lower server load.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  }
+}

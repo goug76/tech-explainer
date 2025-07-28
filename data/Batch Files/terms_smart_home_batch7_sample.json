@@ -1,0 +1,66 @@
+{
+  "dmzdemilitarizedzone": {
+    "eli5": "A DMZ is like a waiting room between the internet and your private network\u2014visitors can come in, but not too far.",
+    "boss": "A DMZ (Demilitarized Zone) is a network area that separates public-facing services from your internal network for security.",
+    "sysadmin": "DMZs isolate exposed services (e.g., web, mail servers) from internal networks using firewalls to limit potential compromise.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83c\udf10\ud83d\udeaa",
+    "categories": [
+      "Networking",
+      "Security",
+      "Firewall"
+    ],
+    "related": [
+      "Firewall",
+      "Router",
+      "Edge Server"
+    ],
+    "aliases": [
+      "Demilitarized Zone"
+    ],
+    "use_case": "Used to host a web server that\u2019s accessible from the internet but isolated from internal devices.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "qosqualityofservice": {
+    "eli5": "QoS is like giving VIP tickets to important data so it gets there faster.",
+    "boss": "QoS (Quality of Service) prioritizes certain network traffic to ensure critical services perform well even during congestion.",
+    "sysadmin": "QoS marks packets with DSCP/CoS, controls bandwidth with shaping and queuing, and ensures low-latency for VoIP or streaming.",
+    "emoji": "\ud83c\udf9f\ufe0f\ud83d\udcf6\ud83d\udcc8",
+    "categories": [
+      "Networking"
+    ],
+    "related": [
+      "Bandwidth",
+      "Latency",
+      "Packet Loss"
+    ],
+    "aliases": [
+      "Quality of Service",
+      "QoS"
+    ],
+    "use_case": "Used to prioritize video calls over file downloads on a business network.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "mtumaximumtransmissionunit": {
+    "eli5": "MTU is the biggest box of data your network can carry without breaking it up.",
+    "boss": "MTU defines the largest packet size a network can handle before needing to split it, affecting performance and reliability.",
+    "sysadmin": "MTU (Maximum Transmission Unit) affects packet fragmentation\u2014set per interface, common values are 1500 for Ethernet.",
+    "emoji": "\ud83d\udce6\ud83d\udccf\ud83d\udd27",
+    "categories": [
+      "Networking"
+    ],
+    "related": [
+      "TCP",
+      "Packet Loss",
+      "Throughput"
+    ],
+    "aliases": [
+      "MTU",
+      "Maximum Transmission Unit"
+    ],
+    "use_case": "Used to troubleshoot VPN slowness by adjusting MTU to avoid packet fragmentation.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  }
+}

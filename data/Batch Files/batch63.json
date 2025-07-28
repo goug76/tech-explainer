@@ -1,0 +1,1402 @@
+{
+  "zero trust firewall": {
+    "eli5": "Zero Trust Firewall is like a smart digital bodyguard that checks who\u2019s allowed in or out of your network and follows strict rules.",
+    "boss": "Zero Trust Firewall covers next-gen firewalls, logging integrations, network security policies, and compliance frameworks designed for advanced threat protection and governance.",
+    "sysadmin": "Zero Trust Firewall refers to a modern firewall model, policy control point, evasion technique, or compliance-driven standard used in securing complex cloud, edge, and microservice networks.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83d\udcf6\ud83d\udd0d\ud83d\udccb",
+    "categories": [
+      "Firewall",
+      "Security",
+      "Cloud",
+      "Networking",
+      "Infrastructure",
+      "Monitoring"
+    ],
+    "related": [
+      "nmap scan",
+      "policy enforcement point",
+      "siem integration",
+      "deny by default",
+      "pci dss firewall requirements"
+    ],
+    "aliases": [
+      "zero trust firewall",
+      "ZERO TRUST FIREWALL"
+    ],
+    "use_case": "A network engineer or security admin uses Zero Trust Firewall to enforce traffic rules, detect threats, or meet industry firewall compliance standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "cloud native firewall": {
+    "eli5": "Cloud Native Firewall is like a smart digital bodyguard that checks who\u2019s allowed in or out of your network and follows strict rules.",
+    "boss": "Cloud Native Firewall covers next-gen firewalls, logging integrations, network security policies, and compliance frameworks designed for advanced threat protection and governance.",
+    "sysadmin": "Cloud Native Firewall refers to a modern firewall model, policy control point, evasion technique, or compliance-driven standard used in securing complex cloud, edge, and microservice networks.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83d\udcf6\ud83d\udd0d\ud83d\udccb",
+    "categories": [
+      "Firewall",
+      "Security",
+      "Cloud",
+      "Networking",
+      "Infrastructure",
+      "Monitoring"
+    ],
+    "related": [
+      "nmap scan",
+      "policy enforcement point",
+      "siem integration",
+      "deny by default",
+      "pci dss firewall requirements"
+    ],
+    "aliases": [
+      "cloud native firewall",
+      "CLOUD NATIVE FIREWALL"
+    ],
+    "use_case": "A network engineer or security admin uses Cloud Native Firewall to enforce traffic rules, detect threats, or meet industry firewall compliance standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "saas firewall": {
+    "eli5": "SaaS Firewall is like a smart digital bodyguard that checks who\u2019s allowed in or out of your network and follows strict rules.",
+    "boss": "SaaS Firewall covers next-gen firewalls, logging integrations, network security policies, and compliance frameworks designed for advanced threat protection and governance.",
+    "sysadmin": "SaaS Firewall refers to a modern firewall model, policy control point, evasion technique, or compliance-driven standard used in securing complex cloud, edge, and microservice networks.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83d\udcf6\ud83d\udd0d\ud83d\udccb",
+    "categories": [
+      "Firewall",
+      "Security",
+      "Cloud",
+      "Networking",
+      "Infrastructure",
+      "Monitoring"
+    ],
+    "related": [
+      "nmap scan",
+      "policy enforcement point",
+      "siem integration",
+      "deny by default",
+      "pci dss firewall requirements"
+    ],
+    "aliases": [
+      "saas firewall",
+      "SAAS FIREWALL"
+    ],
+    "use_case": "A network engineer or security admin uses SaaS Firewall to enforce traffic rules, detect threats, or meet industry firewall compliance standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "firewall-as-a-service (fwaas)": {
+    "eli5": "Firewall-as-a-Service (FWaaS) is like a smart digital bodyguard that checks who\u2019s allowed in or out of your network and follows strict rules.",
+    "boss": "Firewall-as-a-Service (FWaaS) covers next-gen firewalls, logging integrations, network security policies, and compliance frameworks designed for advanced threat protection and governance.",
+    "sysadmin": "Firewall-as-a-Service (FWaaS) refers to a modern firewall model, policy control point, evasion technique, or compliance-driven standard used in securing complex cloud, edge, and microservice networks.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83d\udcf6\ud83d\udd0d\ud83d\udccb",
+    "categories": [
+      "Firewall",
+      "Security",
+      "Cloud",
+      "Networking",
+      "Infrastructure",
+      "Monitoring"
+    ],
+    "related": [
+      "nmap scan",
+      "policy enforcement point",
+      "siem integration",
+      "deny by default",
+      "pci dss firewall requirements"
+    ],
+    "aliases": [
+      "firewall-as-a-service (fwaas)",
+      "FIREWALL-AS-A-SERVICE (FWAAS)"
+    ],
+    "use_case": "A network engineer or security admin uses Firewall-as-a-Service (FWaaS) to enforce traffic rules, detect threats, or meet industry firewall compliance standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "zero trust networking": {
+    "eli5": "Zero Trust Networking is like a smart digital bodyguard that checks who\u2019s allowed in or out of your network and follows strict rules.",
+    "boss": "Zero Trust Networking covers next-gen firewalls, logging integrations, network security policies, and compliance frameworks designed for advanced threat protection and governance.",
+    "sysadmin": "Zero Trust Networking refers to a modern firewall model, policy control point, evasion technique, or compliance-driven standard used in securing complex cloud, edge, and microservice networks.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83d\udcf6\ud83d\udd0d\ud83d\udccb",
+    "categories": [
+      "Firewall",
+      "Security",
+      "Cloud",
+      "Networking",
+      "Infrastructure",
+      "Monitoring"
+    ],
+    "related": [
+      "nmap scan",
+      "policy enforcement point",
+      "siem integration",
+      "deny by default",
+      "pci dss firewall requirements"
+    ],
+    "aliases": [
+      "zero trust networking",
+      "ZERO TRUST NETWORKING"
+    ],
+    "use_case": "A network engineer or security admin uses Zero Trust Networking to enforce traffic rules, detect threats, or meet industry firewall compliance standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "policy enforcement point": {
+    "eli5": "Policy Enforcement Point is like a smart digital bodyguard that checks who\u2019s allowed in or out of your network and follows strict rules.",
+    "boss": "Policy Enforcement Point covers next-gen firewalls, logging integrations, network security policies, and compliance frameworks designed for advanced threat protection and governance.",
+    "sysadmin": "Policy Enforcement Point refers to a modern firewall model, policy control point, evasion technique, or compliance-driven standard used in securing complex cloud, edge, and microservice networks.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83d\udcf6\ud83d\udd0d\ud83d\udccb",
+    "categories": [
+      "Firewall",
+      "Security",
+      "Cloud",
+      "Networking",
+      "Infrastructure",
+      "Monitoring"
+    ],
+    "related": [
+      "nmap scan",
+      "policy enforcement point",
+      "siem integration",
+      "deny by default",
+      "pci dss firewall requirements"
+    ],
+    "aliases": [
+      "policy enforcement point",
+      "POLICY ENFORCEMENT POINT"
+    ],
+    "use_case": "A network engineer or security admin uses Policy Enforcement Point to enforce traffic rules, detect threats, or meet industry firewall compliance standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "policy decision point": {
+    "eli5": "Policy Decision Point is like a smart digital bodyguard that checks who\u2019s allowed in or out of your network and follows strict rules.",
+    "boss": "Policy Decision Point covers next-gen firewalls, logging integrations, network security policies, and compliance frameworks designed for advanced threat protection and governance.",
+    "sysadmin": "Policy Decision Point refers to a modern firewall model, policy control point, evasion technique, or compliance-driven standard used in securing complex cloud, edge, and microservice networks.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83d\udcf6\ud83d\udd0d\ud83d\udccb",
+    "categories": [
+      "Firewall",
+      "Security",
+      "Cloud",
+      "Networking",
+      "Infrastructure",
+      "Monitoring"
+    ],
+    "related": [
+      "nmap scan",
+      "policy enforcement point",
+      "siem integration",
+      "deny by default",
+      "pci dss firewall requirements"
+    ],
+    "aliases": [
+      "policy decision point",
+      "POLICY DECISION POINT"
+    ],
+    "use_case": "A network engineer or security admin uses Policy Decision Point to enforce traffic rules, detect threats, or meet industry firewall compliance standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "ids/ips integration": {
+    "eli5": "IDS/IPS Integration is like a smart digital bodyguard that checks who\u2019s allowed in or out of your network and follows strict rules.",
+    "boss": "IDS/IPS Integration covers next-gen firewalls, logging integrations, network security policies, and compliance frameworks designed for advanced threat protection and governance.",
+    "sysadmin": "IDS/IPS Integration refers to a modern firewall model, policy control point, evasion technique, or compliance-driven standard used in securing complex cloud, edge, and microservice networks.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83d\udcf6\ud83d\udd0d\ud83d\udccb",
+    "categories": [
+      "Firewall",
+      "Security",
+      "Cloud",
+      "Networking",
+      "Infrastructure",
+      "Monitoring"
+    ],
+    "related": [
+      "nmap scan",
+      "policy enforcement point",
+      "siem integration",
+      "deny by default",
+      "pci dss firewall requirements"
+    ],
+    "aliases": [
+      "ids/ips integration",
+      "IDS/IPS INTEGRATION"
+    ],
+    "use_case": "A network engineer or security admin uses IDS/IPS Integration to enforce traffic rules, detect threats, or meet industry firewall compliance standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "zeek (formerly bro)": {
+    "eli5": "Zeek (formerly Bro) is like a smart digital bodyguard that checks who\u2019s allowed in or out of your network and follows strict rules.",
+    "boss": "Zeek (formerly Bro) covers next-gen firewalls, logging integrations, network security policies, and compliance frameworks designed for advanced threat protection and governance.",
+    "sysadmin": "Zeek (formerly Bro) refers to a modern firewall model, policy control point, evasion technique, or compliance-driven standard used in securing complex cloud, edge, and microservice networks.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83d\udcf6\ud83d\udd0d\ud83d\udccb",
+    "categories": [
+      "Firewall",
+      "Security",
+      "Cloud",
+      "Networking",
+      "Infrastructure",
+      "Monitoring"
+    ],
+    "related": [
+      "nmap scan",
+      "policy enforcement point",
+      "siem integration",
+      "deny by default",
+      "pci dss firewall requirements"
+    ],
+    "aliases": [
+      "zeek (formerly bro)",
+      "ZEEK (FORMERLY BRO)"
+    ],
+    "use_case": "A network engineer or security admin uses Zeek (formerly Bro) to enforce traffic rules, detect threats, or meet industry firewall compliance standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "hybrid firewall/ids": {
+    "eli5": "Hybrid Firewall/IDS is like a smart digital bodyguard that checks who\u2019s allowed in or out of your network and follows strict rules.",
+    "boss": "Hybrid Firewall/IDS covers next-gen firewalls, logging integrations, network security policies, and compliance frameworks designed for advanced threat protection and governance.",
+    "sysadmin": "Hybrid Firewall/IDS refers to a modern firewall model, policy control point, evasion technique, or compliance-driven standard used in securing complex cloud, edge, and microservice networks.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83d\udcf6\ud83d\udd0d\ud83d\udccb",
+    "categories": [
+      "Firewall",
+      "Security",
+      "Cloud",
+      "Networking",
+      "Infrastructure",
+      "Monitoring"
+    ],
+    "related": [
+      "nmap scan",
+      "policy enforcement point",
+      "siem integration",
+      "deny by default",
+      "pci dss firewall requirements"
+    ],
+    "aliases": [
+      "hybrid firewall/ids",
+      "HYBRID FIREWALL/IDS"
+    ],
+    "use_case": "A network engineer or security admin uses Hybrid Firewall/IDS to enforce traffic rules, detect threats, or meet industry firewall compliance standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "inline mode": {
+    "eli5": "Inline Mode is like a smart digital bodyguard that checks who\u2019s allowed in or out of your network and follows strict rules.",
+    "boss": "Inline Mode covers next-gen firewalls, logging integrations, network security policies, and compliance frameworks designed for advanced threat protection and governance.",
+    "sysadmin": "Inline Mode refers to a modern firewall model, policy control point, evasion technique, or compliance-driven standard used in securing complex cloud, edge, and microservice networks.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83d\udcf6\ud83d\udd0d\ud83d\udccb",
+    "categories": [
+      "Firewall",
+      "Security",
+      "Cloud",
+      "Networking",
+      "Infrastructure",
+      "Monitoring"
+    ],
+    "related": [
+      "nmap scan",
+      "policy enforcement point",
+      "siem integration",
+      "deny by default",
+      "pci dss firewall requirements"
+    ],
+    "aliases": [
+      "inline mode",
+      "INLINE MODE"
+    ],
+    "use_case": "A network engineer or security admin uses Inline Mode to enforce traffic rules, detect threats, or meet industry firewall compliance standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "tap mode": {
+    "eli5": "Tap Mode is like a smart digital bodyguard that checks who\u2019s allowed in or out of your network and follows strict rules.",
+    "boss": "Tap Mode covers next-gen firewalls, logging integrations, network security policies, and compliance frameworks designed for advanced threat protection and governance.",
+    "sysadmin": "Tap Mode refers to a modern firewall model, policy control point, evasion technique, or compliance-driven standard used in securing complex cloud, edge, and microservice networks.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83d\udcf6\ud83d\udd0d\ud83d\udccb",
+    "categories": [
+      "Firewall",
+      "Security",
+      "Cloud",
+      "Networking",
+      "Infrastructure",
+      "Monitoring"
+    ],
+    "related": [
+      "nmap scan",
+      "policy enforcement point",
+      "siem integration",
+      "deny by default",
+      "pci dss firewall requirements"
+    ],
+    "aliases": [
+      "tap mode",
+      "TAP MODE"
+    ],
+    "use_case": "A network engineer or security admin uses Tap Mode to enforce traffic rules, detect threats, or meet industry firewall compliance standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "logging & monitoring": {
+    "eli5": "Logging & Monitoring is like a smart digital bodyguard that checks who\u2019s allowed in or out of your network and follows strict rules.",
+    "boss": "Logging & Monitoring covers next-gen firewalls, logging integrations, network security policies, and compliance frameworks designed for advanced threat protection and governance.",
+    "sysadmin": "Logging & Monitoring refers to a modern firewall model, policy control point, evasion technique, or compliance-driven standard used in securing complex cloud, edge, and microservice networks.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83d\udcf6\ud83d\udd0d\ud83d\udccb",
+    "categories": [
+      "Firewall",
+      "Security",
+      "Cloud",
+      "Networking",
+      "Infrastructure",
+      "Monitoring"
+    ],
+    "related": [
+      "nmap scan",
+      "policy enforcement point",
+      "siem integration",
+      "deny by default",
+      "pci dss firewall requirements"
+    ],
+    "aliases": [
+      "logging & monitoring",
+      "LOGGING & MONITORING"
+    ],
+    "use_case": "A network engineer or security admin uses Logging & Monitoring to enforce traffic rules, detect threats, or meet industry firewall compliance standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "firewall log": {
+    "eli5": "Firewall Log is like a smart digital bodyguard that checks who\u2019s allowed in or out of your network and follows strict rules.",
+    "boss": "Firewall Log covers next-gen firewalls, logging integrations, network security policies, and compliance frameworks designed for advanced threat protection and governance.",
+    "sysadmin": "Firewall Log refers to a modern firewall model, policy control point, evasion technique, or compliance-driven standard used in securing complex cloud, edge, and microservice networks.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83d\udcf6\ud83d\udd0d\ud83d\udccb",
+    "categories": [
+      "Firewall",
+      "Security",
+      "Cloud",
+      "Networking",
+      "Infrastructure",
+      "Monitoring"
+    ],
+    "related": [
+      "nmap scan",
+      "policy enforcement point",
+      "siem integration",
+      "deny by default",
+      "pci dss firewall requirements"
+    ],
+    "aliases": [
+      "firewall log",
+      "FIREWALL LOG"
+    ],
+    "use_case": "A network engineer or security admin uses Firewall Log to enforce traffic rules, detect threats, or meet industry firewall compliance standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "connection log": {
+    "eli5": "Connection Log is like a smart digital bodyguard that checks who\u2019s allowed in or out of your network and follows strict rules.",
+    "boss": "Connection Log covers next-gen firewalls, logging integrations, network security policies, and compliance frameworks designed for advanced threat protection and governance.",
+    "sysadmin": "Connection Log refers to a modern firewall model, policy control point, evasion technique, or compliance-driven standard used in securing complex cloud, edge, and microservice networks.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83d\udcf6\ud83d\udd0d\ud83d\udccb",
+    "categories": [
+      "Firewall",
+      "Security",
+      "Cloud",
+      "Networking",
+      "Infrastructure",
+      "Monitoring"
+    ],
+    "related": [
+      "nmap scan",
+      "policy enforcement point",
+      "siem integration",
+      "deny by default",
+      "pci dss firewall requirements"
+    ],
+    "aliases": [
+      "connection log",
+      "CONNECTION LOG"
+    ],
+    "use_case": "A network engineer or security admin uses Connection Log to enforce traffic rules, detect threats, or meet industry firewall compliance standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "siem integration": {
+    "eli5": "SIEM Integration is like a smart digital bodyguard that checks who\u2019s allowed in or out of your network and follows strict rules.",
+    "boss": "SIEM Integration covers next-gen firewalls, logging integrations, network security policies, and compliance frameworks designed for advanced threat protection and governance.",
+    "sysadmin": "SIEM Integration refers to a modern firewall model, policy control point, evasion technique, or compliance-driven standard used in securing complex cloud, edge, and microservice networks.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83d\udcf6\ud83d\udd0d\ud83d\udccb",
+    "categories": [
+      "Firewall",
+      "Security",
+      "Cloud",
+      "Networking",
+      "Infrastructure",
+      "Monitoring"
+    ],
+    "related": [
+      "nmap scan",
+      "policy enforcement point",
+      "siem integration",
+      "deny by default",
+      "pci dss firewall requirements"
+    ],
+    "aliases": [
+      "siem integration",
+      "SIEM INTEGRATION"
+    ],
+    "use_case": "A network engineer or security admin uses SIEM Integration to enforce traffic rules, detect threats, or meet industry firewall compliance standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "alerting": {
+    "eli5": "Alerting is like a smart digital bodyguard that checks who\u2019s allowed in or out of your network and follows strict rules.",
+    "boss": "Alerting covers next-gen firewalls, logging integrations, network security policies, and compliance frameworks designed for advanced threat protection and governance.",
+    "sysadmin": "Alerting refers to a modern firewall model, policy control point, evasion technique, or compliance-driven standard used in securing complex cloud, edge, and microservice networks.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83d\udcf6\ud83d\udd0d\ud83d\udccb",
+    "categories": [
+      "Firewall",
+      "Security",
+      "Cloud",
+      "Networking",
+      "Infrastructure",
+      "Monitoring"
+    ],
+    "related": [
+      "nmap scan",
+      "policy enforcement point",
+      "siem integration",
+      "deny by default",
+      "pci dss firewall requirements"
+    ],
+    "aliases": [
+      "alerting",
+      "ALERTING"
+    ],
+    "use_case": "A network engineer or security admin uses Alerting to enforce traffic rules, detect threats, or meet industry firewall compliance standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "testing & hardening": {
+    "eli5": "Testing & Hardening is like a smart digital bodyguard that checks who\u2019s allowed in or out of your network and follows strict rules.",
+    "boss": "Testing & Hardening covers next-gen firewalls, logging integrations, network security policies, and compliance frameworks designed for advanced threat protection and governance.",
+    "sysadmin": "Testing & Hardening refers to a modern firewall model, policy control point, evasion technique, or compliance-driven standard used in securing complex cloud, edge, and microservice networks.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83d\udcf6\ud83d\udd0d\ud83d\udccb",
+    "categories": [
+      "Firewall",
+      "Security",
+      "Cloud",
+      "Networking",
+      "Infrastructure",
+      "Monitoring"
+    ],
+    "related": [
+      "nmap scan",
+      "policy enforcement point",
+      "siem integration",
+      "deny by default",
+      "pci dss firewall requirements"
+    ],
+    "aliases": [
+      "testing & hardening",
+      "TESTING & HARDENING"
+    ],
+    "use_case": "A network engineer or security admin uses Testing & Hardening to enforce traffic rules, detect threats, or meet industry firewall compliance standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "firewall test": {
+    "eli5": "Firewall Test is like a smart digital bodyguard that checks who\u2019s allowed in or out of your network and follows strict rules.",
+    "boss": "Firewall Test covers next-gen firewalls, logging integrations, network security policies, and compliance frameworks designed for advanced threat protection and governance.",
+    "sysadmin": "Firewall Test refers to a modern firewall model, policy control point, evasion technique, or compliance-driven standard used in securing complex cloud, edge, and microservice networks.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83d\udcf6\ud83d\udd0d\ud83d\udccb",
+    "categories": [
+      "Firewall",
+      "Security",
+      "Cloud",
+      "Networking",
+      "Infrastructure",
+      "Monitoring"
+    ],
+    "related": [
+      "nmap scan",
+      "policy enforcement point",
+      "siem integration",
+      "deny by default",
+      "pci dss firewall requirements"
+    ],
+    "aliases": [
+      "firewall test",
+      "FIREWALL TEST"
+    ],
+    "use_case": "A network engineer or security admin uses Firewall Test to enforce traffic rules, detect threats, or meet industry firewall compliance standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "grc shieldsup": {
+    "eli5": "GRC ShieldsUP is like a smart digital bodyguard that checks who\u2019s allowed in or out of your network and follows strict rules.",
+    "boss": "GRC ShieldsUP covers next-gen firewalls, logging integrations, network security policies, and compliance frameworks designed for advanced threat protection and governance.",
+    "sysadmin": "GRC ShieldsUP refers to a modern firewall model, policy control point, evasion technique, or compliance-driven standard used in securing complex cloud, edge, and microservice networks.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83d\udcf6\ud83d\udd0d\ud83d\udccb",
+    "categories": [
+      "Firewall",
+      "Security",
+      "Cloud",
+      "Networking",
+      "Infrastructure",
+      "Monitoring"
+    ],
+    "related": [
+      "nmap scan",
+      "policy enforcement point",
+      "siem integration",
+      "deny by default",
+      "pci dss firewall requirements"
+    ],
+    "aliases": [
+      "grc shieldsup",
+      "GRC SHIELDSUP"
+    ],
+    "use_case": "A network engineer or security admin uses GRC ShieldsUP to enforce traffic rules, detect threats, or meet industry firewall compliance standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "nmap scan": {
+    "eli5": "Nmap Scan is like a smart digital bodyguard that checks who\u2019s allowed in or out of your network and follows strict rules.",
+    "boss": "Nmap Scan covers next-gen firewalls, logging integrations, network security policies, and compliance frameworks designed for advanced threat protection and governance.",
+    "sysadmin": "Nmap Scan refers to a modern firewall model, policy control point, evasion technique, or compliance-driven standard used in securing complex cloud, edge, and microservice networks.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83d\udcf6\ud83d\udd0d\ud83d\udccb",
+    "categories": [
+      "Firewall",
+      "Security",
+      "Cloud",
+      "Networking",
+      "Infrastructure",
+      "Monitoring"
+    ],
+    "related": [
+      "nmap scan",
+      "policy enforcement point",
+      "siem integration",
+      "deny by default",
+      "pci dss firewall requirements"
+    ],
+    "aliases": [
+      "nmap scan",
+      "NMAP SCAN"
+    ],
+    "use_case": "A network engineer or security admin uses Nmap Scan to enforce traffic rules, detect threats, or meet industry firewall compliance standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "port scan detection": {
+    "eli5": "Port Scan Detection is like a smart digital bodyguard that checks who\u2019s allowed in or out of your network and follows strict rules.",
+    "boss": "Port Scan Detection covers next-gen firewalls, logging integrations, network security policies, and compliance frameworks designed for advanced threat protection and governance.",
+    "sysadmin": "Port Scan Detection refers to a modern firewall model, policy control point, evasion technique, or compliance-driven standard used in securing complex cloud, edge, and microservice networks.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83d\udcf6\ud83d\udd0d\ud83d\udccb",
+    "categories": [
+      "Firewall",
+      "Security",
+      "Cloud",
+      "Networking",
+      "Infrastructure",
+      "Monitoring"
+    ],
+    "related": [
+      "nmap scan",
+      "policy enforcement point",
+      "siem integration",
+      "deny by default",
+      "pci dss firewall requirements"
+    ],
+    "aliases": [
+      "port scan detection",
+      "PORT SCAN DETECTION"
+    ],
+    "use_case": "A network engineer or security admin uses Port Scan Detection to enforce traffic rules, detect threats, or meet industry firewall compliance standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "firewall evasion": {
+    "eli5": "Firewall Evasion is like a smart digital bodyguard that checks who\u2019s allowed in or out of your network and follows strict rules.",
+    "boss": "Firewall Evasion covers next-gen firewalls, logging integrations, network security policies, and compliance frameworks designed for advanced threat protection and governance.",
+    "sysadmin": "Firewall Evasion refers to a modern firewall model, policy control point, evasion technique, or compliance-driven standard used in securing complex cloud, edge, and microservice networks.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83d\udcf6\ud83d\udd0d\ud83d\udccb",
+    "categories": [
+      "Firewall",
+      "Security",
+      "Cloud",
+      "Networking",
+      "Infrastructure",
+      "Monitoring"
+    ],
+    "related": [
+      "nmap scan",
+      "policy enforcement point",
+      "siem integration",
+      "deny by default",
+      "pci dss firewall requirements"
+    ],
+    "aliases": [
+      "firewall evasion",
+      "FIREWALL EVASION"
+    ],
+    "use_case": "A network engineer or security admin uses Firewall Evasion to enforce traffic rules, detect threats, or meet industry firewall compliance standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "firewall bypass techniques": {
+    "eli5": "Firewall Bypass Techniques is like a smart digital bodyguard that checks who\u2019s allowed in or out of your network and follows strict rules.",
+    "boss": "Firewall Bypass Techniques covers next-gen firewalls, logging integrations, network security policies, and compliance frameworks designed for advanced threat protection and governance.",
+    "sysadmin": "Firewall Bypass Techniques refers to a modern firewall model, policy control point, evasion technique, or compliance-driven standard used in securing complex cloud, edge, and microservice networks.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83d\udcf6\ud83d\udd0d\ud83d\udccb",
+    "categories": [
+      "Firewall",
+      "Security",
+      "Cloud",
+      "Networking",
+      "Infrastructure",
+      "Monitoring"
+    ],
+    "related": [
+      "nmap scan",
+      "policy enforcement point",
+      "siem integration",
+      "deny by default",
+      "pci dss firewall requirements"
+    ],
+    "aliases": [
+      "firewall bypass techniques",
+      "FIREWALL BYPASS TECHNIQUES"
+    ],
+    "use_case": "A network engineer or security admin uses Firewall Bypass Techniques to enforce traffic rules, detect threats, or meet industry firewall compliance standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "tunneling": {
+    "eli5": "Tunneling is like a smart digital bodyguard that checks who\u2019s allowed in or out of your network and follows strict rules.",
+    "boss": "Tunneling covers next-gen firewalls, logging integrations, network security policies, and compliance frameworks designed for advanced threat protection and governance.",
+    "sysadmin": "Tunneling refers to a modern firewall model, policy control point, evasion technique, or compliance-driven standard used in securing complex cloud, edge, and microservice networks.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83d\udcf6\ud83d\udd0d\ud83d\udccb",
+    "categories": [
+      "Firewall",
+      "Security",
+      "Cloud",
+      "Networking",
+      "Infrastructure",
+      "Monitoring"
+    ],
+    "related": [
+      "nmap scan",
+      "policy enforcement point",
+      "siem integration",
+      "deny by default",
+      "pci dss firewall requirements"
+    ],
+    "aliases": [
+      "tunneling",
+      "TUNNELING"
+    ],
+    "use_case": "A network engineer or security admin uses Tunneling to enforce traffic rules, detect threats, or meet industry firewall compliance standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "encrypted payloads": {
+    "eli5": "Encrypted Payloads is like a smart digital bodyguard that checks who\u2019s allowed in or out of your network and follows strict rules.",
+    "boss": "Encrypted Payloads covers next-gen firewalls, logging integrations, network security policies, and compliance frameworks designed for advanced threat protection and governance.",
+    "sysadmin": "Encrypted Payloads refers to a modern firewall model, policy control point, evasion technique, or compliance-driven standard used in securing complex cloud, edge, and microservice networks.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83d\udcf6\ud83d\udd0d\ud83d\udccb",
+    "categories": [
+      "Firewall",
+      "Security",
+      "Cloud",
+      "Networking",
+      "Infrastructure",
+      "Monitoring"
+    ],
+    "related": [
+      "nmap scan",
+      "policy enforcement point",
+      "siem integration",
+      "deny by default",
+      "pci dss firewall requirements"
+    ],
+    "aliases": [
+      "encrypted payloads",
+      "ENCRYPTED PAYLOADS"
+    ],
+    "use_case": "A network engineer or security admin uses Encrypted Payloads to enforce traffic rules, detect threats, or meet industry firewall compliance standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "protocol obfuscation": {
+    "eli5": "Protocol Obfuscation is like a smart digital bodyguard that checks who\u2019s allowed in or out of your network and follows strict rules.",
+    "boss": "Protocol Obfuscation covers next-gen firewalls, logging integrations, network security policies, and compliance frameworks designed for advanced threat protection and governance.",
+    "sysadmin": "Protocol Obfuscation refers to a modern firewall model, policy control point, evasion technique, or compliance-driven standard used in securing complex cloud, edge, and microservice networks.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83d\udcf6\ud83d\udd0d\ud83d\udccb",
+    "categories": [
+      "Firewall",
+      "Security",
+      "Cloud",
+      "Networking",
+      "Infrastructure",
+      "Monitoring"
+    ],
+    "related": [
+      "nmap scan",
+      "policy enforcement point",
+      "siem integration",
+      "deny by default",
+      "pci dss firewall requirements"
+    ],
+    "aliases": [
+      "protocol obfuscation",
+      "PROTOCOL OBFUSCATION"
+    ],
+    "use_case": "A network engineer or security admin uses Protocol Obfuscation to enforce traffic rules, detect threats, or meet industry firewall compliance standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "best practices": {
+    "eli5": "Best Practices is like a smart digital bodyguard that checks who\u2019s allowed in or out of your network and follows strict rules.",
+    "boss": "Best Practices covers next-gen firewalls, logging integrations, network security policies, and compliance frameworks designed for advanced threat protection and governance.",
+    "sysadmin": "Best Practices refers to a modern firewall model, policy control point, evasion technique, or compliance-driven standard used in securing complex cloud, edge, and microservice networks.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83d\udcf6\ud83d\udd0d\ud83d\udccb",
+    "categories": [
+      "Firewall",
+      "Security",
+      "Cloud",
+      "Networking",
+      "Infrastructure",
+      "Monitoring"
+    ],
+    "related": [
+      "nmap scan",
+      "policy enforcement point",
+      "siem integration",
+      "deny by default",
+      "pci dss firewall requirements"
+    ],
+    "aliases": [
+      "best practices",
+      "BEST PRACTICES"
+    ],
+    "use_case": "A network engineer or security admin uses Best Practices to enforce traffic rules, detect threats, or meet industry firewall compliance standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "deny by default": {
+    "eli5": "Deny by Default is like a smart digital bodyguard that checks who\u2019s allowed in or out of your network and follows strict rules.",
+    "boss": "Deny by Default covers next-gen firewalls, logging integrations, network security policies, and compliance frameworks designed for advanced threat protection and governance.",
+    "sysadmin": "Deny by Default refers to a modern firewall model, policy control point, evasion technique, or compliance-driven standard used in securing complex cloud, edge, and microservice networks.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83d\udcf6\ud83d\udd0d\ud83d\udccb",
+    "categories": [
+      "Firewall",
+      "Security",
+      "Cloud",
+      "Networking",
+      "Infrastructure",
+      "Monitoring"
+    ],
+    "related": [
+      "nmap scan",
+      "policy enforcement point",
+      "siem integration",
+      "deny by default",
+      "pci dss firewall requirements"
+    ],
+    "aliases": [
+      "deny by default",
+      "DENY BY DEFAULT"
+    ],
+    "use_case": "A network engineer or security admin uses Deny by Default to enforce traffic rules, detect threats, or meet industry firewall compliance standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "layered security": {
+    "eli5": "Layered Security is like a smart digital bodyguard that checks who\u2019s allowed in or out of your network and follows strict rules.",
+    "boss": "Layered Security covers next-gen firewalls, logging integrations, network security policies, and compliance frameworks designed for advanced threat protection and governance.",
+    "sysadmin": "Layered Security refers to a modern firewall model, policy control point, evasion technique, or compliance-driven standard used in securing complex cloud, edge, and microservice networks.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83d\udcf6\ud83d\udd0d\ud83d\udccb",
+    "categories": [
+      "Firewall",
+      "Security",
+      "Cloud",
+      "Networking",
+      "Infrastructure",
+      "Monitoring"
+    ],
+    "related": [
+      "nmap scan",
+      "policy enforcement point",
+      "siem integration",
+      "deny by default",
+      "pci dss firewall requirements"
+    ],
+    "aliases": [
+      "layered security",
+      "LAYERED SECURITY"
+    ],
+    "use_case": "A network engineer or security admin uses Layered Security to enforce traffic rules, detect threats, or meet industry firewall compliance standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "rule documentation": {
+    "eli5": "Rule Documentation is like a smart digital bodyguard that checks who\u2019s allowed in or out of your network and follows strict rules.",
+    "boss": "Rule Documentation covers next-gen firewalls, logging integrations, network security policies, and compliance frameworks designed for advanced threat protection and governance.",
+    "sysadmin": "Rule Documentation refers to a modern firewall model, policy control point, evasion technique, or compliance-driven standard used in securing complex cloud, edge, and microservice networks.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83d\udcf6\ud83d\udd0d\ud83d\udccb",
+    "categories": [
+      "Firewall",
+      "Security",
+      "Cloud",
+      "Networking",
+      "Infrastructure",
+      "Monitoring"
+    ],
+    "related": [
+      "nmap scan",
+      "policy enforcement point",
+      "siem integration",
+      "deny by default",
+      "pci dss firewall requirements"
+    ],
+    "aliases": [
+      "rule documentation",
+      "RULE DOCUMENTATION"
+    ],
+    "use_case": "A network engineer or security admin uses Rule Documentation to enforce traffic rules, detect threats, or meet industry firewall compliance standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "rule review": {
+    "eli5": "Rule Review is like a smart digital bodyguard that checks who\u2019s allowed in or out of your network and follows strict rules.",
+    "boss": "Rule Review covers next-gen firewalls, logging integrations, network security policies, and compliance frameworks designed for advanced threat protection and governance.",
+    "sysadmin": "Rule Review refers to a modern firewall model, policy control point, evasion technique, or compliance-driven standard used in securing complex cloud, edge, and microservice networks.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83d\udcf6\ud83d\udd0d\ud83d\udccb",
+    "categories": [
+      "Firewall",
+      "Security",
+      "Cloud",
+      "Networking",
+      "Infrastructure",
+      "Monitoring"
+    ],
+    "related": [
+      "nmap scan",
+      "policy enforcement point",
+      "siem integration",
+      "deny by default",
+      "pci dss firewall requirements"
+    ],
+    "aliases": [
+      "rule review",
+      "RULE REVIEW"
+    ],
+    "use_case": "A network engineer or security admin uses Rule Review to enforce traffic rules, detect threats, or meet industry firewall compliance standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "change control": {
+    "eli5": "Change Control is like a smart digital bodyguard that checks who\u2019s allowed in or out of your network and follows strict rules.",
+    "boss": "Change Control covers next-gen firewalls, logging integrations, network security policies, and compliance frameworks designed for advanced threat protection and governance.",
+    "sysadmin": "Change Control refers to a modern firewall model, policy control point, evasion technique, or compliance-driven standard used in securing complex cloud, edge, and microservice networks.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83d\udcf6\ud83d\udd0d\ud83d\udccb",
+    "categories": [
+      "Firewall",
+      "Security",
+      "Cloud",
+      "Networking",
+      "Infrastructure",
+      "Monitoring"
+    ],
+    "related": [
+      "nmap scan",
+      "policy enforcement point",
+      "siem integration",
+      "deny by default",
+      "pci dss firewall requirements"
+    ],
+    "aliases": [
+      "change control",
+      "CHANGE CONTROL"
+    ],
+    "use_case": "A network engineer or security admin uses Change Control to enforce traffic rules, detect threats, or meet industry firewall compliance standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "firewall baseline": {
+    "eli5": "Firewall Baseline is like a smart digital bodyguard that checks who\u2019s allowed in or out of your network and follows strict rules.",
+    "boss": "Firewall Baseline covers next-gen firewalls, logging integrations, network security policies, and compliance frameworks designed for advanced threat protection and governance.",
+    "sysadmin": "Firewall Baseline refers to a modern firewall model, policy control point, evasion technique, or compliance-driven standard used in securing complex cloud, edge, and microservice networks.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83d\udcf6\ud83d\udd0d\ud83d\udccb",
+    "categories": [
+      "Firewall",
+      "Security",
+      "Cloud",
+      "Networking",
+      "Infrastructure",
+      "Monitoring"
+    ],
+    "related": [
+      "nmap scan",
+      "policy enforcement point",
+      "siem integration",
+      "deny by default",
+      "pci dss firewall requirements"
+    ],
+    "aliases": [
+      "firewall baseline",
+      "FIREWALL BASELINE"
+    ],
+    "use_case": "A network engineer or security admin uses Firewall Baseline to enforce traffic rules, detect threats, or meet industry firewall compliance standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "compliance & standards": {
+    "eli5": "Compliance & Standards is like a smart digital bodyguard that checks who\u2019s allowed in or out of your network and follows strict rules.",
+    "boss": "Compliance & Standards covers next-gen firewalls, logging integrations, network security policies, and compliance frameworks designed for advanced threat protection and governance.",
+    "sysadmin": "Compliance & Standards refers to a modern firewall model, policy control point, evasion technique, or compliance-driven standard used in securing complex cloud, edge, and microservice networks.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83d\udcf6\ud83d\udd0d\ud83d\udccb",
+    "categories": [
+      "Firewall",
+      "Security",
+      "Cloud",
+      "Networking",
+      "Infrastructure",
+      "Monitoring"
+    ],
+    "related": [
+      "nmap scan",
+      "policy enforcement point",
+      "siem integration",
+      "deny by default",
+      "pci dss firewall requirements"
+    ],
+    "aliases": [
+      "compliance & standards",
+      "COMPLIANCE & STANDARDS"
+    ],
+    "use_case": "A network engineer or security admin uses Compliance & Standards to enforce traffic rules, detect threats, or meet industry firewall compliance standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "pci dss firewall requirements": {
+    "eli5": "PCI DSS Firewall Requirements is like a smart digital bodyguard that checks who\u2019s allowed in or out of your network and follows strict rules.",
+    "boss": "PCI DSS Firewall Requirements covers next-gen firewalls, logging integrations, network security policies, and compliance frameworks designed for advanced threat protection and governance.",
+    "sysadmin": "PCI DSS Firewall Requirements refers to a modern firewall model, policy control point, evasion technique, or compliance-driven standard used in securing complex cloud, edge, and microservice networks.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83d\udcf6\ud83d\udd0d\ud83d\udccb",
+    "categories": [
+      "Firewall",
+      "Security",
+      "Cloud",
+      "Networking",
+      "Infrastructure",
+      "Monitoring"
+    ],
+    "related": [
+      "nmap scan",
+      "policy enforcement point",
+      "siem integration",
+      "deny by default",
+      "pci dss firewall requirements"
+    ],
+    "aliases": [
+      "pci dss firewall requirements",
+      "PCI DSS FIREWALL REQUIREMENTS"
+    ],
+    "use_case": "A network engineer or security admin uses PCI DSS Firewall Requirements to enforce traffic rules, detect threats, or meet industry firewall compliance standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "nist firewall guidelines": {
+    "eli5": "NIST Firewall Guidelines is like a smart digital bodyguard that checks who\u2019s allowed in or out of your network and follows strict rules.",
+    "boss": "NIST Firewall Guidelines covers next-gen firewalls, logging integrations, network security policies, and compliance frameworks designed for advanced threat protection and governance.",
+    "sysadmin": "NIST Firewall Guidelines refers to a modern firewall model, policy control point, evasion technique, or compliance-driven standard used in securing complex cloud, edge, and microservice networks.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83d\udcf6\ud83d\udd0d\ud83d\udccb",
+    "categories": [
+      "Firewall",
+      "Security",
+      "Cloud",
+      "Networking",
+      "Infrastructure",
+      "Monitoring"
+    ],
+    "related": [
+      "nmap scan",
+      "policy enforcement point",
+      "siem integration",
+      "deny by default",
+      "pci dss firewall requirements"
+    ],
+    "aliases": [
+      "nist firewall guidelines",
+      "NIST FIREWALL GUIDELINES"
+    ],
+    "use_case": "A network engineer or security admin uses NIST Firewall Guidelines to enforce traffic rules, detect threats, or meet industry firewall compliance standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "iso/iec 27001 controls": {
+    "eli5": "ISO/IEC 27001 Controls is like a smart digital bodyguard that checks who\u2019s allowed in or out of your network and follows strict rules.",
+    "boss": "ISO/IEC 27001 Controls covers next-gen firewalls, logging integrations, network security policies, and compliance frameworks designed for advanced threat protection and governance.",
+    "sysadmin": "ISO/IEC 27001 Controls refers to a modern firewall model, policy control point, evasion technique, or compliance-driven standard used in securing complex cloud, edge, and microservice networks.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83d\udcf6\ud83d\udd0d\ud83d\udccb",
+    "categories": [
+      "Firewall",
+      "Security",
+      "Cloud",
+      "Networking",
+      "Infrastructure",
+      "Monitoring"
+    ],
+    "related": [
+      "nmap scan",
+      "policy enforcement point",
+      "siem integration",
+      "deny by default",
+      "pci dss firewall requirements"
+    ],
+    "aliases": [
+      "iso/iec 27001 controls",
+      "ISO/IEC 27001 CONTROLS"
+    ],
+    "use_case": "A network engineer or security admin uses ISO/IEC 27001 Controls to enforce traffic rules, detect threats, or meet industry firewall compliance standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "firewall policy template": {
+    "eli5": "Firewall Policy Template is like a smart digital bodyguard that checks who\u2019s allowed in or out of your network and follows strict rules.",
+    "boss": "Firewall Policy Template covers next-gen firewalls, logging integrations, network security policies, and compliance frameworks designed for advanced threat protection and governance.",
+    "sysadmin": "Firewall Policy Template refers to a modern firewall model, policy control point, evasion technique, or compliance-driven standard used in securing complex cloud, edge, and microservice networks.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83d\udcf6\ud83d\udd0d\ud83d\udccb",
+    "categories": [
+      "Firewall",
+      "Security",
+      "Cloud",
+      "Networking",
+      "Infrastructure",
+      "Monitoring"
+    ],
+    "related": [
+      "nmap scan",
+      "policy enforcement point",
+      "siem integration",
+      "deny by default",
+      "pci dss firewall requirements"
+    ],
+    "aliases": [
+      "firewall policy template",
+      "FIREWALL POLICY TEMPLATE"
+    ],
+    "use_case": "A network engineer or security admin uses Firewall Policy Template to enforce traffic rules, detect threats, or meet industry firewall compliance standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "security policy": {
+    "eli5": "Security Policy is like a smart digital bodyguard that checks who\u2019s allowed in or out of your network and follows strict rules.",
+    "boss": "Security Policy covers next-gen firewalls, logging integrations, network security policies, and compliance frameworks designed for advanced threat protection and governance.",
+    "sysadmin": "Security Policy refers to a modern firewall model, policy control point, evasion technique, or compliance-driven standard used in securing complex cloud, edge, and microservice networks.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83d\udcf6\ud83d\udd0d\ud83d\udccb",
+    "categories": [
+      "Firewall",
+      "Security",
+      "Cloud",
+      "Networking",
+      "Infrastructure",
+      "Monitoring"
+    ],
+    "related": [
+      "nmap scan",
+      "policy enforcement point",
+      "siem integration",
+      "deny by default",
+      "pci dss firewall requirements"
+    ],
+    "aliases": [
+      "security policy",
+      "SECURITY POLICY"
+    ],
+    "use_case": "A network engineer or security admin uses Security Policy to enforce traffic rules, detect threats, or meet industry firewall compliance standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "network security posture": {
+    "eli5": "Network Security Posture is like a smart digital bodyguard that checks who\u2019s allowed in or out of your network and follows strict rules.",
+    "boss": "Network Security Posture covers next-gen firewalls, logging integrations, network security policies, and compliance frameworks designed for advanced threat protection and governance.",
+    "sysadmin": "Network Security Posture refers to a modern firewall model, policy control point, evasion technique, or compliance-driven standard used in securing complex cloud, edge, and microservice networks.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83d\udcf6\ud83d\udd0d\ud83d\udccb",
+    "categories": [
+      "Firewall",
+      "Security",
+      "Cloud",
+      "Networking",
+      "Infrastructure",
+      "Monitoring"
+    ],
+    "related": [
+      "nmap scan",
+      "policy enforcement point",
+      "siem integration",
+      "deny by default",
+      "pci dss firewall requirements"
+    ],
+    "aliases": [
+      "network security posture",
+      "NETWORK SECURITY POSTURE"
+    ],
+    "use_case": "A network engineer or security admin uses Network Security Posture to enforce traffic rules, detect threats, or meet industry firewall compliance standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "special use cases": {
+    "eli5": "Special Use Cases is like a smart digital bodyguard that checks who\u2019s allowed in or out of your network and follows strict rules.",
+    "boss": "Special Use Cases covers next-gen firewalls, logging integrations, network security policies, and compliance frameworks designed for advanced threat protection and governance.",
+    "sysadmin": "Special Use Cases refers to a modern firewall model, policy control point, evasion technique, or compliance-driven standard used in securing complex cloud, edge, and microservice networks.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83d\udcf6\ud83d\udd0d\ud83d\udccb",
+    "categories": [
+      "Firewall",
+      "Security",
+      "Cloud",
+      "Networking",
+      "Infrastructure",
+      "Monitoring"
+    ],
+    "related": [
+      "nmap scan",
+      "policy enforcement point",
+      "siem integration",
+      "deny by default",
+      "pci dss firewall requirements"
+    ],
+    "aliases": [
+      "special use cases",
+      "SPECIAL USE CASES"
+    ],
+    "use_case": "A network engineer or security admin uses Special Use Cases to enforce traffic rules, detect threats, or meet industry firewall compliance standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "edge firewall": {
+    "eli5": "Edge Firewall is like a smart digital bodyguard that checks who\u2019s allowed in or out of your network and follows strict rules.",
+    "boss": "Edge Firewall covers next-gen firewalls, logging integrations, network security policies, and compliance frameworks designed for advanced threat protection and governance.",
+    "sysadmin": "Edge Firewall refers to a modern firewall model, policy control point, evasion technique, or compliance-driven standard used in securing complex cloud, edge, and microservice networks.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83d\udcf6\ud83d\udd0d\ud83d\udccb",
+    "categories": [
+      "Firewall",
+      "Security",
+      "Cloud",
+      "Networking",
+      "Infrastructure",
+      "Monitoring"
+    ],
+    "related": [
+      "nmap scan",
+      "policy enforcement point",
+      "siem integration",
+      "deny by default",
+      "pci dss firewall requirements"
+    ],
+    "aliases": [
+      "edge firewall",
+      "EDGE FIREWALL"
+    ],
+    "use_case": "A network engineer or security admin uses Edge Firewall to enforce traffic rules, detect threats, or meet industry firewall compliance standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "perimeter firewall": {
+    "eli5": "Perimeter Firewall is like a smart digital bodyguard that checks who\u2019s allowed in or out of your network and follows strict rules.",
+    "boss": "Perimeter Firewall covers next-gen firewalls, logging integrations, network security policies, and compliance frameworks designed for advanced threat protection and governance.",
+    "sysadmin": "Perimeter Firewall refers to a modern firewall model, policy control point, evasion technique, or compliance-driven standard used in securing complex cloud, edge, and microservice networks.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83d\udcf6\ud83d\udd0d\ud83d\udccb",
+    "categories": [
+      "Firewall",
+      "Security",
+      "Cloud",
+      "Networking",
+      "Infrastructure",
+      "Monitoring"
+    ],
+    "related": [
+      "nmap scan",
+      "policy enforcement point",
+      "siem integration",
+      "deny by default",
+      "pci dss firewall requirements"
+    ],
+    "aliases": [
+      "perimeter firewall",
+      "PERIMETER FIREWALL"
+    ],
+    "use_case": "A network engineer or security admin uses Perimeter Firewall to enforce traffic rules, detect threats, or meet industry firewall compliance standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "internal firewall": {
+    "eli5": "Internal Firewall is like a smart digital bodyguard that checks who\u2019s allowed in or out of your network and follows strict rules.",
+    "boss": "Internal Firewall covers next-gen firewalls, logging integrations, network security policies, and compliance frameworks designed for advanced threat protection and governance.",
+    "sysadmin": "Internal Firewall refers to a modern firewall model, policy control point, evasion technique, or compliance-driven standard used in securing complex cloud, edge, and microservice networks.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83d\udcf6\ud83d\udd0d\ud83d\udccb",
+    "categories": [
+      "Firewall",
+      "Security",
+      "Cloud",
+      "Networking",
+      "Infrastructure",
+      "Monitoring"
+    ],
+    "related": [
+      "nmap scan",
+      "policy enforcement point",
+      "siem integration",
+      "deny by default",
+      "pci dss firewall requirements"
+    ],
+    "aliases": [
+      "internal firewall",
+      "INTERNAL FIREWALL"
+    ],
+    "use_case": "A network engineer or security admin uses Internal Firewall to enforce traffic rules, detect threats, or meet industry firewall compliance standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "kubernetes network policy": {
+    "eli5": "Kubernetes Network Policy is like a smart digital bodyguard that checks who\u2019s allowed in or out of your network and follows strict rules.",
+    "boss": "Kubernetes Network Policy covers next-gen firewalls, logging integrations, network security policies, and compliance frameworks designed for advanced threat protection and governance.",
+    "sysadmin": "Kubernetes Network Policy refers to a modern firewall model, policy control point, evasion technique, or compliance-driven standard used in securing complex cloud, edge, and microservice networks.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83d\udcf6\ud83d\udd0d\ud83d\udccb",
+    "categories": [
+      "Firewall",
+      "Security",
+      "Cloud",
+      "Networking",
+      "Infrastructure",
+      "Monitoring"
+    ],
+    "related": [
+      "nmap scan",
+      "policy enforcement point",
+      "siem integration",
+      "deny by default",
+      "pci dss firewall requirements"
+    ],
+    "aliases": [
+      "kubernetes network policy",
+      "KUBERNETES NETWORK POLICY"
+    ],
+    "use_case": "A network engineer or security admin uses Kubernetes Network Policy to enforce traffic rules, detect threats, or meet industry firewall compliance standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "pod firewall": {
+    "eli5": "Pod Firewall is like a smart digital bodyguard that checks who\u2019s allowed in or out of your network and follows strict rules.",
+    "boss": "Pod Firewall covers next-gen firewalls, logging integrations, network security policies, and compliance frameworks designed for advanced threat protection and governance.",
+    "sysadmin": "Pod Firewall refers to a modern firewall model, policy control point, evasion technique, or compliance-driven standard used in securing complex cloud, edge, and microservice networks.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83d\udcf6\ud83d\udd0d\ud83d\udccb",
+    "categories": [
+      "Firewall",
+      "Security",
+      "Cloud",
+      "Networking",
+      "Infrastructure",
+      "Monitoring"
+    ],
+    "related": [
+      "nmap scan",
+      "policy enforcement point",
+      "siem integration",
+      "deny by default",
+      "pci dss firewall requirements"
+    ],
+    "aliases": [
+      "pod firewall",
+      "POD FIREWALL"
+    ],
+    "use_case": "A network engineer or security admin uses Pod Firewall to enforce traffic rules, detect threats, or meet industry firewall compliance standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "service mesh policy (istio)": {
+    "eli5": "Service Mesh Policy (Istio) is like a smart digital bodyguard that checks who\u2019s allowed in or out of your network and follows strict rules.",
+    "boss": "Service Mesh Policy (Istio) covers next-gen firewalls, logging integrations, network security policies, and compliance frameworks designed for advanced threat protection and governance.",
+    "sysadmin": "Service Mesh Policy (Istio) refers to a modern firewall model, policy control point, evasion technique, or compliance-driven standard used in securing complex cloud, edge, and microservice networks.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83d\udcf6\ud83d\udd0d\ud83d\udccb",
+    "categories": [
+      "Firewall",
+      "Security",
+      "Cloud",
+      "Networking",
+      "Infrastructure",
+      "Monitoring"
+    ],
+    "related": [
+      "nmap scan",
+      "policy enforcement point",
+      "siem integration",
+      "deny by default",
+      "pci dss firewall requirements"
+    ],
+    "aliases": [
+      "service mesh policy (istio)",
+      "SERVICE MESH POLICY (ISTIO)"
+    ],
+    "use_case": "A network engineer or security admin uses Service Mesh Policy (Istio) to enforce traffic rules, detect threats, or meet industry firewall compliance standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "firewall troubleshooting": {
+    "eli5": "Firewall Troubleshooting is like a smart digital bodyguard that checks who\u2019s allowed in or out of your network and follows strict rules.",
+    "boss": "Firewall Troubleshooting covers next-gen firewalls, logging integrations, network security policies, and compliance frameworks designed for advanced threat protection and governance.",
+    "sysadmin": "Firewall Troubleshooting refers to a modern firewall model, policy control point, evasion technique, or compliance-driven standard used in securing complex cloud, edge, and microservice networks.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83d\udcf6\ud83d\udd0d\ud83d\udccb",
+    "categories": [
+      "Firewall",
+      "Security",
+      "Cloud",
+      "Networking",
+      "Infrastructure",
+      "Monitoring"
+    ],
+    "related": [
+      "nmap scan",
+      "policy enforcement point",
+      "siem integration",
+      "deny by default",
+      "pci dss firewall requirements"
+    ],
+    "aliases": [
+      "firewall troubleshooting",
+      "FIREWALL TROUBLESHOOTING"
+    ],
+    "use_case": "A network engineer or security admin uses Firewall Troubleshooting to enforce traffic rules, detect threats, or meet industry firewall compliance standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  },
+  "packet drop": {
+    "eli5": "Packet Drop is like a smart digital bodyguard that checks who\u2019s allowed in or out of your network and follows strict rules.",
+    "boss": "Packet Drop covers next-gen firewalls, logging integrations, network security policies, and compliance frameworks designed for advanced threat protection and governance.",
+    "sysadmin": "Packet Drop refers to a modern firewall model, policy control point, evasion technique, or compliance-driven standard used in securing complex cloud, edge, and microservice networks.",
+    "emoji": "\ud83d\udee1\ufe0f\ud83d\udcf6\ud83d\udd0d\ud83d\udccb",
+    "categories": [
+      "Firewall",
+      "Security",
+      "Cloud",
+      "Networking",
+      "Infrastructure",
+      "Monitoring"
+    ],
+    "related": [
+      "nmap scan",
+      "policy enforcement point",
+      "siem integration",
+      "deny by default",
+      "pci dss firewall requirements"
+    ],
+    "aliases": [
+      "packet drop",
+      "PACKET DROP"
+    ],
+    "use_case": "A network engineer or security admin uses Packet Drop to enforce traffic rules, detect threats, or meet industry firewall compliance standards.",
+    "jargon_score": 5,
+    "level": "Expert"
+  }
+}

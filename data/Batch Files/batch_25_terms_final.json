@@ -1,0 +1,200 @@
+{
+  "container": {
+    "eli5": "A container is like a lunchbox that holds your app and everything it needs to run.",
+    "boss": "A container packages software and its dependencies into a portable unit, ensuring consistent behavior across environments.",
+    "sysadmin": "Containers are isolated, lightweight runtime environments that package applications with their libraries, often using Docker or OCI standards.",
+    "emoji": "\ud83d\udce6\ud83d\udc33\ud83d\udd17",
+    "categories": [
+      "Virtualization",
+      "Infrastructure"
+    ],
+    "related": [
+      "Image",
+      "Volume",
+      "Docker",
+      "Podman"
+    ],
+    "aliases": [],
+    "use_case": "Used to deploy a web server in a reproducible, isolated environment.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "image": {
+    "eli5": "An image is like a recipe card for making containers\u2014it tells the computer how to build one.",
+    "boss": "A container image is a read-only template used to create running containers.",
+    "sysadmin": "Images are layered filesystem snapshots including binaries, libraries, and metadata; built with Dockerfiles or similar tools.",
+    "emoji": "\ud83e\uddfe\ud83d\udcf7\ud83d\udcbd",
+    "categories": [
+      "Virtualization",
+      "Infrastructure"
+    ],
+    "related": [
+      "Container",
+      "Docker",
+      "Alpine Image",
+      "Multi-Arch Image"
+    ],
+    "aliases": [
+      "Container Image"
+    ],
+    "use_case": "Used to spin up identical containers on different machines.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "volume": {
+    "eli5": "A volume is like a USB stick you plug into your lunchbox so it doesn\u2019t forget your notes.",
+    "boss": "Volumes provide persistent storage for containers beyond their life cycle.",
+    "sysadmin": "Volumes are managed storage drivers mounted into containers, used for data persistence and shared filesystems.",
+    "emoji": "\ud83d\udcbe\ud83d\udd04\ud83d\udcc1",
+    "categories": [
+      "Virtualization",
+      "Storage"
+    ],
+    "related": [
+      "Bind Mount",
+      "Container",
+      "Docker Compose"
+    ],
+    "aliases": [],
+    "use_case": "Used to store database data that survives container restarts.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "bind_mount": {
+    "eli5": "It\u2019s like giving your lunchbox a direct view into your kitchen\u2019s fridge.",
+    "boss": "A bind mount links a container folder to a host directory for shared access.",
+    "sysadmin": "Bind mounts map host filesystem paths directly into a container\u2019s filesystem, often used for live development or logs.",
+    "emoji": "\ud83d\udcce\ud83d\udd87\ufe0f\ud83d\uddc2\ufe0f",
+    "categories": [
+      "Virtualization",
+      "Filesystem"
+    ],
+    "related": [
+      "Volume",
+      "Container",
+      "Docker Compose"
+    ],
+    "aliases": [],
+    "use_case": "Used to mount configuration files from the host into containers.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "network_mode": {
+    "eli5": "It\u2019s like choosing if your lunchbox shares the same phone as the house or has its own number.",
+    "boss": "Network mode defines how a container connects to other services or the internet.",
+    "sysadmin": "Docker network modes include bridge, host, none, and container\u2014configuring container IP stack isolation or sharing.",
+    "emoji": "\ud83c\udf10\ud83e\udded\ud83d\udd0c",
+    "categories": [
+      "Virtualization",
+      "Networking"
+    ],
+    "related": [
+      "Container",
+      "Docker",
+      "Port Mapping"
+    ],
+    "aliases": [],
+    "use_case": "Used to give a container full access to the host network stack for better performance.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  },
+  "healthcheck": {
+    "eli5": "It\u2019s like a daily checkup that tells you if your lunchbox is still working.",
+    "boss": "Healthchecks are periodic tests to confirm a container or service is running as expected.",
+    "sysadmin": "Docker healthchecks define a command in the container that runs at intervals; if it fails, the container is marked unhealthy.",
+    "emoji": "\ud83e\ude7a\ud83d\udce6\u2705",
+    "categories": [
+      "Virtualization",
+      "Monitoring"
+    ],
+    "related": [
+      "Container",
+      "Portainer",
+      "Docker Compose"
+    ],
+    "aliases": [],
+    "use_case": "Used to restart a service if it becomes unresponsive or fails the healthcheck.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "port_mapping": {
+    "eli5": "It\u2019s like giving your toy a door number so friends know where to visit.",
+    "boss": "Port mapping allows external users to access services inside containers through specific host ports.",
+    "sysadmin": "Maps a container\u2019s internal port (e.g. 80) to a host port (e.g. 8080) for network accessibility outside the container.",
+    "emoji": "\ud83d\udce1\ud83d\udeaa\ud83d\udd22",
+    "categories": [
+      "Virtualization",
+      "Networking"
+    ],
+    "related": [
+      "Network Mode",
+      "Container",
+      "Docker"
+    ],
+    "aliases": [],
+    "use_case": "Used to expose a web service from a container to the host machine on port 8080.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "entrypoint": {
+    "eli5": "It\u2019s the first thing your lunchbox does when it wakes up.",
+    "boss": "Entrypoint defines the default command that runs when a container starts.",
+    "sysadmin": "Entrypoint in Docker specifies the main process to run inside the container, configurable via Dockerfile or CLI.",
+    "emoji": "\ud83c\udfc1\ud83d\udce5\u2699\ufe0f",
+    "categories": [
+      "Virtualization",
+      "Programming"
+    ],
+    "related": [
+      "Container",
+      "Image",
+      "Dockerfile"
+    ],
+    "aliases": [],
+    "use_case": "Used to set a Python script as the main process for a container.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "alpine_image": {
+    "eli5": "It\u2019s like a mini lunchbox\u2014super light and simple but still useful.",
+    "boss": "Alpine is a lightweight Linux-based container image that minimizes size and attack surface.",
+    "sysadmin": "The Alpine Docker image is under 5MB and uses musl and BusyBox, ideal for minimal containers.",
+    "emoji": "\ud83c\udfd4\ufe0f\ud83d\udce6\ud83e\udeb6",
+    "categories": [
+      "Virtualization",
+      "Linux"
+    ],
+    "related": [
+      "Image",
+      "Container",
+      "Multi-Arch Image"
+    ],
+    "aliases": [
+      "Alpine Linux Image"
+    ],
+    "use_case": "Used to reduce container size in microservices for faster build and deploy.",
+    "jargon_score": 3,
+    "level": "Intermediate"
+  },
+  "multi_arch_image": {
+    "eli5": "It\u2019s like a toy that works in both big and small toy houses without needing changes.",
+    "boss": "Multi-arch images let the same container run on different CPU architectures like x86 and ARM.",
+    "sysadmin": "Multi-architecture images bundle multiple platform variants using Docker manifests (e.g., amd64, arm64).",
+    "emoji": "\ud83c\udfd7\ufe0f\ud83d\udd00\ud83e\udde0",
+    "categories": [
+      "Virtualization",
+      "Infrastructure"
+    ],
+    "related": [
+      "Image",
+      "Alpine Image",
+      "Container"
+    ],
+    "aliases": [
+      "Multi-Architecture Image"
+    ],
+    "use_case": "Used to deploy the same image to both Raspberry Pi and x86_64 servers.",
+    "jargon_score": 4,
+    "level": "Advanced"
+  }
+}
