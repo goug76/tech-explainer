@@ -8,6 +8,10 @@ const explainBtn = document.getElementById("explainBtn");
 const themeToggleIcon = document.getElementById("themeToggleIcon");
 
 // ================================
+// Alias Mapping
+// ================================
+
+// ================================
 // Theme Toggle
 // ================================
 const themes = ["auto", "light", "dark"];
@@ -130,8 +134,9 @@ function fetchAndDisplayTerm(term) {
     return;
   }
 
-  const lookupKey = aliasLookup[term.toLowerCase()];
-  const data = lookupKey ? termsData[lookupKey] : null;
+  const normalized = term.toLowerCase();
+  const resolvedKey = aliasLookup[normalized];
+  const data = termsData[resolvedKey];
   
   if (!data) {
     results.innerHTML = `
@@ -224,8 +229,8 @@ function fetchAndDisplayTerm(term) {
     compareOutput.insertAdjacentElement("afterend", suggestionSection);
   }
 
-  updateMetaTags(lookupKey || term, data.eli5);
-  injectSchema(lookupKey || term, data);
+  updateMetaTags(term, data.eli5);
+  injectSchema(term, data);
   
   // ================================
   // Generate share URLs
@@ -475,7 +480,7 @@ function renderTermLinks(terms) {
   terms.sort().forEach(term => {
     const normalized = term.toLowerCase();
     const resolved = aliasLookup[normalized];
-    const data = resolved ? termsData[resolved] : null;
+    const data = termsData[resolved];
 
     const link = document.createElement("a");
     link.href = `?term=${encodeURIComponent(term)}`;
@@ -520,7 +525,7 @@ function setupCategoryFilter(allTerms) {
         ? allTerms
         : allTerms.filter(term => {
             const resolved = aliasLookup[term.toLowerCase()];
-        return resolved && termsData[resolved]?.categories?.includes(category);
+            return termsData[resolved]?.categories?.includes(category);
           });
 
       setupAlphabetFilter(filtered); // regenerate A-Z for filtered category
@@ -543,12 +548,12 @@ function renderCompareButtons(baseTerm, relatedTerms) {
 
   if (!relatedTerms || relatedTerms.length === 0) return;
   console.log("Related terms:", relatedTerms);
-  console.log("Valid terms:", relatedTerms.filter(t => termsData[aliasMap[t.toLowerCase()] || t.toLowerCase()]));
+  console.log("Valid terms:", relatedTerms.filter(t => termsData[aliasLookup[t.toLowerCase()]]));
   console.log("termsData keys:", Object.keys(termsData));
 
   relatedTerms
     .filter(t => {
-      const key = aliasMap[t.toLowerCase()] || t.toLowerCase();
+      const key = aliasLookup[t.toLowerCase()];
       return termsData[key]; // ✅ Only include if it exists in the JSON
     })
     .forEach(related => {
