@@ -33,7 +33,6 @@
 /etc
 /home
 /lib
-/lib64
 /lost+found
 /opt
 /proc
@@ -49,7 +48,6 @@
 1NF
 2.4GHz
 2FA
-2FA / MFA
 2NF
 301 Redirect
 302 Redirect
@@ -520,7 +518,6 @@ cloud based control
 Cloud Distribution Point
 Cloud Engineer
 Cloud Firewall
-Cloud Functions
 cloud image
 Cloud NAT
 Cloud Native Firewall
@@ -545,7 +542,6 @@ CLS
 Cluster
 Cluster Autoscaler
 Cluster Size
-Clustered Filesystems
 Clustered Firewall
 Clustered Index
 CM Console
@@ -587,8 +583,6 @@ Commands
 Commit
 Commit Hash
 Common Criteria
-Common Firewall Protocols
-Common Firewall Tools
 Compatibility Assessment
 Compatibility Mode
 Compliance
@@ -631,7 +625,6 @@ Container Networking
 Container Orchestration
 Container Registry
 Container Scanning
-Containers
 Containment
 Content Delivery Network
 Content Filtering
@@ -979,7 +972,6 @@ Elastic IP
 Elastic Security
 Elastic Stack
 ElasticSearch
-Elementary OS
 Elements Panel
 Elevated Prompt
 Eleventy
@@ -1119,7 +1111,6 @@ File Extension
 File Extensions
 File Handle
 File History
-File Permissions
 File Properties
 File System Hierarchy Standard
 File System Type
@@ -1129,9 +1120,7 @@ Fileless Malware
 Filesystem
 Filesystem Encryption
 Filesystem Errors
-Filesystem Features
 Filesystem Mount Namespace
-Filesystem Tools
 FileVault
 Filter Keys
 find
@@ -1226,7 +1215,6 @@ getmac
 GFS2
 Ghost
 GIAC
-GID
 Gigabit Ethernet
 Git
 Gitea
@@ -1695,7 +1683,6 @@ LibreNMS
 Libreswan
 Libsodium
 libvirt
-License Server
 License Tracking
 Licensing
 Lidarr
@@ -1712,7 +1699,6 @@ Linode
 Linting
 Linux
 Linux Distribution
-Linux Filesystem Types
 Linux Mint
 Liquid Cooling
 LiteSpeed
@@ -1768,16 +1754,15 @@ LTS
 LUKS
 Lustre
 lutron
+lvcreate
 lvm
 LXC
 LXD
 LXDE
 LXQt
-lz4
 M.2 Drive
 MAC
 mac address
-Mac Filesystem Types
 MAC Filtering
 MAC Spoofing
 MAC Table
@@ -1902,7 +1887,6 @@ Motherboard
 motion sensor
 Mount
 Mount Failure
-Mount Options
 Mount Point
 Mount Table
 mount.cifs
@@ -1997,7 +1981,6 @@ Network Stack
 Network Tab
 Network Tap
 Network Zones
-Networked Filesystems
 Networking
 New Relic
 New-CMApplication
@@ -2013,6 +1996,7 @@ NFS
 NFS Share
 nftables
 NFV
+Nginx
 NGINX Proxy Manager
 NIC Teaming
 Nice Value
@@ -2152,7 +2136,6 @@ P2P File Sharing
 Package Distribution
 Package ID
 Package Management
-Package Manager
 Package Repository
 Package Status
 Package.json
@@ -2307,7 +2290,6 @@ Power Supply Unit
 PowerDNS
 Powerline Adapter
 Powerline Networking
-PowerShell
 PowerShell & Automation
 PowerShell Core
 PowerShell Script
@@ -2687,7 +2669,6 @@ Security Awareness
 Security Awareness Training
 Security Baseline
 Security by Design
-Security Certifications
 Security Culture
 Security Engineer
 Security Event
@@ -3250,7 +3231,6 @@ User State
 User Story
 Useradd
 Usermod
-Username/Password
 USMT
 UUID
 v_Views
@@ -3269,6 +3249,7 @@ Versioning
 Vertical Mouse
 Vertical Scaling
 vfat
+VGA
 VGA Port
 VHD / VHDX
 vibration sensor
@@ -3304,7 +3285,6 @@ voice trigger
 Volume
 Volume Group
 Volume Licensing
-Volume Management
 Volume Shadow Copy
 VPC
 VPN
@@ -3313,7 +3293,6 @@ VPN Alternatives
 VPN App
 VPN Appliance
 VPN Authentication
-VPN Authentication Methods
 VPN Bans
 VPN Bridging
 VPN Bypass
@@ -3340,10 +3319,8 @@ VPN on OPNsense
 VPN on pfSense
 VPN Passthrough
 VPN Profile
-VPN Protocols
 VPN Server
 VPN Session
-VPN Topologies
 VPN Tunnel
 VPN Use Cases
 VRM
@@ -3397,7 +3374,6 @@ whatis
 WHERE
 White Hat Hacker
 who
-whoami
 Wide Column Store
 wifi
 Wi-Fi 6

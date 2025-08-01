@@ -1,38 +1,36 @@
-Using the following structure, create a new entry for the tech term: "{TERM_HERE}"
+You are helping create entries for the Tech Decoded glossary. Each batch contains exactly 50 tech terms. For every batch, return valid JSON only—no extra explanation, no Markdown formatting.
 
 Each term must follow this JSON format:
 {
-  "{term}": {
-    "eli5": "Explain like I'm 5 summary – simple analogy or metaphor for beginners.",
-    "boss": "High-level explanation for a business decision maker.",
-    "sysadmin": "Technical explanation suited for a sysadmin, dev, or engineer.",
-    "emoji": "Relevant emojis that capture the term's function or vibe.",
-    "categories": [ "Choose from the allowed list below" ],
-    "related": [ "List 2–5 related terms that would be in the same glossary." ],
-    "aliases": [ "List of alternative spellings, acronyms, or variations" ],
-    "use_case": "One real-world use case or example of how the term is used.",
+  "term": {
+    "eli5": "Simple metaphor or analogy for beginners.",
+    "boss": "High-level explanation for business decision makers.",
+    "sysadmin": "Technical explanation for sysadmins or engineers.",
+    "emoji": "Relevant emojis capturing the term’s function or vibe.",
+    "categories": ["Pick from the allowed list below."],
+    "related": ["2–5 related terms that already exist in glossary.txt"],
+    "aliases": ["Alternate spellings, acronyms, or dashless versions"],
+    "use_case": "One realistic, specific real-world use case.",
     "jargon_score": [1-5], // 1 = beginner, 5 = highly technical
     "level": "Beginner | Intermediate | Advanced | Expert"
-  }
 }
 
 📚 Only use categories from this predefined list:
-[
-  "Networking", "Security", "Smart Home", "DevOps", "Database", "Backup", "File Sync", "Web",
-  "APIs", "Programming", "Languages", "IoT", "Monitoring", "Virtualization", "Privacy",
-  "Encryption", "Firewall", "VPN", "DNS", "CLI", "Search", "Analytics", "Cloud", "Automation",
-  "Infrastructure", "Storage", "Filesystem", "Self-hosting", "Reverse Proxy", "Text Processing",
-  "Data Processing", "NoSQL", "SQL", "Version Control", "Learning", "Productivity",
-  "Collaboration", "Configuration Management", "Linux", "Windows", "Mac", "Apple Ecosystem",
-  "Microsoft", "Enterprise", "Open Source"
-]
+["Networking","Security","Privacy","Firewall","VPN","Smart Home","IoT","DevOps","Infrastructure","Virtualization","Cloud","Backup","Storage","Database","Automation","Monitoring","Programming","APIs","Web","Operating Systems","Configuration Management","Productivity","Collaboration","Self-hosting","Filesystems","Search","Analytics","Encryption","Command Line","Version Control","Open Source","Hardware","Scripting","Containers","Mobile","Web Security","Identity & Access","Networking Protocols"]
 
 📌 Notes:
-- Use lowercase for the term key.
-- Do not repeat the same text across `eli5`, `boss`, and `sysadmin`.
-- Include `aliases` such as acronyms, alternate spellings, or casing (e.g., "BLE" for "Bluetooth Low Energy").
-- Match the tone, depth, and style of entries in Tech Decoded.
-- Output valid JSON only with no explanation or extra text.
+- Output only JSON, no comments or headers
+- Process all 50 terms at once—no previews.
+- Term key must be lowercase.
+- Never reuse definitions across `eli5`, `boss`, and `sysadmin`.
+- Only include alia`ses if:
+  - The term is commonly known by another name or acronym.
+  - The term includes a dash (provide both dashed and undashed versions).
+- Never use underscores (`_`) in terms, aliases, or related fields.
+- Only use related terms found in the attached `glossary.txt`.
+- Match the tone and depth used in other Tech Decoded entries: casual, helpful, and layered for different audiences.
+- Each `use_case` must feel realistic and grounded—not generic or vague.
+- Track batches by filename (`batch_001.json`, `batch_002.json`) 
 
 
 Example:

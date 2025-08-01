@@ -1,5 +1,5 @@
 # Set the path to the folder containing the JSON files
-$inputFolder = "data\Batch Files"
+$inputFolder = "data\batch"
 $outputFile = "data\terms.json"
 
 # Increase depth for ConvertTo-Json (PowerShell 5.1 default is only 2)

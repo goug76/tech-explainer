@@ -1,5 +1,5 @@
 # Define paths
-$jsonPath = "data\terms.json"
+$jsonPath = "data\batch\done\batch_04.json"
 $termsOutput = "scripts\terms.txt"
 $missingOutput = "scripts\missing_terms.txt"
 

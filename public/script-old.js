@@ -8,6 +8,15 @@ const explainBtn = document.getElementById("explainBtn");
 const themeToggleIcon = document.getElementById("themeToggleIcon");
 
 // ================================
+// Alias Mapping
+// ================================
+const aliasMap = {
+  "z-wave": "zwave",
+  "wi-fi": "wifi",
+  "e-mail": "email"
+};
+
+// ================================
 // Theme Toggle
 // ================================
 const themes = ["auto", "light", "dark"];
@@ -130,8 +139,9 @@ function fetchAndDisplayTerm(term) {
     return;
   }
 
-  const lookupKey = aliasLookup[term.toLowerCase()];
-  const data = lookupKey ? termsData[lookupKey] : null;
+  const normalized = term.toLowerCase();
+  const resolvedKey = aliasMap[normalized] || normalized;
+  const data = termsData[resolvedKey];
   
   if (!data) {
     results.innerHTML = `
@@ -224,8 +234,8 @@ function fetchAndDisplayTerm(term) {
     compareOutput.insertAdjacentElement("afterend", suggestionSection);
   }
 
-  updateMetaTags(lookupKey || term, data.eli5);
-  injectSchema(lookupKey || term, data);
+  updateMetaTags(term, data.eli5);
+  injectSchema(term, data);
   
   // ================================
   // Generate share URLs
@@ -297,17 +307,6 @@ window.addEventListener("DOMContentLoaded", () => {
     .then(data => {
       termsData = data;
       termList = Object.keys(data);
-
-      // ✅ Build alias lookup map from terms.json structure
-      aliasLookup = {};
-      for (const [term, info] of Object.entries(data)) {
-        aliasLookup[term.toLowerCase()] = term;
-        if (info.aliases) {
-          info.aliases.forEach(alias => {
-            aliasLookup[alias.toLowerCase()] = term;
-          });
-        }
-      }
 
       // Add aliases to termList
       for (const alias in aliasMap) {
@@ -474,8 +473,8 @@ function renderTermLinks(terms) {
 
   terms.sort().forEach(term => {
     const normalized = term.toLowerCase();
-    const resolved = aliasLookup[normalized];
-    const data = resolved ? termsData[resolved] : null;
+    const resolved = aliasMap[normalized] || normalized;
+    const data = termsData[resolved];
 
     const link = document.createElement("a");
     link.href = `?term=${encodeURIComponent(term)}`;
@@ -519,8 +518,8 @@ function setupCategoryFilter(allTerms) {
       const filtered = category === "All"
         ? allTerms
         : allTerms.filter(term => {
-            const resolved = aliasLookup[term.toLowerCase()];
-        return resolved && termsData[resolved]?.categories?.includes(category);
+            const resolved = aliasMap[term.toLowerCase()] || term.toLowerCase();
+            return termsData[resolved]?.categories?.includes(category);
           });
 
       setupAlphabetFilter(filtered); // regenerate A-Z for filtered category
@@ -564,8 +563,8 @@ function renderCompareButtons(baseTerm, relatedTerms) {
 }
 
 function showTermComparison(termA, termB) {
-  const resolvedA = aliasLookup[termA.toLowerCase()];
-  const resolvedB = aliasLookup[termB.toLowerCase()];
+  const resolvedA = aliasMap[termA.toLowerCase()] || termA.toLowerCase();
+  const resolvedB = aliasMap[termB.toLowerCase()] || termB.toLowerCase();
 
   const dataA = termsData[resolvedA];
   const dataB = termsData[resolvedB];
