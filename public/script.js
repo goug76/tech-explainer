@@ -114,7 +114,7 @@ function updateHighlight(items) {
 // ================================
 // Hide suggestions on blur
 // ================================
-termInput.addEventListener("blur", () => setTimeout(() => (suggestions.style.display = "none"), 150));
+termInput.addEventListener("blur", () => suggestions.style.display = "none");
 
 // ================================
 // Explain Button Logic
@@ -547,9 +547,6 @@ function renderCompareButtons(baseTerm, relatedTerms) {
   output.classList.add("hidden");
 
   if (!relatedTerms || relatedTerms.length === 0) return;
-  console.log("Related terms:", relatedTerms);
-  console.log("Valid terms:", relatedTerms.filter(t => termsData[aliasLookup[t.toLowerCase()]]));
-  console.log("termsData keys:", Object.keys(termsData));
 
   relatedTerms
     .filter(t => {
@@ -589,7 +586,6 @@ function showTermComparison(termA, termB) {
   }
 
   container.classList.remove("hidden");
-  console.log("Compare container element:", container);
   container.innerHTML = `
     <h2>Comparing: ${resolvedA.toUpperCase()} vs ${resolvedB.toUpperCase()}</h2>
     <div class="compare-columns">      
