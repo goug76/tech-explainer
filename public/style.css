@@ -18,6 +18,7 @@
   --accent-color: #e9ecef;
   --border-color: #ccc;
   --link-color: #1a0dab;
+  --box-shadow: 0 10px 25px rgba(0, 0, 0, 0.05);
 }
 
 [data-theme="dark"] {
@@ -25,6 +26,7 @@
   --text-color: #f0f0f0;
   --accent-color: #2b2f33;
   --link-color: #66b2ff;
+  --box-shadow: 0 10px 25px rgba(255, 255, 255, 0.05);
 }
 
 a {
@@ -99,7 +101,7 @@ body {
 #container {
   text-align: center;
   background: var(--bg-color);
-  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.05);
+  box-shadow: var(--box-shadow);
   border-radius: 12px;
 }
 
