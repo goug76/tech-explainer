@@ -150,43 +150,46 @@ function fetchAndDisplayTerm(term) {
   }
 
   results.innerHTML = `
-    <h2>${term.toUpperCase()}</h2>
-    <div class="explanation">
-      <div class="label"><strong>🧒 Explain Like I’m 5: </strong>${data.eli5}</div>
-      <div class="label"><strong>💼 Explain to a Boss: </strong>${data.boss}</div>
-      <div class="label"><strong>🧑‍💻 Explain to a Sysadmin: </strong>${data.sysadmin}</div>
-      <div class="label"><strong>😹 Emoji Summary: </strong>${data.emoji}</div>
-      <hr class="info-separator" />
-      ${data.use_case ? `<div class="label"><strong>🛠️ Use Case: </strong>${data.use_case}</div>` : ""}
-      ${data.jargon_score ? `
-        <div class="label"><strong>📏 Jargon Score: </strong>
-          <span class="tooltip" title="${getJargonTooltip(data.jargon_score)}">
-            ${"★".repeat(data.jargon_score)}${"☆".repeat(5 - data.jargon_score)}
-          </span>
-        </div>` : ""}
-      ${data.level ? `<div class="label"><strong>🎓 Complexity Level: </strong>${data.level}</div>` : ""}
-      ${data.categories ? `
-        <div class="label"><strong>📚 Categories: </strong>
-          ${data.categories.map(cat => `<span class="category-tag">${cat}</span>`).join(" ")}
-        </div>` : ""}
-      ${data.related ? `
-        <div class="label"><strong>🔗 Related Terms: </strong>
-          ${data.related.map(t => `<button class="related-btn" data-term="${t}">${t}</button>`).join(" ")}
-        </div>` : ""}
+    <div class="definition-card">
+      <h2>${term.toUpperCase()}</h2>
+      <div class="term-emoji-display">${data.emoji || '📘'}</div>
+      <div class="explanation">
+        <div class="definition-section"><strong>🧒 Explain Like I’m 5: </strong><p>${data.eli5}</p></div>
+        <div class="definition-section"><strong>💼 Explain to a Boss: </strong><p>${data.boss}</p></div>
+        <div class="definition-section"><strong>🧑‍💻 Explain to a Sysadmin: </strong><p>${data.sysadmin}</p></div>
+        <hr class="info-separator" />
+        ${data.use_case ? `<div class="definition-section"><strong>🛠️ Use Case: </strong><p>${data.use_case}</p></div>` : ""}
+        ${data.jargon_score ? `
+          <div class="definition-section"><strong>📏 Jargon Score: </strong>
+            <span class="tooltip" title="${getJargonTooltip(data.jargon_score)}">
+              ${"★".repeat(data.jargon_score)}${"☆".repeat(5 - data.jargon_score)}
+            </span>
+            <span class="jargon-badge">${getJargonTooltip(data.jargon_score)}</span>
+          </div>` : ""}
+        ${data.level ? `<div class="definition-section"><strong>🎓 Complexity Level: </strong><p>${data.level}</p></div>` : ""}
+        ${data.categories ? `
+          <div class="definition-section"><strong>📚 Categories: </strong><p>
+            ${data.categories.map(cat => `<span class="category-tag">${cat}</span>`).join(" ")}
+          </p></div>` : ""}
+        ${data.related ? `
+          <div class="definition-section"><strong>🔗 Related Terms: </strong><p>
+            ${data.related.map(t => `<button class="related-btn" data-term="${t}">${t}</button>`).join(" ")}
+          </p></div>` : ""}
 
-        <div id="comparePlaceholder"></div> <!-- ✅ INSERT THIS -->
+          <div id="comparePlaceholder"></div> <!-- ✅ INSERT THIS -->
 
-        <div id="shareButtons" class="share-buttons">
-          <strong>📣 Share this explanation: </strong>
-          <a id="twitterShare" href="#" target="_blank" title="Share on X/Twitter">
-            <img src="img/x.svg" alt="Share on X" class="share-icon" />
-          </a>
-          <a id="facebookShare" href="#" target="_blank" title="Share on Facebook">
-            <img src="img/facebook.svg" alt="Share on Facebook" class="share-icon" />
-          </a>
-          <a id="redditShare" href="#" target="_blank" title="Share on Reddit">
-            <img src="img/reddit.svg" alt="Share on Reddit" class="share-icon" />
-          </a>
+          <div id="shareButtons" class="share-buttons">
+            <strong>📣 Share this explanation: </strong>
+            <a id="twitterShare" href="#" target="_blank" title="Share on X/Twitter">
+              <img src="img/x.svg" alt="Share on X" class="share-icon" />
+            </a>
+            <a id="facebookShare" href="#" target="_blank" title="Share on Facebook">
+              <img src="img/facebook.svg" alt="Share on Facebook" class="share-icon" />
+            </a>
+            <a id="redditShare" href="#" target="_blank" title="Share on Reddit">
+              <img src="img/reddit.svg" alt="Share on Reddit" class="share-icon" />
+            </a>
+          </div>
         </div>
     </div>    
   `;
