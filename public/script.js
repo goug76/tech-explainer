@@ -323,10 +323,16 @@ window.addEventListener("DOMContentLoaded", () => {
 
       showDailyTerm(data);
 
+      // ✅ Filter only real, resolvable terms
+      const visibleTerms = termList.filter(t => {
+        const resolved = aliasLookup[t.toLowerCase()] || t.toLowerCase();
+        return termsData[resolved];
+      });
+
       // Setup filters and sitemap
-      setupCategoryFilter(termList);
-      setupAlphabetFilter(termList);
-      renderTermLinks(termList);
+      setupCategoryFilter(visibleTerms);
+      setupAlphabetFilter(visibleTerms);
+      renderTermLinks(visibleTerms);
 
       // ✅ Comparison view
       if (compareParam) {
@@ -344,39 +350,40 @@ window.addEventListener("DOMContentLoaded", () => {
       }
     });
 
-    // Daily Term
-    function getDailyHashKey() {
-      const now = new Date();
-      const yyyy = now.getFullYear();
-      const mm = now.getMonth() + 1;
-      const dd = now.getDate();
-      return `termOfDay-${yyyy}-${mm}-${dd}`;
+  // ========== Support functions defined inside ==========
+
+  // Daily Term
+  function getDailyHashKey() {
+    const now = new Date();
+    const yyyy = now.getFullYear();
+    const mm = now.getMonth() + 1;
+    const dd = now.getDate();
+    return `termOfDay-${yyyy}-${mm}-${dd}`;
+  }
+
+  function showDailyTerm(termsData) {
+    const key = getDailyHashKey();
+    let stored = localStorage.getItem(key);
+
+    if (!stored) {
+      const termKeys = Object.keys(termsData).filter(k => termsData[k]?.eli5);
+      const randomKey = termKeys[Math.floor(Math.random() * termKeys.length)];
+      localStorage.setItem(key, randomKey);
+      stored = randomKey;
     }
 
-    function showDailyTerm(termsData) {
-      const key = getDailyHashKey();
-      let stored = localStorage.getItem(key);
+    const data = termsData[stored];
+    const dailyTermDiv = document.getElementById("dailyTerm");
 
-      if (!stored) {
-        const termKeys = Object.keys(termsData);
-        const randomKey = termKeys[Math.floor(Math.random() * termKeys.length)];
-        localStorage.setItem(key, randomKey);
-        stored = randomKey;
-      }
-
-      const data = termsData[stored];
-      const dailyTermDiv = document.getElementById("dailyTerm");
-
-      if (data && dailyTermDiv) {
-        dailyTermDiv.innerHTML = `
-          <h3><span class="term-emoji">${data.emoji || '📘'}</span> Term of the Day: <strong>${stored.toUpperCase()}</strong></h3>
-          <p class="term-explainer">${data.eli5}</p>
-          <button onclick="fetchAndDisplayTerm('${stored}')">Learn More</button>
-        `;
-        dailyTermDiv.classList.remove("hidden");
-      }
+    if (data && dailyTermDiv) {
+      dailyTermDiv.innerHTML = `
+        <h3><span class="term-emoji">${data.emoji || '📘'}</span> Term of the Day: <strong>${stored.toUpperCase()}</strong></h3>
+        <p class="term-explainer">${data.eli5}</p>
+        <button onclick="fetchAndDisplayTerm('${stored}')">Learn More</button>
+      `;
+      dailyTermDiv.classList.remove("hidden");
     }
-
+  }
 });
 
 // ================================
