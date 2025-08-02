@@ -314,13 +314,6 @@ window.addEventListener("DOMContentLoaded", () => {
         }
       }
 
-      // Add aliases to termList
-      for (const alias in aliasMap) {
-        if (!termList.includes(alias)) {
-          termList.push(alias);
-        }
-      }
-
       showDailyTerm(data);
 
       // ✅ Filter only real, resolvable terms
