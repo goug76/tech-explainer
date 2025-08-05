@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- 🔖 SEO Essentials -->
+  <title>Tech Decoded | Simplifying Tech, One Term at a Time</title>
+  <meta name="description" content="Tech Decoded breaks down complex tech terms into plain English. Learn what acronyms like DNS, API, or MQTT mean with beginner-friendly explanations for developers, students, and curious minds.">
+  <meta name="keywords" content="Tech Decoded, tech terms explained, simplify tech, technology glossary, what is DNS, explain MQTT, IoT terms, smart home glossary, Home Assistant, Zigbee, Matter, Thread, networking basics, beginner tech terms, sysadmin terms, decode tech, explain like I'm 5" />
+  <meta name="author" content="Tech Decoded by GougLab" />
+
+  <!-- Open Graph (for social sharing) -->
+<meta property="og:title" content="Tech Decoded | Simplifying Tech, One Term at a Time">
+<meta property="og:description" content="Discover simple, jargon-free explanations for tech terms like DNS, API, and IoT. Learn tech the easy way with Tech Decoded.">
+<meta property="og:image" content="https://learntechterms.com/img/techDecoded.png">
+<meta property="og:url" content="https://learntechterms.com/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Tech Decoded" />
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Tech Decoded | Simplifying Tech, One Term at a Time">
+<meta name="twitter:description" content="Understand tech acronyms and buzzwords with ease. Tech Decoded explains tech one term at a time.">
+<meta name="twitter:image" content="https://learntechterms.com/img/techDecoded.png">
+
+  <!-- 🔖 Favicon -->
+  <link rel="icon" href="img/gouglab.ico" type="image/x-icon" />
+
+  <!-- 🎨 Styles -->
+
+  <!-- Ad Sense -->
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4485137229636360"
+    crossorigin="anonymous"></script>
+  <script type="module" crossorigin src="/assets/main-CLI61F_o.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/main-BCtYL-qT.css">
+</head>
+<body>
+  <!-- 📌 Page Header: Branding + Search -->
+  <header class="wrapper">
+    <div id="dailyTerm" class="fade-in hidden"></div>
+    <div id="container">
+      <!-- Theme Toggle & Help -->
+      <div id="topControls">
+        <img id="themeToggleIcon" src="img/mode_icon_1.png" alt="Toggle Theme" title="Toggle Theme" />
+      </div>
+
+      <section id="main" class="card">
+        <h1>🧠 Tech Decoded</h1>
+        <p class="subtitle">Type a tech term and hit <strong>Enter</strong> to decode it</p>
+
+        <div class="search-wrapper">
+          <input type="text" id="termInput" placeholder="Enter a tech term (e.g., DNS, MQTT)..." autofocus
+            onkeydown="if(event.key === 'Enter') document.getElementById('explainBtn').click();" autocomplete="off" />
+          <ul id="suggestions" class="suggestion-box"></ul>
+        </div>
+        <div class="btn-wrapper">
+          <button id="explainBtn" class="main-btn">🧠 Explain It</button>
+          <button id="randomBtn" class="random-btn main-btn">🎲 Surprise Me</button>
+        </div>
+      </section><!-- END main -->
+      
+        <!-- Keep results right under the input for visibility -->
+        <div id="results" class="fade-in"></div>
+      
+    </div><!-- END container -->
+  </header><!-- END wrapper -->
+
+  <section id="howToUse" class="explanation" aria-labelledby="howToUseTitle">
+    <article>
+      <details>
+        <summary><h2 id="howToUseTitle">📘 How to Use Tech Decoded – The Ultimate Guide to Simplifying Tech</h2></summary>
+        <p>
+          Ever felt overwhelmed by tech lingo like 
+          <strong><a href="?term=dns">DNS</a></strong>, 
+          <strong><a href="?term=zigbee">Zigbee</a></strong>, or 
+          <strong><a href="?term=mqtt">MQTT</a></strong>? 
+          You're not alone. Technology evolves fast, and the language around it can feel like a moving target. 
+          <strong>Tech Decoded</strong> exists to turn that confusion into clarity—one term at a time.
+        </p>
+
+        <section>
+          <p>
+            This explainer tool is designed for <strong>everyday users, IT pros, students, and smart home hobbyists</strong> alike. Whether you're configuring a new router, 
+            diving into <strong><a href="?term=ble">BLE</a></strong> protocols, researching <strong><a href="?term=ai">AI models</a></strong>, or just curious about 
+            <strong><a href="?term=api">APIs</a></strong>, Tech Decoded gives you easy-to-understand explanations that match your level of experience.
+          </p>
+
+          <p>
+            All terms are organized by category—like <strong>Networking</strong>, <strong>IoT & Smart Home</strong>, <strong>Programming Languages</strong>, 
+            <strong>Security & Privacy</strong>, and more—so you can learn by topic. Each definition includes:
+          </p>
+        </section>
+
+        <section>
+          <h3>🔍 What You'll Get</h3>
+          <ul>
+            <li><strong>Explain Like I’m 5 (ELI5)</strong> – simple language that makes tough concepts click</li>
+            <li><strong>Boss-Level Summaries</strong> – for non-technical readers or quick project briefs</li>
+            <li><strong>Sysadmin & Developer Breakdowns</strong> – with context, tools, and practical examples</li>
+            <li><strong>Emoji Snapshots</strong> – instantly summarize a term's tone or purpose</li>
+            <li><strong>Jargon Score</strong> – rates how intimidating a term is, from 1 (easy) to 5 (pure engineer)</li>
+            <li><strong>Use Cases</strong> – shows how the term is used in real-world tech stacks or workflows</li>
+            <li><strong>Categories & Related Terms</strong> – connect the dots and learn faster</li>
+          </ul>
+        </section>
+
+        <section>
+          <h3>🤖 Why Understanding Tech Terms Matters</h3>
+          <p>
+            The tech world runs on acronyms, protocols, and buzzwords. If you work with <strong>automation</strong>, manage your own <strong>smart home</strong>, deploy apps to the <strong>cloud</strong>, 
+            or even just read tech news—you’ll constantly run into unfamiliar terminology.
+          </p>
+          <p>
+            Tech Decoded helps you decode those terms, so you can make informed decisions. It’s not just about definitions—it’s about <strong>empowerment through understanding</strong>.
+          </p>
+        </section>
+
+        <section>
+          <h3>👋 Why I Built This</h3>
+          <p>
+            I'm a systems engineer and smart home blogger who got tired of how hard it was to find clear, jargon-free explanations. So I built this site to help others like me—people who want to understand 
+            their tools, projects, and environments without needing a CS degree. Think of this site as your friendly tech glossary that actually speaks your language.
+          </p>
+        </section>
+
+        <footer>
+          <p>
+            💡 <em>Start now: type a term above and hit Enter.</em> Or <a href="#sitemap">browse the glossary</a> by category or alphabet to discover new tech terms.
+          </p>
+        </footer>
+      </details>
+    </article>
+  </section>
+
+  <footer>    
+    <section id="sitemap">
+      <h2>Glossary of Terms</h2>
+      <div id="alphabetFilter" class="alphabet-filter"></div>
+
+      <h3>Categories</h3>
+      <div id="categoryFilter" class="category-filter"></div>
+
+      <div id="sitemapCountTop" class="sitemap-count"></div>
+      <div id="termLinks" class="sitemap-links"></div>
+      <div id="sitemapCountBottom" class="sitemap-count"></div>
+    </section>
+  </footer>
+  <div id="customTooltip" class="glossary-tooltip">
+    <div class="glossary-title"></div>
+    <div class="glossary-body"></div>
+  </div>
+  <div id="compareModal" class="glossary-modal hidden">
+    <div class="modal-content">
+      <button class="modal-close" aria-label="Close">×</button>
+      <div id="compareOutput" class="compare-output"></div>
+    </div>
+  </div>
+
+</body>
+</html>
