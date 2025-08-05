@@ -1,0 +1,26 @@
+{
+  "name": "tech-explainer",
+  "version": "1.0.0",
+  "description": "A one-page tool that explains tech terms in plain English.",
+  "main": "vite.config.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goug76/tech-explainer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goug76/tech-explainer/issues"
+  },
+  "homepage": "https://github.com/goug76/tech-explainer#readme",
+  "dependencies": {
+    "sass": "^1.89.2",
+    "vite": "^7.0.6"
+  }
+}

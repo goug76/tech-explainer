@@ -1,0 +1,28 @@
+# Node
+node_modules/
+dist/
+.vite/
+.cache/
+
+# Build artifacts
+*.log
+*.tmp
+*.temp
+*.pid
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDE-specific
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Netlify
+.netlify/
+
+# Environment files
+.env
+.env.*

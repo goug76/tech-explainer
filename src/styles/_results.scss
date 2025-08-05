@@ -1,0 +1,168 @@
+/* ===================
+   Results Section
+=================== */
+#results {
+  text-align: left;
+  font-size: 0.95rem;
+  line-height: 1.6;
+  width: 100%;
+  max-width: 900px;
+  overflow: visible; /* Allow content to expand */
+}
+
+.explanation {
+  margin-top: 1.5rem;
+  background: var(--accent-color);
+  border-left: var(--border-left);
+  box-shadow: var(--box-shadow);
+  border-radius: 8px;
+  width: 100%;
+}
+
+hr.info-separator {
+  margin: 2em 0 1em;
+  border: none;
+  border-top: 1px solid var(--border-color);
+}
+
+.fade-in {
+  opacity: 0;
+  animation: fadeIn 0.8s ease-in-out forwards;
+  animation-fill-mode: both;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+/* ===================
+   Definition Card
+=================== */
+.definition-card {
+  margin-top: 2rem;
+  transition: all 0.3s ease;
+}
+
+.definition-card h2 {
+  text-align: center;
+  font-size: 2rem;
+  margin: 0.5rem 0;
+  padding-left: 0.5rem;
+}
+
+.term-title {
+  font-size: 2rem;
+  margin-bottom: 0.75rem;
+}
+
+.term-title .term-main {
+  font-weight: 700;
+  margin-right: 0.3rem;
+}
+
+.term-title .term-aliases {
+  font-weight: 400;
+  font-size: 1.5rem;
+  color: #6b7280; /* subtle gray */
+}
+
+[data-theme="dark"] .term-title .term-aliases {
+  color: #9ca3af; /* light gray in dark mode */
+}
+
+.divider {
+  color: var(--primary-color);
+}
+
+.definition-section {
+  margin-bottom: 1.2rem;
+}
+
+.definition-section strong {
+  display: block;
+  font-size: 1.05rem;
+  margin-bottom: 0.3rem;
+}
+
+/* Emojis */
+.term-emoji-display {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 0rem;
+}
+
+.tooltip {
+  font-size: 1.5rem;
+}
+
+/* Jargon Gadge */
+.jargon-badge {
+  background-color: #e0f2fe;
+  color: #0369a1;
+  padding: 0.25em 0.75em;
+  border-radius: 9999px;
+  font-weight: bold;
+  font-size: 0.85rem;
+  display: inline-block;
+  margin-left: 0.5em;
+}
+
+.no-results {
+  background: var(--accent-color);
+  border-left: 4px solid red;
+  border-radius: 12px;
+  padding: 1rem;
+  text-align: center;
+  font-weight: 400;
+  font-size: 1.5rem;
+}
+
+.cat-section {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: 1.5rem;
+}
+
+.usecase-section {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  margin-top: 1rem;
+}
+
+.related-section {
+  margin-top: 1.5rem;
+}
+
+.term-meta-bar {
+  display: flex;
+  justify-content: space-between; /* Left, center, right */
+  align-items: center;
+  gap: 1rem;
+  margin: 1rem 0;
+}
+
+.fluency-section,
+.term-emoji-display,
+.jargon-section {
+  flex-shrink: 0; /* Prevent squishing */
+}
+
+.term-emoji-display {
+  text-align: center;
+  flex: 1; /* Let it grow to push left and right apart */
+  font-size: 1.5rem; /* Emoji size */
+}
+
+@media (max-width: 500px) {
+  .term-meta-bar {
+    flex-direction: column;
+    text-align: center;
+  }
+}

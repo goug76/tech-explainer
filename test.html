@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Tab Layout Preview</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <style>
+    :root {
+      --bg-color: #ffffff;
+      --text-color: #222222;
+      --accent-color: #e9ecef;
+      --border-color: #ccc;
+    }
+
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: var(--bg-color);
+      color: var(--text-color);
+      margin: 2rem;
+    }
+
+    .tab-wrapper {
+      max-width: 700px;
+      margin: auto;
+      border-radius: 8px;
+      overflow: hidden;
+      background: var(--accent-color);
+      border: 1px solid var(--border-color);
+    }
+
+    .tabs {
+      display: flex;
+      background-color: var(--bg-color);
+      border-bottom: 1px solid var(--border-color);
+    }
+
+    .tab-button {
+      flex: 1;
+      padding: 0.75rem;
+      text-align: center;
+      cursor: pointer;
+      font-weight: 600;
+      background: transparent;
+      border: none;
+      border-right: 1px solid var(--border-color);
+      color: var(--text-color);
+      transition: background-color 0.2s;
+    }
+
+    .tab-button:last-child {
+      border-right: none;
+    }
+
+    .tab-button:hover {
+      background-color: rgba(0, 123, 255, 0.1);
+    }
+
+    .tab-button.active {
+      background-color: #3b82f6;
+      color: white;
+    }
+
+    .tab-content {
+      padding: 1rem;
+    }
+
+    .tab-panel {
+      display: none;
+    }
+
+    .tab-panel.active {
+      display: block;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>🔍 Tab Layout Preview</h1>
+
+  <div class="tab-wrapper">
+    <div class="tabs">
+      <button class="tab-button active" data-tab="eli5">🧒 ELI5</button>
+      <button class="tab-button" data-tab="boss">💼 Boss</button>
+      <button class="tab-button" data-tab="sysadmin">🧑‍💻 Sysadmin</button>
+    </div>
+    <div class="tab-content">
+      <div class="tab-panel active" id="eli5-panel">
+        <p>Imagine the internet as a giant library and DNS is the librarian that helps you find the exact book you’re looking for—without needing to remember the shelf number.</p>
+      </div>
+      <div class="tab-panel" id="boss-panel">
+        <p>DNS (Domain Name System) converts human-readable domain names into IP addresses, ensuring seamless web access. It's a foundational technology for internet navigation and business availability.</p>
+      </div>
+      <div class="tab-panel" id="sysadmin-panel">
+        <p>DNS resolves domain names to IP addresses using a hierarchical and distributed naming system. Includes root, TLD, authoritative servers, and caching layers. Misconfigurations can lead to resolution failure or hijacking.</p>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const tabButtons = document.querySelectorAll(".tab-button");
+    const tabPanels = document.querySelectorAll(".tab-panel");
+
+    tabButtons.forEach(btn => {
+      btn.addEventListener("click", () => {
+        const tabId = btn.dataset.tab;
+
+        tabButtons.forEach(b => b.classList.remove("active"));
+        tabPanels.forEach(panel => panel.classList.remove("active"));
+
+        btn.classList.add("active");
+        document.getElementById(`${tabId}-panel`).classList.add("active");
+      });
+    });
+  </script>
+
+</body>
+</html>

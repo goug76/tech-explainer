@@ -5,7 +5,7 @@ Each term must follow this JSON format:
   "term": {
     "eli5": "Simple metaphor or analogy for beginners.",
     "boss": "High-level explanation for business decision makers.",
-    "sysadmin": "Technical explanation for sysadmins or engineers.",
+    "sysadmin": "Technical industry definition for sysadmins or engineers.",
     "emoji": "Relevant emojis capturing the term’s function or vibe.",
     "categories": ["Pick from the allowed list below."],
     "related": ["2–5 related terms that already exist in glossary.txt"],
@@ -28,6 +28,7 @@ Each term must follow this JSON format:
   - The term includes a dash (provide both dashed and undashed versions).
 - Never use underscores (`_`) in terms, aliases, or related fields.
 - Only use related terms found in the attached `glossary.txt`.
+- The sysadmin definition should be the industry standard which boss and eli5 are based off of.
 - Match the tone and depth used in other Tech Decoded entries: casual, helpful, and layered for different audiences.
 - Each `use_case` must feel realistic and grounded—not generic or vague.
 - Track batches by filename (`batch_001.json`, `batch_002.json`) 

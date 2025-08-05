@@ -1,0 +1,87 @@
+/* Glowing animation for H1 */
+@keyframes glow {
+  from {
+    text-shadow:
+      0 0 4px #3b82f6,
+      0 0 8px #3b82f6,
+      0 0 12px #3b82f6;
+  }
+  to {
+    text-shadow:
+      0 0 6px #60a5fa,
+      0 0 12px #60a5fa,
+      0 0 18px #60a5fa;
+  }
+}
+
+/* ===================
+   Page Setup
+=================== */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+#container, #main {
+  width: 100%;
+  max-width: 900px;
+}
+
+#container {
+  text-align: center;
+  background: var(--bg-color);
+  border-radius: 12px;
+}
+
+#main {
+  text-align: center;
+}
+
+/* Apply to main heading */
+#main h1 {
+  font-size: 2.5rem; /* or whatever your base size is */
+  color: var(--text-color);
+  animation: glow 1.6s ease-in-out infinite alternate;
+}
+
+.card {
+  border-radius: 12px;
+  padding: 3%;
+  box-shadow: var(--box-shadow);
+}
+
+/* Apply min-width only on screens 640px and up */
+@media (min-width: 640px) {
+  .container {
+    min-width: 500px;
+  }
+
+  #main {
+    min-width: 500px;
+  }
+}
+
+/* ===================
+   Header
+=================== */
+h1 {
+  font-size: 2rem;
+  margin-bottom: 0.25rem;
+}
+
+.subtitle {
+  margin-bottom: 1.5rem;
+  color: #6b7280;
+  font-size: 0.95rem;
+}

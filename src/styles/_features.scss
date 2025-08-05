@@ -1,0 +1,324 @@
+
+/* ===================
+   Alphabet Filter
+=================== */
+.alphabet-filter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 1rem;
+  justify-content: center;
+  font-family: sans-serif;
+}
+
+.alphabet-filter button {
+  padding: 6px 10px;
+  border: none;
+  background: #eee;
+  color: #333;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.alphabet-filter button.disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+.alphabet-filter button.active,
+ .alphabet-filter button:hover {
+  background-color: #007BFF;
+  color: white;
+}
+
+.alphabet-filter button:hover {
+  box-shadow: var(--box-shadow);
+}
+
+/* ===================
+   Categories & Tags
+=================== */
+.category-filter {
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 1rem;
+  justify-content: center;
+  max-width: 1200px;
+}
+
+.category-filter button.active,
+.category-filter button:hover {
+  background-color: #3b82f6;
+  color: white;
+}
+
+.category-tag {
+  display: inline-block;
+  background-color: #dbeafe;
+  color: #1e3a8a;
+  border-radius: 12px;
+  padding: 0.25em 0.75em;
+  margin: 0.2em;
+  font-size: 0.9em;
+}
+
+.related-btn {
+  background-color: #f3f4f6;
+  border: 1px solid #d1d5db;
+  color: #374151 !important;
+  border-radius: 9999px;
+  padding: 0.4em 1em;
+  margin: 0.25em;
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+  text-decoration: none !important;
+}
+
+.related-btn:hover {
+  background-color: #e5e7eb;
+}
+
+/* ===================
+   Sitemap
+=================== */
+#sitemap {
+  margin-top: 3rem;
+  padding: 1rem;
+  text-align: center;
+  background: var(--bg-secondary);
+  border-top: 1px solid var(--border-color);
+}
+
+#termLinks {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.sitemap-link a {
+  font-size: 0.95rem;
+  color: var(--link-color);
+  text-decoration: none !important;
+  cursor: pointer;
+}
+
+.sitemap-count {
+  text-align: center;
+  font-size: 0.95rem;
+  color: #555;
+  margin: 0.5rem auto 1rem;
+}
+
+[data-theme="dark"] .sitemap-count {
+  color: #aaa;
+}
+
+/* ===================
+   Suggestions Dropdown
+=================== */
+
+.search-wrapper {
+  margin: 0 auto;
+  text-align: left;
+  position: relative;
+  max-width: 500px;
+  width: 100%;
+}
+
+#suggestions {
+  position: absolute;
+  left: 0;
+  right: 0;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  margin-top: 5px;
+  z-index: 1000;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  list-style: none;
+  padding: 0;
+  overflow: hidden;
+}
+
+#suggestions li {
+  padding: 10px 15px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+#suggestions li.active {
+  background-color: var(--accent-light, #ddd);
+  font-weight: 600;
+}
+
+#suggestions li.highlighted {
+  background-color: #007bff;
+  color: #fff;
+}
+
+#suggestions li:hover {
+  background-color: var(--accent-color, #e0e0e0);
+}
+
+[data-theme="dark"] #suggestions {
+  background-color: #1e1e1e;
+  border-color: #333;
+}
+
+/* ===================
+   Sharing Section
+=================== */
+
+.share-buttons {
+  margin-top: 1.5rem;
+  padding-top:1.5rem;
+  border-top: 1px solid var(--border-color);
+  width: 100%;
+  display: flex;
+  gap: 0.75rem;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.share-buttons img.share-icon {
+  width: 28px;
+  height: 28px;
+  transition: transform 0.2s ease, filter 0.2s ease;
+  cursor: pointer;
+  filter: var(--icon-filter, none);
+}
+
+.share-buttons img.share-icon:hover {
+  transform: scale(1.2);
+}
+
+[data-theme="dark"] .share-buttons img.share-icon {
+  filter: brightness(0.8) invert(1);
+}
+
+/* ===================
+   Compare Boxes
+=================== */
+.compare-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1.5rem;
+}
+
+.compare-output {
+  margin-top: 1rem;
+}
+
+.compare-columns {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.compare-box {
+  flex: 1 1 300px;
+  background: var(--accent-color);
+  border: 1px solid #ccc;
+  padding: 1rem;
+  border-radius: 8px;
+} 
+
+/* ===================
+   How 2 Use
+=================== */
+#howToUse {
+  box-shadow: none;
+  margin: 0 auto;
+  margin-top: 2rem;
+  background: var(--accent-color);
+  border-left: var(--border-left);
+  padding: 1rem;
+  border-radius: 8px;
+  width: 90%;
+  max-width: 900px;
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+/* ===================
+   Term of the Day
+=================== */
+#dailyTerm {
+  position: absolute;
+  top: 2rem;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: var(--accent-color);
+  padding: 1rem 1.25rem;
+  border-left: 5px solid #3b82f6;
+  border-radius: 8px;
+  // box-shadow: var(--box-shadow);
+  max-width: 600px;
+  z-index: 1000;
+}
+#dailyTerm h3 {
+  margin: 0 0 0.5rem;
+}
+#dailyTerm .term-emoji {
+  font-size: 1.25rem;
+  margin-right: 0.25rem;
+}
+#dailyTerm .term-explainer {
+  font-size: 0.95rem;
+  margin: 0.5rem 0;
+}
+#dailyTerm button {
+  font-size: 0.85rem;
+  padding: 0.35rem 0.75rem;
+  margin-top: 0.5rem;
+}
+
+/* ===================
+   Glossary Tooltip
+=================== */
+.glossary-tooltip {
+  position: absolute;
+  z-index: 9999;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 0.75rem;
+  max-width: 300px;
+  box-shadow: 0 6px 16px rgba(0,0,0,0.15);
+  font-size: 0.95rem;
+  line-height: 1.4;
+  pointer-events: none;
+  opacity: 0;
+  transform: translateY(10px);
+  transition: all 0.15s ease-out;
+  display: none;
+}
+
+.glossary-tooltip.visible {
+  display: block;
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.glossary-title {
+  font-weight: bold;
+  font-size: 1rem;
+  margin-bottom: 0.4rem;
+}
+
+.glossary-body {
+  font-size: 0.95rem;
+  line-height: 1.4;
+}

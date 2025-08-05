@@ -1,0 +1,55 @@
+/* ===================
+   Base Visibility
+=================== */
+.hidden {
+  display: none !important;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+/* ===================
+   Theme Variables
+=================== */
+:root {
+  --primary-color: #3b82f6;
+  --primary-hover: #2563eb;
+  --bg-color: #ffffff;
+  --text-color: #222222;
+  --accent-color: #e9ecef;
+  --border-color: #ccc;
+  --link-color: #1a0dab;
+  --box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+  --border-left: 4px solid #3b82f6;
+}
+
+[data-theme="dark"] {
+  --bg-color: #121212;
+  --text-color: #f0f0f0;
+  --accent-color: #2b2f33;
+  --link-color: #66b2ff;
+  --box-shadow: 0 10px 25px rgba(255, 255, 255, 0.15);
+}
+
+a {
+  color: #1a0dab; /* default fallback for light mode */
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #0056b3;
+}
+
+/* Dark mode link overrides */
+[data-theme="dark"] a {
+  color: #66b2ff;
+}
+
+[data-theme="dark"] a:hover {
+  color: #3399ff;
+}
+
+.label {
+  margin: 1rem 0;
+}

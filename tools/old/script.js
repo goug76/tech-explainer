@@ -8,10 +8,6 @@ const explainBtn = document.getElementById("explainBtn");
 const themeToggleIcon = document.getElementById("themeToggleIcon");
 
 // ================================
-// Alias Mapping
-// ================================
-
-// ================================
 // Theme Toggle
 // ================================
 const themes = ["auto", "light", "dark"];
@@ -135,28 +131,52 @@ function fetchAndDisplayTerm(term) {
   }
 
   const normalized = term.toLowerCase();
-  const resolvedKey = aliasLookup[normalized];
-  const data = termsData[resolvedKey];
-  
+  const resolvedKey = aliasLookup[normalized] || normalized;
+  const data = termsData[resolvedKey]
+
   if (!data) {
     results.innerHTML = `
-      <p>No explanation found for "<strong>${term}</strong>".</p>
-      <button id="requestBtn">Request this term</button>
+      <div class="definition-card">
+        <div class="no-results">
+          <h2 class="term-title">
+            <span class="term-main">${term.toUpperCase()}</span>
+          </h2>
+          <p>No explanation found for "<strong>${term}</strong>".</p>
+          <button id="requestBtn">Request this term</button>
+        </div
+      </div>
     `;
     document.getElementById("requestBtn").addEventListener("click", () => {
       alert(`Coming soon! This will trigger an n8n workflow to log the request for "${term}" 😎`);
     });
     return;
   }
+  
+  const aliasList = data.aliases || [];
 
   results.innerHTML = `
     <div class="definition-card">
-      <h2>${term.toUpperCase()}</h2>
-      <div class="term-emoji-display">${data.emoji || '📘'}</div>
-      <div class="explanation">
-        <div class="definition-section"><strong>🧒 Explain Like I’m 5: </strong><p>${data.eli5}</p></div>
-        <div class="definition-section"><strong>💼 Explain to a Boss: </strong><p>${data.boss}</p></div>
-        <div class="definition-section"><strong>🧑‍💻 Explain to a Sysadmin: </strong><p>${data.sysadmin}</p></div>
+      <div class="explanation card">
+        <h2 class="term-title">
+          <span class="term-main">${resolvedKey.toUpperCase()}</span>
+          ${aliasList.length ? `<span class="term-aliases">(${aliasList.join('<span class="divider"> | </span>')})</span>` : ''}
+        </h2>
+
+        <div class="tab-wrapper">
+          <div class="tabs">
+            <button class="tab-button active" data-tab="eli5"><strong>🧒 Explain Like I’m 5</strong></button>
+            <button class="tab-button" data-tab="boss"><strong>💼 Explain to a Boss</strong></button>
+            <button class="tab-button" data-tab="sysadmin"><strong>🧑‍💻 Explain to a Sysadmin</strong></button>
+          </div>
+
+          <div class="tab-content">
+            <div class="tab-panel active" id="eli5-panel"><p>${data.eli5}</p></div>
+            <div class="tab-panel" id="boss-panel"><p>${data.boss}</p></div>
+            <div class="tab-panel" id="sysadmin-panel"><p>${data.sysadmin}</p></div>
+          </div>
+        </div>
+
+        <div class="term-emoji-display">${data.emoji || '📘'}</div>
         <hr class="info-separator" />
         ${data.use_case ? `<div class="definition-section"><strong>🛠️ Use Case: </strong><p>${data.use_case}</p></div>` : ""}
         ${data.jargon_score ? `
@@ -190,7 +210,7 @@ function fetchAndDisplayTerm(term) {
               <img src="img/reddit.svg" alt="Share on Reddit" class="share-icon" />
             </a>
           </div>
-        </div>
+      </div>
     </div>    
   `;
 
@@ -232,6 +252,7 @@ function fetchAndDisplayTerm(term) {
     compareOutput.insertAdjacentElement("afterend", suggestionSection);
   }
 
+  setupTabs();
   updateMetaTags(term, data.eli5);
   injectSchema(term, data);
   
@@ -426,6 +447,27 @@ function injectSchema(term, data) {
   document.head.appendChild(script);
 }
 
+// ================================
+// Control Tabs
+// ================================
+function setupTabs() {
+  const tabButtons = document.querySelectorAll(".tab-button");
+  const tabPanels = document.querySelectorAll(".tab-panel");
+
+  tabButtons.forEach(btn => {
+    btn.addEventListener("click", () => {
+      const tabId = btn.dataset.tab;
+
+      tabButtons.forEach(b => b.classList.remove("active"));
+      tabPanels.forEach(panel => panel.classList.remove("active"));
+
+      btn.classList.add("active");
+      document.getElementById(`${tabId}-panel`).classList.add("active");
+    });
+  });
+}
+
+
 // =====================================
 // Alphabet Filter: A-Z + '*' for All
 // =====================================
@@ -478,12 +520,15 @@ function groupTermsByLetter(terms) {
 // =====================================
 function renderTermLinks(terms) {
   const container = document.getElementById("termLinks");
+  const countTop = document.getElementById("sitemapCountTop");
+  const countBottom = document.getElementById("sitemapCountBottom");
+
   container.innerHTML = "";
 
   terms.sort().forEach(term => {
     const normalized = term.toLowerCase();
-    const resolved = aliasLookup[normalized];
-    const data = termsData[resolved];
+    const resolvedKey = aliasLookup[normalized] || normalized;
+    const data = termsData[resolvedKey];
 
     const link = document.createElement("a");
     link.href = `?term=${encodeURIComponent(term)}`;
@@ -496,6 +541,17 @@ function renderTermLinks(terms) {
 
     container.appendChild(link);
   });
+
+  const totalTerms = Object.keys(termsData).length;
+  const displayedTerms = terms.length;
+
+  const totalFormatted = totalTerms.toLocaleString();
+  const displayedFormatted = displayedTerms.toLocaleString();
+
+  const countText = `Showing ${displayedFormatted} of ${totalFormatted} terms`;
+
+  if (countTop) countTop.textContent = countText;
+  if (countBottom) countBottom.textContent = countText;
 }
 
 // =====================================
