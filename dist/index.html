@@ -32,8 +32,8 @@
   <!-- Ad Sense -->
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4485137229636360"
     crossorigin="anonymous"></script>
-  <script type="module" crossorigin src="/assets/main-CLI61F_o.js"></script>
-  <link rel="stylesheet" crossorigin href="/assets/main-BCtYL-qT.css">
+  <script type="module" crossorigin src="/assets/main-CYIu8y7X.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/main-gCt15BpK.css">
 </head>
 <body>
   <!-- 📌 Page Header: Branding + Search -->
@@ -45,23 +45,24 @@
         <img id="themeToggleIcon" src="img/mode_icon_1.png" alt="Toggle Theme" title="Toggle Theme" />
       </div>
 
-      <section id="main" class="card">
-        <h1>🧠 Tech Decoded</h1>
-        <p class="subtitle">Type a tech term and hit <strong>Enter</strong> to decode it</p>
+      <section id="glowwrap" class="glow-wrapper">
+        <div id="main" class="card">
+          <h1>🧠 Tech Decoded</h1>
+          <p class="subtitle">Type a tech term and hit <strong>Enter</strong> to decode it</p>
 
-        <div class="search-wrapper">
-          <input type="text" id="termInput" placeholder="Enter a tech term (e.g., DNS, MQTT)..." autofocus
-            onkeydown="if(event.key === 'Enter') document.getElementById('explainBtn').click();" autocomplete="off" />
-          <ul id="suggestions" class="suggestion-box"></ul>
-        </div>
-        <div class="btn-wrapper">
-          <button id="explainBtn" class="main-btn">🧠 Explain It</button>
-          <button id="randomBtn" class="random-btn main-btn">🎲 Surprise Me</button>
-        </div>
-      </section><!-- END main -->
-      
-        <!-- Keep results right under the input for visibility -->
+          <div class="search-wrapper">
+            <input type="text" id="termInput" placeholder="Enter a tech term (e.g., DNS, MQTT)..." autofocus
+              onkeydown="if(event.key === 'Enter') document.getElementById('explainBtn').click();" autocomplete="off" />
+            <ul id="suggestions" class="suggestion-box"></ul>
+          </div>
+          <div class="btn-wrapper">
+            <button id="explainBtn" class="main-btn">🧠 Explain It</button>
+            <button id="randomBtn" class="random-btn main-btn">🎲 Surprise Me</button>
+          </div>
+        </div><!-- END main -->
+        
         <div id="results" class="fade-in"></div>
+      </section><!-- END glow-wrapper -->
       
     </div><!-- END container -->
   </header><!-- END wrapper -->
@@ -156,6 +157,5 @@
       <div id="compareOutput" class="compare-output"></div>
     </div>
   </div>
-
 </body>
 </html>

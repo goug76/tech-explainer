@@ -1,20 +1,53 @@
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-100%);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slideUp {
+  from {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  to {
+    opacity: 0;
+    transform: translateY(-100%);
+  }
+}
+
+.results-slide-down {
+  max-height: 1000px;
+  animation: slideDown 0.4s ease-out forwards;
+}
+
+.results-slide-up {
+  max-height: 0;
+  animation: slideUp 0.3s ease-in forwards;
+}
+
 /* ===================
    Results Section
 =================== */
 #results {
   text-align: left;
+  border-radius: 12px;
   font-size: 0.95rem;
   line-height: 1.6;
   width: 100%;
   max-width: 900px;
-  overflow: visible; /* Allow content to expand */
+  overflow: hidden;
+  transition: max-height 0.5s ease-in-out;
 }
 
 .explanation {
-  margin-top: 1.5rem;
-  background: var(--accent-color);
-  border-left: var(--border-left);
-  box-shadow: var(--box-shadow);
+  background: var(--gradient-bg);
+  // border-left: var(--border-left);
+  box-shadow: none;
   border-radius: 8px;
   width: 100%;
 }
@@ -25,34 +58,18 @@ hr.info-separator {
   border-top: 1px solid var(--border-color);
 }
 
-.fade-in {
-  opacity: 0;
-  animation: fadeIn 0.8s ease-in-out forwards;
-  animation-fill-mode: both;
-}
-
-@keyframes fadeIn {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
-}
-
 /* ===================
    Definition Card
 =================== */
+/* Slide-down effect for .definition-card */
 .definition-card {
-  margin-top: 2rem;
-  transition: all 0.3s ease;
-}
 
-.definition-card h2 {
-  text-align: center;
-  font-size: 2rem;
-  margin: 0.5rem 0;
-  padding-left: 0.5rem;
+  h2 {
+    text-align: center;
+    font-size: 2rem;
+    margin: 0.5rem 0;
+    padding-left: 0.5rem;
+  }
 }
 
 .term-title {

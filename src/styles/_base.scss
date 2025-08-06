@@ -22,6 +22,7 @@
   --link-color: #1a0dab;
   --box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
   --border-left: 4px solid #3b82f6;
+  --gradient-bg: linear-gradient(to bottom, #ffffff 0%, #e9ecef 100%);
 }
 
 [data-theme="dark"] {
@@ -30,6 +31,7 @@
   --accent-color: #2b2f33;
   --link-color: #66b2ff;
   --box-shadow: 0 10px 25px rgba(255, 255, 255, 0.15);
+  --gradient-bg: linear-gradient(to bottom, #121212 0%, #2b2f33 100%);
 }
 
 a {

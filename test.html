@@ -1,116 +1,98 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <title>Tab Layout Preview</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Search Results Slide</title>
   <style>
-    :root {
-      --bg-color: #ffffff;
-      --text-color: #222222;
-      --accent-color: #e9ecef;
-      --border-color: #ccc;
-    }
-
     body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background: var(--bg-color);
-      color: var(--text-color);
-      margin: 2rem;
+      font-family: sans-serif;
+      margin: 20px;
     }
 
-    .tab-wrapper {
-      max-width: 700px;
-      margin: auto;
-      border-radius: 8px;
+    #glowwrap {
+      width: 80%;
+      margin: 0 auto;
+      border: 1px solid #ccc;
+      padding: 20px;
+      position: relative; /* Essential for positioning child elements relative to this parent */
+    }
+
+    #main {
+      padding: 20px;
+      background-color: #f0f0f0;
+    }
+
+    #results {
+      max-height: 0; /* Initially hidden, will slide down to its natural height */
       overflow: hidden;
-      background: var(--accent-color);
-      border: 1px solid var(--border-color);
+      transition: max-height 0.5s ease-in-out; /* Smooth transition for slide down/up */
+      background-color: #e0e0e0;
+      padding: 0 20px; /* Adjust padding as needed */
     }
 
-    .tabs {
-      display: flex;
-      background-color: var(--bg-color);
-      border-bottom: 1px solid var(--border-color);
+    /* Class to apply when results are visible and expanded */
+    .results-visible {
+      max-height: 500px; /* A sufficiently large value to accommodate all potential results content */
+      padding-top: 20px; /* Add padding when visible */
+      padding-bottom: 20px;
     }
 
-    .tab-button {
-      flex: 1;
-      padding: 0.75rem;
-      text-align: center;
-      cursor: pointer;
-      font-weight: 600;
-      background: transparent;
-      border: none;
-      border-right: 1px solid var(--border-color);
-      color: var(--text-color);
-      transition: background-color 0.2s;
-    }
-
-    .tab-button:last-child {
-      border-right: none;
-    }
-
-    .tab-button:hover {
-      background-color: rgba(0, 123, 255, 0.1);
-    }
-
-    .tab-button.active {
-      background-color: #3b82f6;
-      color: white;
-    }
-
-    .tab-content {
-      padding: 1rem;
-    }
-
-    .tab-panel {
-      display: none;
-    }
-
-    .tab-panel.active {
-      display: block;
+    .search-form-container {
+      margin-bottom: 10px;
     }
   </style>
 </head>
 <body>
 
-  <h1>🔍 Tab Layout Preview</h1>
-
-  <div class="tab-wrapper">
-    <div class="tabs">
-      <button class="tab-button active" data-tab="eli5">🧒 ELI5</button>
-      <button class="tab-button" data-tab="boss">💼 Boss</button>
-      <button class="tab-button" data-tab="sysadmin">🧑‍💻 Sysadmin</button>
-    </div>
-    <div class="tab-content">
-      <div class="tab-panel active" id="eli5-panel">
-        <p>Imagine the internet as a giant library and DNS is the librarian that helps you find the exact book you’re looking for—without needing to remember the shelf number.</p>
-      </div>
-      <div class="tab-panel" id="boss-panel">
-        <p>DNS (Domain Name System) converts human-readable domain names into IP addresses, ensuring seamless web access. It's a foundational technology for internet navigation and business availability.</p>
-      </div>
-      <div class="tab-panel" id="sysadmin-panel">
-        <p>DNS resolves domain names to IP addresses using a hierarchical and distributed naming system. Includes root, TLD, authoritative servers, and caching layers. Misconfigurations can lead to resolution failure or hijacking.</p>
+  <section id="glowwrap" class="glow-wrapper">
+    <div id="main" class="card">
+      <div class="search-form-container">
+        <form id="searchForm">
+          <input type="text" id="searchTerm" placeholder="Enter your search term">
+          <button type="submit">Search</button>
+        </form>
       </div>
     </div>
-  </div>
+    <div id="results">
+      <!-- Search results will be populated here -->
+      <p>Search results will appear here...</p>
+    </div>
+  </section>
 
   <script>
-    const tabButtons = document.querySelectorAll(".tab-button");
-    const tabPanels = document.querySelectorAll(".tab-panel");
+    const searchForm = document.getElementById('searchForm');
+    const searchTermInput = document.getElementById('searchTerm');
+    const resultsDiv = document.getElementById('results');
 
-    tabButtons.forEach(btn => {
-      btn.addEventListener("click", () => {
-        const tabId = btn.dataset.tab;
+    searchForm.addEventListener('submit', function(event) {
+      event.preventDefault(); // Prevent default form submission
 
-        tabButtons.forEach(b => b.classList.remove("active"));
-        tabPanels.forEach(panel => panel.classList.remove("active"));
+      const searchTerm = searchTermInput.value.trim();
 
-        btn.classList.add("active");
-        document.getElementById(`${tabId}-panel`).classList.add("active");
-      });
+      // If there are existing results, slide them up before displaying new ones
+      if (resultsDiv.classList.contains('results-visible')) {
+        resultsDiv.classList.remove('results-visible');
+        setTimeout(function() { // Wait for the slide-up animation to complete
+          displaySearchResults(searchTerm);
+        }, 500); // 500ms matches the CSS transition duration
+      } else {
+        displaySearchResults(searchTerm);
+      }
     });
+
+    function displaySearchResults(term) {
+      // Simulate fetching data (replace with your actual fetch logic)
+      const newResults = `<p>Results for: <strong>${term}</strong></p>
+                          <ul>
+                            <li>Item 1 related to ${term}</li>
+                            <li>Item 2 related to ${term}</li>
+                            <li>Item 3 related to ${term}</li>
+                          </ul>`;
+
+      resultsDiv.innerHTML = newResults;
+      resultsDiv.classList.add('results-visible'); // Trigger the slide-down animation
+    }
   </script>
 
 </body>

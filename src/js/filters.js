@@ -140,8 +140,28 @@ export function enableGlossaryTooltips() {
     });
 
     link.addEventListener("mousemove", (e) => {
-      tooltip.style.top = `${e.pageY + 15}px`;
-      tooltip.style.left = `${e.pageX + 15}px`;
+      const padding = 15;
+      const tooltipRect = tooltip.getBoundingClientRect();
+      const viewportWidth = window.innerWidth;
+      const viewportHeight = window.innerHeight;
+
+      let top = e.clientY + padding;
+      let left = e.clientX + padding;
+
+      // Flip vertically if going off bottom edge
+      if (e.clientY + tooltipRect.height + padding > viewportHeight) {
+        top = e.clientY - tooltipRect.height - padding;
+        if (top < 0) top = padding;
+      }
+
+      // Flip horizontally if going off right edge
+      if (e.clientX + tooltipRect.width + padding > viewportWidth) {
+        left = e.clientX - tooltipRect.width - padding;
+        if (left < 0) left = padding;
+      }
+
+      tooltip.style.top = `${top + window.scrollY}px`;
+      tooltip.style.left = `${left + window.scrollX}px`;
     });
 
     link.addEventListener("mouseleave", () => {

@@ -1,8 +1,8 @@
 # PowerShell Script: Count total terms and aliases in terms.json
 
 # Set path to terms.json (adjust if needed)
-# $termsFile = "data\terms.json"
-$termsFile = "data\batch\batch_004.json"
+$termsFile = "src\data\terms.json"
+# $termsFile = "data\batch\batch_004.json"
 
 # Check if the file exists
 if (-Not (Test-Path $termsFile)) {

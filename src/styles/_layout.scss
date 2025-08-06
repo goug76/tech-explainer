@@ -14,6 +14,21 @@
   }
 }
 
+@keyframes containerGlow {
+  from {
+    box-shadow:
+      0 0 8px #3b82f6,
+      0 0 16px #3b82f6,
+      0 10px 25px rgba(0, 0, 0, 0.05);
+  }
+  to {
+    box-shadow:
+      0 0 12px #60a5fa,
+      0 0 24px #60a5fa,
+      0 10px 25px rgba(0, 0, 0, 0.05);
+  }
+}
+
 /* ===================
    Page Setup
 =================== */
@@ -44,8 +59,22 @@ body {
   border-radius: 12px;
 }
 
+.glow-wrapper {
+  position: relative;
+  border-radius: 12px;
+  animation: containerGlow 1.6s ease-in-out infinite alternate;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  overflow: hidden;
+  transition: height 0.4s ease;
+  will-change: height;
+}
+
 #main {
+  background-color: var(--bg-color);
   text-align: center;
+  z-index: 10;
 }
 
 /* Apply to main heading */
@@ -58,7 +87,7 @@ body {
 .card {
   border-radius: 12px;
   padding: 3%;
-  box-shadow: var(--box-shadow);
+  // box-shadow: var(--box-shadow);
 }
 
 /* Apply min-width only on screens 640px and up */
