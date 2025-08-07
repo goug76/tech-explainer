@@ -34,6 +34,7 @@
    Results Section
 =================== */
 #results {
+  position: relative;
   text-align: left;
   border-radius: 12px;
   font-size: 0.95rem;
@@ -46,12 +47,13 @@
 
 @media (max-width: 480px) {
   #results {
-    overflow: auto;
-    height: auto;
+    max-height: 2000px;
   }
 }
 
 .explanation {
+  position: relative;
+  display: block;
   background: var(--gradient-bg);
   // border-left: var(--border-left);
   box-shadow: none;
@@ -70,6 +72,7 @@ hr.info-separator {
 =================== */
 /* Slide-down effect for .definition-card */
 .definition-card {
+  position: relative;
 
   h2 {
     text-align: center;
