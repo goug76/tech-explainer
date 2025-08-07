@@ -93,7 +93,7 @@ export function offsetMainFromDailyTerm() {
 
   if (!dailyTerm || !container) return;
 
-  const offset = dailyTerm.offsetHeight + 64; // 24px = 1.5rem
+  const offset = dailyTerm.offsetHeight + 88; // 24px = 1.5rem
   container.style.paddingTop = `${offset}px`;
 }
 

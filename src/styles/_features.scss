@@ -252,7 +252,7 @@
 #howToUse {
   box-shadow: none;
   margin: 0 auto;
-  margin-top: 4rem;
+  margin-top: 3rem;
   background: var(--accent-color);
   border-left: var(--border-left);
   padding: 1rem;
@@ -266,6 +266,7 @@
 @media (max-width: 480px) {
   #howToUse {
     width: 100%;
+    margin-top: 2rem;
   }
 }
 
