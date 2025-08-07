@@ -1,3 +1,4 @@
+@use '../styles/base';
 
 /* ===================
    Alphabet Filter
@@ -65,9 +66,10 @@
 }
 
 .related-btn {
-  background-color: #f3f4f6;
+  @include  base.btn;
+  background-color: var(--accent-color);
   border: 1px solid #d1d5db;
-  color: #374151 !important;
+  color: var(--text-color) !important;
   border-radius: 9999px;
   padding: 0.4em 1em;
   margin: 0.25em;
@@ -75,10 +77,6 @@
   cursor: pointer;
   transition: background-color 0.2s ease;
   text-decoration: none !important;
-}
-
-.related-btn:hover {
-  background-color: #e5e7eb;
 }
 
 /* ===================
@@ -98,13 +96,6 @@
   gap: 0.75rem;
   justify-content: center;
   align-items: center;
-}
-
-.sitemap-link a {
-  font-size: 0.95rem;
-  color: var(--link-color);
-  text-decoration: none !important;
-  cursor: pointer;
 }
 
 .sitemap-count {

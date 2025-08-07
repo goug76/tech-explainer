@@ -55,3 +55,12 @@ a:hover {
 .label {
   margin: 1rem 0;
 }
+
+@mixin btn () {
+  
+  &:hover {
+  color: white !important;
+  background-color: var(--primary-hover);
+  transform: translateY(-1px);
+  }
+}
