@@ -208,14 +208,29 @@ export function fetchAndDisplayTerm(term) {
 }
 
 function scrollGlowwrap() {
-  const glowwrap = document.getElementById("glowwrap");
-  if (!glowwrap) return;
+  const mobile = isMobile();
 
-  const vh = window.innerHeight;
-  const gh = glowwrap.offsetHeight;
-  const pos = gh > vh ? "start" : "center";
+  if (mobile) {
+    const results = document.getElementById("results");
+    
+    if (!results) return;
 
-  glowwrap.scrollIntoView({ behavior: "smooth", block: pos });
+    const vh = window.innerHeight;
+    const gh = results.offsetHeight;
+    const pos = gh > vh ? "start" : "center";
+
+    results.scrollIntoView({ behavior: "smooth", block: pos });
+  } else {
+    const glowwrap = document.getElementById("glowwrap");
+    
+    if (!glowwrap) return;
+
+    const vh = window.innerHeight;
+    const gh = glowwrap.offsetHeight;
+    const pos = gh > vh ? "start" : "center";
+
+    glowwrap.scrollIntoView({ behavior: "smooth", block: pos });
+  }
 }
 
 // ================================
