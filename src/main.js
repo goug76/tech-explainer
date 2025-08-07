@@ -7,6 +7,8 @@ import { loadTerms } from './js/loadTerms.js';
 import { getState } from './js/state.js';
 import { fetchAndDisplayTerm } from './js/fetcher.js';
 import { renderComparison } from './js/comparison.js';
+import { isMobile } from './js/utils.js';
+import { offsetMainFromDailyTerm } from './js/utils.js';
 
 document.addEventListener('DOMContentLoaded', () => {  
   initTheme(); // ✅ Initialize theme on DOM ready
@@ -44,8 +46,30 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
+  window.addEventListener("scroll", () => {
+    const scrollBtn = document.getElementById("scrollTopBtn");
+    if (!scrollBtn) return;
+
+    if (document.body.scrollTop > 200 || document.documentElement.scrollTop > 200) {
+      scrollBtn.style.display = "block";
+    } else {
+      scrollBtn.style.display = "none";
+    }
+  });
+
+  document.getElementById("scrollTopBtn")?.addEventListener("click", () => {
+    window.scrollTo({
+      top: 0,
+      behavior: "smooth"
+    });
+  });
+
   if (compare) {
     const terms = compare.split(",").map(t => t.trim());
     renderComparison(terms);
   }
+
+  const mobile = isMobile();
+  if (mobile) offsetMainFromDailyTerm();
+  document.getElementById("year").textContent = new Date().getFullYear();
 });

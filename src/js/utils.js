@@ -65,11 +65,24 @@ export function showDailyTerm(termsData) {
   const dailyDiv = document.getElementById("dailyTerm");
 
   if (data && dailyDiv) {
-    dailyDiv.innerHTML = `
-      <h3><span class="term-emoji">${data.emoji || '📘'}</span> Term of the Day: <strong>${stored.toUpperCase()}</strong></h3>
-      <p class="term-explainer">${data.eli5}</p>
-      <button onclick="window.location.search='?term=${encodeURIComponent(stored)}'">Learn More</button>
-    `;
+    const mobile = isMobile();
+
+    const newHTML = mobile
+      ? `
+        <div class="daily-mobile">
+          <div class="emoji";">${data.emoji || '📘'}</div>
+          <h3><strong>${stored.toUpperCase()}</strong></h3>
+          <p class="term-explainer">${data.eli5}</p>
+          <button class="daily-btn" onclick="window.location.search='?term=${encodeURIComponent(stored)}'">Learn More</button>
+        </div>
+      `
+      : `
+        <h3><span class="term-emoji">${data.emoji || '📘'}</span> Term of the Day: <strong>${stored.toUpperCase()}</strong></h3>
+        <p class="term-explainer">${data.eli5}</p>
+        <button onclick="window.location.search='?term=${encodeURIComponent(stored)}'">Learn More</button>
+      `;
+
+    dailyDiv.innerHTML = newHTML;
     dailyDiv.classList.remove("hidden");
   }
 }
@@ -87,4 +100,8 @@ export function offsetMainFromDailyTerm() {
 function getDailyKey() {
   const now = new Date();
   return `termOfDay-${now.getFullYear()}-${now.getMonth() + 1}-${now.getDate()}`;
+}
+
+export function isMobile() {
+  return window.innerWidth <= 480 || /Mobi|Android/i.test(navigator.userAgent);
 }

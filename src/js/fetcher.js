@@ -5,6 +5,7 @@ import { setupTabs } from './tabs.js';
 import { getJargonTooltip, updateMetaTags, injectSchema } from './utils.js';
 import { generateShareLinks } from './share.js';
 import { offsetMainFromDailyTerm } from './utils.js';
+import { isMobile } from './utils.js';
 
 export function fetchAndDisplayTerm(term) {
   if (!term || typeof term !== "string" || term.trim() === "") {
@@ -16,6 +17,7 @@ export function fetchAndDisplayTerm(term) {
   const normalized = term.toLowerCase();
   const resolvedKey = aliasLookup[normalized] || normalized;
   const data = termsData[resolvedKey];
+  const mobile = isMobile();
 
   const results = document.getElementById("results");
   if (!results) return;
@@ -85,14 +87,14 @@ export function fetchAndDisplayTerm(term) {
                           </div>` : ""}
                         ${data.categories ? `
                           <div class="cat-section">
-                            <strong>📚 Categories:</strong>
+                            <strong>📚 Categories:</strong> ${mobile ? '<p>' : ""}
                             ${data.categories.map(cat => `<span class="category-tag">${cat}</span>`).join(" ")}
-                          </div>` : ""}
+                          </div> ${mobile ? '</p>' : ""}` : ""}
                         ${data.related ? `
                           <div class="related-section">
-                            <strong>🔗 Related Terms:</strong>
+                            <strong>🔗 Related Terms:</strong> ${mobile ? '<p>' : ""}
                             ${data.related.map(t => `<button class="related-btn" data-term="${t}">${t}</button>`).join(" ")}
-                          </div>` : ""}
+                          </div> ${mobile ? '</p>' : ""}` : ""}
                           <div id="comparePlaceholder"></div>
                       </div>
                     </details>

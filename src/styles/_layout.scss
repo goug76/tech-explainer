@@ -57,6 +57,7 @@ body {
   text-align: center;
   background: var(--bg-color);
   border-radius: 12px;
+  padding: 0.5rem;
 }
 
 .glow-wrapper {
@@ -94,6 +95,12 @@ body {
 @media (min-width: 640px) {
   .container {
     min-width: 500px;
+    height: fit-content;
+  }
+
+  .glow-wrapper {
+    overflow: visible;
+    height: auto;
   }
 
   #main {
@@ -113,4 +120,12 @@ h1 {
   margin-bottom: 1.5rem;
   color: #6b7280;
   font-size: 0.95rem;
+}
+
+/* ===================
+   Footer
+=================== */
+.footer-text {
+  text-align: center;
+  padding-bottom: 2rem;
 }

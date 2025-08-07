@@ -162,6 +162,21 @@
   border-color: #333;
 }
 
+@media (max-width: 480px) {
+  .search-wrapper {
+    max-width: 100%;
+  }
+
+  #suggestions {
+    position: static;
+    overflow: visible;
+  }
+
+  input[type="text"] {
+    font-size: 1rem;
+  }
+}
+
 /* ===================
    Sharing Section
 =================== */
@@ -225,6 +240,12 @@
   border-radius: 8px;
 } 
 
+@media (max-width: 480px) {
+  .compare-btn {
+    width: 100%;
+  }
+}
+
 /* ===================
    How 2 Use
 =================== */
@@ -242,6 +263,13 @@
   line-height: 1.6;
 }
 
+@media (max-width: 480px) {
+  #howToUse {
+    margin: 2rem 0.5rem;
+    width: 100%;
+  }
+}
+
 /* ===================
    Term of the Day
 =================== */
@@ -249,30 +277,61 @@
   position: absolute;
   top: 2rem;
   left: 50%;
+  margin: 0 0.5rem;
   transform: translateX(-50%);
   background-color: var(--accent-color);
   padding: 1rem 1.25rem;
   border-left: 5px solid #3b82f6;
   border-radius: 8px;
   // box-shadow: var(--box-shadow);
+  width: 100%;
   max-width: 600px;
   z-index: 1000;
 }
+
+.daily-mobile {
+    text-align: center;
+
+  .emoji {
+    font-size: 1.75rem;
+    margin-bottom: 0.25rem;
+  }
+
+  .daily-btn {
+    width: 100%;
+  }
+
+  term-explainer {
+    margin: 0.75rem 0;
+  }
+}
+
 #dailyTerm h3 {
   margin: 0 0 0.5rem;
 }
+
 #dailyTerm .term-emoji {
   font-size: 1.25rem;
   margin-right: 0.25rem;
 }
+
 #dailyTerm .term-explainer {
   font-size: 0.95rem;
   margin: 0.5rem 0;
 }
+
 #dailyTerm button {
   font-size: 0.85rem;
   padding: 0.35rem 0.75rem;
   margin-top: 0.5rem;
+}
+
+@media (max-width: 480px) {
+  #dailyTerm {
+    margin: 0 auto;
+    margin-top: 1rem;
+    width: 100%;
+  }
 }
 
 /* ===================
@@ -312,4 +371,42 @@
 .glossary-body {
   font-size: 0.95rem;
   line-height: 1.4;
+}
+
+/* ===================
+   Categories & Tags
+=================== */
+#scrollTopBtn {
+  all: unset;
+  display: none;
+  position: fixed;
+  bottom: 40px;
+  right: 20px;
+  z-index: 1000;
+  width: 44px;
+  height: 44px;
+  background-color: #3b82f6;
+  border-radius: 50%;
+  cursor: pointer;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='white'><path d='M12 8l6 6H6z'/></svg>");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 2rem;
+  transition: background-color 0.3s, transform 0.2s;
+}
+
+#scrollTopBtn:hover {
+  background-color: #2563eb;
+  transform: scale(1.1);
+}
+
+@media (max-width: 480px) {
+  #scrollTopBtn {    
+    width: 40px;
+    height: 40px;
+    bottom: 20px;
+    right: 10px;
+    background-size: 2rem;
+  }
 }
